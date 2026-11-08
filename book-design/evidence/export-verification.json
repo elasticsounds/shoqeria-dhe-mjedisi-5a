@@ -1,0 +1,374 @@
+{
+  "passed": true,
+  "artifact": "Shoqeria-5A-Complete-ADT.zip",
+  "filesVerified": 354,
+  "walks": [
+    {
+      "width": 1280,
+      "forwardSections": 107,
+      "backTransitions": 106,
+      "refreshes": 5
+    },
+    {
+      "width": 390,
+      "forwardSections": 107,
+      "backTransitions": 106,
+      "refreshes": 5
+    }
+  ],
+  "quizzes": [
+    {
+      "href": "qz001.html",
+      "options": 3,
+      "retry": true,
+      "saved": true
+    },
+    {
+      "href": "qz002.html",
+      "options": 3,
+      "retry": true,
+      "saved": true
+    },
+    {
+      "href": "qz003.html",
+      "options": 3,
+      "retry": true,
+      "saved": true
+    },
+    {
+      "href": "qz004.html",
+      "options": 3,
+      "retry": true,
+      "saved": true
+    },
+    {
+      "href": "qz005.html",
+      "options": 3,
+      "retry": true,
+      "saved": true
+    },
+    {
+      "href": "qz006.html",
+      "options": 3,
+      "retry": true,
+      "saved": true
+    },
+    {
+      "href": "qz007.html",
+      "options": 3,
+      "retry": true,
+      "saved": true
+    },
+    {
+      "href": "qz008.html",
+      "options": 3,
+      "retry": true,
+      "saved": true
+    },
+    {
+      "href": "qz009.html",
+      "options": 3,
+      "retry": true,
+      "saved": true
+    },
+    {
+      "href": "qz010.html",
+      "options": 3,
+      "retry": true,
+      "saved": true
+    },
+    {
+      "href": "qz011.html",
+      "options": 3,
+      "retry": true,
+      "saved": true
+    }
+  ],
+  "examples": [
+    {
+      "width": 1280,
+      "name": "chapter-lesson.html",
+      "overflow": false,
+      "broken": 0,
+      "text": 1485
+    },
+    {
+      "width": 1280,
+      "name": "comparison-diagram.html",
+      "overflow": false,
+      "broken": 0,
+      "text": 408
+    },
+    {
+      "width": 1280,
+      "name": "contents.html",
+      "overflow": false,
+      "broken": 0,
+      "text": 866
+    },
+    {
+      "width": 1280,
+      "name": "cover.html",
+      "overflow": false,
+      "broken": 0,
+      "text": 240
+    },
+    {
+      "width": 1280,
+      "name": "crossword.html",
+      "overflow": false,
+      "broken": 0,
+      "text": 879
+    },
+    {
+      "width": 1280,
+      "name": "discussion.html",
+      "overflow": false,
+      "broken": 0,
+      "text": 137
+    },
+    {
+      "width": 1280,
+      "name": "foreword.html",
+      "overflow": false,
+      "broken": 0,
+      "text": 2263
+    },
+    {
+      "width": 1280,
+      "name": "icon-guide.html",
+      "overflow": false,
+      "broken": 0,
+      "text": 156
+    },
+    {
+      "width": 1280,
+      "name": "identity-diagram.html",
+      "overflow": false,
+      "broken": 0,
+      "text": 167
+    },
+    {
+      "width": 1280,
+      "name": "illustrated-lesson.html",
+      "overflow": false,
+      "broken": 0,
+      "text": 973
+    },
+    {
+      "width": 1280,
+      "name": "opener.html",
+      "overflow": false,
+      "broken": 0,
+      "text": 53
+    },
+    {
+      "width": 1280,
+      "name": "photo-comparison.html",
+      "overflow": false,
+      "broken": 0,
+      "text": 1802
+    },
+    {
+      "width": 1280,
+      "name": "practice-opener.html",
+      "overflow": false,
+      "broken": 0,
+      "text": 13
+    },
+    {
+      "width": 1280,
+      "name": "project.html",
+      "overflow": false,
+      "broken": 0,
+      "text": 829
+    },
+    {
+      "width": 1280,
+      "name": "quiz.html",
+      "overflow": false,
+      "broken": 0,
+      "text": 185
+    },
+    {
+      "width": 1280,
+      "name": "reference.html",
+      "overflow": false,
+      "broken": 0,
+      "text": 644
+    },
+    {
+      "width": 1280,
+      "name": "response.html",
+      "overflow": false,
+      "broken": 0,
+      "text": 196
+    },
+    {
+      "width": 1280,
+      "name": "self-assessment.html",
+      "overflow": false,
+      "broken": 0,
+      "text": 760
+    },
+    {
+      "width": 1280,
+      "name": "star-rating.html",
+      "overflow": false,
+      "broken": 0,
+      "text": 223
+    },
+    {
+      "width": 1280,
+      "name": "wordsearch.html",
+      "overflow": false,
+      "broken": 0,
+      "text": 544
+    },
+    {
+      "width": 390,
+      "name": "chapter-lesson.html",
+      "overflow": false,
+      "broken": 0,
+      "text": 1485
+    },
+    {
+      "width": 390,
+      "name": "comparison-diagram.html",
+      "overflow": false,
+      "broken": 0,
+      "text": 408
+    },
+    {
+      "width": 390,
+      "name": "contents.html",
+      "overflow": false,
+      "broken": 0,
+      "text": 866
+    },
+    {
+      "width": 390,
+      "name": "cover.html",
+      "overflow": false,
+      "broken": 0,
+      "text": 240
+    },
+    {
+      "width": 390,
+      "name": "crossword.html",
+      "overflow": false,
+      "broken": 0,
+      "text": 879
+    },
+    {
+      "width": 390,
+      "name": "discussion.html",
+      "overflow": false,
+      "broken": 0,
+      "text": 137
+    },
+    {
+      "width": 390,
+      "name": "foreword.html",
+      "overflow": false,
+      "broken": 0,
+      "text": 2263
+    },
+    {
+      "width": 390,
+      "name": "icon-guide.html",
+      "overflow": false,
+      "broken": 0,
+      "text": 156
+    },
+    {
+      "width": 390,
+      "name": "identity-diagram.html",
+      "overflow": false,
+      "broken": 0,
+      "text": 167
+    },
+    {
+      "width": 390,
+      "name": "illustrated-lesson.html",
+      "overflow": false,
+      "broken": 0,
+      "text": 973
+    },
+    {
+      "width": 390,
+      "name": "opener.html",
+      "overflow": false,
+      "broken": 0,
+      "text": 53
+    },
+    {
+      "width": 390,
+      "name": "photo-comparison.html",
+      "overflow": false,
+      "broken": 0,
+      "text": 1802
+    },
+    {
+      "width": 390,
+      "name": "practice-opener.html",
+      "overflow": false,
+      "broken": 0,
+      "text": 13
+    },
+    {
+      "width": 390,
+      "name": "project.html",
+      "overflow": false,
+      "broken": 0,
+      "text": 829
+    },
+    {
+      "width": 390,
+      "name": "quiz.html",
+      "overflow": false,
+      "broken": 0,
+      "text": 185
+    },
+    {
+      "width": 390,
+      "name": "reference.html",
+      "overflow": false,
+      "broken": 0,
+      "text": 644
+    },
+    {
+      "width": 390,
+      "name": "response.html",
+      "overflow": false,
+      "broken": 0,
+      "text": 196
+    },
+    {
+      "width": 390,
+      "name": "self-assessment.html",
+      "overflow": false,
+      "broken": 0,
+      "text": 760
+    },
+    {
+      "width": 390,
+      "name": "star-rating.html",
+      "overflow": false,
+      "broken": 0,
+      "text": 223
+    },
+    {
+      "width": 390,
+      "name": "wordsearch.html",
+      "overflow": false,
+      "broken": 0,
+      "text": 544
+    }
+  ],
+  "errors": [],
+  "failures": [],
+  "savedText": true,
+  "fileProtocol": "Extracted index.html opened directly; original Next and reload passed",
+  "scope": "Reopened ZIP bytes, original reader at both widths, all 107 sections Next/Back, periodic refresh, contents, all 11 quizzes/33 options/retry/saved state, text persistence, all 20 examples at both widths, direct file opening. Target LMS remains untested."
+}

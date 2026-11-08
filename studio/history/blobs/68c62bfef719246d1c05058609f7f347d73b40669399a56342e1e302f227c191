@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="sq"><head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Shoqëria dhe mjedisi</title><meta name="title-id" content="pg023_sec002"><meta name="page-section-id" content="40">
+<link href="./content/tailwind_output.css" rel="stylesheet"><link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet"><link href="./assets/fonts.css" rel="stylesheet"><link rel="stylesheet" href="./book-design/components.css?v=9f3d745a858de581" data-book-style="true">
+<style>
+#content.book.pg23-discussion{padding:30px 0 130px;max-width:1000px}
+#content.book.pg23-discussion>section{width:84%;margin:auto}
+#content.book.pg23-discussion .discussion{background:#9bcf8f;border-radius:20px 0 0 20px;padding:0 20px 12px;position:relative}
+#content.book.pg23-discussion .rubric-head{display:flex;align-items:center;gap:12px;margin:0 0 4px}
+#content.book.pg23-discussion .rubric-head img{width:76px;flex:none}
+#content.book.pg23-discussion :is(h1,h2){font:400 28px/1.2 cursive;color:#292b35;margin:0}
+#content.book.pg23-discussion .questions{font:400 18.77px/1.33 BookPoppins,Arial,sans-serif;margin:0;padding:0;list-style:none}
+#content.book.pg23-discussion .questions li{font:inherit;margin:0;padding-left:14px;text-indent:-14px}
+#content.book.pg23-discussion .reading{margin:16px 0 0 12px;border:3px solid #8050a5;border-right:0;border-radius:20px 0 0 20px;padding:0 12px 10px 8px;position:relative}
+#content.book.pg23-discussion .reading .rubric-head{margin-left:-10px}
+#content.book.pg23-discussion .reading .rubric-head img{width:86px}
+#content.book.pg23-discussion .reading p{font:400 18.77px/1.34 BookAmiri,Georgia,serif;margin:0;text-align:justify;text-indent:5em}
+#content.book.pg23-discussion .glossary{display:flex;align-items:flex-start;margin:6px 0 0 32px;background:linear-gradient(to right, transparent 0 114px,#d5c6df 114px);min-height:150px}
+#content.book.pg23-discussion .glossary img{width:128px;flex:none}
+#content.book.pg23-discussion .glossary-text{padding:10px 12px 10px 0;flex:1;min-width:0}
+#content.book.pg23-discussion .glossary h2{font-size:25px;margin:0 0 8px}
+#content.book.pg23-discussion .glossary p{font:400 18.77px/1.2 BookAmiri,Georgia,serif;margin:0}
+#content.book.pg23-discussion .folio{text-align:right;font:400 18px/1.4 BookPoppins,Arial,sans-serif;margin:4px 90px 18px 0}
+#content.book.pg23-discussion .activity-tools{border-top:1px solid #b7a7c0;padding-top:14px;font:400 16px/1.5 BookPoppins,Arial,sans-serif}
+#content.book.pg23-discussion .activity-tools a{color:#55367d;text-decoration:underline;display:inline-block;min-height:44px}
+#content.book.pg23-discussion details{margin-top:6px}
+#content.book.pg23-discussion summary{cursor:pointer;color:#55367d;font:600 16px/1.4 BookPoppins,Arial,sans-serif;padding:12px 0;min-height:44px}
+#content.book.pg23-discussion .answers p{font:400 16px/1.5 BookPoppins,Arial,sans-serif;margin:4px 0 16px}
+#content.book.pg23-discussion .answers label{display:block;font:400 16px/1.5 BookPoppins,Arial,sans-serif;margin:14px 0 5px}
+#content.book.pg23-discussion .answers textarea{width:100%;min-height:88px}
+@media(max-width:700px){#content.book.pg23-discussion{padding:20px 16px 120px}#content.book.pg23-discussion>section{width:100%}#content.book.pg23-discussion .discussion{padding:0 16px 16px;border-radius:16px}#content.book.pg23-discussion .rubric-head img{width:65px}#content.book.pg23-discussion :is(h1,h2){font-size:25px}#content.book.pg23-discussion .questions{font-size:16px;line-height:1.5}#content.book.pg23-discussion .questions li{margin:0 0 5px}#content.book.pg23-discussion .reading{margin-left:0;padding:0 12px 12px}#content.book.pg23-discussion .reading .rubric-head img{width:70px}#content.book.pg23-discussion .reading p{font-size:18px;line-height:1.45;text-align:left;text-indent:0}#content.book.pg23-discussion .glossary{margin-left:0;background:#d5c6df}#content.book.pg23-discussion .glossary img{width:85px}#content.book.pg23-discussion .glossary p{font-size:18px;line-height:1.3}#content.book.pg23-discussion .folio{margin-right:10px}}
+</style></head>
+<body class="min-h-screen flex items-center justify-center"><main class="w-full">
+<div id="content" class="container opacity-0 book pg23-discussion" data-family="reference">
+<section data-section-type="boxed_text" data-section-id="pg023_sec002" class="b-page">
+<aside class="discussion" aria-labelledby="discussion-title">
+<div class="rubric-head"><img src="studio/assets/pg023_discussion_art.png" alt=""><h1 id="discussion-title" data-id="pg023_n0011">Diskuto</h1></div>
+<ul class="questions">
+<li>– <span data-id="pg023_n0014">Çfarë mendon për jetën në fshat <em>dikur</em>?</span></li>
+<li>– <span data-id="pg023_n0016">A mund të gjesh diçka të përbashkët me jetën në fshat <em>sot</em>?</span></li>
+<li>– <span data-id="pg023_n0018">Krahasoji fshatrat e Kosovës me fshatrat e vendeve të tjera në botë!</span> <span data-id="pg023_n0019">Analizoji ndryshimet!</span></li>
+<li>– <span data-id="pg023_n0021">Hulumtim në grup: Grupi 1 - Fshati dikur; grupi 2 - Fshati sot; grupi 3 - Krahasimi i fshatit dikur dhe sot; grupi 4 - Intervistë me gjyshërit: Si ishte fshati dikur?</span></li>
+</ul></aside>
+<div class="reading"><div class="rubric-head"><img src="studio/assets/pg023_reading_art.png" alt=""><h2 data-id="pg023_n0024">Thello dijet</h2></div>
+<p><span data-id="pg023_n0026">Fshati është një vend ku jetojnë njerëz, të cilët kryesisht merren me bujqësi dhe blegtori.</span> <span data-id="pg023_n0027">Fshati <em>dikur</em> konsiderohej burimi kryesor i të ardhurave të qytetit.</span> <span data-id="pg023_n0028">Në fshat, numri i popullsisë është më i vogël se në qytet, si dhe shtëpitë janë më të thjeshta.</span> <span data-id="pg023_n0029">Fshati zakonisht karakterizohet nga ndërtesa të ulëta, ndërmarrje industriale (fabrika) më të pakta në krahasim me qytetin, hapësira të gjelbëruara etj.</span> <span data-id="pg023_n0030">Me procesin që njihet si “urbanizim”, shumë fshatra janë shndërruar në qyteza e qytete në botë.</span></p></div>
+<aside class="glossary"><img src="studio/assets/pg023_glossary_art.png" alt=""><div class="glossary-text"><h2 data-id="pg023_n0033">Fjalorthi</h2>
+<p data-id="pg023_n0036"><strong>Infrastrukturë</strong> - sistem ndërtimesh të ndryshme (infrastruktura rrugore, infrastruktura e shkollës etj.).</p>
+<p data-id="pg023_n0038"><strong>Blegtori</strong> - degë e ekonomisë që merret me rritjen e bagëtive.</p>
+<p data-id="pg023_n0040"><strong>Bujqësi</strong> - degë e ekonomisë që përfshin punimin e tokës dhe rritjen e bimëve.</p></div></aside>
+<div class="folio" aria-label="Faqja 23">23</div>
+<div class="activity-tools"><a href="pg023_sec001.html">Krahaso: Fshati dikur dhe sot</a>
+<details><summary>Shkruaj përgjigjet e diskutimit</summary><div class="answers"><p>Përgjigjet ruhen automatikisht në këtë pajisje. Diskutimi nuk ka vlerësim automatik.</p>
+<label for="item-1">Çfarë mendon për jetën në fshat dikur?</label><textarea id="item-1" data-activity-item="item-1"></textarea>
+<label for="item-2">A mund të gjesh diçka të përbashkët me jetën në fshat sot?</label><textarea id="item-2" data-activity-item="item-2"></textarea>
+<label for="item-3">Krahasoji fshatrat e Kosovës me fshatrat e vendeve të tjera në botë! Analizoji ndryshimet!</label><textarea id="item-3" data-activity-item="item-3"></textarea>
+<label for="item-4">Hulumtim në grup: Grupi 1 - Fshati dikur; grupi 2 - Fshati sot; grupi 3 - Krahasimi i fshatit dikur dhe sot; grupi 4 - Intervistë me gjyshërit: Si ishte fshati dikur?</label><textarea id="item-4" data-activity-item="item-4"></textarea>
+</div></details></div>
+</section></div></main>
+<div class="relative z-50" id="interface-container"></div><div class="relative z-50" id="nav-container"></div>
+<script src="./assets/offline-preloader.js?v=9f3d745a858de581"></script><script src="./assets/scorm.js"></script><script src="./assets/base.bundle.local.js"></script><script src="./book-design/responses.js?v=9f3d745a858de581" data-book-responses="true"></script></body></html>

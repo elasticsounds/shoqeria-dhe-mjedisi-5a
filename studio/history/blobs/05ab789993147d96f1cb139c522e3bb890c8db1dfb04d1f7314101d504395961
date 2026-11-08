@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="sq"><head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Shoqëria dhe mjedisi</title>
+    <meta name="title-id" content="pg021_sec003">
+    <meta name="page-section-id" content="36">
+    <link href="./content/tailwind_output.css" rel="stylesheet">
+    <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+    <link href="./assets/fonts.css" rel="stylesheet">
+    <link rel="stylesheet" href="./book-design/components.css?v=9f3d745a858de581" data-book-style="true">
+    <style>
+      /* Focused view of exercise 2, using the source rectangle's proportions. */
+      #content.book.pg021-future { padding: 40px 24px 120px; }
+      #content.book.pg021-future > section { max-width: 733px; margin: 0 auto; }
+      #content.book.pg021-future .future-prompt {
+        display: block; margin: 0 0 40px; color: #30313a;
+        font: 400 18.77px/1.5 BookPoppins, Arial, sans-serif;
+      }
+      #content.book.pg021-future textarea {
+        display: block; width: 100%; height: auto; aspect-ratio: 468 / 246;
+        min-height: 240px; padding: 10px 12px; resize: vertical;
+        border: 2px solid #a078b4; border-radius: 0; background: #fff;
+        font: 400 18px/1.5 BookPoppins, Arial, sans-serif;
+      }
+      #content.book.pg021-future .future-save-note {
+        margin: 12px 0 0; color: #54505a;
+        font: 400 14px/1.5 BookPoppins, Arial, sans-serif;
+      }
+      @media (max-width: 700px) {
+        #content.book.pg021-future { padding: 24px 20px 120px; }
+        #content.book.pg021-future .future-prompt { font-size: 16px; margin-bottom: 26px; }
+        #content.book.pg021-future textarea { min-height: 260px; font-size: 16px; }
+      }
+    </style>
+</head>
+<body class="min-h-screen flex items-center justify-center">
+    <main class="w-full">
+      <h1 class="sr-only" id="page-heading">Shoqëria dhe mjedisi</h1>
+      <div id="content" class="container mx-auto w-full max-w-5xl px-8 max-sm:px-5 opacity-0 book pg021-future" data-family="response">
+        <section data-section-type="other" data-section-id="pg021_sec003" class="b-page">
+          <label for="item-1" class="future-prompt"><span data-id="pg021_n0016">2.</span> <span data-id="pg021_n0017">Imagjino dhe shkruaj se si e paramendon qytetin në të ardhmen.</span></label>
+          <div data-id="pg021_n0018" class="sr-only"></div>
+          <textarea id="item-1" data-activity-item="item-1" aria-describedby="future-save-note"></textarea>
+          <p id="future-save-note" class="future-save-note">Përgjigjja ruhet në këtë pajisje kur ruajtja lokale është e disponueshme.</p>
+        </section>
+      </div>
+    </main>
+    <div class="relative z-50" id="interface-container"></div>
+    <div class="relative z-50" id="nav-container"></div>
+    <script src="./assets/offline-preloader.js?v=9f3d745a858de581"></script>
+    <script src="./assets/scorm.js"></script>
+    <script src="./assets/base.bundle.local.js"></script>
+    <script src="./book-design/responses.js?v=9f3d745a858de581" data-book-responses="true"></script>
+</body></html>

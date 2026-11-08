@@ -1,0 +1,11 @@
+{
+  "private": true,
+  "scripts": {
+    "build": "tailwindcss -i components.tailwind.css -o components.css --minify && node rebuild-cache.cjs",
+    "check:cache": "node rebuild-cache.cjs --check"
+  },
+  "devDependencies": {
+    "tailwindcss": "4.3.3",
+    "@tailwindcss/cli": "4.3.3"
+  }
+}

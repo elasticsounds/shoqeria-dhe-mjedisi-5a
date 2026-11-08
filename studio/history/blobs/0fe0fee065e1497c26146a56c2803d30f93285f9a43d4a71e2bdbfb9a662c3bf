@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="sq"><head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Shoqëria dhe mjedisi</title>
+  <meta name="title-id" content="pg036_sec001">
+  <meta name="page-section-id" content="55">
+  <link href="./content/tailwind_output.css" rel="stylesheet">
+  <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+  <link href="./assets/fonts.css" rel="stylesheet">
+  <link rel="stylesheet" href="./book-design/components.css?v=9f3d745a858de581" data-book-style="true">
+  <style>
+    /* Page 36 is composed on its measured 639.449 × 866.220 pt portrait canvas. */
+    #content.book.pg36 {container-type:inline-size; width:min(100%,1000px); max-width:1000px; height:auto; min-height:0; aspect-ratio:639.449 / 866.22; padding:0; overflow:hidden;}
+    #content.book.pg36 > section {position:relative; width:100%; height:100%; margin:0; padding:0; overflow:hidden; background:#fff;}
+    #content.book.pg36 .pg36-orange-edge {position:absolute; z-index:5; right:2.0%; top:1.8%; bottom:1.8%; width:2.2%; background:#ffb149;}
+    #content.book.pg36 .pg36-questions {position:absolute; left:8.4%; top:6.8%; width:90.2%; height:21.4%; padding:1.1% 3.1% 1.0%; border:2px solid #7950aa; border-top-width:2px; border-right:0; border-radius:0 0 0 18px; background:#fff;}
+    #content.book.pg36 .pg36-heading {margin:0; color:#5749a7; font:400 2.82cqw/1.15 'Comic Sans MS',cursive;}
+    #content.book.pg36 .pg36-question-heading {position:absolute; left:7.7%; top:1.2%;}
+    #content.book.pg36 .pg36-question-icon {position:absolute; z-index:2; left:-1.4%; top:-12%; width:14.2%; height:30%; object-fit:cover; object-position:top;}
+    #content.book.pg36 .pg36-question-list {position:absolute; left:3.1%; right:6.5%; top:24%; display:grid; gap:2px; margin:0; padding:0; list-style:none;}
+    #content.book.pg36 .pg36-question {display:grid; grid-template-columns:minmax(0,1fr); gap:0; margin:0; padding:0; color:#30313a; font:400 1.83cqw/1.22 BookPoppins,Arial,sans-serif;}
+    #content.book.pg36 .pg36-question p {margin:0; font:inherit; line-height:inherit;}
+    #content.book.pg36 .pg36-response {display:block; width:100%; min-width:0; height:20px; min-height:20px; max-height:20px; resize:vertical; border:0!important; border-bottom:1px solid #b9b3c0!important; border-radius:0!important; background:transparent!important; padding:0 3px!important; margin:0!important; font:400 14px/1.25 BookPoppins,Arial,sans-serif!important;}
+    #content.book.pg36 .pg36-response:focus-visible {outline:2px solid #075a70!important; outline-offset:1px; background:#fff!important;}
+    #content.book.pg36 .pg36-yellow {position:absolute; left:39.1%; top:28.1%; width:59.4%; height:12.6%; display:grid; grid-template-columns:22% 1fr; align-items:center; gap:2.4%; padding:1.1% 2.1% 1.0% 1.6%; border:2px solid #7950aa; border-radius:19px; background:#fff0dc;}
+    #content.book.pg36 .pg36-mouse {width:100%; max-height:100%; object-fit:contain; mix-blend-mode:multiply;}
+    #content.book.pg36 .pg36-yellow-copy {min-width:0; color:#30313a; font:400 1.83cqw/1.28 BookAmiri,Georgia,serif;}
+    #content.book.pg36 .pg36-yellow-copy p {margin:0; font:inherit; line-height:inherit;}
+    #content.book.pg36 .pg36-yellow-copy textarea {height:19px; min-height:19px; max-height:19px; margin-top:1px!important; border:0!important; border-bottom:1px solid #c7b99c!important; border-radius:0!important; padding:0 2px!important; background:transparent!important; resize:vertical; font:400 13px/1 BookPoppins,Arial,sans-serif!important;}
+    #content.book.pg36 .pg36-discussion {position:absolute; left:8.8%; top:41.1%; width:89.3%; height:13.8%; padding:2.1% 2.6% 1.3%; background:#9acd8c; border-radius:18px;}
+    #content.book.pg36 .pg36-bubbles {position:absolute; left:3.6%; top:-12%; width:11.6%; height:34%; object-fit:contain; mix-blend-mode:multiply;}
+    #content.book.pg36 .pg36-discussion-heading {position:absolute; top:5%; left:16.5%; color:#30313a;}
+    #content.book.pg36 .pg36-discussion-list {position:absolute; left:3.0%; right:3.2%; top:29%; display:grid; gap:2px; margin:0; padding:0; list-style:none;}
+    #content.book.pg36 .pg36-discussion-item {display:grid; grid-template-columns:minmax(0,1fr); gap:0; margin:0; padding:0; color:#30313a; font:400 1.83cqw/1.2 BookPoppins,Arial,sans-serif;}
+    #content.book.pg36 .pg36-discussion-item p {margin:0; font:inherit; line-height:inherit;}
+    #content.book.pg36 .pg36-reading {position:absolute; left:9.8%; top:55.5%; width:88.9%; height:26.5%; padding:1.8% 2.5% 1.5%; border:2px solid #7950aa; border-radius:0 0 17px 17px; background:#fff;}
+    #content.book.pg36 .pg36-reading-icon {position:absolute; width:10.5%; height:34%; left:-0.5%; top:-1%; object-fit:contain;}
+    #content.book.pg36 .pg36-reading-heading {position:absolute; left:12.7%; top:2.4%;}
+    #content.book.pg36 .pg36-reading-copy {margin:10.2% 0 0; color:#30313a; font:400 1.83cqw/1.28 BookAmiri,Georgia,serif; text-indent:7.8%;}
+    #content.book.pg36 .pg36-reading-copy p {margin:0 0 1.2%; font:inherit; line-height:inherit; text-indent:inherit;}
+    #content.book.pg36 .pg36-glossary {position:absolute; left:11.7%; top:82.3%; width:83.4%; height:10.8%; background:#cdb9dc; padding:1.0% 1.3% 0 13.1%; color:#30313a;}
+    #content.book.pg36 .pg36-glossary-icon {position:absolute; z-index:1; left:-3.1%; top:-7%; width:17.6%; height:114%; object-fit:contain;}
+    #content.book.pg36 .pg36-glossary-heading {color:#30313a; font-size:2.5cqw; line-height:1.2; margin:0 0 1.3%;}
+    #content.book.pg36 .pg36-glossary p {margin:0 0 1%; font:400 1.83cqw/1.23 BookAmiri,Georgia,serif;}
+    #content.book.pg36 .pg36-glossary strong {font-weight:700;}
+    #content.book.pg36 .pg36-folio {position:absolute; left:11.5%; bottom:3.1%; margin:0; color:#30313a; font:400 1.83cqw/1 BookPoppins,Arial,sans-serif;}
+    @media (max-width:700px) {
+      #content.book.pg36 {width:100%; height:auto; aspect-ratio:auto; min-height:0; overflow:visible; padding:12px 12px 84px;}
+      #content.book.pg36 > section {height:auto; min-height:0; overflow:visible; display:flex; flex-direction:column; gap:18px; padding:18px 0 20px;}
+      #content.book.pg36 .pg36-orange-edge {right:0; top:0; bottom:0; width:7px;}
+      #content.book.pg36 .pg36-questions,#content.book.pg36 .pg36-yellow,#content.book.pg36 .pg36-discussion,#content.book.pg36 .pg36-reading,#content.book.pg36 .pg36-glossary {position:relative; inset:auto; width:calc(100% - 12px); height:auto; min-height:0; margin:0;}
+      #content.book.pg36 .pg36-questions {padding:18px 15px 14px; border:2px solid #7950aa; border-radius:0 0 0 16px;}
+      #content.book.pg36 .pg36-heading {font-size:22px; line-height:1.2;}
+      #content.book.pg36 .pg36-question-heading {position:relative; left:auto; top:auto; margin:0 0 12px 38px;}
+      #content.book.pg36 .pg36-question-icon {left:-3px; top:-9px; width:48px; height:42px;}
+      #content.book.pg36 .pg36-question-list {position:relative; inset:auto; display:grid; gap:10px; margin:0;}
+      #content.book.pg36 .pg36-question,#content.book.pg36 .pg36-discussion-item {font-size:16px; line-height:1.42;}
+      #content.book.pg36 .pg36-response {height:44px; min-height:44px; max-height:120px; border:1px solid #aaa1b2!important; border-radius:3px!important; background:#fff!important; padding:7px!important; font-size:15px!important;}
+      #content.book.pg36 .pg36-yellow {grid-template-columns:78px 1fr; gap:12px; padding:14px; border-radius:15px;}
+      #content.book.pg36 .pg36-mouse {width:78px; height:88px; object-fit:contain;}
+      #content.book.pg36 .pg36-yellow-copy {font-size:16px; line-height:1.42;}
+      #content.book.pg36 .pg36-yellow-copy textarea {height:44px; min-height:44px; max-height:120px; border:1px solid #b8aa89!important; border-radius:3px!important; padding:7px!important; background:#fff!important; font-size:15px!important;}
+      #content.book.pg36 .pg36-discussion {padding:16px; border-radius:14px;}
+      #content.book.pg36 .pg36-bubbles {position:relative; display:block; left:auto; top:auto; width:58px; height:42px; margin:-12px 0 0 -6px;}
+      #content.book.pg36 .pg36-discussion-heading {position:relative; left:auto; top:auto; margin:-24px 0 14px 60px;}
+      #content.book.pg36 .pg36-discussion-list {position:relative; inset:auto; gap:10px;}
+      #content.book.pg36 .pg36-reading {padding:16px; border-radius:0 0 14px 14px;}
+      #content.book.pg36 .pg36-reading-icon {position:relative; left:auto; top:auto; width:74px; height:70px; float:left; margin:-8px 10px 6px -8px;}
+      #content.book.pg36 .pg36-reading-heading {position:relative; left:auto; top:auto; margin:0 0 12px;}
+      #content.book.pg36 .pg36-reading-copy {clear:both; margin:0; font-size:16px; line-height:1.42; text-indent:22px;}
+      #content.book.pg36 .pg36-reading-copy p {margin-bottom:8px;}
+      #content.book.pg36 .pg36-glossary {padding:14px 12px 14px 82px; min-height:118px;}
+      #content.book.pg36 .pg36-glossary-icon {left:-8px; top:-6px; width:84px; height:112px;}
+      #content.book.pg36 .pg36-glossary-heading {font-size:19px; margin-bottom:7px;}
+      #content.book.pg36 .pg36-glossary p {font-size:15px; line-height:1.4; margin-bottom:5px;}
+      #content.book.pg36 .pg36-folio {position:relative; left:auto; bottom:auto; align-self:flex-start; margin:0 0 0 10px; font:400 14px/1.2 BookPoppins,Arial,sans-serif;}
+    }
+  </style>
+</head>
+<body class="min-h-screen flex items-center justify-center">
+  <main class="w-full">
+    <div id="content" class="container opacity-0 book pg36" data-family="reference">
+      <section data-section-type="boxed_text" data-section-id="pg036_sec001" aria-label="Pyetje për ty dhe kuzhina tradicionale">
+        <div class="pg36-orange-edge" aria-hidden="true"></div>
+        <section class="pg36-questions" aria-labelledby="pg36-question-title">
+          <img class="pg36-question-icon" src="./studio/assets/pg036_questions_icon.png" alt="" aria-hidden="true">
+          <h1 id="pg36-question-title" data-id="pg036_n0002" class="pg36-heading pg36-question-heading">Pyetje për ty</h1>
+          <ul class="pg36-question-list">
+            <li class="pg36-question"><p><span data-id="pg036_n0005">– Diskuto me nxënësit e tjerë për situatën e dhënë. Si u organizua ditëlindja e Arit?</span></p><label class="sr-only" for="item-1">Shënime për diskutimin: Si u organizua ditëlindja e Arit?</label><textarea id="item-1" data-activity-item="item-1" aria-label="Shënime për diskutimin: Si u organizua ditëlindja e Arit?" class="pg36-response" rows="1"></textarea></li>
+            <li class="pg36-question"><p><span data-id="pg036_n0008">– A keni edhe në familjen tënde mendime dhe shije të ndryshme për ushqimet?</span></p><label class="sr-only" for="item-2">Shënime: Mendime dhe shije të ndryshme për ushqimet në familje</label><textarea id="item-2" data-activity-item="item-2" aria-label="Shënime: Mendime dhe shije të ndryshme për ushqimet në familje" class="pg36-response" rows="1"></textarea></li>
+            <li class="pg36-question"><p><span data-id="pg036_n0010">– A të pëlqeu vendimi që morën familja e Arit për përgatitjen e ushqimeve?</span> <span data-id="pg036_n0011">A do të veproje edhe ti njësoj?</span></p><label class="sr-only" for="item-3">Shënime: Vendimi i familjes së Arit dhe çfarë do të bëje ti</label><textarea id="item-3" data-activity-item="item-3" aria-label="Shënime: Vendimi i familjes së Arit dhe çfarë do të bëje ti" class="pg36-response" rows="1"></textarea></li>
+            <li class="pg36-question"><p><span data-id="pg036_n0013">– Po ti, cilin prej ushqimeve do ta zgjidhje?</span></p><label class="sr-only" for="item-4">Shënime: Cilin ushqim do të zgjidhje?</label><input id="item-4" data-activity-item="item-4" type="text" aria-label="Shënime: Cilin ushqim do të zgjidhje?" class="pg36-response"></li>
+          </ul>
+        </section>
+        <aside class="pg36-yellow" aria-label="Aktivitet në natyrë">
+          <img class="pg36-mouse" src="./studio/assets/pg036_outing_mouse.png" alt="" aria-hidden="true">
+          <div class="pg36-yellow-copy"><p><span data-id="pg036_n0016">Bashkë me mësuesin organizoni një aktivitet (shëtitje) në natyrë. Diskutoni dhe caktojini përgjegjësitë për secilin (mjetet që merrni, ushqimet etj.).</span></p><label class="sr-only" for="item-5">Shënime për përgjegjësitë në aktivitetin në natyrë</label><textarea id="item-5" data-activity-item="item-5" aria-label="Shënime për përgjegjësitë në aktivitetin në natyrë" rows="1"></textarea></div>
+        </aside>
+        <section class="pg36-discussion" aria-labelledby="pg36-discuss-title">
+          <img class="pg36-bubbles" src="./studio/assets/pg036_discussion_bubbles.png" alt="" aria-hidden="true">
+          <h2 id="pg36-discuss-title" data-id="pg036_n0020" class="pg36-heading pg36-discussion-heading">Diskuto</h2>
+          <ul class="pg36-discussion-list">
+            <li class="pg36-discussion-item"><p><span data-id="pg036_n0023">– Shkruaj përshtypjet e tua rreth aktivitetit të organizuar!</span></p><label class="sr-only" for="item-6">Përshtypjet për aktivitetin e organizuar</label><textarea id="item-6" data-activity-item="item-6" aria-label="Përshtypjet për aktivitetin e organizuar" class="pg36-response" rows="1"></textarea></li>
+            <li class="pg36-discussion-item"><p><span data-id="pg036_n0025">– Çka mësove më shumë rreth ushqimeve tradicionale?</span></p><label class="sr-only" for="item-7">Çka mësove për ushqimet tradicionale?</label><textarea id="item-7" data-activity-item="item-7" aria-label="Çka mësove për ushqimet tradicionale?" class="pg36-response" rows="1"></textarea></li>
+          </ul>
+        </section>
+        <section class="pg36-reading" aria-labelledby="pg36-reading-title">
+          <img class="pg36-reading-icon" src="./studio/assets/pg036_read_icon.png" alt="" aria-hidden="true">
+          <h2 id="pg36-reading-title" data-id="pg036_n0027" class="pg36-heading pg36-reading-heading">Thello dijet</h2>
+          <div class="pg36-reading-copy">
+            <p><span data-id="pg036_n0029">Kuzhina tradicionale kosovare është kuzhinë e ngjashme me kuzhinën e vendeve fqinje.</span></p>
+            <p><span data-id="pg036_n0030">Ajo është e njohur për vlerat e larta ushqimore.</span> <span data-id="pg036_n0031">Në Kosovë, vendin kryesor në kuzhinën tradicionale e zënë buka dhe prodhimet e qumështit - bulmeti.</span></p>
+            <p><span data-id="pg036_n0032">Specialitetet e shumta të mishit të pjekur e të gjellëve të ndryshme janë karakteristike po ashtu.</span></p>
+            <p><span data-id="pg036_n0033">Kosova dallohet edhe për përgatitjen e suxhukut, të turshive, të ajvarit e të reçelit.</span></p>
+            <p><span data-id="pg036_n0034">Brumërat, si: flija, byreku (pitja), kryelana, përpeqi përbënin ushqimin e përditshëm.</span> <span data-id="pg036_n0035">Nga ëmbëlsirat dallohen: revania, gurabijet etj.</span></p>
+            <p><span data-id="pg036_n0036">Nga pijet mund të përmendet përgatitja e lëngjeve nga zierja e frutave, shurupi i përgatitur nga trëndafili, boza etj.</span></p>
+            <p><span data-id="pg036_n0037">Sot, në Kosovë, përdoren edhe ushqimet nga kuzhina tradicionale, edhe ato nga kulturat e ndryshme të botës.</span></p>
+          </div>
+        </section>
+        <aside class="pg36-glossary" aria-labelledby="pg36-glossary-title">
+          <img class="pg36-glossary-icon" src="./studio/assets/pg036_glossary_book.png" alt="" aria-hidden="true">
+          <h2 id="pg36-glossary-title" data-id="pg036_n0040" class="pg36-heading pg36-glossary-heading">Fjalorthi</h2>
+          <p><strong data-id="pg036_n0042">Boza</strong> - pije freskuese me bazë misrin.</p>
+          <p><strong>Revani</strong> - <span data-id="pg036_n0043">ëmbëlsirë që bëhet me miell, me gjalpë e me vezë, që piqet në furrë dhe i hidhet sherbet.</span></p>
+        </aside>
+        <p class="pg36-folio" aria-label="Faqja e shtypur 36">36</p>
+      </section>
+    </div>
+  </main>
+  <div class="relative z-50" id="interface-container"></div>
+  <div class="relative z-50" id="nav-container"></div>
+  <script src="./assets/offline-preloader.js?v=9f3d745a858de581"></script>
+  <script src="./assets/scorm.js"></script>
+  <script src="./assets/base.bundle.local.js"></script>
+  <script src="./book-design/responses.js?v=9f3d745a858de581" data-book-responses="true"></script>
+</body></html>

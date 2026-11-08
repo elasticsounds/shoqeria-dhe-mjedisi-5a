@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="sq"><head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Shoqëria dhe mjedisi</title>
+    <meta name="title-id" content="pg030_sec004">
+    <!-- Despite the name, this is the page's 1-based position in the reading
+         order, not a section id and not the printed page number. It drives the
+         "N of M" dock counter and is re-emitted on every package, so it tracks
+         the current order. Identity lives in title-id above. -->
+    <meta name="page-section-id" content="49">
+    <link href="./content/tailwind_output.css" rel="stylesheet">
+    <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+    <link href="./assets/fonts.css" rel="stylesheet">
+<link rel="stylesheet" href="./book-design/components.css?v=9f3d745a858de581" data-book-style="true"></head>
+
+<body class="min-h-screen flex items-center justify-center">
+    <main class="w-full">
+      <div id="content" class="container mx-auto w-full max-w-5xl px-8 max-sm:px-5 opacity-0 book" data-family="reference"><section data-section-type="boxed_text" data-section-id="pg030_sec004" class="py-8 b-page"><div class="overflow-hidden rounded-[2rem] border-4 border-purple-400 bg-white shadow-[0_8px_0_rgba(168,85,247,0.08)] b-panel-reading"><div class="flex items-start gap-4 bg-purple-100 px-6 py-5 max-sm:px-4 max-sm:py-4"><div aria-hidden="true" class="flex h-20 w-20 shrink-0 items-center justify-center rounded-3xl bg-purple-300 max-sm:h-16 max-sm:w-16 b-rubric-wrapper"><img src="images/pg005_im003.png" alt="" aria-hidden="true" class="b-rubric-icon"></div><div class="flex-1 pt-1"><h1 data-id="pg030_n0025" class="adt-h2 text-left font-semibold text-neutral-900">Thello dijet</h1></div></div><div class="space-y-5 px-7 py-6 max-sm:px-4 max-sm:py-5"><p class="adt-body text-left leading-8 text-neutral-900"><span data-id="pg030_n0027">Objekte të ndryshme, si xhami, punishte, dyqane, ara, ferma dhe fabrika, gjatë periudhave të ndryshme, pësuan ndryshime në pamje.</span> <span data-id="pg030_n0028">Po ashtu kanë ndryshuar edhe veglat që përdoren aty.</span></p><p class="adt-body text-left leading-8 text-neutral-900"><span data-id="pg030_n0030">Edhe objektet e tjera të degëve të ndryshme të ekonomisë ndryshuan, si për nga ndërtimi, mënyra dhe mjetet e punës etj.</span> <span data-id="pg030_n0031">Kjo ndihmoi që të prodhohet më shumë dhe më mirë dhe puna për njeriun u bë më e lehtë.</span></p><p class="adt-body text-left leading-8 text-neutral-900"><span data-id="pg030_n0033">Është e rëndësishme që të respektohen besimet dhe objektet fetare përkatëse të të gjithë njerëzve.</span> <span data-id="pg030_n0034">Çdokush ka të drejtën për të menduar dhe për të besuar siç dëshiron etj.</span></p></div></div></section></div>
+    </main>
+
+    <div class="relative z-50" id="interface-container"></div>
+    <div class="relative z-50" id="nav-container"></div>
+    <script src="./assets/offline-preloader.js?v=9f3d745a858de581"></script>
+    <script src="./assets/scorm.js"></script>
+    <script src="./assets/base.bundle.local.js"></script>
+
+
+
+<script src="./book-design/responses.js?v=9f3d745a858de581" data-book-responses="true"></script></body></html>

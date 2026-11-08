@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="sq"><head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Shoqëria dhe mjedisi</title><meta name="title-id" content="pg014_sec001"><meta name="page-section-id" content="17">
+<link href="./content/tailwind_output.css" rel="stylesheet"><link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet"><link href="./assets/fonts.css" rel="stylesheet"><link rel="stylesheet" href="./book-design/components.css?v=9f3d745a858de581" data-book-style="true">
+</head><body class="min-h-screen flex items-center justify-center"><main class="w-full">
+<div id="content" class="mx-auto w-full max-w-5xl bg-white opacity-0 book" data-family="response">
+<style>
+#content.book:has(.p14){padding:0;container-type:inline-size}
+#content.book .p14{position:relative;min-height:0;aspect-ratio:639.449/866.22;overflow:visible;font-family:BookPoppins,Arial,sans-serif;color:#30313a}
+#content.book .p14 .rail{position:absolute;left:2.35%;top:1.7%;width:7.8%;height:96.3%;background:#ffb149}
+#content.book .p14 .accent{position:absolute;right:2.35%;top:1.7%;width:2%;height:13.3%;background:#9b73b7}
+#content.book .p14 .heading{position:absolute;left:9.9%;top:8.15%;width:35.5%;height:5.3%;border:2px solid #ffad43;background:#fff9ed;display:flex;align-items:center;padding-left:4.1%;}
+#content.book .p14 .heading h1{margin:0;font:700 2.5cqw/1.2 BookPoppins,Arial,sans-serif}
+#content.book .p14 .rubric{position:absolute;left:6.6%;top:6.7%;width:7.4%;height:auto;z-index:1}
+#content.book .p14 p{position:absolute;left:12.87%;width:74%;margin:0;font:400 1.877cqw/2 BookPoppins,Arial,sans-serif;color:#30313a}
+#content.book .p14 .q1{top:15.25%}#content.book .p14 .q2{top:27.5%}#content.book .p14 .q3{top:37.4%;line-height:1.6}
+#content.book .p14 .line{position:absolute;left:12.87%;width:66.7%;height:3.3%;min-height:0;resize:none;border:0;border-bottom:1px solid #30313a;border-radius:0;padding:0 2px;background:transparent;font:400 1.6cqw/1.2 BookPoppins,Arial,sans-serif;overflow:auto}
+#content.book .p14 #item-1{top:20.4%}#content.book .p14 #item-2{top:23.2%}#content.book .p14 #item-3{top:30%}#content.book .p14 #item-4{top:32.8%}
+#content.book .p14 .drawing-box{position:absolute;left:12.87%;top:45.5%;width:71.7%;height:38.1%;border:1px solid #ffad43;background:white;display:flex;flex-direction:column}
+#content.book .p14 .drawing-surface{position:relative;flex:1;min-height:0}
+#content.book .p14 canvas{display:block;width:100%;height:100%;max-width:none;touch-action:none;cursor:crosshair}
+#content.book .p14 .drawing-cursor{display:none;position:absolute;left:50%;top:50%;width:10px;height:10px;border:2px solid #724097;border-radius:50%;transform:translate(-50%,-50%);pointer-events:none}
+#content.book .p14 canvas:focus-visible + .drawing-cursor{display:block}
+#content.book .p14 #item-5{width:100%;height:20%;min-height:44px;resize:none;border:0;border-top:1px solid #e6d3ba;border-radius:0;padding:6px 8px;font:400 1.5cqw/1.3 BookPoppins,Arial,sans-serif;background:white}
+#content.book .p14 .drawing-tools{position:absolute;left:12.87%;top:84.2%;display:flex;align-items:center;gap:12px;font:400 14px/1.3 BookPoppins,Arial,sans-serif}
+#content.book .p14 .drawing-tools button{min-height:44px;border:1px solid #a45a00;border-radius:4px;padding:5px 12px;background:#fff9ed;color:#30313a;font:600 14px/1.3 BookPoppins,Arial,sans-serif;cursor:pointer}
+#content.book .p14 .folio{position:absolute;left:11.15%;top:90.3%;font:400 1.877cqw/1 BookPoppins,Arial,sans-serif}
+@media(max-width:700px){
+#content.book:has(.p14){padding:0 0 100px}
+#content.book .p14{aspect-ratio:auto;padding:92px 18px 30px 48px}
+#content.book .p14 .rail{left:0;top:0;width:28px;height:100%}#content.book .p14 .accent{right:0;top:0;width:10px;height:95px}
+#content.book .p14 .heading{left:39px;top:28px;width:230px;max-width:calc(100% - 64px);height:48px;padding-left:44px}
+#content.book .p14 .heading h1{font-size:19px}#content.book .p14 .rubric{left:25px;top:18px;width:53px}
+#content.book .p14 p{position:static;width:auto;font:400 16px/1.65 BookPoppins,Arial,sans-serif;margin:0 0 8px}
+#content.book .p14 .q2,#content.book .p14 .q3{margin-top:24px}
+#content.book .p14 .line{position:static;display:block;width:100%;height:44px;min-height:44px;font-size:16px}
+#content.book .p14 .drawing-box{position:static;width:100%;height:350px;margin-top:14px}
+#content.book .p14 #item-5{height:90px;font-size:16px}
+#content.book .p14 .drawing-tools{position:static;margin-top:8px;flex-wrap:wrap}
+#content.book .p14 .folio{position:static;display:block;font-size:16px;margin-top:35px}
+}
+@media print{#content.book .p14 .drawing-tools{display:none}}
+</style>
+<section data-section-type="other" data-section-id="pg014_sec001" role="region" class="p14">
+<div class="rail" aria-hidden="true"></div><div class="accent" aria-hidden="true"></div>
+<div class="heading"><h1 data-id="pg014_n0002">Provoje veten</h1></div><img class="rubric" src="studio/assets/pg014_rubric.png" alt="">
+<p class="q1"><span data-id="pg014_n0004">1.</span> <span data-id="pg014_n0005">Identifikoji monumentet arkeologjike në rrethinën ku ti jeton dhe krahasoji ato me lokalitetet arkeologjike që tashmë ke mësuar.</span></p>
+<label class="sr-only" for="item-1">Përgjigjja 1, rreshti i parë</label><textarea class="line" id="item-1" data-activity-item="item-1"></textarea><div data-id="pg014_n0006" class="sr-only"></div>
+<label class="sr-only" for="item-2">Përgjigjja 1, rreshti i dytë</label><textarea class="line" id="item-2" data-activity-item="item-2"></textarea><div data-id="pg014_n0007" class="sr-only"></div>
+<p class="q2"><span data-id="pg014_n0008">2.</span> <span data-id="pg014_n0009">Analizo rëndësinë e monumenteve historike.</span></p>
+<label class="sr-only" for="item-3">Përgjigjja 2, rreshti i parë</label><textarea class="line" id="item-3" data-activity-item="item-3"></textarea><div data-id="pg014_n0010" class="sr-only"></div>
+<label class="sr-only" for="item-4">Përgjigjja 2, rreshti i dytë</label><textarea class="line" id="item-4" data-activity-item="item-4"></textarea><div data-id="pg014_n0011" class="sr-only"></div>
+<p class="q3"><span data-id="pg014_n0012">3.</span> <span data-id="pg014_n0013">Analizo: cili objekt i rëndësishëm i kësaj kohe mendon që do të jetë monument historik pas shumë vjetësh?</span> <span data-id="pg014_n0014">Vizato dhe shkruaj për të.</span></p>
+<div class="drawing-box"><div class="drawing-surface"><canvas id="pg014-drawing" width="1000" height="600" tabindex="0" aria-label="Hapësira e vizatimit" aria-describedby="pg014-drawing-help"></canvas><span class="drawing-cursor" aria-hidden="true"></span></div><label class="sr-only" for="item-5">Shkruaj për objektin e vizatuar</label><textarea id="item-5" data-activity-item="item-5" placeholder="Shkruaj për vizatimin"></textarea></div>
+<div class="drawing-tools"><button type="button" id="pg014-clear">Pastro vizatimin</button><span id="pg014-drawing-status" role="status"></span></div>
+<p id="pg014-drawing-help" class="sr-only">Vizato me gisht ose mi. Me tastierë lëviz me shigjeta dhe mbaj Shift për të vizatuar. Butoni Pastro vizatimin fshin vetëm vizatimin, jo shkrimin.</p>
+<div data-id="pg014_n0015" class="sr-only">Hapësirë për vizatim dhe shkrim.</div><span class="folio">14</span>
+</section></div></main>
+<div class="relative z-50" id="interface-container"></div><div class="relative z-50" id="nav-container"></div>
+<script src="./assets/offline-preloader.js?v=9f3d745a858de581"></script><script src="./assets/scorm.js"></script><script src="./assets/base.bundle.local.js"></script><script src="./book-design/responses.js?v=9f3d745a858de581" data-book-responses="true"></script></body></html>

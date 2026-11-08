@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="sq"><head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Shoqëria dhe mjedisi</title><meta name="title-id" content="pg007_sec001"><meta name="page-section-id" content="6">
+<link href="./content/tailwind_output.css" rel="stylesheet"><link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet"><link href="./assets/fonts.css" rel="stylesheet">
+<link rel="stylesheet" href="./book-design/components.css?v=9f3d745a858de581" data-book-style="true">
+<style>
+/* Page 7: source coordinates are in the 639.449 × 866.220 point page. */
+@media screen {
+ html:has(#content[data-family="foreword"]){height:100%;overflow:hidden}
+ body:has(#content[data-family="foreword"]){height:calc(100dvh - var(--dock-height,60px));min-height:0;overflow-y:auto;overscroll-behavior:contain}
+}
+#content.book[data-family="foreword"] em{font-family:BookAmiri,Georgia,serif;font-style:italic;font-weight:400;font-synthesis:style}
+#content.book[data-family="foreword"] .ribbon-three span{font-weight:400}
+#content.book[data-family="foreword"]{container-type:inline-size;position:relative;padding:0;width:100%;max-width:1000px;aspect-ratio:639.449/866.22;overflow:hidden;color:#30313a}
+#content.book[data-family="foreword"] > section{position:relative;width:100%;height:100%;margin:0;padding:0;overflow:hidden;background:#fff}
+#content.book[data-family="foreword"] .preface-art{position:absolute;inset:0;width:100%;height:100%;pointer-events:none}
+#content.book[data-family="foreword"] .preface-footer{position:absolute;left:2.3%;top:83.5%;width:95.5%;height:14.8%;max-width:none;object-fit:fill;pointer-events:none}
+#content.book[data-family="foreword"] .folio-patch{position:absolute;left:87.3%;top:90.45%;width:1.6%;height:1.9%;background:url('studio/assets/pg007_turquoise.png') repeat;pointer-events:none}
+#content.book[data-family="foreword"] .folio{position:absolute;left:87.76%;top:90.35%;font:400 1.8766cqw/1.2 BookPoppins,Arial,sans-serif;color:#30313a}
+#content.book[data-family="foreword"] h1{position:absolute;left:20.08%;top:8.45%;margin:0;font:700 2.1894cqw/1.3 BookPoppins,Arial,sans-serif;color:#30313a}
+#content.book[data-family="foreword"] p{margin:0;font:400 1.8766cqw/2.8149cqw BookAmiri,Georgia,serif;color:#30313a;overflow-wrap:normal}
+#content.book[data-family="foreword"] .salutation{position:absolute;left:20.08%;top:13.95%}
+#content.book[data-family="foreword"] .preface-prose{position:absolute;left:15.638%;top:18.16%;width:73.145%;text-align:justify}
+#content.book[data-family="foreword"] .preface-prose p{text-indent:6.08%}
+#content.book[data-family="foreword"] .preface-prose p:nth-child(2){text-indent:6.97%}
+#content.book[data-family="foreword"] .preface-prose p:nth-child(3){text-indent:7.25%}
+#content.book[data-family="foreword"] .ribbon{position:absolute;left:13.02%;width:77.45%;background:var(--ribbon);z-index:1}
+#content.book[data-family="foreword"] .ribbon::before{content:"";position:absolute;right:100%;top:50%;transform:translateY(-50%);border-top:2.94cqw solid transparent;border-bottom:2.94cqw solid transparent;border-right:2.94cqw solid var(--ribbon)}
+#content.book[data-family="foreword"] .ribbon p{position:absolute;left:3.36%;width:94.55%;top:9%;text-align:justify;text-indent:6.1%}
+#content.book[data-family="foreword"] .ribbon-one{--ribbon:#c8b4d6;top:54.82%;height:6.23%}
+#content.book[data-family="foreword"] .ribbon-two{--ribbon:#ffb149;top:61.57%;height:7.25%}
+#content.book[data-family="foreword"] .ribbon-three{--ribbon:#9b73b7;top:69.55%;height:9.66%}
+#content.book[data-family="foreword"] .ribbon-three p{color:#fff;top:6%}
+#content.book[data-family="foreword"] .authors{position:absolute;right:11.21%;top:80.45%;text-align:right}
+@media(max-width:700px){
+ #content.book[data-family="foreword"]{aspect-ratio:auto;overflow:visible}
+ #content.book[data-family="foreword"] > section{height:auto;overflow:hidden;padding:32px 20px 0}
+ #content.book[data-family="foreword"] .preface-art{display:none}
+ #content.book[data-family="foreword"] h1{position:static;font-size:22px;line-height:1.3;margin:0 0 30px 1em}
+ #content.book[data-family="foreword"] p{font-size:18px;line-height:1.5}
+ #content.book[data-family="foreword"] .salutation{position:static;margin:0 0 22px 1em}
+ #content.book[data-family="foreword"] .preface-prose{position:static;width:auto;text-align:left}
+ #content.book[data-family="foreword"] .preface-prose p{margin:0 0 12px;text-indent:1.5em}
+ #content.book[data-family="foreword"] .ribbon{position:relative;left:auto;top:auto;width:auto;height:auto;margin:16px 0 0 12px;padding:12px 14px 12px 16px}
+ #content.book[data-family="foreword"] .ribbon::before{border-top-width:13px;border-bottom-width:13px;border-right-width:13px}
+ #content.book[data-family="foreword"] .ribbon p,#content.book[data-family="foreword"] .ribbon-three p{position:static;width:auto;text-align:left;text-indent:1em}
+ #content.book[data-family="foreword"] .authors{position:static;text-align:right;margin:20px 0}
+ #content.book[data-family="foreword"] .phone-landscape{position:relative;height:0;padding-bottom:20%;margin:0 -20px;background:#93dce1;overflow:hidden}
+ #content.book[data-family="foreword"] .preface-footer{top:0;left:0;width:100%;height:100%;object-fit:fill}
+ #content.book[data-family="foreword"] .folio-patch{top:47%;left:89%;width:2%;height:13%}
+ #content.book[data-family="foreword"] .folio{top:47%;left:89.5%;font-size:12px}
+}
+</style></head>
+<body class="min-h-screen flex items-center justify-center"><main class="w-full">
+<div id="content" class="mx-auto w-full max-w-5xl bg-white overflow-hidden opacity-0 book" data-family="foreword">
+<section data-section-type="foreword" data-section-id="pg007_sec001" class="b-page">
+<svg class="preface-art" viewBox="0 0 639.449 866.22" preserveAspectRatio="none" aria-hidden="true">
+ <defs><pattern id="preface-turquoise" width="8" height="8" patternUnits="userSpaceOnUse"><image href="studio/assets/pg007_turquoise.png" width="8" height="8" preserveAspectRatio="none"/></pattern></defs>
+ <path fill="url(#preface-turquoise)" d="M15 270 C57 279 56 319 15 319 Z"/>
+ <path fill="url(#preface-turquoise)" d="M15 500 C95 560 133 568 211 542 C320 506 414 528 449 563 C493 605 486 666 475 735 L15 760 Z"/>
+</svg>
+<h1 data-id="pg007_n0002">Parathënie</h1>
+<p class="salutation"><span data-id="pg007_n0004">I/e dashur nxënës/e,</span></p>
+<div class="preface-prose">
+<p><span data-id="pg007_n0006">Ky libër është vazhdimësi e njohurive që ke marrë përgjatë katër vjetëve.</span> <span data-id="pg007_n0007">Tani do të mësosh për jetën e paraardhësve të tu, do të njihesh me monumentet historike, vendbanimet e lashta arkeo&shy;logjike, kuzhinën dhe veshjet tradicionale kosovare.</span> <span data-id="pg007_n0008">Do të mësosh, gjithashtu, për kulturën, gjuhën, zakonet, traditat dhe llojllojshmërinë etnike e kulturore.</span></p>
+<p><span data-id="pg007_n0010">Ne e kemi hartuar librin në atë mënyrë që të kesh mundësi të analizosh, të vlerësosh dhe t’i japësh mendimet e tua për zgjidhjen e situatave të ndryshme që kanë të bëjnë me të drejtat e tua dhe me institucionet që kanë për detyrë të të mbrojnë ty.</span> <span data-id="pg007_n0011">Këtë vit do të marrësh informacione edhe për historikun e Republikës së Kosovës, banorët e vjetër të saj, vendet fqinje, bashkëjetesën mes komuniteteve në këtë vend, si dhe për ngjarje të rëndësishme për vendin tonë, si <em>Pavarësia e Kosovës, Beteja e Kosovës</em> dhe <em>Lidhja e Prizrenit</em>.</span> <span data-id="pg007_n0012">Do të njihesh, po ashtu, me <em>Kushtetutën e Kosovës</em>, si ligji themelor i shtetit tonë.</span></p>
+<p><span data-id="pg007_n0014">Situatat e dhëna dhe ilustrimet do të të ndihmojnë që të kuptosh se si merren vendi&shy;met në familje, në shkollë e në shoqëri, pjesë e të cilave duhet të jesh edhe ti.</span> <span data-id="pg007_n0015">Aktivi&shy;tetet e ndryshme, në të cilat do të marrësh pjesë, do të ngrenë vetëdijen për tolerancë, mirë&shy;kuptim dhe bashkëpunim, të cilat janë kushtet themelore për një shoqëri me vlera.</span></p>
+<p><span data-id="pg007_n0017">Në këtë libër, gjithashtu, jepen edhe informacione të rëndësishme për sëmundjet e ndryshme, kujdesin ndaj pandemisë dhe rëndësinë që ka vaksinimi.</span></p>
+</div>
+<aside class="ribbon ribbon-one"><p><span data-id="pg007_n0020">Libri ka edhe një rubrikë të veçantë - <em>Fjalorthin</em>, që do të të ndihmojë të mësosh fjalë dhe shprehje të reja, duke e pasuruar, kështu, të shprehurit tënd.</span></p></aside>
+<aside class="ribbon ribbon-two"><p><span data-id="pg007_n0023">Rubrika <em>Provoje veten</em> do të ta krijojë mundësinë që të punosh shumë detyra krijuese dhe do të të ndihmojë për zhvillimin e të menduarit krijues.</span> <span data-id="pg007_n0024">Ato u përkasin niveleve të ndryshme dhe do të ta mundësojnë përdorimin praktik të njohurive.</span></p></aside>
+<aside class="ribbon ribbon-three"><p><span data-id="pg007_n0027">Rubrikat <em>Përdore internetin/Shkathtësi hulumtuese</em> janë lënë që t’i punosh bashkë me prindërit, mësuesin a ndonjë të rritur tjetër, duke pasur parasysh rreziqet që vijnë nga përdorimi i pakontro&shy;lluar i teknologjisë informative, veçanërisht internetit.</span> <span data-id="pg007_n0028">Në këtë mënyrë, do të të krijohen shprehi dhe shkathtësi të mira të hulumtimit dhe të kërkimit të informacioneve.</span></p></aside>
+<p class="authors"><span data-id="pg007_n0029">Autorët</span></p>
+<div class="phone-landscape"><img class="preface-footer" src="studio/assets/pg007_footer.png" alt=""><span class="folio-patch" aria-hidden="true"></span><span class="folio" aria-label="Faqja 7">7</span></div>
+</section></div></main>
+<div class="relative z-50" id="interface-container"></div><div class="relative z-50" id="nav-container"></div>
+<script src="./assets/offline-preloader.js?v=9f3d745a858de581"></script><script src="./assets/scorm.js"></script><script src="./assets/base.bundle.local.js"></script>
+<script src="./book-design/responses.js?v=9f3d745a858de581" data-book-responses="true"></script></body></html>

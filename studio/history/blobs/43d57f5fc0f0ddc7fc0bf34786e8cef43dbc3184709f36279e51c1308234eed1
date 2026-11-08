@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="sq"><head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Shoqëria dhe mjedisi</title><meta name="title-id" content="pg013_sec002"><meta name="page-section-id" content="16">
+<link href="./content/tailwind_output.css" rel="stylesheet"><link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet"><link href="./assets/fonts.css" rel="stylesheet"><link rel="stylesheet" href="./book-design/components.css?v=9f3d745a858de581" data-book-style="true">
+<style>
+#content.book.page13{max-width:1000px;padding:0 0 120px;font-family:BookPoppins,Arial,sans-serif}
+#content.book.page13 .sheet13{position:relative;width:100%;aspect-ratio:639.449 / 866.22;container-type:inline-size;background:white;color:#30313a}
+#content.book.page13 .sheet13 p,#content.book.page13 .sheet13 li{margin:0;font:400 1.8766cqw/1.333 BookPoppins,Arial,sans-serif;color:#30313a}
+#content.book.page13 .sheet13 h1,#content.book.page13 .sheet13 h2{margin:0;font:400 2.815cqw/1.2 'Comic Sans MS',cursive;color:#33313b}
+#content.book.page13 .sheet13 h1{color:#4e4495}
+#content.book.page13 .sheet13 a{color:inherit;text-decoration:none}
+#content.book.page13 .sheet13 a:hover{text-decoration:underline}
+#content.book.page13 .questions13{position:absolute;left:13.3%;top:7.8%;width:84.4%;height:15.2%;border:0.3cqw solid #7950aa;border-right:0;border-radius:2cqw 0 0 2cqw;padding:1.2cqw 2.2cqw 1cqw}
+#content.book.page13 .questions13 img{position:absolute;left:-1%;top:-16%;width:14.2%;height:auto}
+#content.book.page13 .questions13 h1{margin-left:12.5%;margin-bottom:1.3cqw}
+#content.book.page13 .questions13 ul{list-style:none;margin:0;padding:0}
+#content.book.page13 .questions13 li{padding-left:1.5cqw;text-indent:-1.5cqw}
+#content.book.page13 .research13{position:absolute;left:35.5%;top:25.4%;width:62%;height:10.1%;border:0.18cqw solid #4e4495;border-radius:2cqw;background:#fff4d3;padding:1.2cqw 1.5cqw 1cqw 17.8%}
+#content.book.page13 .research13 img{position:absolute;left:2.5%;top:10%;width:15.3%}
+#content.book.page13 .research13 p,#content.book.page13 .knowledge13 p{font:400 1.8766cqw/1.333 BookAmiri,Georgia,serif}
+#content.book.page13 .discuss13{position:absolute;left:13.5%;top:37.9%;width:84.2%;height:17%;border-radius:2cqw 0 0 2cqw;background:#98cb8d;padding:1.5cqw 2.2cqw}
+#content.book.page13 .discuss13 img{position:absolute;left:2%;top:-12%;width:9%;height:auto}
+#content.book.page13 .discuss13 h2{margin-left:10%;margin-bottom:2cqw}
+#content.book.page13 .discuss13 p{margin-bottom:.8cqw}
+#content.book.page13 .discuss13 .line13{display:block;width:82%;border-bottom:1px solid #59685b;height:1.3cqw;margin-bottom:2cqw}
+#content.book.page13 .knowledge13{position:absolute;left:14.7%;top:57.5%;width:83%;height:24.4%;border:.3cqw solid #7950aa;border-right:0;border-radius:2cqw 0 0 2cqw;padding:1.2cqw 1cqw}
+#content.book.page13 .knowledge13 img{position:absolute;left:-.3%;top:-.3%;width:10.5%;height:auto}
+#content.book.page13 .knowledge13 h2{margin-left:10%;margin-bottom:1.5cqw}
+#content.book.page13 .knowledge13 .indent13{text-indent:10%}
+#content.book.page13 .folio13{position:absolute;left:87.1%;top:91.2%;font:400 1.8766cqw BookPoppins,Arial,sans-serif}
+#content.book.page13 .stripe13{position:absolute;left:2.3%;top:1.7%;width:2.2%;height:12.8%;background:#a078b4}
+#content.book.page13 .answers13{padding:16px 8% 24px;font:16px/1.5 BookPoppins,Arial,sans-serif}
+#content.book.page13 .answers13 summary{cursor:pointer;min-height:44px;padding:10px 12px;background:#f2ecf7;border:1px solid #7950aa;color:#3e2c5f;font-weight:600}
+#content.book.page13 .answers13 label{display:block;margin:16px 0 6px}
+#content.book.page13 .answers13 textarea{display:block;width:100%;min-height:88px}
+#content.book.page13 .answers13 p{font:400 16px/1.5 BookPoppins,Arial,sans-serif}
+@media(max-width:700px){
+#content.book.page13{padding:0 16px 120px}
+#content.book.page13 .sheet13{aspect-ratio:auto;container-type:normal;display:flex;flex-direction:column;gap:22px;padding:28px 0 0}
+#content.book.page13 .stripe13{display:none}
+#content.book.page13 .questions13,#content.book.page13 .research13,#content.book.page13 .discuss13,#content.book.page13 .knowledge13{position:relative;left:auto;top:auto;width:100%;height:auto;padding:18px;border-width:2px;border-radius:14px}
+#content.book.page13 .questions13,#content.book.page13 .knowledge13{border-right:0}
+#content.book.page13 .questions13 img,#content.book.page13 .discuss13 img,#content.book.page13 .knowledge13 img{position:static;float:left;width:58px;margin:0 12px 8px 0}
+#content.book.page13 .questions13 h1,#content.book.page13 .discuss13 h2,#content.book.page13 .knowledge13 h2{margin:0 0 16px;min-height:45px}
+#content.book.page13 .sheet13 h1,#content.book.page13 .sheet13 h2{font-size:25px}
+#content.book.page13 .sheet13 p,#content.book.page13 .sheet13 li,#content.book.page13 .research13 p,#content.book.page13 .knowledge13 p{font-size:16px;line-height:1.5}
+#content.book.page13 .questions13 ul{clear:both}
+#content.book.page13 .questions13 li{padding-left:12px;text-indent:-12px;margin:5px 0}
+#content.book.page13 .research13{padding-left:85px}
+#content.book.page13 .research13 img{left:12px;top:18px;width:60px}
+#content.book.page13 .discuss13 .line13{height:18px;margin-bottom:16px;width:100%}
+#content.book.page13 .knowledge13 .indent13{text-indent:0}
+#content.book.page13 .folio13{position:static;text-align:right;font-size:16px;padding:5px 12px}
+#content.book.page13 .answers13{padding:15px 0 20px}
+}
+@media print{#content.book.page13{padding:0}#content.book.page13 .answers13{display:none}}
+</style></head>
+<body class="min-h-screen flex items-center justify-center"><main class="w-full">
+<div id="content" class="container opacity-0 book page13" data-family="response">
+<section data-section-type="other" data-section-id="pg013_sec002" class="b-page">
+<div class="sheet13">
+<div class="stripe13" aria-hidden="true"></div>
+<div class="questions13"><img src="images/pg005_im006.png" alt=""><h1 data-id="pg013_n0019">Pyetje për ty</h1>
+<ul><li data-id="pg013_n0022">- Çfarë tregojnë këto fotografi?</li><li data-id="pg013_n0024">- Analizo se pse janë të rëndësishme monumentet historike.</li><li data-id="pg013_n0026">- A e ke vizituar ndonjërin nga këto monumente apo ndonjë monument tjetër?</li><li data-id="pg013_n0028">- Hulumto, në rajonin ku ti jeton, për monumentet historike nga e kaluara dhe e tashmja, si dhe krahasoji të gjeturat.</li></ul></div>
+<aside class="research13"><img src="studio/assets/pg013_research_art.png" alt=""><p data-id="pg013_n0031">Bashkë me ndihmën e prindërve apo të mësuesit, hulumto në internet dhe gjej informacione për Kompleksin Memorial “Adem Jashari”.</p><p data-id="pg013_n0032">Shkruaji ato dhe diskuto me të tjerët në klasë.</p></aside>
+<div class="discuss13"><img src="images/pg005_im008.png" alt=""><h2><a href="pg013_sec003.html">Diskuto</a></h2><p>- Çfarë mendon ti për këto monumente historike të rëndësishme të vendit tonë?</p><a class="line13" href="pg013_sec003.html" aria-label="Shkruaj përgjigjen për monumentet historike"></a><p>- Cila është rëndësia kulturore e këtyre monumenteve?</p><a class="line13" href="pg013_sec003.html" aria-label="Shkruaj përgjigjen për rëndësinë kulturore"></a></div>
+<div class="knowledge13"><img src="images/pg005_im003.png" alt=""><h2><a href="pg013_sec001.html">Thello dijet</a></h2><p class="indent13">Monumentet kulturore-historike janë simbole historike të një kombi. Ato janë dëshmi e historisë së një populli gjatë periudhave të ndryshme historike, nga lashtësia e deri më sot.</p><p>Një monument është një objekt i projektuar në mënyrë artistike, i cili përkujton një ngjarje nga historia ose një figurë historike.</p><p>Monumentet historike ndahen në:</p><p>- ndërtesa historike: kala, shtëpi, ura e objekte të tjera historike.</p><p>- monumente kulturore të lëvizshme: pikturë, skulpturë, objekte arti, biblioteka, arkiva etj.</p><p>Monumentet zakonisht vizitohen nga shumë njerëz. Përmes tyre ruhen dhe përcillen ngjarjet historike gjeneratë pas gjenerate.</p></div>
+<span class="folio13">13</span></div>
+<details class="answers13"><summary>Shkruaj përgjigjet</summary><p>Përgjigjet ruhen në këtë pajisje.</p>
+<label for="item-1">Çfarë tregojnë këto fotografi?</label><textarea id="item-1" data-activity-item="item-1"></textarea>
+<label for="item-2">Analizo se pse janë të rëndësishme monumentet historike.</label><textarea id="item-2" data-activity-item="item-2"></textarea>
+<label for="item-3">A e ke vizituar ndonjërin nga këto monumente apo ndonjë monument tjetër?</label><textarea id="item-3" data-activity-item="item-3"></textarea>
+<label for="item-4">Hulumto, në rajonin ku ti jeton, për monumentet historike nga e kaluara dhe e tashmja, si dhe krahasoji të gjeturat.</label><textarea id="item-4" data-activity-item="item-4"></textarea>
+<label for="item-5">Bashkë me ndihmën e prindërve apo të mësuesit, hulumto në internet dhe gjej informacione për Kompleksin Memorial “Adem Jashari”.</label><textarea id="item-5" data-activity-item="item-5"></textarea>
+<label for="item-6">Shkruaji ato dhe diskuto me të tjerët në klasë.</label><textarea id="item-6" data-activity-item="item-6"></textarea>
+</details></section></div></main>
+<div class="relative z-50" id="interface-container"></div><div class="relative z-50" id="nav-container"></div>
+<script src="./assets/offline-preloader.js?v=9f3d745a858de581"></script><script src="./assets/scorm.js"></script><script src="./assets/base.bundle.local.js"></script><script src="./book-design/responses.js?v=9f3d745a858de581" data-book-responses="true"></script></body></html>

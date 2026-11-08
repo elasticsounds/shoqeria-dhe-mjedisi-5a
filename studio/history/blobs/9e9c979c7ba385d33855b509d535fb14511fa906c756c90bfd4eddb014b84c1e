@@ -1,0 +1,29 @@
+# Changes and validation
+
+Complete repaired Part 1: 50 physical PDF pages inventoried, 107 ADT sections mapped, 20 fixed page families applied. Original ZIP and untouched baseline preserved.
+
+## What changed
+
+- Source Poppins/Amiri typography, purple lesson bands, cyan/green/yellow panels, orange practice rules, responsive figures and tables.
+- Real cover layout and logos; page 6 vector scene; source rubric icons; exact crossword diagram; corrected image descriptions and section headings.
+- Fixed Tailwind source, compiled CSS, licensed fonts, brand guide and 20 actual-content examples under book-design/. No added global preflight.
+- Local response persistence adapter added separately; original navigation, grading data and runtime scripts preserved. Every embedded page/dictionary cache synchronized and versioned.
+
+## Verification
+
+- 428 layout checks at 1280, 390, 640 and 320 CSS pixels: no blank sections, broken images, horizontal document overflow, clipped text or unreachable page bottoms.
+- Content axe-core WCAG A/AA checks at desktop and phone widths: no violations in the final checked content.
+- Original Next/Back across all 107 sections at desktop and phone widths, including periodic reload; eight contents-menu jumps passed.
+- All 11 quizzes: all 33 options, original feedback, retry by reselection and saved selection after reload passed. Written answers, radio tables, star rating, checkbox activity, word-search response and crossword response persistence passed.
+- All 362 original control identities, binding IDs, section identities, reading order, grading payloads and original non-cache scripts preserved; local references and embedded caches checked.
+- Exported ZIP reopening results are recorded separately in export-verification.json.
+
+## Remaining flags
+
+- **E-01 · Teacher review:** The original generated letter-entry grid has different cell counts/offsets from the source diagram, including Albanian digraph treatment. The exact source grid is restored and the six full-word response fields are primary. Legacy letter controls remain in a separate expandable area with IDs/names/values preserved and support up to two characters. No answer key or letter-to-cell grading was invented.
+- **E-02 · Teacher review:** The original source asks for official languages and provides three response lines without specifying the intended scope. The original prompt and open response controls are preserved. A teacher should confirm the expected response count/scope; no new answer was supplied.
+- **H-01 · Human validation remaining:** Live screen-reader/assistive-technology use, classroom pedagogical review, and SCORM 1.2 operation in the target LMS were not certified by these browser checks.
+- **P-01 · Provenance limitation:** For retained original raster crops of vector artwork, exact historical extraction coordinates are unavailable where explicitly null in the ledger. Their physical source pages and appearance were visually checked. Every newly extracted figure has recorded crop coordinates or source vector bounds.
+- **S-01 · Source scope, intentional:** Physical page 4 is lined notes stationery. Contents references to pages 53–101 are outside the supplied 1–50 PDF/Part 1 ADT. No missing later lessons or publication details were fabricated.
+
+This is an evidence-backed repair and browser verification, not a complete accessibility, pedagogical or LMS certification.

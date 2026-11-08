@@ -1,0 +1,3488 @@
+[
+  {
+    "adtSection": "pg001_sec001.html",
+    "elementId": "pg001_im001",
+    "elementIndex": 0,
+    "outputPath": "images/pg001_im001.png",
+    "sourcePDF": "f7bf719411a7c7cf1ff0d5b62a614dfffbbfda975b0052ba7ece451d2eb9ee0e",
+    "physicalPage": 1,
+    "method": "Retained original ZIP asset; PDF image object and page occurrence matched, visually checked",
+    "sha256": "fa72935e8e4d9e93494e20f31a87a8bcdf2e75a7475014dd2eade90391e5ea1e",
+    "pixels": [
+      2287,
+      2002
+    ],
+    "alt": "Children holding a moss-covered globe in their hands",
+    "decorative": false,
+    "pdfObjectXref": 57,
+    "pdfBoundsPt": [
+      27.666669845581055,
+      275.4481201171875,
+      576.4765014648438,
+      755.9140014648438
+    ],
+    "pixelSimilarityRMS": 0,
+    "baselineElementIndex": 0,
+    "currentElementIndex": 0,
+    "finalAlt": "Duart e fëmijëve rreth një globi të mbuluar me gjelbërim."
+  },
+  {
+    "adtSection": "pg005_sec001.html",
+    "elementId": "pg005_im001",
+    "elementIndex": 0,
+    "outputPath": "images/pg005_im001.png",
+    "sourcePDF": "f7bf719411a7c7cf1ff0d5b62a614dfffbbfda975b0052ba7ece451d2eb9ee0e",
+    "physicalPage": 5,
+    "method": "Retained original ZIP asset; PDF image object and page occurrence matched, visually checked",
+    "sha256": "987a21d8e733a007b26a27301f4f7333f3d6f3e70514e741483e74a6585f8e8c",
+    "pixels": [
+      412,
+      412
+    ],
+    "alt": "Fjalorthi",
+    "decorative": false,
+    "pdfObjectXref": 397,
+    "pdfBoundsPt": [
+      132.09902954101562,
+      138.5009765625,
+      230.96493530273438,
+      237.36688232421875
+    ],
+    "pixelSimilarityRMS": 0,
+    "baselineElementIndex": 0,
+    "currentElementIndex": 0,
+    "finalAlt": "Fjalorthi"
+  },
+  {
+    "adtSection": "pg005_sec001.html",
+    "elementId": "pg005_im008",
+    "elementIndex": 1,
+    "outputPath": "images/pg005_im008.png",
+    "sourcePDF": "f7bf719411a7c7cf1ff0d5b62a614dfffbbfda975b0052ba7ece451d2eb9ee0e",
+    "physicalPage": 5,
+    "method": "Retained original ZIP asset; PDF image object and page occurrence matched, visually checked",
+    "sha256": "fef0f48b436b6cf605a3fb75a2c931225d42b962afe1e3e672316a92d6f749dd",
+    "pixels": [
+      360,
+      360
+    ],
+    "alt": "Diskuto",
+    "decorative": false,
+    "pdfObjectXref": 428,
+    "pdfBoundsPt": [
+      304.13385009765625,
+      114.0201644897461,
+      390.3178405761719,
+      200.20416259765625
+    ],
+    "pixelSimilarityRMS": 0,
+    "baselineElementIndex": 1,
+    "currentElementIndex": 1,
+    "finalAlt": "Diskuto"
+  },
+  {
+    "adtSection": "pg005_sec001.html",
+    "elementId": "pg005_im004",
+    "elementIndex": 2,
+    "outputPath": "images/pg005_im004.png",
+    "sourcePDF": "f7bf719411a7c7cf1ff0d5b62a614dfffbbfda975b0052ba7ece451d2eb9ee0e",
+    "physicalPage": 5,
+    "method": "Retained original ZIP asset; PDF image object and page occurrence matched, visually checked",
+    "sha256": "95b04da8391a820ab7eb1711462df90c35cc1569ec2ff7c5b920cc43ef9e6f0f",
+    "pixels": [
+      447,
+      447
+    ],
+    "alt": "Përdor internetin",
+    "decorative": false,
+    "pdfObjectXref": 410,
+    "pdfBoundsPt": [
+      463.8083801269531,
+      136.0211181640625,
+      570.970703125,
+      243.1834716796875
+    ],
+    "pixelSimilarityRMS": 0,
+    "baselineElementIndex": 2,
+    "currentElementIndex": 2,
+    "finalAlt": "Përdor internetin"
+  },
+  {
+    "adtSection": "pg005_sec001.html",
+    "elementId": "pg005_im002",
+    "elementIndex": 3,
+    "outputPath": "images/pg005_im002.png",
+    "sourcePDF": "f7bf719411a7c7cf1ff0d5b62a614dfffbbfda975b0052ba7ece451d2eb9ee0e",
+    "physicalPage": 5,
+    "method": "Retained original ZIP asset; PDF image object and page occurrence matched, visually checked",
+    "sha256": "f32b9e352d8b0ce1a000a6de3aa7176ac46b1d62e89c72985565cdbad2b5c87f",
+    "pixels": [
+      473,
+      473
+    ],
+    "alt": "Shpreh mendimin tënd",
+    "decorative": false,
+    "pdfObjectXref": 402,
+    "pdfBoundsPt": [
+      125.73594665527344,
+      329.94635009765625,
+      239.3280487060547,
+      443.5384521484375
+    ],
+    "pixelSimilarityRMS": 0,
+    "baselineElementIndex": 3,
+    "currentElementIndex": 3,
+    "finalAlt": "Shpreh mendimin tënd"
+  },
+  {
+    "adtSection": "pg005_sec001.html",
+    "elementId": "pg005_im005",
+    "elementIndex": 4,
+    "outputPath": "images/pg005_im005.png",
+    "sourcePDF": "f7bf719411a7c7cf1ff0d5b62a614dfffbbfda975b0052ba7ece451d2eb9ee0e",
+    "physicalPage": 5,
+    "method": "Retained original ZIP asset; PDF image object and page occurrence matched, visually checked",
+    "sha256": "97b907f1ab9cf73e77de7861ab24a52031ab56f1391b352816fc025ed79d9ad6",
+    "pixels": [
+      447,
+      396
+    ],
+    "alt": "Shkathtësi hulumtuese",
+    "decorative": false,
+    "pdfObjectXref": 415,
+    "pdfBoundsPt": [
+      461.5935363769531,
+      337.06201171875,
+      568.755859375,
+      432.0614318847656
+    ],
+    "pixelSimilarityRMS": 0,
+    "baselineElementIndex": 4,
+    "currentElementIndex": 4,
+    "finalAlt": "Shkathtësi hulumtuese"
+  },
+  {
+    "adtSection": "pg005_sec001.html",
+    "elementId": "pg005_im003",
+    "elementIndex": 5,
+    "outputPath": "images/pg005_im003.png",
+    "sourcePDF": "f7bf719411a7c7cf1ff0d5b62a614dfffbbfda975b0052ba7ece451d2eb9ee0e",
+    "physicalPage": 5,
+    "method": "Retained original ZIP asset; PDF image object and page occurrence matched, visually checked",
+    "sha256": "812d5bd1b70745ccaf5495a996041bcb5b6ca0e4719508c86ad91a4f4fc326f7",
+    "pixels": [
+      473,
+      473
+    ],
+    "alt": "Thello dijet",
+    "decorative": false,
+    "pdfObjectXref": 406,
+    "pdfBoundsPt": [
+      124.52105712890625,
+      523.6863403320312,
+      239.20526123046875,
+      638.3705444335938
+    ],
+    "pixelSimilarityRMS": 0,
+    "baselineElementIndex": 5,
+    "currentElementIndex": 5,
+    "finalAlt": "Thello dijet"
+  },
+  {
+    "adtSection": "pg005_sec001.html",
+    "elementId": "pg005_im007",
+    "elementIndex": 6,
+    "outputPath": "images/pg005_im007.png",
+    "sourcePDF": "f7bf719411a7c7cf1ff0d5b62a614dfffbbfda975b0052ba7ece451d2eb9ee0e",
+    "physicalPage": 5,
+    "method": "Retained original ZIP asset; PDF image object and page occurrence matched, visually checked",
+    "sha256": "5dee49e460f61ef3e340fb9a1352a1b434ab39a8de794b0b245ffa9408814cee",
+    "pixels": [
+      349,
+      349
+    ],
+    "alt": "Provoje veten",
+    "decorative": false,
+    "pdfObjectXref": 424,
+    "pdfBoundsPt": [
+      309.9498291015625,
+      609.3705444335938,
+      393.6429748535156,
+      693.063720703125
+    ],
+    "pixelSimilarityRMS": 0,
+    "baselineElementIndex": 6,
+    "currentElementIndex": 6,
+    "finalAlt": "Provoje veten"
+  },
+  {
+    "adtSection": "pg005_sec001.html",
+    "elementId": "pg005_im006",
+    "elementIndex": 7,
+    "outputPath": "images/pg005_im006.png",
+    "sourcePDF": "f7bf719411a7c7cf1ff0d5b62a614dfffbbfda975b0052ba7ece451d2eb9ee0e",
+    "physicalPage": 5,
+    "method": "Retained original ZIP asset; PDF image object and page occurrence matched, visually checked",
+    "sha256": "24a6eb382f74406277be23375d42273f1d08c7321cf40adf44dfa50dffca8027",
+    "pixels": [
+      473,
+      473
+    ],
+    "alt": "Pyetje për ty",
+    "decorative": false,
+    "pdfObjectXref": 420,
+    "pdfBoundsPt": [
+      457.3786315917969,
+      527.9933471679688,
+      570.970703125,
+      641.58544921875
+    ],
+    "pixelSimilarityRMS": 0,
+    "baselineElementIndex": 7,
+    "currentElementIndex": 7,
+    "finalAlt": "Pyetje për ty"
+  },
+  {
+    "adtSection": "pg006_sec001.html",
+    "elementId": "pg006_im004",
+    "elementIndex": 0,
+    "outputPath": "images/pg006_im004.png",
+    "sourcePDF": "f7bf719411a7c7cf1ff0d5b62a614dfffbbfda975b0052ba7ece451d2eb9ee0e",
+    "physicalPage": 6,
+    "method": "Retained original ZIP asset; PDF image object and page occurrence matched, visually checked",
+    "sha256": "911d734e8e884996c51dd8c16ec86322558ee61bd41c9465d562c265a004cb08",
+    "pixels": [
+      277,
+      277
+    ],
+    "alt": "Libër i hapur me shkronja dhe numra, i zbukuruar me gjethe të vogla.",
+    "decorative": false,
+    "pdfObjectXref": 562,
+    "pdfBoundsPt": [
+      454.19140625,
+      468.2115783691406,
+      520.4757080078125,
+      534.495849609375
+    ],
+    "pixelSimilarityRMS": 0,
+    "baselineElementIndex": 0,
+    "currentElementIndex": 0,
+    "finalAlt": "Libër i hapur me shkronja dhe numra, i zbukuruar me gjethe të vogla."
+  },
+  {
+    "adtSection": "pg006_sec001.html",
+    "elementId": "pg006_im003",
+    "elementIndex": 1,
+    "outputPath": "images/pg006_im003.png",
+    "sourcePDF": "f7bf719411a7c7cf1ff0d5b62a614dfffbbfda975b0052ba7ece451d2eb9ee0e",
+    "physicalPage": 6,
+    "method": "Retained original ZIP asset; PDF image object and page occurrence matched, visually checked",
+    "sha256": "356e4302d337ba875c14868434471e87bce2806256f4ea4b9ddeb46e578bd3db",
+    "pixels": [
+      294,
+      294
+    ],
+    "alt": "Dy blloqe lodrash ndërtimi, një blu dhe një i kuq.",
+    "decorative": false,
+    "pdfObjectXref": 558,
+    "pdfBoundsPt": [
+      450.13739013671875,
+      528.7135009765625,
+      520.4757080078125,
+      599.0518188476562
+    ],
+    "pixelSimilarityRMS": 0,
+    "baselineElementIndex": 1,
+    "currentElementIndex": 1,
+    "finalAlt": "Dy blloqe lodrash ndërtimi, një blu dhe një i kuq."
+  },
+  {
+    "adtSection": "pg006_sec001.html",
+    "elementId": "pg006_im001",
+    "elementIndex": 2,
+    "outputPath": "images/pg006_im001.png",
+    "sourcePDF": "f7bf719411a7c7cf1ff0d5b62a614dfffbbfda975b0052ba7ece451d2eb9ee0e",
+    "physicalPage": 6,
+    "method": "Retained original ZIP asset; PDF image object and page occurrence matched, visually checked",
+    "sha256": "f898f95e38c361be0b6c87a334e0947ad4ac67a332a637cca2e4bbfea08d8044",
+    "pixels": [
+      310,
+      310
+    ],
+    "alt": "Mi kompjuteri i stilizuar si mi i vogël, me veshë rozë dhe bisht të zi.",
+    "decorative": false,
+    "pdfObjectXref": 548,
+    "pdfBoundsPt": [
+      365.0787353515625,
+      608.6410522460938,
+      439.35601806640625,
+      682.9183349609375
+    ],
+    "pixelSimilarityRMS": 0,
+    "baselineElementIndex": 2,
+    "currentElementIndex": 2,
+    "finalAlt": "Mi kompjuteri i stilizuar si mi i vogël, me veshë rozë dhe bisht të zi."
+  },
+  {
+    "adtSection": "pg006_sec001.html",
+    "elementId": "pg006_im002",
+    "elementIndex": 3,
+    "outputPath": "images/pg006_im002.png",
+    "sourcePDF": "f7bf719411a7c7cf1ff0d5b62a614dfffbbfda975b0052ba7ece451d2eb9ee0e",
+    "physicalPage": 6,
+    "method": "Retained original ZIP asset; PDF image object and page occurrence matched, visually checked",
+    "sha256": "565eb54e4277a466a578d8b70e6014ac6574f49332ee7b96b979775856fdea58",
+    "pixels": [
+      310,
+      310
+    ],
+    "alt": "Personazh portokalli që shikon përmes një lupe të madhe.",
+    "decorative": false,
+    "pdfObjectXref": 553,
+    "pdfBoundsPt": [
+      448.16790771484375,
+      608.6410522460938,
+      522.4451904296875,
+      682.9183349609375
+    ],
+    "pixelSimilarityRMS": 0,
+    "baselineElementIndex": 3,
+    "currentElementIndex": 3,
+    "finalAlt": "Personazh portokalli që shikon përmes një lupe të madhe."
+  },
+  {
+    "adtSection": "pg007_sec001.html",
+    "elementId": "pg007_im004",
+    "elementIndex": 0,
+    "outputPath": "images/pg007_im004.png",
+    "sourcePDF": "f7bf719411a7c7cf1ff0d5b62a614dfffbbfda975b0052ba7ece451d2eb9ee0e",
+    "physicalPage": 7,
+    "method": "Retained original ZIP asset; visually checked against physical PDF render",
+    "sha256": "5c570b94081e6c361fa31e3d1eaf31e3bf529864470daecdf5be7493ae1c5c42",
+    "pixels": [
+      438,
+      90
+    ],
+    "alt": "",
+    "decorative": true,
+    "pdfObjectXref": null,
+    "pdfBoundsPt": null,
+    "provenanceNote": "Existing raster crop of source artwork/vector diagram. Page match visually confirmed; exact original extraction coordinates unavailable. No invented object identity.",
+    "baselineElementIndex": 0,
+    "currentElementIndex": 0,
+    "finalAlt": ""
+  },
+  {
+    "adtSection": "pg007_sec001.html",
+    "elementId": "pg007_im005",
+    "elementIndex": 1,
+    "outputPath": "images/pg007_im005.png",
+    "sourcePDF": "f7bf719411a7c7cf1ff0d5b62a614dfffbbfda975b0052ba7ece451d2eb9ee0e",
+    "physicalPage": 7,
+    "method": "Retained original ZIP asset; visually checked against physical PDF render",
+    "sha256": "603c506f8b2ff8c347888310b556548e6487dc41ec72db55bf2a79f963adeef0",
+    "pixels": [
+      136,
+      63
+    ],
+    "alt": "",
+    "decorative": true,
+    "pdfObjectXref": null,
+    "pdfBoundsPt": null,
+    "provenanceNote": "Existing raster crop of source artwork/vector diagram. Page match visually confirmed; exact original extraction coordinates unavailable. No invented object identity.",
+    "baselineElementIndex": 1,
+    "currentElementIndex": 1,
+    "finalAlt": ""
+  },
+  {
+    "adtSection": "pg007_sec001.html",
+    "elementId": "pg007_im006",
+    "elementIndex": 2,
+    "outputPath": "images/pg007_im006.png",
+    "sourcePDF": "f7bf719411a7c7cf1ff0d5b62a614dfffbbfda975b0052ba7ece451d2eb9ee0e",
+    "physicalPage": 7,
+    "method": "Retained original ZIP asset; visually checked against physical PDF render",
+    "sha256": "3e02ceb8d869095d37e377254c96bf4405d13b5c588bdf678243f52e0ee345c3",
+    "pixels": [
+      252,
+      81
+    ],
+    "alt": "",
+    "decorative": true,
+    "pdfObjectXref": null,
+    "pdfBoundsPt": null,
+    "provenanceNote": "Existing raster crop of source artwork/vector diagram. Page match visually confirmed; exact original extraction coordinates unavailable. No invented object identity.",
+    "baselineElementIndex": 2,
+    "currentElementIndex": 2,
+    "finalAlt": ""
+  },
+  {
+    "adtSection": "pg008_sec001.html",
+    "elementId": "pg008_im015",
+    "elementIndex": 0,
+    "outputPath": "images/pg008_im015.png",
+    "sourcePDF": "f7bf719411a7c7cf1ff0d5b62a614dfffbbfda975b0052ba7ece451d2eb9ee0e",
+    "physicalPage": 8,
+    "method": "Retained original ZIP asset; visually checked against physical PDF render",
+    "sha256": "6a745e6a5196bb2daad55edbb1de2ae230eca214b46a0e262f95c98fd0e6b95f",
+    "pixels": [
+      832,
+      983
+    ],
+    "alt": "Faqe ditari me tekst të shkruar me dorë në një bllok me spirale të kuqe.",
+    "decorative": false,
+    "pdfObjectXref": null,
+    "pdfBoundsPt": null,
+    "provenanceNote": "Existing raster crop of source artwork/vector diagram. Page match visually confirmed; exact original extraction coordinates unavailable. No invented object identity.",
+    "baselineElementIndex": 0,
+    "currentElementIndex": 0,
+    "finalAlt": "Faqe ditari me tekst të shkruar me dorë në një bllok me spirale të kuqe."
+  },
+  {
+    "adtSection": "pg009_sec001.html",
+    "elementId": "pg009_im005",
+    "elementIndex": 0,
+    "outputPath": "images/pg009_im005.png",
+    "sourcePDF": "f7bf719411a7c7cf1ff0d5b62a614dfffbbfda975b0052ba7ece451d2eb9ee0e",
+    "physicalPage": 9,
+    "method": "Retained original ZIP asset; visually checked against physical PDF render",
+    "sha256": "24a6eb382f74406277be23375d42273f1d08c7321cf40adf44dfa50dffca8027",
+    "pixels": [
+      473,
+      473
+    ],
+    "alt": "Tri pikëpyetje me ngjyra të ndryshme, që simbolizojnë pyetje dhe reflektim.",
+    "decorative": false,
+    "pdfObjectXref": null,
+    "pdfBoundsPt": null,
+    "provenanceNote": "Existing raster crop of source artwork/vector diagram. Page match visually confirmed; exact original extraction coordinates unavailable. No invented object identity.",
+    "baselineElementIndex": 0,
+    "currentElementIndex": 0,
+    "finalAlt": "Tri pikëpyetje me ngjyra të ndryshme, që simbolizojnë pyetje dhe reflektim."
+  },
+  {
+    "adtSection": "pg009_sec001.html",
+    "elementId": "pg009_im006",
+    "elementIndex": 1,
+    "outputPath": "images/pg009_im006.png",
+    "sourcePDF": "f7bf719411a7c7cf1ff0d5b62a614dfffbbfda975b0052ba7ece451d2eb9ee0e",
+    "physicalPage": 9,
+    "method": "Retained original ZIP asset; PDF image object and page occurrence matched, visually checked",
+    "sha256": "61284c6ead00b8fa8d936773a72c2302632f122e34fef25787cdab53effe6158",
+    "pixels": [
+      283,
+      283
+    ],
+    "alt": "Libër i hapur me një lupë sipër, simbol i hulumtimit dhe thellimit të dijes.",
+    "decorative": false,
+    "pdfObjectXref": 1042,
+    "pdfBoundsPt": [
+      82.66397094726562,
+      172.98992919921875,
+      150.56106567382812,
+      240.88702392578125
+    ],
+    "pixelSimilarityRMS": 0,
+    "baselineElementIndex": 1,
+    "currentElementIndex": 1,
+    "finalAlt": "Libër i hapur me një lupë sipër, simbol i hulumtimit dhe thellimit të dijes."
+  },
+  {
+    "adtSection": "pg009_sec002.html",
+    "elementId": "pg009_im017",
+    "elementIndex": 0,
+    "outputPath": "images/pg009_im017.png",
+    "sourcePDF": "f7bf719411a7c7cf1ff0d5b62a614dfffbbfda975b0052ba7ece451d2eb9ee0e",
+    "physicalPage": 9,
+    "method": "Retained original ZIP asset; visually checked against physical PDF render",
+    "sha256": "c84b5c7324b2d7efb4e5a9a1fc3b1104439030cbdb088d55330c07ead2991b66",
+    "pixels": [
+      832,
+      983
+    ],
+    "alt": "Fletë ditari për të shkruar",
+    "decorative": false,
+    "pdfObjectXref": null,
+    "pdfBoundsPt": null,
+    "provenanceNote": "Existing raster crop of source artwork/vector diagram. Page match visually confirmed; exact original extraction coordinates unavailable. No invented object identity.",
+    "baselineElementIndex": 0,
+    "currentElementIndex": 0,
+    "finalAlt": "Fletë e zbrazët ditari me vija për të shkruar."
+  },
+  {
+    "adtSection": "pg010_sec001.html",
+    "elementId": "pg010_im001",
+    "elementIndex": 0,
+    "outputPath": "images/pg010_im001.png",
+    "sourcePDF": "f7bf719411a7c7cf1ff0d5b62a614dfffbbfda975b0052ba7ece451d2eb9ee0e",
+    "physicalPage": 10,
+    "method": "Retained original ZIP asset; PDF image object and page occurrence matched, visually checked",
+    "sha256": "873473707c67723ef28ad0224ce3695616e4397171a7da42aa51c7fc440ac76e",
+    "pixels": [
+      2047,
+      2774
+    ],
+    "alt": "Flutur për t'u plotësuar me të dhëna personale",
+    "decorative": false,
+    "pdfObjectXref": 1268,
+    "pdfBoundsPt": [
+      73.4148178100586,
+      126.57611083984375,
+      564.62158203125,
+      792.2772216796875
+    ],
+    "pixelSimilarityRMS": 0,
+    "baselineElementIndex": 0,
+    "currentElementIndex": 1,
+    "finalAlt": "Flutur për t'u plotësuar me të dhëna personale"
+  },
+  {
+    "adtSection": "pg011_sec002.html",
+    "elementId": "pg011_im001",
+    "elementIndex": 0,
+    "outputPath": "images/pg011_im001.png",
+    "sourcePDF": "f7bf719411a7c7cf1ff0d5b62a614dfffbbfda975b0052ba7ece451d2eb9ee0e",
+    "physicalPage": 11,
+    "method": "Retained original ZIP asset; visually checked against physical PDF render",
+    "sha256": "3249e72775363bcdeab71208c5ab731e6da969b61af83404738264e7b7c54ca3",
+    "pixels": [
+      407,
+      78
+    ],
+    "alt": "Pesë yje për vlerësim",
+    "decorative": false,
+    "pdfObjectXref": null,
+    "pdfBoundsPt": null,
+    "provenanceNote": "Existing raster crop of source artwork/vector diagram. Page match visually confirmed; exact original extraction coordinates unavailable. No invented object identity.",
+    "baselineElementIndex": 0,
+    "currentElementIndex": 0,
+    "finalAlt": "Pesë yje për vlerësim"
+  },
+  {
+    "adtSection": "pg012_sec001.html",
+    "elementId": "pg012_im005",
+    "elementIndex": 0,
+    "outputPath": "images/pg012_im005.png",
+    "sourcePDF": "f7bf719411a7c7cf1ff0d5b62a614dfffbbfda975b0052ba7ece451d2eb9ee0e",
+    "physicalPage": 12,
+    "method": "Retained original ZIP asset; PDF image object and page occurrence matched, visually checked",
+    "sha256": "d6449c7534522f760956c3f1ebed28058f5ceff0de8feb9bd1359b07d139700e",
+    "pixels": [
+      694,
+      529
+    ],
+    "alt": "Kalaja e Prizrenit",
+    "decorative": false,
+    "pdfObjectXref": 1493,
+    "pdfBoundsPt": [
+      68.42530059814453,
+      294.9381103515625,
+      234.8863525390625,
+      421.82012939453125
+    ],
+    "pixelSimilarityRMS": 0,
+    "baselineElementIndex": 0,
+    "currentElementIndex": 0,
+    "finalAlt": "Kalaja e Prizrenit"
+  },
+  {
+    "adtSection": "pg012_sec001.html",
+    "elementId": "pg012_im002",
+    "elementIndex": 1,
+    "outputPath": "images/pg012_im002.png",
+    "sourcePDF": "f7bf719411a7c7cf1ff0d5b62a614dfffbbfda975b0052ba7ece451d2eb9ee0e",
+    "physicalPage": 12,
+    "method": "Retained original ZIP asset; PDF image object and page occurrence matched, visually checked",
+    "sha256": "6167193a211a21347062126d9879cde4e5f29624f88ebc9991bc1af0c5493a1a",
+    "pixels": [
+      689,
+      447
+    ],
+    "alt": "Ura e Fshajtë",
+    "decorative": false,
+    "pdfObjectXref": 1487,
+    "pdfBoundsPt": [
+      373.8438415527344,
+      412.9638977050781,
+      539.0432739257812,
+      520.138916015625
+    ],
+    "pixelSimilarityRMS": 0,
+    "baselineElementIndex": 1,
+    "currentElementIndex": 1,
+    "finalAlt": "Ura e Fshajtë"
+  },
+  {
+    "adtSection": "pg012_sec001.html",
+    "elementId": "pg012_im003",
+    "elementIndex": 2,
+    "outputPath": "images/pg012_im003.png",
+    "sourcePDF": "f7bf719411a7c7cf1ff0d5b62a614dfffbbfda975b0052ba7ece451d2eb9ee0e",
+    "physicalPage": 12,
+    "method": "Retained original ZIP asset; PDF image object and page occurrence matched, visually checked",
+    "sha256": "6f9ea05730730a35f8cb19f63c82f09e7d058d1f5588ac32e121d9f131f141a1",
+    "pixels": [
+      680,
+      680
+    ],
+    "alt": "Shtëpia e Lidhjes së Prizrenit",
+    "decorative": false,
+    "pdfObjectXref": 1489,
+    "pdfBoundsPt": [
+      72.9448471069336,
+      506.8813781738281,
+      236.10235595703125,
+      670.0388793945312
+    ],
+    "pixelSimilarityRMS": 0,
+    "baselineElementIndex": 2,
+    "currentElementIndex": 2,
+    "finalAlt": "Shtëpia e Lidhjes së Prizrenit"
+  },
+  {
+    "adtSection": "pg012_sec001.html",
+    "elementId": "pg012_im004",
+    "elementIndex": 3,
+    "outputPath": "images/pg012_im004.png",
+    "sourcePDF": "f7bf719411a7c7cf1ff0d5b62a614dfffbbfda975b0052ba7ece451d2eb9ee0e",
+    "physicalPage": 12,
+    "method": "Retained original ZIP asset; PDF image object and page occurrence matched, visually checked",
+    "sha256": "63a08396c8cf55cc3b686ee605b72df090dd144bc0aa9bb74bce91f323581761",
+    "pixels": [
+      812,
+      530
+    ],
+    "alt": "Kompleksi Memorial Adem Jashari",
+    "decorative": false,
+    "pdfObjectXref": 1491,
+    "pdfBoundsPt": [
+      357.0925598144531,
+      642.9773559570312,
+      540.0784912109375,
+      762.4140014648438
+    ],
+    "pixelSimilarityRMS": 0,
+    "baselineElementIndex": 3,
+    "currentElementIndex": 3,
+    "finalAlt": "Kompleksi Memorial Adem Jashari"
+  },
+  {
+    "adtSection": "pg015_sec001.html",
+    "elementId": "pg015_im002",
+    "elementIndex": 0,
+    "outputPath": "images/pg015_im002.png",
+    "sourcePDF": "f7bf719411a7c7cf1ff0d5b62a614dfffbbfda975b0052ba7ece451d2eb9ee0e",
+    "physicalPage": 15,
+    "method": "Retained original ZIP asset; PDF image object and page occurrence matched, visually checked",
+    "sha256": "dd3095858988c94e05cc053db5216e382e9a368c8a1a5f263e4a51743f5d1468",
+    "pixels": [
+      1280,
+      600
+    ],
+    "alt": "Pamje e Ulpianës me rrënoja arkeologjike dhe shtigje përreth",
+    "decorative": false,
+    "pdfObjectXref": 1726,
+    "pdfBoundsPt": [
+      177.99212646484375,
+      400.12225341796875,
+      480.679931640625,
+      542.0071411132812
+    ],
+    "pixelSimilarityRMS": 0,
+    "baselineElementIndex": 0,
+    "currentElementIndex": 1,
+    "finalAlt": "Pamje e Ulpianës me rrënoja arkeologjike dhe shtigje përreth"
+  },
+  {
+    "adtSection": "pg015_sec001.html",
+    "elementId": "pg015_im003",
+    "elementIndex": 1,
+    "outputPath": "images/pg015_im003.png",
+    "sourcePDF": "f7bf719411a7c7cf1ff0d5b62a614dfffbbfda975b0052ba7ece451d2eb9ee0e",
+    "physicalPage": 15,
+    "method": "Retained original ZIP asset; PDF image object and page occurrence matched, visually checked",
+    "sha256": "572f44ec5a7d30acb8c9d86da9b42bbcf90421467ab93c98a84bbf5a58a329b2",
+    "pixels": [
+      1262,
+      709
+    ],
+    "alt": "Pamje e kalasë së Artanës në majë kodre me male në sfond",
+    "decorative": false,
+    "pdfObjectXref": 1728,
+    "pdfBoundsPt": [
+      100.03936767578125,
+      610.322265625,
+      402.7271728515625,
+      780.3538818359375
+    ],
+    "pixelSimilarityRMS": 0,
+    "baselineElementIndex": 1,
+    "currentElementIndex": 2,
+    "finalAlt": "Pamje e kalasë së Artanës në majë kodre me male në sfond"
+  },
+  {
+    "adtSection": "pg016_sec001.html",
+    "elementId": "pg016_im005",
+    "elementIndex": 0,
+    "outputPath": "images/pg016_im005.png",
+    "sourcePDF": "f7bf719411a7c7cf1ff0d5b62a614dfffbbfda975b0052ba7ece451d2eb9ee0e",
+    "physicalPage": 16,
+    "method": "Retained original ZIP asset; PDF image object and page occurrence matched, visually checked",
+    "sha256": "c0ec89c1519f64d9ef0662e539dbcabb33fa8d5111ea9c361c1e9b247e607339",
+    "pixels": [
+      706,
+      953
+    ],
+    "alt": "Hyjnesha në fron figurine",
+    "decorative": false,
+    "pdfObjectXref": 1818,
+    "pdfBoundsPt": [
+      72.40727996826172,
+      70.65127563476562,
+      241.77163696289062,
+      299.1390380859375
+    ],
+    "pixelSimilarityRMS": 0,
+    "baselineElementIndex": 0,
+    "currentElementIndex": 0,
+    "finalAlt": "Figurinë arkeologjike e njohur si Hyjnesha në fron."
+  },
+  {
+    "adtSection": "pg016_sec001.html",
+    "elementId": "pg016_im006",
+    "elementIndex": 1,
+    "outputPath": "images/pg016_im006.png",
+    "sourcePDF": "f7bf719411a7c7cf1ff0d5b62a614dfffbbfda975b0052ba7ece451d2eb9ee0e",
+    "physicalPage": 16,
+    "method": "Retained original ZIP asset; PDF image object and page occurrence matched, visually checked",
+    "sha256": "9c755eb1033636dfb5c9f5fe8719b2b126a7cdc980b73216cd69b2489e262e42",
+    "pixels": [
+      716,
+      674
+    ],
+    "alt": "Amforë e gjetur në muze",
+    "decorative": false,
+    "pdfObjectXref": 1820,
+    "pdfBoundsPt": [
+      375.7507019042969,
+      275.42156982421875,
+      547.583251953125,
+      437.0115966796875
+    ],
+    "pixelSimilarityRMS": 0,
+    "baselineElementIndex": 1,
+    "currentElementIndex": 1,
+    "finalAlt": "Amforë e gjetur në muze"
+  },
+  {
+    "adtSection": "pg016_sec001.html",
+    "elementId": "pg016_im003",
+    "elementIndex": 2,
+    "outputPath": "images/pg016_im003.png",
+    "sourcePDF": "f7bf719411a7c7cf1ff0d5b62a614dfffbbfda975b0052ba7ece451d2eb9ee0e",
+    "physicalPage": 16,
+    "method": "Retained original ZIP asset; PDF image object and page occurrence matched, visually checked",
+    "sha256": "c4d78952b805ef5fdda4dad3bcb1c0d9eee927b50e59a64da68bd534b016918a",
+    "pixels": [
+      717,
+      523
+    ],
+    "alt": "Gur varri",
+    "decorative": false,
+    "pdfObjectXref": 1814,
+    "pdfBoundsPt": [
+      98.25921630859375,
+      512.9302368164062,
+      259.76898193359375,
+      630.739990234375
+    ],
+    "pixelSimilarityRMS": 0,
+    "baselineElementIndex": 2,
+    "currentElementIndex": 2,
+    "finalAlt": "Gur varri"
+  },
+  {
+    "adtSection": "pg016_sec001.html",
+    "elementId": "pg016_im004",
+    "elementIndex": 3,
+    "outputPath": "images/pg016_im004.png",
+    "sourcePDF": "f7bf719411a7c7cf1ff0d5b62a614dfffbbfda975b0052ba7ece451d2eb9ee0e",
+    "physicalPage": 16,
+    "method": "Retained original ZIP asset; PDF image object and page occurrence matched, visually checked",
+    "sha256": "41ce610804306bc8f2378ffd107c259337f7315bd0f8441137a2a9bbdfc5fd47",
+    "pixels": [
+      811,
+      538
+    ],
+    "alt": "Tempull",
+    "decorative": false,
+    "pdfObjectXref": 1816,
+    "pdfBoundsPt": [
+      342.9118347167969,
+      509.6451416015625,
+      525.5958251953125,
+      630.8338012695312
+    ],
+    "pixelSimilarityRMS": 0,
+    "baselineElementIndex": 3,
+    "currentElementIndex": 3,
+    "finalAlt": "Tempull"
+  },
+  {
+    "adtSection": "pg016_sec001.html",
+    "elementId": "pg016_im001",
+    "elementIndex": 4,
+    "outputPath": "images/pg016_im001.png",
+    "sourcePDF": "f7bf719411a7c7cf1ff0d5b62a614dfffbbfda975b0052ba7ece451d2eb9ee0e",
+    "physicalPage": 16,
+    "method": "Retained original ZIP asset; PDF image object and page occurrence matched, visually checked",
+    "sha256": "801b5a0424919cb54fa49d240c58556ebd3daf0d7c915810cc69c139f6002f41",
+    "pixels": [
+      746,
+      465
+    ],
+    "alt": "Pjesë shpatash",
+    "decorative": false,
+    "pdfObjectXref": 1810,
+    "pdfBoundsPt": [
+      101.03679656982422,
+      653.8861083984375,
+      265.4612121582031,
+      756.3758544921875
+    ],
+    "pixelSimilarityRMS": 0,
+    "baselineElementIndex": 4,
+    "currentElementIndex": 4,
+    "finalAlt": "Gjetje arkeologjike me pjesë metalike dhe copa qeramike, të paraqitura së bashku."
+  },
+  {
+    "adtSection": "pg016_sec001.html",
+    "elementId": "pg016_im002",
+    "elementIndex": 5,
+    "outputPath": "images/pg016_im002.png",
+    "sourcePDF": "f7bf719411a7c7cf1ff0d5b62a614dfffbbfda975b0052ba7ece451d2eb9ee0e",
+    "physicalPage": 16,
+    "method": "Retained original ZIP asset; PDF image object and page occurrence matched, visually checked",
+    "sha256": "7326c67f4d68d489d8807ba54a2193f04fa5fd6af639d931ff6dcf354fd7566b",
+    "pixels": [
+      811,
+      465
+    ],
+    "alt": "Monedha",
+    "decorative": false,
+    "pdfObjectXref": 1812,
+    "pdfBoundsPt": [
+      342.9102783203125,
+      651.5410766601562,
+      525.8718872070312,
+      756.445068359375
+    ],
+    "pixelSimilarityRMS": 0,
+    "baselineElementIndex": 5,
+    "currentElementIndex": 5,
+    "finalAlt": "Monedha"
+  },
+  {
+    "adtSection": "pg019_sec001.html",
+    "elementId": "pg019_im004",
+    "elementIndex": 0,
+    "outputPath": "images/pg019_im004.png",
+    "sourcePDF": "f7bf719411a7c7cf1ff0d5b62a614dfffbbfda975b0052ba7ece451d2eb9ee0e",
+    "physicalPage": 19,
+    "method": "Retained original ZIP asset; PDF image object and page occurrence matched, visually checked",
+    "sha256": "6e2ffd44eeec231922630ccbed49ef313c38d4f8a320f69e6b251b538a177704",
+    "pixels": [
+      513,
+      376
+    ],
+    "alt": "Pamje e vjetër e Prishtinës me rrugë të ngushta dhe shtëpi të ulëta",
+    "decorative": false,
+    "pdfObjectXref": 2069,
+    "pdfBoundsPt": [
+      98.81787109375,
+      288.82891845703125,
+      221.82151794433594,
+      378.8815002441406
+    ],
+    "pixelSimilarityRMS": 0,
+    "baselineElementIndex": 0,
+    "currentElementIndex": 1,
+    "finalAlt": "Pamje e vjetër e Prishtinës me rrugë të ngushta dhe shtëpi të ulëta"
+  },
+  {
+    "adtSection": "pg019_sec001.html",
+    "elementId": "pg019_im005",
+    "elementIndex": 1,
+    "outputPath": "images/pg019_im005.png",
+    "sourcePDF": "f7bf719411a7c7cf1ff0d5b62a614dfffbbfda975b0052ba7ece451d2eb9ee0e",
+    "physicalPage": 19,
+    "method": "Retained original ZIP asset; PDF image object and page occurrence matched, visually checked",
+    "sha256": "7d0a9dc5dd9460c90059c8c15776717c5a71bcb087a810e2d483d7a13dae72ed",
+    "pixels": [
+      517,
+      359
+    ],
+    "alt": "Ndërtesa shumëkatëshe dhe rrugë më të zhvilluara në Prishtinë",
+    "decorative": false,
+    "pdfObjectXref": 2071,
+    "pdfBoundsPt": [
+      99.0342788696289,
+      382.83624267578125,
+      222.92376708984375,
+      468.81781005859375
+    ],
+    "pixelSimilarityRMS": 0,
+    "baselineElementIndex": 1,
+    "currentElementIndex": 2,
+    "finalAlt": "Ndërtesa shumëkatëshe dhe rrugë më të zhvilluara në Prishtinë"
+  },
+  {
+    "adtSection": "pg019_sec001.html",
+    "elementId": "pg019_im006",
+    "elementIndex": 2,
+    "outputPath": "images/pg019_im006.png",
+    "sourcePDF": "f7bf719411a7c7cf1ff0d5b62a614dfffbbfda975b0052ba7ece451d2eb9ee0e",
+    "physicalPage": 19,
+    "method": "Retained original ZIP asset; PDF image object and page occurrence matched, visually checked",
+    "sha256": "9420a25e1fc2e9cdb57063c72ff4c678f27a398541aa56a13dfe00d5f7898609",
+    "pixels": [
+      1010,
+      279
+    ],
+    "alt": "Pamje e sotme e Prishtinës me ndërtesa të larta dhe qendra urbane",
+    "decorative": false,
+    "pdfObjectXref": 2073,
+    "pdfBoundsPt": [
+      323.856689453125,
+      472.673828125,
+      581.968994140625,
+      550.16845703125
+    ],
+    "pixelSimilarityRMS": 0,
+    "baselineElementIndex": 2,
+    "currentElementIndex": 3,
+    "finalAlt": "Pamje e sotme e Prishtinës me ndërtesa të larta dhe qendra urbane"
+  },
+  {
+    "adtSection": "pg019_sec001.html",
+    "elementId": "pg019_im007",
+    "elementIndex": 3,
+    "outputPath": "images/pg019_im007.png",
+    "sourcePDF": "f7bf719411a7c7cf1ff0d5b62a614dfffbbfda975b0052ba7ece451d2eb9ee0e",
+    "physicalPage": 19,
+    "method": "Retained original ZIP asset; PDF image object and page occurrence matched, visually checked",
+    "sha256": "c5fb3d2fab659dc952e32e1e8de7fdaa356fad0895df2d3271d2b4a20c6c88a1",
+    "pixels": [
+      497,
+      368
+    ],
+    "alt": "Fotografi e vjetër e Pejës me shtëpi pranë ujit",
+    "decorative": false,
+    "pdfObjectXref": 2075,
+    "pdfBoundsPt": [
+      133.18084716796875,
+      599.588134765625,
+      252.41578674316406,
+      687.68359375
+    ],
+    "pixelSimilarityRMS": 0,
+    "baselineElementIndex": 3,
+    "currentElementIndex": 4,
+    "finalAlt": "Fotografi e vjetër e Pejës me shtëpi pranë ujit"
+  },
+  {
+    "adtSection": "pg019_sec001.html",
+    "elementId": "pg019_im009",
+    "elementIndex": 4,
+    "outputPath": "images/pg019_im009.png",
+    "sourcePDF": "f7bf719411a7c7cf1ff0d5b62a614dfffbbfda975b0052ba7ece451d2eb9ee0e",
+    "physicalPage": 19,
+    "method": "Retained original ZIP asset; PDF image object and page occurrence matched, visually checked",
+    "sha256": "334477acdd7834cf09f8bf64551b5334707290bdf9ee59fe2807ddb095c602be",
+    "pixels": [
+      167,
+      93
+    ],
+    "alt": "Fotografi e vjetër bardhë e zi e një zone të Pejës",
+    "decorative": false,
+    "pdfObjectXref": 2079,
+    "pdfBoundsPt": [
+      260.8719177246094,
+      600.0841064453125,
+      422.1011962890625,
+      689.7703857421875
+    ],
+    "pixelSimilarityRMS": 0,
+    "baselineElementIndex": 4,
+    "currentElementIndex": 5,
+    "finalAlt": "Fotografi e vjetër bardhë e zi e një zone të Pejës"
+  },
+  {
+    "adtSection": "pg019_sec001.html",
+    "elementId": "pg019_im010",
+    "elementIndex": 5,
+    "outputPath": "images/pg019_im010.png",
+    "sourcePDF": "f7bf719411a7c7cf1ff0d5b62a614dfffbbfda975b0052ba7ece451d2eb9ee0e",
+    "physicalPage": 19,
+    "method": "Retained original ZIP asset; PDF image object and page occurrence matched, visually checked",
+    "sha256": "78cb837d293c43d3b45eff779ef1a975af65ebbe7dfb9c59421f3f0239e2449b",
+    "pixels": [
+      185,
+      92
+    ],
+    "alt": "Fotografi e vjetër e një rruge me kalldrëm në Pejë",
+    "decorative": false,
+    "pdfObjectXref": 2081,
+    "pdfBoundsPt": [
+      401.983642578125,
+      600.093017578125,
+      545.4830932617188,
+      690.40185546875
+    ],
+    "pixelSimilarityRMS": 0,
+    "baselineElementIndex": 5,
+    "currentElementIndex": 6,
+    "finalAlt": "Fotografi e vjetër e një rruge me kalldrëm në Pejë"
+  },
+  {
+    "adtSection": "pg019_sec001.html",
+    "elementId": "pg019_im001",
+    "elementIndex": 6,
+    "outputPath": "images/pg019_im001.png",
+    "sourcePDF": "f7bf719411a7c7cf1ff0d5b62a614dfffbbfda975b0052ba7ece451d2eb9ee0e",
+    "physicalPage": 19,
+    "method": "Retained original ZIP asset; PDF image object and page occurrence matched, visually checked",
+    "sha256": "f30f043596bd942e5066a9d479d5b2b1db1c8eaaaa6037556dc3e8e4b6d342a6",
+    "pixels": [
+      180,
+      107
+    ],
+    "alt": "Pamje e hershme urbane e Pejës",
+    "decorative": false,
+    "pdfObjectXref": 2063,
+    "pdfBoundsPt": [
+      133.52114868164062,
+      698.1755981445312,
+      252.7613983154297,
+      774.6958618164062
+    ],
+    "pixelSimilarityRMS": 0,
+    "baselineElementIndex": 6,
+    "currentElementIndex": 7,
+    "finalAlt": "Pamje e hershme urbane e Pejës"
+  },
+  {
+    "adtSection": "pg019_sec001.html",
+    "elementId": "pg019_im002",
+    "elementIndex": 7,
+    "outputPath": "images/pg019_im002.png",
+    "sourcePDF": "f7bf719411a7c7cf1ff0d5b62a614dfffbbfda975b0052ba7ece451d2eb9ee0e",
+    "physicalPage": 19,
+    "method": "Retained original ZIP asset; PDF image object and page occurrence matched, visually checked",
+    "sha256": "81443f8f2bd79d931e31fdebbf08f9c8135a38e2c0d26f52919b12600bfa3f78",
+    "pixels": [
+      198,
+      109
+    ],
+    "alt": "Pamje më e re e qytetit të Pejës me ndërtesa dhe automjete",
+    "decorative": false,
+    "pdfObjectXref": 2067,
+    "pdfBoundsPt": [
+      260.76641845703125,
+      698.1688232421875,
+      411.26593017578125,
+      774.6941528320312
+    ],
+    "pixelSimilarityRMS": 0,
+    "baselineElementIndex": 7,
+    "currentElementIndex": 8,
+    "finalAlt": "Pamje më e re e qytetit të Pejës me ndërtesa dhe automjete"
+  },
+  {
+    "adtSection": "pg019_sec001.html",
+    "elementId": "pg019_im008",
+    "elementIndex": 8,
+    "outputPath": "images/pg019_im008.png",
+    "sourcePDF": "f7bf719411a7c7cf1ff0d5b62a614dfffbbfda975b0052ba7ece451d2eb9ee0e",
+    "physicalPage": 19,
+    "method": "Retained original ZIP asset; PDF image object and page occurrence matched, visually checked",
+    "sha256": "305c2bf044b006874de2f3c654836e45b674b4b2b67186690d9d05b374ec69c0",
+    "pixels": [
+      483,
+      319
+    ],
+    "alt": "Pamje e sotme e sheshit të qytetit të Pejës",
+    "decorative": false,
+    "pdfObjectXref": 2077,
+    "pdfBoundsPt": [
+      418.86883544921875,
+      697.8078002929688,
+      534.6144409179688,
+      774.3306274414062
+    ],
+    "pixelSimilarityRMS": 0,
+    "baselineElementIndex": 8,
+    "currentElementIndex": 9,
+    "finalAlt": "Pamje e sotme e sheshit të qytetit të Pejës"
+  },
+  {
+    "adtSection": "pg021_sec001.html",
+    "elementId": "pg021_im001",
+    "elementIndex": 0,
+    "outputPath": "images/pg021_im001.png",
+    "sourcePDF": "f7bf719411a7c7cf1ff0d5b62a614dfffbbfda975b0052ba7ece451d2eb9ee0e",
+    "physicalPage": 21,
+    "method": "Retained original ZIP asset; visually checked against physical PDF render",
+    "sha256": "6d80a6493fb3e71155c0ea242b1d1b807898da8ea81d1828804bb7064fe48d2d",
+    "pixels": [
+      233,
+      233
+    ],
+    "alt": "",
+    "decorative": true,
+    "pdfObjectXref": null,
+    "pdfBoundsPt": null,
+    "provenanceNote": "Existing raster crop of source artwork/vector diagram. Page match visually confirmed; exact original extraction coordinates unavailable. No invented object identity.",
+    "baselineElementIndex": 0,
+    "currentElementIndex": 0,
+    "finalAlt": ""
+  },
+  {
+    "adtSection": "pg022_sec001.html",
+    "elementId": "pg022_im003",
+    "elementIndex": 0,
+    "outputPath": "images/pg022_im003.png",
+    "sourcePDF": "f7bf719411a7c7cf1ff0d5b62a614dfffbbfda975b0052ba7ece451d2eb9ee0e",
+    "physicalPage": 22,
+    "method": "Retained original ZIP asset; PDF image object and page occurrence matched, visually checked",
+    "sha256": "88a9a7c710f5e7db371fa3ddcef95a8a7cb5f220150f9e52acdb72203fb8e793",
+    "pixels": [
+      1080,
+      528
+    ],
+    "alt": "Pamje e fshatit dikur me rrugë të thjeshta dhe kodra të hapura",
+    "decorative": false,
+    "pdfObjectXref": 2333,
+    "pdfBoundsPt": [
+      72.89276123046875,
+      285.52899169921875,
+      360.8087463378906,
+      426.28790283203125
+    ],
+    "pixelSimilarityRMS": 0,
+    "baselineElementIndex": 0,
+    "currentElementIndex": 1,
+    "finalAlt": "Pamje e fshatit dikur me rrugë të thjeshta dhe kodra të hapura"
+  },
+  {
+    "adtSection": "pg022_sec001.html",
+    "elementId": "pg022_im004",
+    "elementIndex": 1,
+    "outputPath": "images/pg022_im004.png",
+    "sourcePDF": "f7bf719411a7c7cf1ff0d5b62a614dfffbbfda975b0052ba7ece451d2eb9ee0e",
+    "physicalPage": 22,
+    "method": "Retained original ZIP asset; PDF image object and page occurrence matched, visually checked",
+    "sha256": "d2576df071d5b17415aeb57e584b25d2602b03297dbd6eb9bf7aa2522efd757f",
+    "pixels": [
+      1011,
+      508
+    ],
+    "alt": "Pamje e fshatit sot me rrugë të asfaltuar, makina dhe shumë ndërtesa",
+    "decorative": false,
+    "pdfObjectXref": 2336,
+    "pdfBoundsPt": [
+      72.06815338134766,
+      426.1701965332031,
+      362.02349853515625,
+      571.8648681640625
+    ],
+    "pixelSimilarityRMS": 0,
+    "baselineElementIndex": 1,
+    "currentElementIndex": 2,
+    "finalAlt": "Pamje e fshatit sot me rrugë të asfaltuar, makina dhe shumë ndërtesa"
+  },
+  {
+    "adtSection": "pg023_sec001.html",
+    "elementId": "pg023_im006",
+    "elementIndex": 0,
+    "outputPath": "images/pg023_im006.png",
+    "sourcePDF": "f7bf719411a7c7cf1ff0d5b62a614dfffbbfda975b0052ba7ece451d2eb9ee0e",
+    "physicalPage": 23,
+    "method": "Retained original ZIP asset; visually checked against physical PDF render",
+    "sha256": "1629d0558d55503641790f7a2142cb5b2d98dd0c25b50633374f9b2fbb92cdc9",
+    "pixels": [
+      726,
+      277
+    ],
+    "alt": "Diagram me dy rrathë të mbivendosur për krahasim",
+    "decorative": false,
+    "pdfObjectXref": null,
+    "pdfBoundsPt": null,
+    "provenanceNote": "Existing raster crop of source artwork/vector diagram. Page match visually confirmed; exact original extraction coordinates unavailable. No invented object identity.",
+    "baselineElementIndex": 0,
+    "currentElementIndex": 0,
+    "finalAlt": "Diagram me dy rrathë të mbivendosur për krahasim"
+  },
+  {
+    "adtSection": "pg024_sec003.html",
+    "elementId": "pg024_im004",
+    "elementIndex": 0,
+    "outputPath": "images/pg024_im004.png",
+    "sourcePDF": "f7bf719411a7c7cf1ff0d5b62a614dfffbbfda975b0052ba7ece451d2eb9ee0e",
+    "physicalPage": 24,
+    "method": "Retained original ZIP asset; visually checked against physical PDF render",
+    "sha256": "7ae3211e0d3a3f8d3ad38c7eb04a9f73cb36c461fdd2d43a7b1e3ed58daddff0",
+    "pixels": [
+      820,
+      377
+    ],
+    "alt": "Diagram i Venit me dy rrathë që mbivendosen për krahasim",
+    "decorative": false,
+    "pdfObjectXref": null,
+    "pdfBoundsPt": null,
+    "provenanceNote": "Existing raster crop of source artwork/vector diagram. Page match visually confirmed; exact original extraction coordinates unavailable. No invented object identity.",
+    "baselineElementIndex": 0,
+    "currentElementIndex": 0,
+    "finalAlt": "Diagram i Venit me dy rrathë që mbivendosen për krahasim"
+  },
+  {
+    "adtSection": "pg025_sec001.html",
+    "elementId": "pg025_im002",
+    "elementIndex": 0,
+    "outputPath": "images/pg025_im002.png",
+    "sourcePDF": "f7bf719411a7c7cf1ff0d5b62a614dfffbbfda975b0052ba7ece451d2eb9ee0e",
+    "physicalPage": 25,
+    "method": "Retained original ZIP asset; PDF image object and page occurrence matched, visually checked",
+    "sha256": "2bc67b230a098d8668e741897113c774a6fd9b26e3bebcf39caca1be7945be67",
+    "pixels": [
+      275,
+      247
+    ],
+    "alt": "Kasolle",
+    "decorative": false,
+    "pdfObjectXref": 2598,
+    "pdfBoundsPt": [
+      99.6566162109375,
+      307.834716796875,
+      271.17327880859375,
+      461.71612548828125
+    ],
+    "pixelSimilarityRMS": 0,
+    "baselineElementIndex": 0,
+    "currentElementIndex": 1,
+    "finalAlt": "Kasolle"
+  },
+  {
+    "adtSection": "pg025_sec001.html",
+    "elementId": "pg025_im003",
+    "elementIndex": 1,
+    "outputPath": "images/pg025_im003.png",
+    "sourcePDF": "f7bf719411a7c7cf1ff0d5b62a614dfffbbfda975b0052ba7ece451d2eb9ee0e",
+    "physicalPage": 25,
+    "method": "Retained original ZIP asset; PDF image object and page occurrence matched, visually checked",
+    "sha256": "309823f120e0155f7209d41cd33d24bc3a1aa5669ac74a952c9191d69efbd6ff",
+    "pixels": [
+      718,
+      650
+    ],
+    "alt": "Shtëpi përdhese tradicionale",
+    "decorative": false,
+    "pdfObjectXref": 2602,
+    "pdfBoundsPt": [
+      100.03938293457031,
+      468.27789306640625,
+      272.1216735839844,
+      624.194580078125
+    ],
+    "pixelSimilarityRMS": 0,
+    "baselineElementIndex": 1,
+    "currentElementIndex": 2,
+    "finalAlt": "Shtëpi përdhese tradicionale"
+  },
+  {
+    "adtSection": "pg025_sec001.html",
+    "elementId": "pg025_im004",
+    "elementIndex": 2,
+    "outputPath": "images/pg025_im004.png",
+    "sourcePDF": "f7bf719411a7c7cf1ff0d5b62a614dfffbbfda975b0052ba7ece451d2eb9ee0e",
+    "physicalPage": 25,
+    "method": "Retained original ZIP asset; PDF image object and page occurrence matched, visually checked",
+    "sha256": "0f56ea3935c28dc1573dc75a4e64ff26a31498baf16214bc3326237ae5dcc564",
+    "pixels": [
+      269,
+      264
+    ],
+    "alt": "Shtëpi tradicionale me kate",
+    "decorative": false,
+    "pdfObjectXref": 2604,
+    "pdfBoundsPt": [
+      96.83148193359375,
+      633.6810913085938,
+      245.57862854003906,
+      818.6168212890625
+    ],
+    "pixelSimilarityRMS": 0,
+    "baselineElementIndex": 2,
+    "currentElementIndex": 3,
+    "finalAlt": "Shtëpi tradicionale me kate"
+  },
+  {
+    "adtSection": "pg026_sec001.html",
+    "elementId": "pg026_im001",
+    "elementIndex": 0,
+    "outputPath": "images/pg026_im001.png",
+    "sourcePDF": "f7bf719411a7c7cf1ff0d5b62a614dfffbbfda975b0052ba7ece451d2eb9ee0e",
+    "physicalPage": 26,
+    "method": "Retained original ZIP asset; PDF image object and page occurrence matched, visually checked",
+    "sha256": "79031004fec0e5cc1996b91883c529c34915df92dffaf8b9deaddc8b10a393fa",
+    "pixels": [
+      251,
+      231
+    ],
+    "alt": "Kullë guri",
+    "decorative": false,
+    "pdfObjectXref": 2695,
+    "pdfBoundsPt": [
+      72.1464614868164,
+      73.15676879882812,
+      293.7478332519531,
+      276.873291015625
+    ],
+    "pixelSimilarityRMS": 0,
+    "baselineElementIndex": 0,
+    "currentElementIndex": 0,
+    "finalAlt": "Kullë guri"
+  },
+  {
+    "adtSection": "pg026_sec001.html",
+    "elementId": "pg026_im004",
+    "elementIndex": 1,
+    "outputPath": "images/pg026_im004.png",
+    "sourcePDF": "f7bf719411a7c7cf1ff0d5b62a614dfffbbfda975b0052ba7ece451d2eb9ee0e",
+    "physicalPage": 26,
+    "method": "Retained original ZIP asset; PDF image object and page occurrence matched, visually checked",
+    "sha256": "1fc3f6bb5b8983e04e357735223e20bf7b58f4c21e0304e53536add70a0c838b",
+    "pixels": [
+      953,
+      745
+    ],
+    "alt": "Ndërtesë moderne shumëkatëshe",
+    "decorative": false,
+    "pdfObjectXref": 2703,
+    "pdfBoundsPt": [
+      71.69287109375,
+      280.82470703125,
+      300.2054443359375,
+      459.6103210449219
+    ],
+    "pixelSimilarityRMS": 0,
+    "baselineElementIndex": 1,
+    "currentElementIndex": 1,
+    "finalAlt": "Ndërtesë moderne shumëkatëshe"
+  },
+  {
+    "adtSection": "pg026_sec001.html",
+    "elementId": "pg026_im003",
+    "elementIndex": 2,
+    "outputPath": "images/pg026_im003.png",
+    "sourcePDF": "f7bf719411a7c7cf1ff0d5b62a614dfffbbfda975b0052ba7ece451d2eb9ee0e",
+    "physicalPage": 26,
+    "method": "Retained original ZIP asset; PDF image object and page occurrence matched, visually checked",
+    "sha256": "60f8fbf0e54607ed029e3d65f6d493ca2c83331f5d5ee6290208687c0b71ff43",
+    "pixels": [
+      984,
+      743
+    ],
+    "alt": "Pallat modern me ballkone",
+    "decorative": false,
+    "pdfObjectXref": 2701,
+    "pdfBoundsPt": [
+      304.5220947265625,
+      280.82470703125,
+      540.4674682617188,
+      458.9651794433594
+    ],
+    "pixelSimilarityRMS": 0,
+    "baselineElementIndex": 2,
+    "currentElementIndex": 2,
+    "finalAlt": "Pallat modern me ballkone"
+  },
+  {
+    "adtSection": "pg026_sec001.html",
+    "elementId": "pg026_im002",
+    "elementIndex": 3,
+    "outputPath": "images/pg026_im002.png",
+    "sourcePDF": "f7bf719411a7c7cf1ff0d5b62a614dfffbbfda975b0052ba7ece451d2eb9ee0e",
+    "physicalPage": 26,
+    "method": "Retained original ZIP asset; PDF image object and page occurrence matched, visually checked",
+    "sha256": "21cc0b23fe06476f74a3f223a014fce4470fff47b152972172c271ecabc565a9",
+    "pixels": [
+      1206,
+      971
+    ],
+    "alt": "Shtëpi moderne",
+    "decorative": false,
+    "pdfObjectXref": 2699,
+    "pdfBoundsPt": [
+      152.73251342773438,
+      526.545654296875,
+      441.95672607421875,
+      759.5458984375
+    ],
+    "pixelSimilarityRMS": 0,
+    "baselineElementIndex": 3,
+    "currentElementIndex": 3,
+    "finalAlt": "Shtëpi moderne"
+  },
+  {
+    "adtSection": "pg029_sec001.html",
+    "elementId": "pg029_im004",
+    "elementIndex": 0,
+    "outputPath": "images/pg029_im004.png",
+    "sourcePDF": "f7bf719411a7c7cf1ff0d5b62a614dfffbbfda975b0052ba7ece451d2eb9ee0e",
+    "physicalPage": 29,
+    "method": "Retained original ZIP asset; PDF image object and page occurrence matched, visually checked",
+    "sha256": "71d3a98c1108d2cb028c39f6372c96127bedad3f290e2e41b46a2241fb761854",
+    "pixels": [
+      259,
+      194
+    ],
+    "alt": "Katedrale",
+    "decorative": false,
+    "pdfObjectXref": 3167,
+    "pdfBoundsPt": [
+      121.93295288085938,
+      283.8438720703125,
+      288.3895263671875,
+      408.3865966796875
+    ],
+    "pixelSimilarityRMS": 0,
+    "baselineElementIndex": 0,
+    "currentElementIndex": 1,
+    "finalAlt": "Katedrale"
+  },
+  {
+    "adtSection": "pg029_sec001.html",
+    "elementId": "pg029_im005",
+    "elementIndex": 1,
+    "outputPath": "images/pg029_im005.png",
+    "sourcePDF": "f7bf719411a7c7cf1ff0d5b62a614dfffbbfda975b0052ba7ece451d2eb9ee0e",
+    "physicalPage": 29,
+    "method": "Retained original ZIP asset; PDF image object and page occurrence matched, visually checked",
+    "sha256": "88b0d1dca73830671103616f90ad577fd839589a6a8126f9b1370507d64f31a6",
+    "pixels": [
+      163,
+      186
+    ],
+    "alt": "Xhami",
+    "decorative": false,
+    "pdfObjectXref": 3171,
+    "pdfBoundsPt": [
+      292.5917663574219,
+      283.9869384765625,
+      401.7442626953125,
+      408.4024658203125
+    ],
+    "pixelSimilarityRMS": 0,
+    "baselineElementIndex": 1,
+    "currentElementIndex": 2,
+    "finalAlt": "Xhami"
+  },
+  {
+    "adtSection": "pg029_sec001.html",
+    "elementId": "pg029_im006",
+    "elementIndex": 2,
+    "outputPath": "images/pg029_im006.png",
+    "sourcePDF": "f7bf719411a7c7cf1ff0d5b62a614dfffbbfda975b0052ba7ece451d2eb9ee0e",
+    "physicalPage": 29,
+    "method": "Retained original ZIP asset; PDF image object and page occurrence matched, visually checked",
+    "sha256": "08c07bee0bcd70fe6ea1b4a439af4c5709fbdc7e439367fa67fcd9f282ebbeca",
+    "pixels": [
+      188,
+      165
+    ],
+    "alt": "Kishë ortodokse",
+    "decorative": false,
+    "pdfObjectXref": 3173,
+    "pdfBoundsPt": [
+      405.2471923828125,
+      284.17230224609375,
+      546.6131591796875,
+      408.10516357421875
+    ],
+    "pixelSimilarityRMS": 0,
+    "baselineElementIndex": 2,
+    "currentElementIndex": 3,
+    "finalAlt": "Kishë ortodokse"
+  },
+  {
+    "adtSection": "pg029_sec001.html",
+    "elementId": "pg029_im007",
+    "elementIndex": 3,
+    "outputPath": "images/pg029_im007.png",
+    "sourcePDF": "f7bf719411a7c7cf1ff0d5b62a614dfffbbfda975b0052ba7ece451d2eb9ee0e",
+    "physicalPage": 29,
+    "method": "Retained original ZIP asset; PDF image object and page occurrence matched, visually checked",
+    "sha256": "49732bc59f22fc3247e1b925921398ac87d377f1dd19e24d75601f8b5c5709e4",
+    "pixels": [
+      147,
+      151
+    ],
+    "alt": "Punishte e vogël me mjete pune të thjeshta",
+    "decorative": false,
+    "pdfObjectXref": 3175,
+    "pdfBoundsPt": [
+      69.13789367675781,
+      505.7453308105469,
+      149.15524291992188,
+      587.848388671875
+    ],
+    "pixelSimilarityRMS": 0,
+    "baselineElementIndex": 3,
+    "currentElementIndex": 4,
+    "finalAlt": "Punishte e vogël me mjete pune të thjeshta"
+  },
+  {
+    "adtSection": "pg029_sec001.html",
+    "elementId": "pg029_im008",
+    "elementIndex": 4,
+    "outputPath": "images/pg029_im008.png",
+    "sourcePDF": "f7bf719411a7c7cf1ff0d5b62a614dfffbbfda975b0052ba7ece451d2eb9ee0e",
+    "physicalPage": 29,
+    "method": "Retained original ZIP asset; PDF image object and page occurrence matched, visually checked",
+    "sha256": "24f210521cb65ac4a930df57af9195a52d72b76b3fe115920370945630998243",
+    "pixels": [
+      177,
+      139
+    ],
+    "alt": "Fabrikë moderne me shumë punëtorë",
+    "decorative": false,
+    "pdfObjectXref": 3179,
+    "pdfBoundsPt": [
+      152.23104858398438,
+      505.7695007324219,
+      256.9119567871094,
+      587.8848876953125
+    ],
+    "pixelSimilarityRMS": 0,
+    "baselineElementIndex": 4,
+    "currentElementIndex": 5,
+    "finalAlt": "Fabrikë moderne me shumë punëtorë"
+  },
+  {
+    "adtSection": "pg029_sec001.html",
+    "elementId": "pg029_im009",
+    "elementIndex": 5,
+    "outputPath": "images/pg029_im009.png",
+    "sourcePDF": "f7bf719411a7c7cf1ff0d5b62a614dfffbbfda975b0052ba7ece451d2eb9ee0e",
+    "physicalPage": 29,
+    "method": "Retained original ZIP asset; PDF image object and page occurrence matched, visually checked",
+    "sha256": "0c91ae63277875b52d7682c3edc65a4e604219112e91efb1c3db3d99c1b02ec2",
+    "pixels": [
+      245,
+      138
+    ],
+    "alt": "Stallë e thjeshtë me pak kafshë",
+    "decorative": false,
+    "pdfObjectXref": 3183,
+    "pdfBoundsPt": [
+      69.14173126220703,
+      591.8561401367188,
+      204.33181762695312,
+      667.9191284179688
+    ],
+    "pixelSimilarityRMS": 0,
+    "baselineElementIndex": 5,
+    "currentElementIndex": 6,
+    "finalAlt": "Stallë e thjeshtë me pak kafshë"
+  },
+  {
+    "adtSection": "pg029_sec001.html",
+    "elementId": "pg029_im010",
+    "elementIndex": 6,
+    "outputPath": "images/pg029_im010.png",
+    "sourcePDF": "f7bf719411a7c7cf1ff0d5b62a614dfffbbfda975b0052ba7ece451d2eb9ee0e",
+    "physicalPage": 29,
+    "method": "Retained original ZIP asset; PDF image object and page occurrence matched, visually checked",
+    "sha256": "0d0c415838d2382f6842a7b9c93d2d2e9cb0386146970d15e7018e0cf1882d56",
+    "pixels": [
+      259,
+      128
+    ],
+    "alt": "Fermë moderne për mbajtjen e kafshëve",
+    "decorative": false,
+    "pdfObjectXref": 3187,
+    "pdfBoundsPt": [
+      169.73968505859375,
+      591.8782348632812,
+      323.8167724609375,
+      667.9395751953125
+    ],
+    "pixelSimilarityRMS": 0,
+    "baselineElementIndex": 6,
+    "currentElementIndex": 7,
+    "finalAlt": "Fermë moderne për mbajtjen e kafshëve"
+  },
+  {
+    "adtSection": "pg029_sec001.html",
+    "elementId": "pg029_im001",
+    "elementIndex": 7,
+    "outputPath": "images/pg029_im001.png",
+    "sourcePDF": "f7bf719411a7c7cf1ff0d5b62a614dfffbbfda975b0052ba7ece451d2eb9ee0e",
+    "physicalPage": 29,
+    "method": "Retained original ZIP asset; PDF image object and page occurrence matched, visually checked",
+    "sha256": "8cc358a3b05fa051e1e0e862aabee91a39c72ed8007cdaf58705b18ae8c1a4dd",
+    "pixels": [
+      283,
+      144
+    ],
+    "alt": "Punim i tokës me kalë me parmendë",
+    "decorative": false,
+    "pdfObjectXref": 3161,
+    "pdfBoundsPt": [
+      68.7334213256836,
+      672.6339721679688,
+      289.8536376953125,
+      785.02197265625
+    ],
+    "pixelSimilarityRMS": 0,
+    "baselineElementIndex": 7,
+    "currentElementIndex": 8,
+    "finalAlt": "Punim i tokës me kalë me parmendë"
+  },
+  {
+    "adtSection": "pg029_sec001.html",
+    "elementId": "pg029_im002",
+    "elementIndex": 8,
+    "outputPath": "images/pg029_im002.png",
+    "sourcePDF": "f7bf719411a7c7cf1ff0d5b62a614dfffbbfda975b0052ba7ece451d2eb9ee0e",
+    "physicalPage": 29,
+    "method": "Retained original ZIP asset; PDF image object and page occurrence matched, visually checked",
+    "sha256": "2a12181290858a4d6d4203a7874168b4ec0c36ad9f1a318c50084093a3df4935",
+    "pixels": [
+      281,
+      145
+    ],
+    "alt": "Bujqësi moderne me traktor në fushë",
+    "decorative": false,
+    "pdfObjectXref": 3163,
+    "pdfBoundsPt": [
+      186.14352416992188,
+      687.956787109375,
+      346.1600341796875,
+      770.435546875
+    ],
+    "pixelSimilarityRMS": 0,
+    "baselineElementIndex": 8,
+    "currentElementIndex": 9,
+    "finalAlt": "Bujqësi moderne me traktor në fushë"
+  },
+  {
+    "adtSection": "pg031_sec004.html",
+    "elementId": "pg031_im005",
+    "elementIndex": 0,
+    "outputPath": "images/pg031_im005.png",
+    "sourcePDF": "f7bf719411a7c7cf1ff0d5b62a614dfffbbfda975b0052ba7ece451d2eb9ee0e",
+    "physicalPage": 31,
+    "method": "Retained original ZIP asset; visually checked against physical PDF render",
+    "sha256": "7391163c29b794b469a1eccb5e0ff51b94619507d6399cefbd52a5253979a70d",
+    "pixels": [
+      820,
+      377
+    ],
+    "alt": "Diagramë Venn me dy rrathë që mbivendosen për krahasim",
+    "decorative": false,
+    "pdfObjectXref": null,
+    "pdfBoundsPt": null,
+    "provenanceNote": "Existing raster crop of source artwork/vector diagram. Page match visually confirmed; exact original extraction coordinates unavailable. No invented object identity.",
+    "baselineElementIndex": 0,
+    "currentElementIndex": 0,
+    "finalAlt": "Diagramë Venn me dy rrathë që mbivendosen për krahasim"
+  },
+  {
+    "adtSection": "pg032_sec001.html",
+    "elementId": "pg032_im003",
+    "elementIndex": 0,
+    "outputPath": "images/pg032_im003.png",
+    "sourcePDF": "f7bf719411a7c7cf1ff0d5b62a614dfffbbfda975b0052ba7ece451d2eb9ee0e",
+    "physicalPage": 32,
+    "method": "Retained original ZIP asset; PDF image object and page occurrence matched, visually checked",
+    "sha256": "38036126faad857213263acc1ca2eef247ca6bbcf93c5158fccd3c51e4ed37dd",
+    "pixels": [
+      201,
+      557
+    ],
+    "alt": "Veshje tradicionale burrash me tirq të bardhë të zbukuruar me gajtanë të zinj, brez në mes, mbulesë të bardhë të kokës dhe opinga.",
+    "decorative": false,
+    "pdfObjectXref": 3486,
+    "pdfBoundsPt": [
+      76.24774932861328,
+      293.69549560546875,
+      152.21835327148438,
+      535.547607421875
+    ],
+    "pixelSimilarityRMS": 0,
+    "baselineElementIndex": 0,
+    "currentElementIndex": 1,
+    "finalAlt": "Veshje tradicionale burrash me tirq të bardhë të zbukuruar me gajtanë të zinj, brez në mes, mbulesë të bardhë të kokës dhe opinga."
+  },
+  {
+    "adtSection": "pg032_sec001.html",
+    "elementId": "pg032_im004",
+    "elementIndex": 1,
+    "outputPath": "images/pg032_im004.png",
+    "sourcePDF": "f7bf719411a7c7cf1ff0d5b62a614dfffbbfda975b0052ba7ece451d2eb9ee0e",
+    "physicalPage": 32,
+    "method": "Retained original ZIP asset; PDF image object and page occurrence matched, visually checked",
+    "sha256": "a65ba49c7e52db2e9ad2516842f5624e910267e76957fc8c5601b4e970d87aee",
+    "pixels": [
+      546,
+      764
+    ],
+    "alt": "Xhubletë e zezë me fund të valëzuar, e zbukuruar me shirita dhe ornamente shumëngjyrëshe.",
+    "decorative": false,
+    "pdfObjectXref": 3488,
+    "pdfBoundsPt": [
+      295.148193359375,
+      324.99041748046875,
+      426.1073913574219,
+      508.245361328125
+    ],
+    "pixelSimilarityRMS": 0,
+    "baselineElementIndex": 1,
+    "currentElementIndex": 2,
+    "finalAlt": "Xhubletë e zezë me fund të valëzuar, e zbukuruar me shirita dhe ornamente shumëngjyrëshe."
+  },
+  {
+    "adtSection": "pg032_sec001.html",
+    "elementId": "pg032_im005",
+    "elementIndex": 2,
+    "outputPath": "images/pg032_im005.png",
+    "sourcePDF": "f7bf719411a7c7cf1ff0d5b62a614dfffbbfda975b0052ba7ece451d2eb9ee0e",
+    "physicalPage": 32,
+    "method": "Retained original ZIP asset; PDF image object and page occurrence matched, visually checked",
+    "sha256": "1d8df6d09d5fcd4fcca438d21fd72eb02415f89057bcd46a6fdd05df734281f0",
+    "pixels": [
+      121,
+      220
+    ],
+    "alt": "Veshje e Dukagjinit për gra, me fustan të bardhë, jelek të kuq, shall me thekë në bel, çorape të errëta dhe opinga.",
+    "decorative": false,
+    "pdfObjectXref": 3490,
+    "pdfBoundsPt": [
+      76.56507873535156,
+      575.3828125,
+      151.314453125,
+      711.1392822265625
+    ],
+    "pixelSimilarityRMS": 0,
+    "baselineElementIndex": 2,
+    "currentElementIndex": 3,
+    "finalAlt": "Veshje e Dukagjinit për gra, me fustan të bardhë, jelek të kuq, shall me thekë në bel, çorape të errëta dhe opinga."
+  },
+  {
+    "adtSection": "pg032_sec001.html",
+    "elementId": "pg032_im001",
+    "elementIndex": 3,
+    "outputPath": "images/pg032_im001.png",
+    "sourcePDF": "f7bf719411a7c7cf1ff0d5b62a614dfffbbfda975b0052ba7ece451d2eb9ee0e",
+    "physicalPage": 32,
+    "method": "Retained original ZIP asset; PDF image object and page occurrence matched, visually checked",
+    "sha256": "5724efa3619888e641d427e00c6c37578c00ff219b2bac1f4f5a8c3e8b4cf816",
+    "pixels": [
+      442,
+      997
+    ],
+    "alt": "Veshje e Hasit për gra, me këmishë të çelët, jelek rozë dhe përparëse e fund të mbuluar me qëndisje e motive shumëngjyrëshe.",
+    "decorative": false,
+    "pdfObjectXref": 3484,
+    "pdfBoundsPt": [
+      439.443359375,
+      504.6455078125,
+      545.3859252929688,
+      743.7224731445312
+    ],
+    "pixelSimilarityRMS": 0,
+    "baselineElementIndex": 3,
+    "currentElementIndex": 4,
+    "finalAlt": "Veshje e Hasit për gra, me këmishë të çelët, jelek rozë dhe përparëse e fund të mbuluar me qëndisje e motive shumëngjyrëshe."
+  },
+  {
+    "adtSection": "pg034_sec001.html",
+    "elementId": "pg034_im002",
+    "elementIndex": 0,
+    "outputPath": "images/pg034_im002.png",
+    "sourcePDF": "f7bf719411a7c7cf1ff0d5b62a614dfffbbfda975b0052ba7ece451d2eb9ee0e",
+    "physicalPage": 34,
+    "method": "Retained original ZIP asset; PDF image object and page occurrence matched, visually checked",
+    "sha256": "a6c5290da158da459e1c993c5f11c282e1d7b96b74c04a87850eda9a4dcec3de",
+    "pixels": [
+      954,
+      872
+    ],
+    "alt": "Fotografi me veshje tradicionale",
+    "decorative": false,
+    "pdfObjectXref": 3671,
+    "pdfBoundsPt": [
+      82.26110076904297,
+      417.5191650390625,
+      311.0491027832031,
+      626.6021118164062
+    ],
+    "pixelSimilarityRMS": 0,
+    "baselineElementIndex": 0,
+    "currentElementIndex": 0,
+    "finalAlt": "Fotografi me veshje tradicionale"
+  },
+  {
+    "adtSection": "pg035_sec001.html",
+    "elementId": "pg035_im006",
+    "elementIndex": 0,
+    "outputPath": "images/pg035_im006.png",
+    "sourcePDF": "f7bf719411a7c7cf1ff0d5b62a614dfffbbfda975b0052ba7ece451d2eb9ee0e",
+    "physicalPage": 35,
+    "method": "Retained original ZIP asset; visually checked against physical PDF render",
+    "sha256": "498cc80316eaf792cae3857f2e9b5d06aef290397cd6f68936611c696ea9a15b",
+    "pixels": [
+      383,
+      609
+    ],
+    "alt": "Lista e ushqimeve të gjyshërve me gatime tradicionale",
+    "decorative": false,
+    "pdfObjectXref": null,
+    "pdfBoundsPt": null,
+    "provenanceNote": "Existing raster crop of source artwork/vector diagram. Page match visually confirmed; exact original extraction coordinates unavailable. No invented object identity.",
+    "baselineElementIndex": 0,
+    "currentElementIndex": 0,
+    "finalAlt": "Lista e ushqimeve të gjyshërve me gatime tradicionale"
+  },
+  {
+    "adtSection": "pg035_sec001.html",
+    "elementId": "pg035_im007",
+    "elementIndex": 1,
+    "outputPath": "images/pg035_im007.png",
+    "sourcePDF": "f7bf719411a7c7cf1ff0d5b62a614dfffbbfda975b0052ba7ece451d2eb9ee0e",
+    "physicalPage": 35,
+    "method": "Retained original ZIP asset; visually checked against physical PDF render",
+    "sha256": "d86722745a7bfeb07bb84709f9a5980c83c83fa15f139f09fafd63146fa6e16e",
+    "pixels": [
+      405,
+      481
+    ],
+    "alt": "Lista e ushqimeve të prindërve me gatime bashkëkohore",
+    "decorative": false,
+    "pdfObjectXref": null,
+    "pdfBoundsPt": null,
+    "provenanceNote": "Existing raster crop of source artwork/vector diagram. Page match visually confirmed; exact original extraction coordinates unavailable. No invented object identity.",
+    "baselineElementIndex": 1,
+    "currentElementIndex": 1,
+    "finalAlt": "Lista e ushqimeve të prindërve me gatime bashkëkohore"
+  },
+  {
+    "adtSection": "pg038_sec001.html",
+    "elementId": "pg038_im002",
+    "elementIndex": 0,
+    "outputPath": "images/pg038_im002.png",
+    "sourcePDF": "f7bf719411a7c7cf1ff0d5b62a614dfffbbfda975b0052ba7ece451d2eb9ee0e",
+    "physicalPage": 38,
+    "method": "Retained original ZIP asset; PDF image object and page occurrence matched, visually checked",
+    "sha256": "4b7f93652ab8d8b6ee3a61947fbd255e3ec6011f40d1ece78aecf6e257ba9347",
+    "pixels": [
+      249,
+      185
+    ],
+    "alt": "Vegla të vjetra zdrukthëtarie",
+    "decorative": false,
+    "pdfObjectXref": 4118,
+    "pdfBoundsPt": [
+      71.8151626586914,
+      307.83831787109375,
+      194.78622436523438,
+      399.1004943847656
+    ],
+    "pixelSimilarityRMS": 0,
+    "baselineElementIndex": 0,
+    "currentElementIndex": 1,
+    "finalAlt": "Vegla të vjetra zdrukthëtarie"
+  },
+  {
+    "adtSection": "pg038_sec001.html",
+    "elementId": "pg038_im003",
+    "elementIndex": 1,
+    "outputPath": "images/pg038_im003.png",
+    "sourcePDF": "f7bf719411a7c7cf1ff0d5b62a614dfffbbfda975b0052ba7ece451d2eb9ee0e",
+    "physicalPage": 38,
+    "method": "Retained original ZIP asset; PDF image object and page occurrence matched, visually checked",
+    "sha256": "506e4d3649fac7ed82038e4aa9224496d61b39ba7b5779b1ccf92e29ee57385a",
+    "pixels": [
+      245,
+      173
+    ],
+    "alt": "Makineri moderne për përpunimin e drurit",
+    "decorative": false,
+    "pdfObjectXref": 4122,
+    "pdfBoundsPt": [
+      71.8153076171875,
+      400.4697570800781,
+      192.88734436035156,
+      485.8661193847656
+    ],
+    "pixelSimilarityRMS": 0,
+    "baselineElementIndex": 1,
+    "currentElementIndex": 2,
+    "finalAlt": "Makineri moderne për përpunimin e drurit"
+  },
+  {
+    "adtSection": "pg038_sec001.html",
+    "elementId": "pg038_im004",
+    "elementIndex": 2,
+    "outputPath": "images/pg038_im004.png",
+    "sourcePDF": "f7bf719411a7c7cf1ff0d5b62a614dfffbbfda975b0052ba7ece451d2eb9ee0e",
+    "physicalPage": 38,
+    "method": "Retained original ZIP asset; PDF image object and page occurrence matched, visually checked",
+    "sha256": "6f6de289105e298b2274d6ba7204650e7850b3c2303f65863b08b59d6f715b13",
+    "pixels": [
+      183,
+      99
+    ],
+    "alt": "Rrush duke u përzier për prodhimin e verës",
+    "decorative": false,
+    "pdfObjectXref": 4126,
+    "pdfBoundsPt": [
+      71.28058624267578,
+      490.4129333496094,
+      192.10592651367188,
+      555.70458984375
+    ],
+    "pixelSimilarityRMS": 0,
+    "baselineElementIndex": 2,
+    "currentElementIndex": 3,
+    "finalAlt": "Rrush duke u përzier për prodhimin e verës"
+  },
+  {
+    "adtSection": "pg038_sec001.html",
+    "elementId": "pg038_im005",
+    "elementIndex": 3,
+    "outputPath": "images/pg038_im005.png",
+    "sourcePDF": "f7bf719411a7c7cf1ff0d5b62a614dfffbbfda975b0052ba7ece451d2eb9ee0e",
+    "physicalPage": 38,
+    "method": "Retained original ZIP asset; PDF image object and page occurrence matched, visually checked",
+    "sha256": "46a2235432316f01dcd3ed94fe2a54a00add575845ae8a8118b1bdde3c7728fe",
+    "pixels": [
+      185,
+      110
+    ],
+    "alt": "Pajisje bashkëkohore për prodhimin e verës",
+    "decorative": false,
+    "pdfObjectXref": 4130,
+    "pdfBoundsPt": [
+      70.62342834472656,
+      559.72265625,
+      192.769287109375,
+      632.2689208984375
+    ],
+    "pixelSimilarityRMS": 0,
+    "baselineElementIndex": 3,
+    "currentElementIndex": 4,
+    "finalAlt": "Pajisje bashkëkohore për prodhimin e verës"
+  },
+  {
+    "adtSection": "pg038_sec001.html",
+    "elementId": "pg038_im006",
+    "elementIndex": 4,
+    "outputPath": "images/pg038_im006.png",
+    "sourcePDF": "f7bf719411a7c7cf1ff0d5b62a614dfffbbfda975b0052ba7ece451d2eb9ee0e",
+    "physicalPage": 38,
+    "method": "Retained original ZIP asset; PDF image object and page occurrence matched, visually checked",
+    "sha256": "e75dd49d366e01efa39e9598e6bf9afbd278811569cbbbf919362a06339b6d2a",
+    "pixels": [
+      271,
+      157
+    ],
+    "alt": "Makina e shkrimit",
+    "decorative": false,
+    "pdfObjectXref": 4134,
+    "pdfBoundsPt": [
+      71.7917709350586,
+      636.1082153320312,
+      191.42120361328125,
+      705.3365478515625
+    ],
+    "pixelSimilarityRMS": 0,
+    "baselineElementIndex": 4,
+    "currentElementIndex": 5,
+    "finalAlt": "Makina e shkrimit"
+  },
+  {
+    "adtSection": "pg038_sec001.html",
+    "elementId": "pg038_im007",
+    "elementIndex": 5,
+    "outputPath": "images/pg038_im007.png",
+    "sourcePDF": "f7bf719411a7c7cf1ff0d5b62a614dfffbbfda975b0052ba7ece451d2eb9ee0e",
+    "physicalPage": 38,
+    "method": "Retained original ZIP asset; PDF image object and page occurrence matched, visually checked",
+    "sha256": "f275645fc1bd0ba11476d4169ee5e985ead66d0a3511371b41c0c4bcdee350e4",
+    "pixels": [
+      271,
+      152
+    ],
+    "alt": "Kompjuter për dërgimin dhe marrjen e lajmeve",
+    "decorative": false,
+    "pdfObjectXref": 4138,
+    "pdfBoundsPt": [
+      73.07997131347656,
+      708.7744140625,
+      196.63043212890625,
+      777.9948120117188
+    ],
+    "pixelSimilarityRMS": 0,
+    "baselineElementIndex": 5,
+    "currentElementIndex": 6,
+    "finalAlt": "Kompjuter për dërgimin dhe marrjen e lajmeve"
+  },
+  {
+    "adtSection": "pg039_sec001.html",
+    "elementId": "pg039_im003",
+    "elementIndex": 0,
+    "outputPath": "images/pg039_im003.png",
+    "sourcePDF": "f7bf719411a7c7cf1ff0d5b62a614dfffbbfda975b0052ba7ece451d2eb9ee0e",
+    "physicalPage": 39,
+    "method": "Retained original ZIP asset; PDF image object and page occurrence matched, visually checked",
+    "sha256": "e0a459efd627da078bf1212058b752565aa235823e2f7eb1bb02ad9fc21083dd",
+    "pixels": [
+      114,
+      153
+    ],
+    "alt": "Stetoskop i kuq për kontrollimin e pacientëve.",
+    "decorative": false,
+    "pdfObjectXref": 4261,
+    "pdfBoundsPt": [
+      144.826171875,
+      56.39989471435547,
+      227.41873168945312,
+      167.12420654296875
+    ],
+    "pixelSimilarityRMS": 0,
+    "baselineElementIndex": 0,
+    "currentElementIndex": 0,
+    "finalAlt": "Stetoskop i kuq për kontrollimin e pacientëve."
+  },
+  {
+    "adtSection": "pg039_sec001.html",
+    "elementId": "pg039_im004",
+    "elementIndex": 1,
+    "outputPath": "images/pg039_im004.png",
+    "sourcePDF": "f7bf719411a7c7cf1ff0d5b62a614dfffbbfda975b0052ba7ece451d2eb9ee0e",
+    "physicalPage": 39,
+    "method": "Retained original ZIP asset; PDF image object and page occurrence matched, visually checked",
+    "sha256": "8e1b59c221b2b147bcfbcbe711dc3206e38af07babe146bb501bfcaa44d02cec",
+    "pixels": [
+      150,
+      153
+    ],
+    "alt": "Shiringë, shishe ilaçesh dhe tableta për mjekim.",
+    "decorative": false,
+    "pdfObjectXref": 4263,
+    "pdfBoundsPt": [
+      232.05599975585938,
+      53.88074493408203,
+      334.72412109375,
+      158.4854736328125
+    ],
+    "pixelSimilarityRMS": 0,
+    "baselineElementIndex": 1,
+    "currentElementIndex": 1,
+    "finalAlt": "Shiringë, shishe ilaçesh dhe tableta për mjekim."
+  },
+  {
+    "adtSection": "pg039_sec001.html",
+    "elementId": "pg039_im005",
+    "elementIndex": 2,
+    "outputPath": "images/pg039_im005.png",
+    "sourcePDF": "f7bf719411a7c7cf1ff0d5b62a614dfffbbfda975b0052ba7ece451d2eb9ee0e",
+    "physicalPage": 39,
+    "method": "Retained original ZIP asset; PDF image object and page occurrence matched, visually checked",
+    "sha256": "15671a16bc01fafa8338e5c5b83547f304d0f4b8b598da625ae0b8fbf0055074",
+    "pixels": [
+      135,
+      145
+    ],
+    "alt": "Monitor me imazhe skanimi mjekësor të trupit.",
+    "decorative": false,
+    "pdfObjectXref": 4265,
+    "pdfBoundsPt": [
+      341.2374267578125,
+      56.339324951171875,
+      423.11761474609375,
+      144.1866455078125
+    ],
+    "pixelSimilarityRMS": 0,
+    "baselineElementIndex": 2,
+    "currentElementIndex": 2,
+    "finalAlt": "Monitor me imazhe skanimi mjekësor të trupit."
+  },
+  {
+    "adtSection": "pg039_sec001.html",
+    "elementId": "pg039_im006",
+    "elementIndex": 3,
+    "outputPath": "images/pg039_im006.png",
+    "sourcePDF": "f7bf719411a7c7cf1ff0d5b62a614dfffbbfda975b0052ba7ece451d2eb9ee0e",
+    "physicalPage": 39,
+    "method": "Retained original ZIP asset; PDF image object and page occurrence matched, visually checked",
+    "sha256": "9607ddfa7b1213d2913b3eec8481da902b0f36d23ac92a23e812a8416907628f",
+    "pixels": [
+      144,
+      159
+    ],
+    "alt": "Pajisje moderne mjekësore për ekzaminime në spital.",
+    "decorative": false,
+    "pdfObjectXref": 4269,
+    "pdfBoundsPt": [
+      429.7064208984375,
+      53.87293243408203,
+      526.0575561523438,
+      160.14202880859375
+    ],
+    "pixelSimilarityRMS": 0,
+    "baselineElementIndex": 3,
+    "currentElementIndex": 3,
+    "finalAlt": "Pajisje moderne mjekësore për ekzaminime në spital."
+  },
+  {
+    "adtSection": "pg040_sec001.html",
+    "elementId": "pg040_im003",
+    "elementIndex": 0,
+    "outputPath": "images/pg040_im003.png",
+    "sourcePDF": "f7bf719411a7c7cf1ff0d5b62a614dfffbbfda975b0052ba7ece451d2eb9ee0e",
+    "physicalPage": 40,
+    "method": "Retained original ZIP asset; PDF image object and page occurrence matched, visually checked",
+    "sha256": "023e90e00ceb6d7bffd791d620cfd7982aeab5ca8844964253b6c88e0824133c",
+    "pixels": [
+      1890,
+      1123
+    ],
+    "alt": "Fëmijë duke punuar së bashku në një projekt artistik me letra me ngjyra dhe lapsa.",
+    "decorative": false,
+    "pdfObjectXref": 4373,
+    "pdfBoundsPt": [
+      85.86614990234375,
+      506.8105773925781,
+      539.409423828125,
+      776.1964111328125
+    ],
+    "pixelSimilarityRMS": 0,
+    "baselineElementIndex": 0,
+    "currentElementIndex": 0,
+    "finalAlt": "Fëmijë duke punuar së bashku në një projekt artistik me letra me ngjyra dhe lapsa."
+  },
+  {
+    "adtSection": "pg041_sec001.html",
+    "elementId": "pg041_im001",
+    "elementIndex": 0,
+    "outputPath": "images/pg041_im001.png",
+    "sourcePDF": "f7bf719411a7c7cf1ff0d5b62a614dfffbbfda975b0052ba7ece451d2eb9ee0e",
+    "physicalPage": 41,
+    "method": "Retained original ZIP asset; PDF image object and page occurrence matched, visually checked",
+    "sha256": "d4e5b25a43cbc8669f4ede8f473b85dcdcf2246b8e8cabeb54bc9882731f4165",
+    "pixels": [
+      1617,
+      608
+    ],
+    "alt": "Një familje është ulur së bashku në tryezë gjatë darkës dhe po bisedon.",
+    "decorative": false,
+    "pdfObjectXref": 4433,
+    "pdfBoundsPt": [
+      100.74427795410156,
+      379.0358581542969,
+      568.80908203125,
+      605.519287109375
+    ],
+    "pixelSimilarityRMS": 0,
+    "baselineElementIndex": 0,
+    "currentElementIndex": 0,
+    "finalAlt": "Një familje është ulur së bashku në tryezë gjatë darkës dhe po bisedon."
+  },
+  {
+    "adtSection": "pg041_sec002.html",
+    "elementId": "pg041_im002",
+    "elementIndex": 0,
+    "outputPath": "images/pg041_im002.png",
+    "sourcePDF": "f7bf719411a7c7cf1ff0d5b62a614dfffbbfda975b0052ba7ece451d2eb9ee0e",
+    "physicalPage": 41,
+    "method": "Retained original ZIP asset; visually checked against physical PDF render",
+    "sha256": "24a6eb382f74406277be23375d42273f1d08c7321cf40adf44dfa50dffca8027",
+    "pixels": [
+      473,
+      473
+    ],
+    "alt": "",
+    "decorative": true,
+    "pdfObjectXref": null,
+    "pdfBoundsPt": null,
+    "provenanceNote": "Existing raster crop of source artwork/vector diagram. Page match visually confirmed; exact original extraction coordinates unavailable. No invented object identity.",
+    "baselineElementIndex": 0,
+    "currentElementIndex": 0,
+    "finalAlt": ""
+  },
+  {
+    "adtSection": "pg042_sec001.html",
+    "elementId": "pg042_im005",
+    "elementIndex": 0,
+    "outputPath": "images/pg042_im005.png",
+    "sourcePDF": "f7bf719411a7c7cf1ff0d5b62a614dfffbbfda975b0052ba7ece451d2eb9ee0e",
+    "physicalPage": 42,
+    "method": "Retained original ZIP asset; visually checked against physical PDF render",
+    "sha256": "f2850aee772f8f82997f0191532531c1fe56a5274a4e0fae2fa92c4347270ed3",
+    "pixels": [
+      722,
+      631
+    ],
+    "alt": "People in uniform and a meeting scene",
+    "decorative": false,
+    "pdfObjectXref": null,
+    "pdfBoundsPt": null,
+    "provenanceNote": "Existing raster crop of source artwork/vector diagram. Page match visually confirmed; exact original extraction coordinates unavailable. No invented object identity.",
+    "baselineElementIndex": 0,
+    "currentElementIndex": 0,
+    "finalAlt": "Gra dhe burra në uniformë policie dhe një grup njerëzish që bashkëpunojnë rreth tryezës."
+  },
+  {
+    "adtSection": "pg042_sec001.html",
+    "elementId": "pg042_im006",
+    "elementIndex": 1,
+    "outputPath": "images/pg042_im006.png",
+    "sourcePDF": "f7bf719411a7c7cf1ff0d5b62a614dfffbbfda975b0052ba7ece451d2eb9ee0e",
+    "physicalPage": 42,
+    "method": "Retained original ZIP asset; visually checked against physical PDF render",
+    "sha256": "9966b259186053334da105bfd0a2055fcbe1ec9dd475e24cef32df61e237cca8",
+    "pixels": [
+      499,
+      277
+    ],
+    "alt": "Medical professionals standing together",
+    "decorative": false,
+    "pdfObjectXref": null,
+    "pdfBoundsPt": null,
+    "provenanceNote": "Existing raster crop of source artwork/vector diagram. Page match visually confirmed; exact original extraction coordinates unavailable. No invented object identity.",
+    "baselineElementIndex": 1,
+    "currentElementIndex": 1,
+    "finalAlt": "Gra dhe burra me veshje të personelit shëndetësor, me stetoskop dhe dosje."
+  },
+  {
+    "adtSection": "pg044_sec001.html",
+    "elementId": "pg044_im004",
+    "elementIndex": 0,
+    "outputPath": "images/pg044_im004.png",
+    "sourcePDF": "f7bf719411a7c7cf1ff0d5b62a614dfffbbfda975b0052ba7ece451d2eb9ee0e",
+    "physicalPage": 44,
+    "method": "Retained original ZIP asset; visually checked against physical PDF render",
+    "sha256": "548413920302598e3fe4d77de35cdf7032f1314cd99cf29f3685ad1e41867f6c",
+    "pixels": [
+      1019,
+      480
+    ],
+    "alt": "Fëmijë që komunikojnë dhe bashkëpunojnë me njëri-tjetrin",
+    "decorative": false,
+    "pdfObjectXref": null,
+    "pdfBoundsPt": null,
+    "provenanceNote": "Existing raster crop of source artwork/vector diagram. Page match visually confirmed; exact original extraction coordinates unavailable. No invented object identity.",
+    "baselineElementIndex": 0,
+    "currentElementIndex": 0,
+    "finalAlt": "Fëmijë që komunikojnë dhe bashkëpunojnë me njëri-tjetrin"
+  },
+  {
+    "adtSection": "pg044_sec001.html",
+    "elementId": "pg044_im002",
+    "elementIndex": 1,
+    "outputPath": "images/pg044_im002.png",
+    "sourcePDF": "f7bf719411a7c7cf1ff0d5b62a614dfffbbfda975b0052ba7ece451d2eb9ee0e",
+    "physicalPage": 44,
+    "method": "Retained original ZIP asset; PDF image object and page occurrence matched, visually checked",
+    "sha256": "e768fceab9a8d7cdc2ef4aabdf821cd4523247d28497e677063bbf0f418c347e",
+    "pixels": [
+      1948,
+      765
+    ],
+    "alt": "Nxënës që ecin së bashku në shkollë",
+    "decorative": false,
+    "pdfObjectXref": 4644,
+    "pdfBoundsPt": [
+      72.1494369506836,
+      603.51123046875,
+      539.52685546875,
+      787.0540771484375
+    ],
+    "pixelSimilarityRMS": 0,
+    "baselineElementIndex": 1,
+    "currentElementIndex": 1,
+    "finalAlt": "Nxënës që ecin së bashku në shkollë"
+  },
+  {
+    "adtSection": "pg046_sec002.html",
+    "elementId": "pg046_im004",
+    "elementIndex": 0,
+    "outputPath": "images/pg046_im004.png",
+    "sourcePDF": "f7bf719411a7c7cf1ff0d5b62a614dfffbbfda975b0052ba7ece451d2eb9ee0e",
+    "physicalPage": 46,
+    "method": "Retained original ZIP asset; visually checked against physical PDF render",
+    "sha256": "929aec91277ff44aafb9bcd752e40f15b59293c168d79c6e61b7b435a9dff36a",
+    "pixels": [
+      396,
+      257
+    ],
+    "alt": "",
+    "decorative": true,
+    "pdfObjectXref": null,
+    "pdfBoundsPt": null,
+    "provenanceNote": "Existing raster crop of source artwork/vector diagram. Page match visually confirmed; exact original extraction coordinates unavailable. No invented object identity.",
+    "baselineElementIndex": 0,
+    "currentElementIndex": 0,
+    "finalAlt": ""
+  },
+  {
+    "adtSection": "pg046_sec002.html",
+    "elementId": "pg046_im005",
+    "elementIndex": 1,
+    "outputPath": "images/pg046_im005.png",
+    "sourcePDF": "f7bf719411a7c7cf1ff0d5b62a614dfffbbfda975b0052ba7ece451d2eb9ee0e",
+    "physicalPage": 46,
+    "method": "Retained original ZIP asset; visually checked against physical PDF render",
+    "sha256": "8a9f3cb30c6aa67a2b112f59d669a9799ccabc2998fd3fc2abdd09595eb932d8",
+    "pixels": [
+      396,
+      257
+    ],
+    "alt": "",
+    "decorative": true,
+    "pdfObjectXref": null,
+    "pdfBoundsPt": null,
+    "provenanceNote": "Existing raster crop of source artwork/vector diagram. Page match visually confirmed; exact original extraction coordinates unavailable. No invented object identity.",
+    "baselineElementIndex": 1,
+    "currentElementIndex": 1,
+    "finalAlt": ""
+  },
+  {
+    "adtSection": "pg046_sec002.html",
+    "elementId": "pg046_im006",
+    "elementIndex": 2,
+    "outputPath": "images/pg046_im006.png",
+    "sourcePDF": "f7bf719411a7c7cf1ff0d5b62a614dfffbbfda975b0052ba7ece451d2eb9ee0e",
+    "physicalPage": 46,
+    "method": "Retained original ZIP asset; visually checked against physical PDF render",
+    "sha256": "c6b20c88f223890d6f0dcb8d88c3199d4104af3805f44a730d03a9399d0b80f4",
+    "pixels": [
+      255,
+      123
+    ],
+    "alt": "",
+    "decorative": true,
+    "pdfObjectXref": null,
+    "pdfBoundsPt": null,
+    "provenanceNote": "Existing raster crop of source artwork/vector diagram. Page match visually confirmed; exact original extraction coordinates unavailable. No invented object identity.",
+    "baselineElementIndex": 2,
+    "currentElementIndex": 2,
+    "finalAlt": ""
+  },
+  {
+    "adtSection": "pg046_sec002.html",
+    "elementId": "pg046_im007",
+    "elementIndex": 3,
+    "outputPath": "images/pg046_im007.png",
+    "sourcePDF": "f7bf719411a7c7cf1ff0d5b62a614dfffbbfda975b0052ba7ece451d2eb9ee0e",
+    "physicalPage": 46,
+    "method": "Retained original ZIP asset; visually checked against physical PDF render",
+    "sha256": "8ff75e1f60ac6c102f15e90d5e855330b04e1b5b276864e34a625f176291bf1e",
+    "pixels": [
+      396,
+      257
+    ],
+    "alt": "",
+    "decorative": true,
+    "pdfObjectXref": null,
+    "pdfBoundsPt": null,
+    "provenanceNote": "Existing raster crop of source artwork/vector diagram. Page match visually confirmed; exact original extraction coordinates unavailable. No invented object identity.",
+    "baselineElementIndex": 3,
+    "currentElementIndex": 3,
+    "finalAlt": ""
+  },
+  {
+    "adtSection": "pg046_sec002.html",
+    "elementId": "pg046_im008",
+    "elementIndex": 4,
+    "outputPath": "images/pg046_im008.png",
+    "sourcePDF": "f7bf719411a7c7cf1ff0d5b62a614dfffbbfda975b0052ba7ece451d2eb9ee0e",
+    "physicalPage": 46,
+    "method": "Retained original ZIP asset; visually checked against physical PDF render",
+    "sha256": "b72b45ad3fc257687b8e27fa91734e4812ecc14ff5af2db1bddfa81588ee9926",
+    "pixels": [
+      396,
+      257
+    ],
+    "alt": "",
+    "decorative": true,
+    "pdfObjectXref": null,
+    "pdfBoundsPt": null,
+    "provenanceNote": "Existing raster crop of source artwork/vector diagram. Page match visually confirmed; exact original extraction coordinates unavailable. No invented object identity.",
+    "baselineElementIndex": 4,
+    "currentElementIndex": 4,
+    "finalAlt": ""
+  },
+  {
+    "adtSection": "pg047_sec001.html",
+    "elementId": "pg047_im002",
+    "elementIndex": 0,
+    "outputPath": "images/pg047_im002.png",
+    "sourcePDF": "f7bf719411a7c7cf1ff0d5b62a614dfffbbfda975b0052ba7ece451d2eb9ee0e",
+    "physicalPage": 47,
+    "method": "Retained original ZIP asset; PDF image object and page occurrence matched, visually checked",
+    "sha256": "cbe44982b7cceb497e869ad9aeeafe6b5a4cddd9fa734cd2bc6e7e9db8b36858",
+    "pixels": [
+      643,
+      428
+    ],
+    "alt": "Fëmijë duke buzëqeshur dhe luajtur jashtë së bashku",
+    "decorative": false,
+    "pdfObjectXref": 4866,
+    "pdfBoundsPt": [
+      99.74552917480469,
+      468.55126953125,
+      253.85162353515625,
+      571.2698974609375
+    ],
+    "pixelSimilarityRMS": 0,
+    "baselineElementIndex": 0,
+    "currentElementIndex": 0,
+    "finalAlt": "Fëmijë duke buzëqeshur dhe luajtur jashtë së bashku"
+  },
+  {
+    "adtSection": "pg047_sec001.html",
+    "elementId": "pg047_im004",
+    "elementIndex": 1,
+    "outputPath": "images/pg047_im004.png",
+    "sourcePDF": "f7bf719411a7c7cf1ff0d5b62a614dfffbbfda975b0052ba7ece451d2eb9ee0e",
+    "physicalPage": 47,
+    "method": "Retained original ZIP asset; PDF image object and page occurrence matched, visually checked",
+    "sha256": "86786c3e62d089f950df9d99ab7ba77086b66268e501d6fa356292407dad2966",
+    "pixels": [
+      644,
+      430
+    ],
+    "alt": "Vajzë duke mbajtur një tullumbace blu jashtë",
+    "decorative": false,
+    "pdfObjectXref": 4870,
+    "pdfBoundsPt": [
+      256.8974304199219,
+      468.55133056640625,
+      411.44317626953125,
+      571.571533203125
+    ],
+    "pixelSimilarityRMS": 0,
+    "baselineElementIndex": 1,
+    "currentElementIndex": 1,
+    "finalAlt": "Vajzë duke mbajtur një tullumbace blu jashtë"
+  },
+  {
+    "adtSection": "pg047_sec001.html",
+    "elementId": "pg047_im007",
+    "elementIndex": 2,
+    "outputPath": "images/pg047_im007.png",
+    "sourcePDF": "f7bf719411a7c7cf1ff0d5b62a614dfffbbfda975b0052ba7ece451d2eb9ee0e",
+    "physicalPage": 47,
+    "method": "Retained original ZIP asset; PDF image object and page occurrence matched, visually checked",
+    "sha256": "9dd6f836d794b6171e3a0a8d2bc1f8f70ef4550c17ae1447af36bd9dc4d02d41",
+    "pixels": [
+      309,
+      206
+    ],
+    "alt": "Fëmijë të veshur me kostume tradicionale duke qëndruar së bashku",
+    "decorative": false,
+    "pdfObjectXref": 4876,
+    "pdfBoundsPt": [
+      412.5928955078125,
+      467.2797546386719,
+      570.16943359375,
+      572.330810546875
+    ],
+    "pixelSimilarityRMS": 0,
+    "baselineElementIndex": 2,
+    "currentElementIndex": 2,
+    "finalAlt": "Fëmijë të veshur me kostume tradicionale duke qëndruar së bashku"
+  },
+  {
+    "adtSection": "pg047_sec001.html",
+    "elementId": "pg047_im003",
+    "elementIndex": 3,
+    "outputPath": "images/pg047_im003.png",
+    "sourcePDF": "f7bf719411a7c7cf1ff0d5b62a614dfffbbfda975b0052ba7ece451d2eb9ee0e",
+    "physicalPage": 47,
+    "method": "Retained original ZIP asset; PDF image object and page occurrence matched, visually checked",
+    "sha256": "d2ed6d42a3a618fc1f632ff1c75672df0dc3ad9537853fe0a8296609a824bc05",
+    "pixels": [
+      643,
+      428
+    ],
+    "alt": "Grup fëmijësh ulur në rreth duke punuar së bashku",
+    "decorative": false,
+    "pdfObjectXref": 4868,
+    "pdfBoundsPt": [
+      99.74552917480469,
+      575.2741088867188,
+      253.85162353515625,
+      677.9927368164062
+    ],
+    "pixelSimilarityRMS": 0,
+    "baselineElementIndex": 3,
+    "currentElementIndex": 3,
+    "finalAlt": "Grup fëmijësh ulur në rreth duke punuar së bashku"
+  },
+  {
+    "adtSection": "pg047_sec001.html",
+    "elementId": "pg047_im005",
+    "elementIndex": 4,
+    "outputPath": "images/pg047_im005.png",
+    "sourcePDF": "f7bf719411a7c7cf1ff0d5b62a614dfffbbfda975b0052ba7ece451d2eb9ee0e",
+    "physicalPage": 47,
+    "method": "Retained original ZIP asset; PDF image object and page occurrence matched, visually checked",
+    "sha256": "79b5eca3ae5604235132cd7c4512200fd96e1f877471a02d6293ff7e017656f4",
+    "pixels": [
+      643,
+      429
+    ],
+    "alt": "Fëmijë me tullumbace duke buzëqeshur së bashku",
+    "decorative": false,
+    "pdfObjectXref": 4872,
+    "pdfBoundsPt": [
+      256.8974304199219,
+      575.2741088867188,
+      411.00347900390625,
+      678.001220703125
+    ],
+    "pixelSimilarityRMS": 0,
+    "baselineElementIndex": 4,
+    "currentElementIndex": 4,
+    "finalAlt": "Fëmijë me tullumbace duke buzëqeshur së bashku"
+  },
+  {
+    "adtSection": "pg047_sec001.html",
+    "elementId": "pg047_im006",
+    "elementIndex": 5,
+    "outputPath": "images/pg047_im006.png",
+    "sourcePDF": "f7bf719411a7c7cf1ff0d5b62a614dfffbbfda975b0052ba7ece451d2eb9ee0e",
+    "physicalPage": 47,
+    "method": "Retained original ZIP asset; PDF image object and page occurrence matched, visually checked",
+    "sha256": "cc2c8c01983c7b576810f12c446f187d6d2ed4a8483c2fccc61662ad51fa0276",
+    "pixels": [
+      316,
+      211
+    ],
+    "alt": "Djalë në karrocë invalidore duke buzëqeshur jashtë",
+    "decorative": false,
+    "pdfObjectXref": 4874,
+    "pdfBoundsPt": [
+      412.9495849609375,
+      573.9002685546875,
+      570.4116821289062,
+      679.0411376953125
+    ],
+    "pixelSimilarityRMS": 0,
+    "baselineElementIndex": 5,
+    "currentElementIndex": 5,
+    "finalAlt": "Djalë që përdor karrocë me rrota, duke buzëqeshur jashtë me fëmijët e tjerë."
+  },
+  {
+    "adtSection": "pg049_sec003.html",
+    "elementId": "pg049_im004",
+    "elementIndex": 0,
+    "outputPath": "images/pg049_im004.png",
+    "sourcePDF": "f7bf719411a7c7cf1ff0d5b62a614dfffbbfda975b0052ba7ece451d2eb9ee0e",
+    "physicalPage": 49,
+    "method": "Retained original ZIP asset; visually checked against physical PDF render",
+    "sha256": "86be61434ae6b92e43030590cb5c66bc6b69599ed726f71d093892f877241805",
+    "pixels": [
+      398,
+      430
+    ],
+    "alt": "Fotografi me duar të ndryshme që mbajnë globin",
+    "decorative": false,
+    "pdfObjectXref": null,
+    "pdfBoundsPt": null,
+    "provenanceNote": "Existing raster crop of source artwork/vector diagram. Page match visually confirmed; exact original extraction coordinates unavailable. No invented object identity.",
+    "baselineElementIndex": 0,
+    "currentElementIndex": 0,
+    "finalAlt": "Ilustrim me duar me ngjyra të ndryshme që mbështesin globin."
+  },
+  {
+    "adtSection": "pg050_sec001.html",
+    "elementId": "pg050_im001",
+    "elementIndex": 0,
+    "outputPath": "images/pg050_im001.png",
+    "sourcePDF": "f7bf719411a7c7cf1ff0d5b62a614dfffbbfda975b0052ba7ece451d2eb9ee0e",
+    "physicalPage": 50,
+    "method": "Retained original ZIP asset; PDF image object and page occurrence matched, visually checked",
+    "sha256": "b2659057aaa1adc0108749d816f574c9972809b78ffc944352dca0881a1609ec",
+    "pixels": [
+      1876,
+      1205
+    ],
+    "alt": "Një familje e buzëqeshur së bashku në shtëpi",
+    "decorative": false,
+    "pdfObjectXref": 5119,
+    "pdfBoundsPt": [
+      15,
+      323.975830078125,
+      465.02838134765625,
+      613.0565795898438
+    ],
+    "pixelSimilarityRMS": 0,
+    "baselineElementIndex": 0,
+    "currentElementIndex": 1,
+    "finalAlt": "Një familje e buzëqeshur së bashku në shtëpi"
+  },
+  {
+    "outputPath": "book-design/images/publisher.png",
+    "physicalPage": 1,
+    "pdfBoundsPt": [
+      70,
+      756,
+      204,
+      799
+    ],
+    "method": "Rendered vector/logo crop at 216 dpi",
+    "sourcePDF": "f7bf719411a7c7cf1ff0d5b62a614dfffbbfda975b0052ba7ece451d2eb9ee0e",
+    "matchingElement": "Cover footer publisher",
+    "sha256": "f05d4808a2e231ea043aa088af10171cb5fdbd921b80a62deed0722169b46808"
+  },
+  {
+    "outputPath": "book-design/images/ecology.png",
+    "physicalPage": 1,
+    "pdfBoundsPt": [
+      525,
+      746,
+      580,
+      806
+    ],
+    "method": "Rendered vector/logo crop at 216 dpi",
+    "sourcePDF": "f7bf719411a7c7cf1ff0d5b62a614dfffbbfda975b0052ba7ece451d2eb9ee0e",
+    "matchingElement": "Cover footer ecology",
+    "sha256": "cc4cf2fed938526a4c7088f60ccc0aba22a4a7907e8ad1b6112c7b76902a34a0"
+  },
+  {
+    "outputPath": "book-design/images/crossword-grid.png",
+    "physicalPage": 37,
+    "pdfBoundsPt": [
+      202,
+      498,
+      527,
+      696
+    ],
+    "method": "Rendered vector/logo crop at 216 dpi",
+    "sourcePDF": "f7bf719411a7c7cf1ff0d5b62a614dfffbbfda975b0052ba7ece451d2eb9ee0e",
+    "matchingElement": "pg037_sec003.html source crossword figure",
+    "sha256": "7521f78197123c865aba800187055bf981095077d1a79a52c113807dc59c4587"
+  },
+  {
+    "outputPath": "book-design/images/opener-landscape.svg",
+    "physicalPage": 6,
+    "pdfBoundsPt": [
+      15,
+      15,
+      624,
+      850
+    ],
+    "method": "Source vector scene extracted as SVG; raster image elements removed and original accessible icon assets retained as separate HTML images",
+    "sourcePDF": "f7bf719411a7c7cf1ff0d5b62a614dfffbbfda975b0052ba7ece451d2eb9ee0e",
+    "matchingElement": "pg006_sec001.html decorative landscape"
+  },
+  {
+    "adtSection": "pg001_sec001.html",
+    "currentElementIndex": 1,
+    "elementId": null,
+    "outputPath": "book-design/images/publisher.png",
+    "finalAlt": "",
+    "decorative": true,
+    "physicalPage": 1,
+    "pdfObjectXref": null,
+    "pdfBoundsPt": [
+      70,
+      756,
+      204,
+      799
+    ],
+    "method": "Rendered vector/logo crop at 216 dpi",
+    "sha256": "f05d4808a2e231ea043aa088af10171cb5fdbd921b80a62deed0722169b46808"
+  },
+  {
+    "adtSection": "pg001_sec001.html",
+    "currentElementIndex": 2,
+    "elementId": null,
+    "outputPath": "book-design/images/ecology.png",
+    "finalAlt": "",
+    "decorative": true,
+    "physicalPage": 1,
+    "pdfObjectXref": null,
+    "pdfBoundsPt": [
+      525,
+      746,
+      580,
+      806
+    ],
+    "method": "Rendered vector/logo crop at 216 dpi",
+    "sha256": "cc4cf2fed938526a4c7088f60ccc0aba22a4a7907e8ad1b6112c7b76902a34a0"
+  },
+  {
+    "adtSection": "pg010_sec001.html",
+    "currentElementIndex": 0,
+    "elementId": null,
+    "outputPath": "images/pg005_im007.png",
+    "finalAlt": "",
+    "decorative": true,
+    "physicalPage": 5,
+    "pdfObjectXref": 424,
+    "pdfBoundsPt": [
+      309.9498291015625,
+      609.3705444335938,
+      393.6429748535156,
+      693.063720703125
+    ],
+    "method": "Reused correct source rubric artwork from the physical page 5 legend; decorative here",
+    "sha256": "5dee49e460f61ef3e340fb9a1352a1b434ab39a8de794b0b245ffa9408814cee"
+  },
+  {
+    "adtSection": "pg013_sec001.html",
+    "currentElementIndex": 0,
+    "elementId": null,
+    "outputPath": "images/pg005_im003.png",
+    "finalAlt": "",
+    "decorative": true,
+    "physicalPage": 5,
+    "pdfObjectXref": 406,
+    "pdfBoundsPt": [
+      124.52105712890625,
+      523.6863403320312,
+      239.20526123046875,
+      638.3705444335938
+    ],
+    "method": "Reused correct source rubric artwork from the physical page 5 legend; decorative here",
+    "sha256": "812d5bd1b70745ccaf5495a996041bcb5b6ca0e4719508c86ad91a4f4fc326f7"
+  },
+  {
+    "adtSection": "pg013_sec002.html",
+    "currentElementIndex": 0,
+    "elementId": null,
+    "outputPath": "images/pg005_im006.png",
+    "finalAlt": "",
+    "decorative": true,
+    "physicalPage": 5,
+    "pdfObjectXref": 420,
+    "pdfBoundsPt": [
+      457.3786315917969,
+      527.9933471679688,
+      570.970703125,
+      641.58544921875
+    ],
+    "method": "Reused correct source rubric artwork from the physical page 5 legend; decorative here",
+    "sha256": "24a6eb382f74406277be23375d42273f1d08c7321cf40adf44dfa50dffca8027"
+  },
+  {
+    "adtSection": "pg013_sec003.html",
+    "currentElementIndex": 0,
+    "elementId": null,
+    "outputPath": "images/pg005_im008.png",
+    "finalAlt": "",
+    "decorative": true,
+    "physicalPage": 5,
+    "pdfObjectXref": 428,
+    "pdfBoundsPt": [
+      304.13385009765625,
+      114.0201644897461,
+      390.3178405761719,
+      200.20416259765625
+    ],
+    "method": "Reused correct source rubric artwork from the physical page 5 legend; decorative here",
+    "sha256": "fef0f48b436b6cf605a3fb75a2c931225d42b962afe1e3e672316a92d6f749dd"
+  },
+  {
+    "adtSection": "pg014_sec001.html",
+    "currentElementIndex": 0,
+    "elementId": null,
+    "outputPath": "images/pg005_im007.png",
+    "finalAlt": "",
+    "decorative": true,
+    "physicalPage": 5,
+    "pdfObjectXref": 424,
+    "pdfBoundsPt": [
+      309.9498291015625,
+      609.3705444335938,
+      393.6429748535156,
+      693.063720703125
+    ],
+    "method": "Reused correct source rubric artwork from the physical page 5 legend; decorative here",
+    "sha256": "5dee49e460f61ef3e340fb9a1352a1b434ab39a8de794b0b245ffa9408814cee"
+  },
+  {
+    "adtSection": "pg015_sec001.html",
+    "currentElementIndex": 0,
+    "elementId": null,
+    "outputPath": "images/pg005_im002.png",
+    "finalAlt": "",
+    "decorative": true,
+    "physicalPage": 5,
+    "pdfObjectXref": 402,
+    "pdfBoundsPt": [
+      125.73594665527344,
+      329.94635009765625,
+      239.3280487060547,
+      443.5384521484375
+    ],
+    "method": "Reused correct source rubric artwork from the physical page 5 legend; decorative here",
+    "sha256": "f32b9e352d8b0ce1a000a6de3aa7176ac46b1d62e89c72985565cdbad2b5c87f"
+  },
+  {
+    "adtSection": "pg017_sec001.html",
+    "currentElementIndex": 0,
+    "elementId": null,
+    "outputPath": "images/pg005_im006.png",
+    "finalAlt": "",
+    "decorative": true,
+    "physicalPage": 5,
+    "pdfObjectXref": 420,
+    "pdfBoundsPt": [
+      457.3786315917969,
+      527.9933471679688,
+      570.970703125,
+      641.58544921875
+    ],
+    "method": "Reused correct source rubric artwork from the physical page 5 legend; decorative here",
+    "sha256": "24a6eb382f74406277be23375d42273f1d08c7321cf40adf44dfa50dffca8027"
+  },
+  {
+    "adtSection": "pg017_sec003.html",
+    "currentElementIndex": 0,
+    "elementId": null,
+    "outputPath": "images/pg005_im003.png",
+    "finalAlt": "",
+    "decorative": true,
+    "physicalPage": 5,
+    "pdfObjectXref": 406,
+    "pdfBoundsPt": [
+      124.52105712890625,
+      523.6863403320312,
+      239.20526123046875,
+      638.3705444335938
+    ],
+    "method": "Reused correct source rubric artwork from the physical page 5 legend; decorative here",
+    "sha256": "812d5bd1b70745ccaf5495a996041bcb5b6ca0e4719508c86ad91a4f4fc326f7"
+  },
+  {
+    "adtSection": "pg017_sec003.html",
+    "currentElementIndex": 1,
+    "elementId": null,
+    "outputPath": "images/pg005_im001.png",
+    "finalAlt": "",
+    "decorative": true,
+    "physicalPage": 5,
+    "pdfObjectXref": 397,
+    "pdfBoundsPt": [
+      132.09902954101562,
+      138.5009765625,
+      230.96493530273438,
+      237.36688232421875
+    ],
+    "method": "Reused correct source rubric artwork from the physical page 5 legend; decorative here",
+    "sha256": "987a21d8e733a007b26a27301f4f7333f3d6f3e70514e741483e74a6585f8e8c"
+  },
+  {
+    "adtSection": "pg018_sec001.html",
+    "currentElementIndex": 0,
+    "elementId": null,
+    "outputPath": "images/pg005_im007.png",
+    "finalAlt": "",
+    "decorative": true,
+    "physicalPage": 5,
+    "pdfObjectXref": 424,
+    "pdfBoundsPt": [
+      309.9498291015625,
+      609.3705444335938,
+      393.6429748535156,
+      693.063720703125
+    ],
+    "method": "Reused correct source rubric artwork from the physical page 5 legend; decorative here",
+    "sha256": "5dee49e460f61ef3e340fb9a1352a1b434ab39a8de794b0b245ffa9408814cee"
+  },
+  {
+    "adtSection": "pg019_sec001.html",
+    "currentElementIndex": 0,
+    "elementId": null,
+    "outputPath": "images/pg005_im002.png",
+    "finalAlt": "",
+    "decorative": true,
+    "physicalPage": 5,
+    "pdfObjectXref": 402,
+    "pdfBoundsPt": [
+      125.73594665527344,
+      329.94635009765625,
+      239.3280487060547,
+      443.5384521484375
+    ],
+    "method": "Reused correct source rubric artwork from the physical page 5 legend; decorative here",
+    "sha256": "f32b9e352d8b0ce1a000a6de3aa7176ac46b1d62e89c72985565cdbad2b5c87f"
+  },
+  {
+    "adtSection": "pg020_sec001.html",
+    "currentElementIndex": 0,
+    "elementId": null,
+    "outputPath": "images/pg005_im006.png",
+    "finalAlt": "",
+    "decorative": true,
+    "physicalPage": 5,
+    "pdfObjectXref": 420,
+    "pdfBoundsPt": [
+      457.3786315917969,
+      527.9933471679688,
+      570.970703125,
+      641.58544921875
+    ],
+    "method": "Reused correct source rubric artwork from the physical page 5 legend; decorative here",
+    "sha256": "24a6eb382f74406277be23375d42273f1d08c7321cf40adf44dfa50dffca8027"
+  },
+  {
+    "adtSection": "pg020_sec002.html",
+    "currentElementIndex": 0,
+    "elementId": null,
+    "outputPath": "images/pg005_im008.png",
+    "finalAlt": "",
+    "decorative": true,
+    "physicalPage": 5,
+    "pdfObjectXref": 428,
+    "pdfBoundsPt": [
+      304.13385009765625,
+      114.0201644897461,
+      390.3178405761719,
+      200.20416259765625
+    ],
+    "method": "Reused correct source rubric artwork from the physical page 5 legend; decorative here",
+    "sha256": "fef0f48b436b6cf605a3fb75a2c931225d42b962afe1e3e672316a92d6f749dd"
+  },
+  {
+    "adtSection": "pg020_sec003.html",
+    "currentElementIndex": 0,
+    "elementId": null,
+    "outputPath": "images/pg005_im003.png",
+    "finalAlt": "",
+    "decorative": true,
+    "physicalPage": 5,
+    "pdfObjectXref": 406,
+    "pdfBoundsPt": [
+      124.52105712890625,
+      523.6863403320312,
+      239.20526123046875,
+      638.3705444335938
+    ],
+    "method": "Reused correct source rubric artwork from the physical page 5 legend; decorative here",
+    "sha256": "812d5bd1b70745ccaf5495a996041bcb5b6ca0e4719508c86ad91a4f4fc326f7"
+  },
+  {
+    "adtSection": "pg022_sec001.html",
+    "currentElementIndex": 0,
+    "elementId": null,
+    "outputPath": "images/pg005_im002.png",
+    "finalAlt": "",
+    "decorative": true,
+    "physicalPage": 5,
+    "pdfObjectXref": 402,
+    "pdfBoundsPt": [
+      125.73594665527344,
+      329.94635009765625,
+      239.3280487060547,
+      443.5384521484375
+    ],
+    "method": "Reused correct source rubric artwork from the physical page 5 legend; decorative here",
+    "sha256": "f32b9e352d8b0ce1a000a6de3aa7176ac46b1d62e89c72985565cdbad2b5c87f"
+  },
+  {
+    "adtSection": "pg022_sec001.html",
+    "currentElementIndex": 3,
+    "elementId": null,
+    "outputPath": "images/pg005_im006.png",
+    "finalAlt": "",
+    "decorative": true,
+    "physicalPage": 5,
+    "pdfObjectXref": 420,
+    "pdfBoundsPt": [
+      457.3786315917969,
+      527.9933471679688,
+      570.970703125,
+      641.58544921875
+    ],
+    "method": "Reused correct source rubric artwork from the physical page 5 legend; decorative here",
+    "sha256": "24a6eb382f74406277be23375d42273f1d08c7321cf40adf44dfa50dffca8027"
+  },
+  {
+    "adtSection": "pg024_sec001.html",
+    "currentElementIndex": 0,
+    "elementId": null,
+    "outputPath": "images/pg005_im007.png",
+    "finalAlt": "",
+    "decorative": true,
+    "physicalPage": 5,
+    "pdfObjectXref": 424,
+    "pdfBoundsPt": [
+      309.9498291015625,
+      609.3705444335938,
+      393.6429748535156,
+      693.063720703125
+    ],
+    "method": "Reused correct source rubric artwork from the physical page 5 legend; decorative here",
+    "sha256": "5dee49e460f61ef3e340fb9a1352a1b434ab39a8de794b0b245ffa9408814cee"
+  },
+  {
+    "adtSection": "pg025_sec001.html",
+    "currentElementIndex": 0,
+    "elementId": null,
+    "outputPath": "images/pg005_im002.png",
+    "finalAlt": "",
+    "decorative": true,
+    "physicalPage": 5,
+    "pdfObjectXref": 402,
+    "pdfBoundsPt": [
+      125.73594665527344,
+      329.94635009765625,
+      239.3280487060547,
+      443.5384521484375
+    ],
+    "method": "Reused correct source rubric artwork from the physical page 5 legend; decorative here",
+    "sha256": "f32b9e352d8b0ce1a000a6de3aa7176ac46b1d62e89c72985565cdbad2b5c87f"
+  },
+  {
+    "adtSection": "pg027_sec001.html",
+    "currentElementIndex": 0,
+    "elementId": null,
+    "outputPath": "images/pg005_im006.png",
+    "finalAlt": "",
+    "decorative": true,
+    "physicalPage": 5,
+    "pdfObjectXref": 420,
+    "pdfBoundsPt": [
+      457.3786315917969,
+      527.9933471679688,
+      570.970703125,
+      641.58544921875
+    ],
+    "method": "Reused correct source rubric artwork from the physical page 5 legend; decorative here",
+    "sha256": "24a6eb382f74406277be23375d42273f1d08c7321cf40adf44dfa50dffca8027"
+  },
+  {
+    "adtSection": "pg027_sec003.html",
+    "currentElementIndex": 0,
+    "elementId": null,
+    "outputPath": "images/pg005_im008.png",
+    "finalAlt": "",
+    "decorative": true,
+    "physicalPage": 5,
+    "pdfObjectXref": 428,
+    "pdfBoundsPt": [
+      304.13385009765625,
+      114.0201644897461,
+      390.3178405761719,
+      200.20416259765625
+    ],
+    "method": "Reused correct source rubric artwork from the physical page 5 legend; decorative here",
+    "sha256": "fef0f48b436b6cf605a3fb75a2c931225d42b962afe1e3e672316a92d6f749dd"
+  },
+  {
+    "adtSection": "pg027_sec004.html",
+    "currentElementIndex": 0,
+    "elementId": null,
+    "outputPath": "images/pg005_im003.png",
+    "finalAlt": "",
+    "decorative": true,
+    "physicalPage": 5,
+    "pdfObjectXref": 406,
+    "pdfBoundsPt": [
+      124.52105712890625,
+      523.6863403320312,
+      239.20526123046875,
+      638.3705444335938
+    ],
+    "method": "Reused correct source rubric artwork from the physical page 5 legend; decorative here",
+    "sha256": "812d5bd1b70745ccaf5495a996041bcb5b6ca0e4719508c86ad91a4f4fc326f7"
+  },
+  {
+    "adtSection": "pg029_sec001.html",
+    "currentElementIndex": 0,
+    "elementId": null,
+    "outputPath": "images/pg005_im002.png",
+    "finalAlt": "",
+    "decorative": true,
+    "physicalPage": 5,
+    "pdfObjectXref": 402,
+    "pdfBoundsPt": [
+      125.73594665527344,
+      329.94635009765625,
+      239.3280487060547,
+      443.5384521484375
+    ],
+    "method": "Reused correct source rubric artwork from the physical page 5 legend; decorative here",
+    "sha256": "f32b9e352d8b0ce1a000a6de3aa7176ac46b1d62e89c72985565cdbad2b5c87f"
+  },
+  {
+    "adtSection": "pg030_sec003.html",
+    "currentElementIndex": 0,
+    "elementId": null,
+    "outputPath": "images/pg005_im008.png",
+    "finalAlt": "",
+    "decorative": true,
+    "physicalPage": 5,
+    "pdfObjectXref": 428,
+    "pdfBoundsPt": [
+      304.13385009765625,
+      114.0201644897461,
+      390.3178405761719,
+      200.20416259765625
+    ],
+    "method": "Reused correct source rubric artwork from the physical page 5 legend; decorative here",
+    "sha256": "fef0f48b436b6cf605a3fb75a2c931225d42b962afe1e3e672316a92d6f749dd"
+  },
+  {
+    "adtSection": "pg030_sec004.html",
+    "currentElementIndex": 0,
+    "elementId": null,
+    "outputPath": "images/pg005_im003.png",
+    "finalAlt": "",
+    "decorative": true,
+    "physicalPage": 5,
+    "pdfObjectXref": 406,
+    "pdfBoundsPt": [
+      124.52105712890625,
+      523.6863403320312,
+      239.20526123046875,
+      638.3705444335938
+    ],
+    "method": "Reused correct source rubric artwork from the physical page 5 legend; decorative here",
+    "sha256": "812d5bd1b70745ccaf5495a996041bcb5b6ca0e4719508c86ad91a4f4fc326f7"
+  },
+  {
+    "adtSection": "pg030_sec005.html",
+    "currentElementIndex": 0,
+    "elementId": null,
+    "outputPath": "images/pg005_im001.png",
+    "finalAlt": "",
+    "decorative": true,
+    "physicalPage": 5,
+    "pdfObjectXref": 397,
+    "pdfBoundsPt": [
+      132.09902954101562,
+      138.5009765625,
+      230.96493530273438,
+      237.36688232421875
+    ],
+    "method": "Reused correct source rubric artwork from the physical page 5 legend; decorative here",
+    "sha256": "987a21d8e733a007b26a27301f4f7333f3d6f3e70514e741483e74a6585f8e8c"
+  },
+  {
+    "adtSection": "pg032_sec001.html",
+    "currentElementIndex": 0,
+    "elementId": null,
+    "outputPath": "images/pg005_im002.png",
+    "finalAlt": "",
+    "decorative": true,
+    "physicalPage": 5,
+    "pdfObjectXref": 402,
+    "pdfBoundsPt": [
+      125.73594665527344,
+      329.94635009765625,
+      239.3280487060547,
+      443.5384521484375
+    ],
+    "method": "Reused correct source rubric artwork from the physical page 5 legend; decorative here",
+    "sha256": "f32b9e352d8b0ce1a000a6de3aa7176ac46b1d62e89c72985565cdbad2b5c87f"
+  },
+  {
+    "adtSection": "pg033_sec001.html",
+    "currentElementIndex": 0,
+    "elementId": null,
+    "outputPath": "images/pg005_im006.png",
+    "finalAlt": "",
+    "decorative": true,
+    "physicalPage": 5,
+    "pdfObjectXref": 420,
+    "pdfBoundsPt": [
+      457.3786315917969,
+      527.9933471679688,
+      570.970703125,
+      641.58544921875
+    ],
+    "method": "Reused correct source rubric artwork from the physical page 5 legend; decorative here",
+    "sha256": "24a6eb382f74406277be23375d42273f1d08c7321cf40adf44dfa50dffca8027"
+  },
+  {
+    "adtSection": "pg033_sec003.html",
+    "currentElementIndex": 0,
+    "elementId": null,
+    "outputPath": "images/pg005_im003.png",
+    "finalAlt": "",
+    "decorative": true,
+    "physicalPage": 5,
+    "pdfObjectXref": 406,
+    "pdfBoundsPt": [
+      124.52105712890625,
+      523.6863403320312,
+      239.20526123046875,
+      638.3705444335938
+    ],
+    "method": "Reused correct source rubric artwork from the physical page 5 legend; decorative here",
+    "sha256": "812d5bd1b70745ccaf5495a996041bcb5b6ca0e4719508c86ad91a4f4fc326f7"
+  },
+  {
+    "adtSection": "pg033_sec004.html",
+    "currentElementIndex": 0,
+    "elementId": null,
+    "outputPath": "images/pg005_im001.png",
+    "finalAlt": "",
+    "decorative": true,
+    "physicalPage": 5,
+    "pdfObjectXref": 397,
+    "pdfBoundsPt": [
+      132.09902954101562,
+      138.5009765625,
+      230.96493530273438,
+      237.36688232421875
+    ],
+    "method": "Reused correct source rubric artwork from the physical page 5 legend; decorative here",
+    "sha256": "987a21d8e733a007b26a27301f4f7333f3d6f3e70514e741483e74a6585f8e8c"
+  },
+  {
+    "adtSection": "pg037_sec001.html",
+    "currentElementIndex": 0,
+    "elementId": null,
+    "outputPath": "images/pg005_im007.png",
+    "finalAlt": "",
+    "decorative": true,
+    "physicalPage": 5,
+    "pdfObjectXref": 424,
+    "pdfBoundsPt": [
+      309.9498291015625,
+      609.3705444335938,
+      393.6429748535156,
+      693.063720703125
+    ],
+    "method": "Reused correct source rubric artwork from the physical page 5 legend; decorative here",
+    "sha256": "5dee49e460f61ef3e340fb9a1352a1b434ab39a8de794b0b245ffa9408814cee"
+  },
+  {
+    "adtSection": "pg037_sec003.html",
+    "currentElementIndex": 0,
+    "elementId": null,
+    "outputPath": "book-design/images/crossword-grid.png",
+    "finalAlt": "Fjalëkryq me gjashtë rreshta dhe një kolonë me ngjyrë për fjalën përfundimtare.",
+    "decorative": false,
+    "physicalPage": 37,
+    "pdfObjectXref": null,
+    "pdfBoundsPt": [
+      202,
+      498,
+      527,
+      696
+    ],
+    "method": "Rendered vector/logo crop at 216 dpi",
+    "sha256": "7521f78197123c865aba800187055bf981095077d1a79a52c113807dc59c4587"
+  },
+  {
+    "adtSection": "pg038_sec001.html",
+    "currentElementIndex": 0,
+    "elementId": null,
+    "outputPath": "images/pg005_im002.png",
+    "finalAlt": "",
+    "decorative": true,
+    "physicalPage": 5,
+    "pdfObjectXref": 402,
+    "pdfBoundsPt": [
+      125.73594665527344,
+      329.94635009765625,
+      239.3280487060547,
+      443.5384521484375
+    ],
+    "method": "Reused correct source rubric artwork from the physical page 5 legend; decorative here",
+    "sha256": "f32b9e352d8b0ce1a000a6de3aa7176ac46b1d62e89c72985565cdbad2b5c87f"
+  },
+  {
+    "adtSection": "pg039_sec002.html",
+    "currentElementIndex": 0,
+    "elementId": null,
+    "outputPath": "images/pg005_im006.png",
+    "finalAlt": "",
+    "decorative": true,
+    "physicalPage": 5,
+    "pdfObjectXref": 420,
+    "pdfBoundsPt": [
+      457.3786315917969,
+      527.9933471679688,
+      570.970703125,
+      641.58544921875
+    ],
+    "method": "Reused correct source rubric artwork from the physical page 5 legend; decorative here",
+    "sha256": "24a6eb382f74406277be23375d42273f1d08c7321cf40adf44dfa50dffca8027"
+  },
+  {
+    "adtSection": "pg042_sec002.html",
+    "currentElementIndex": 0,
+    "elementId": null,
+    "outputPath": "images/pg005_im006.png",
+    "finalAlt": "",
+    "decorative": true,
+    "physicalPage": 5,
+    "pdfObjectXref": 420,
+    "pdfBoundsPt": [
+      457.3786315917969,
+      527.9933471679688,
+      570.970703125,
+      641.58544921875
+    ],
+    "method": "Reused correct source rubric artwork from the physical page 5 legend; decorative here",
+    "sha256": "24a6eb382f74406277be23375d42273f1d08c7321cf40adf44dfa50dffca8027"
+  },
+  {
+    "adtSection": "pg042_sec003.html",
+    "currentElementIndex": 0,
+    "elementId": null,
+    "outputPath": "images/pg005_im003.png",
+    "finalAlt": "",
+    "decorative": true,
+    "physicalPage": 5,
+    "pdfObjectXref": 406,
+    "pdfBoundsPt": [
+      124.52105712890625,
+      523.6863403320312,
+      239.20526123046875,
+      638.3705444335938
+    ],
+    "method": "Reused correct source rubric artwork from the physical page 5 legend; decorative here",
+    "sha256": "812d5bd1b70745ccaf5495a996041bcb5b6ca0e4719508c86ad91a4f4fc326f7"
+  },
+  {
+    "adtSection": "pg043_sec001.html",
+    "currentElementIndex": 0,
+    "elementId": null,
+    "outputPath": "images/pg005_im007.png",
+    "finalAlt": "",
+    "decorative": true,
+    "physicalPage": 5,
+    "pdfObjectXref": 424,
+    "pdfBoundsPt": [
+      309.9498291015625,
+      609.3705444335938,
+      393.6429748535156,
+      693.063720703125
+    ],
+    "method": "Reused correct source rubric artwork from the physical page 5 legend; decorative here",
+    "sha256": "5dee49e460f61ef3e340fb9a1352a1b434ab39a8de794b0b245ffa9408814cee"
+  },
+  {
+    "adtSection": "pg045_sec001.html",
+    "currentElementIndex": 0,
+    "elementId": null,
+    "outputPath": "images/pg005_im006.png",
+    "finalAlt": "",
+    "decorative": true,
+    "physicalPage": 5,
+    "pdfObjectXref": 420,
+    "pdfBoundsPt": [
+      457.3786315917969,
+      527.9933471679688,
+      570.970703125,
+      641.58544921875
+    ],
+    "method": "Reused correct source rubric artwork from the physical page 5 legend; decorative here",
+    "sha256": "24a6eb382f74406277be23375d42273f1d08c7321cf40adf44dfa50dffca8027"
+  },
+  {
+    "adtSection": "pg045_sec001.html",
+    "currentElementIndex": 1,
+    "elementId": null,
+    "outputPath": "images/pg005_im008.png",
+    "finalAlt": "",
+    "decorative": true,
+    "physicalPage": 5,
+    "pdfObjectXref": 428,
+    "pdfBoundsPt": [
+      304.13385009765625,
+      114.0201644897461,
+      390.3178405761719,
+      200.20416259765625
+    ],
+    "method": "Reused correct source rubric artwork from the physical page 5 legend; decorative here",
+    "sha256": "fef0f48b436b6cf605a3fb75a2c931225d42b962afe1e3e672316a92d6f749dd"
+  },
+  {
+    "adtSection": "pg045_sec002.html",
+    "currentElementIndex": 0,
+    "elementId": null,
+    "outputPath": "images/pg005_im003.png",
+    "finalAlt": "",
+    "decorative": true,
+    "physicalPage": 5,
+    "pdfObjectXref": 406,
+    "pdfBoundsPt": [
+      124.52105712890625,
+      523.6863403320312,
+      239.20526123046875,
+      638.3705444335938
+    ],
+    "method": "Reused correct source rubric artwork from the physical page 5 legend; decorative here",
+    "sha256": "812d5bd1b70745ccaf5495a996041bcb5b6ca0e4719508c86ad91a4f4fc326f7"
+  },
+  {
+    "adtSection": "pg048_sec003.html",
+    "currentElementIndex": 0,
+    "elementId": null,
+    "outputPath": "images/pg005_im003.png",
+    "finalAlt": "",
+    "decorative": true,
+    "physicalPage": 5,
+    "pdfObjectXref": 406,
+    "pdfBoundsPt": [
+      124.52105712890625,
+      523.6863403320312,
+      239.20526123046875,
+      638.3705444335938
+    ],
+    "method": "Reused correct source rubric artwork from the physical page 5 legend; decorative here",
+    "sha256": "812d5bd1b70745ccaf5495a996041bcb5b6ca0e4719508c86ad91a4f4fc326f7"
+  },
+  {
+    "adtSection": "pg050_sec001.html",
+    "currentElementIndex": 0,
+    "elementId": null,
+    "outputPath": "images/pg005_im002.png",
+    "finalAlt": "",
+    "decorative": true,
+    "physicalPage": 5,
+    "pdfObjectXref": 402,
+    "pdfBoundsPt": [
+      125.73594665527344,
+      329.94635009765625,
+      239.3280487060547,
+      443.5384521484375
+    ],
+    "method": "Reused correct source rubric artwork from the physical page 5 legend; decorative here",
+    "sha256": "f32b9e352d8b0ce1a000a6de3aa7176ac46b1d62e89c72985565cdbad2b5c87f"
+  },
+  {
+    "adtSection": "pg050_sec001.html",
+    "currentElementIndex": 2,
+    "elementId": null,
+    "outputPath": "images/pg005_im006.png",
+    "finalAlt": "",
+    "decorative": true,
+    "physicalPage": 5,
+    "pdfObjectXref": 420,
+    "pdfBoundsPt": [
+      457.3786315917969,
+      527.9933471679688,
+      570.970703125,
+      641.58544921875
+    ],
+    "method": "Reused correct source rubric artwork from the physical page 5 legend; decorative here",
+    "sha256": "24a6eb382f74406277be23375d42273f1d08c7321cf40adf44dfa50dffca8027"
+  }
+]

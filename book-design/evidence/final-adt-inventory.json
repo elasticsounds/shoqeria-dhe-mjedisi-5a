@@ -1,0 +1,4446 @@
+[
+  {
+    "href": "pg001_sec001.html",
+    "family": "cover",
+    "title": "5",
+    "bindings": [
+      "pg001_n0005",
+      "pg001_n0006",
+      "pg001_n0002",
+      "pg001_n0003",
+      "pg001_n0008",
+      "pg001_n0009",
+      "pg001_n0011",
+      "pg001_im001",
+      "pg001_n0013",
+      "pg001_n0014",
+      "pg001_n0015",
+      "pg001_n0016"
+    ],
+    "images": [
+      {
+        "index": 0,
+        "id": "pg001_im001",
+        "path": "images/pg001_im001.png",
+        "alt": "Duart e fëmijëve rreth një globi të mbuluar me gjelbërim.",
+        "decorative": false
+      },
+      {
+        "index": 1,
+        "id": null,
+        "path": "book-design/images/publisher.png",
+        "alt": "",
+        "decorative": true
+      },
+      {
+        "index": 2,
+        "id": null,
+        "path": "book-design/images/ecology.png",
+        "alt": "",
+        "decorative": true
+      }
+    ],
+    "controls": 0,
+    "source": {
+      "href": "pg001_sec001.html",
+      "physicalPage": 1,
+      "confidence": 0.99,
+      "basis": "Cover title/authors/grade visually checked; exact source photograph object xref 57 matched at pixel RMS 0.",
+      "textCoverage": 0.123,
+      "bestTextCandidate": 1,
+      "candidateScore": 0.123,
+      "filenameHintOnly": false,
+      "supplementary": false,
+      "visualReview": "Physical PDF contact sheet and matching ADT section contact sheet inspected; detailed page PNG retained."
+    }
+  },
+  {
+    "href": "pg002_sec001.html",
+    "family": "contents",
+    "title": "PËRMBAJTJA",
+    "bindings": [
+      "pg002_n0002",
+      "pg002_n0005",
+      "pg002_n0006",
+      "pg002_n0008",
+      "pg002_n0009",
+      "pg002_n0011",
+      "pg002_n0012",
+      "pg002_n0015",
+      "pg002_n0016",
+      "pg002_n0018",
+      "pg002_n0019",
+      "pg002_n0021",
+      "pg002_n0022",
+      "pg002_n0024",
+      "pg002_n0025",
+      "pg002_n0027",
+      "pg002_n0028",
+      "pg002_n0030",
+      "pg002_n0031",
+      "pg002_n0033",
+      "pg002_n0034",
+      "pg002_n0036",
+      "pg002_n0037",
+      "pg002_n0039",
+      "pg002_n0040",
+      "pg002_n0042",
+      "pg002_n0043",
+      "pg002_n0045",
+      "pg002_n0046",
+      "pg002_n0049",
+      "pg002_n0050",
+      "pg002_n0052",
+      "pg002_n0053",
+      "pg002_n0055",
+      "pg002_n0056",
+      "pg002_n0058",
+      "pg002_n0059",
+      "pg002_n0061",
+      "pg002_n0062",
+      "pg002_n0064",
+      "pg002_n0065",
+      "pg002_n0068",
+      "pg002_n0069",
+      "pg002_n0071",
+      "pg002_n0072",
+      "pg002_n0074",
+      "pg002_n0075",
+      "pg002_n0077",
+      "pg002_n0078",
+      "pg002_n0080",
+      "pg002_n0081",
+      "pg002_n0083",
+      "pg002_n0084"
+    ],
+    "images": [],
+    "controls": 0,
+    "source": {
+      "href": "pg002_sec001.html",
+      "physicalPage": 2,
+      "confidence": 0.99,
+      "basis": "Physical render visually compared with section text/artwork; matching excerpt: PËRMBAJTJAParathënie7“Jam në klasën e pestë”8Si kanë jetuar të parët tanë?12Monumentet historike12Vendbanimet arkeologjike15Qyteti dikur dhe sot19Fsha",
+      "textCoverage": 0.977,
+      "bestTextCandidate": 2,
+      "candidateScore": 0.977,
+      "filenameHintOnly": false,
+      "supplementary": false,
+      "visualReview": "Physical PDF contact sheet and matching ADT section contact sheet inspected; detailed page PNG retained."
+    }
+  },
+  {
+    "href": "pg003_sec001.html",
+    "family": "contents",
+    "title": "Popullsia e Kosovës dikur dhe sot",
+    "bindings": [
+      "pg003_n0002",
+      "pg003_n0005",
+      "pg003_n0006",
+      "pg003_n0008",
+      "pg003_n0009",
+      "pg003_n0011",
+      "pg003_n0012",
+      "pg003_n0014",
+      "pg003_n0015",
+      "pg003_n0017",
+      "pg003_n0018",
+      "pg003_n0020",
+      "pg003_n0021",
+      "pg003_n0023",
+      "pg003_n0024",
+      "pg003_n0026",
+      "pg003_n0027",
+      "pg003_n0029",
+      "pg003_n0030",
+      "pg003_n0032",
+      "pg003_n0033"
+    ],
+    "images": [],
+    "controls": 0,
+    "source": {
+      "href": "pg003_sec001.html",
+      "physicalPage": 3,
+      "confidence": 0.99,
+      "basis": "Physical render visually compared with section text/artwork; matching excerpt: Popullsia e Kosovës dikur dhe sot 79 Banorët e vjetër të Kosovës 79 Ardhja e popujve të tjerë në Kosovë 82 “Beteja e Kosovës” 84 “Lidhja e Prizrenit” ",
+      "textCoverage": 1,
+      "bestTextCandidate": 3,
+      "candidateScore": 1,
+      "filenameHintOnly": false,
+      "supplementary": false,
+      "visualReview": "Physical PDF contact sheet and matching ADT section contact sheet inspected; detailed page PNG retained."
+    }
+  },
+  {
+    "href": "pg005_sec001.html",
+    "family": "icon-guide",
+    "title": "Çfarë ikonash përmban libri?",
+    "bindings": [
+      "pg005_n0003",
+      "pg005_im001",
+      "pg005_n0005",
+      "pg005_im008",
+      "pg005_n0007",
+      "pg005_im004",
+      "pg005_n0009",
+      "pg005_im002",
+      "pg005_n0011",
+      "pg005_im005",
+      "pg005_n0013",
+      "pg005_im003",
+      "pg005_n0015",
+      "pg005_im007",
+      "pg005_n0017",
+      "pg005_im006",
+      "pg005_n0019"
+    ],
+    "images": [
+      {
+        "index": 0,
+        "id": "pg005_im001",
+        "path": "images/pg005_im001.png",
+        "alt": "Fjalorthi",
+        "decorative": false
+      },
+      {
+        "index": 1,
+        "id": "pg005_im008",
+        "path": "images/pg005_im008.png",
+        "alt": "Diskuto",
+        "decorative": false
+      },
+      {
+        "index": 2,
+        "id": "pg005_im004",
+        "path": "images/pg005_im004.png",
+        "alt": "Përdor internetin",
+        "decorative": false
+      },
+      {
+        "index": 3,
+        "id": "pg005_im002",
+        "path": "images/pg005_im002.png",
+        "alt": "Shpreh mendimin tënd",
+        "decorative": false
+      },
+      {
+        "index": 4,
+        "id": "pg005_im005",
+        "path": "images/pg005_im005.png",
+        "alt": "Shkathtësi hulumtuese",
+        "decorative": false
+      },
+      {
+        "index": 5,
+        "id": "pg005_im003",
+        "path": "images/pg005_im003.png",
+        "alt": "Thello dijet",
+        "decorative": false
+      },
+      {
+        "index": 6,
+        "id": "pg005_im007",
+        "path": "images/pg005_im007.png",
+        "alt": "Provoje veten",
+        "decorative": false
+      },
+      {
+        "index": 7,
+        "id": "pg005_im006",
+        "path": "images/pg005_im006.png",
+        "alt": "Pyetje për ty",
+        "decorative": false
+      }
+    ],
+    "controls": 0,
+    "source": {
+      "href": "pg005_sec001.html",
+      "physicalPage": 5,
+      "confidence": 0.99,
+      "basis": "Physical render visually compared with section text/artwork; matching excerpt: Çfarë ikonash përmban libri? Fjalorthi Diskuto Përdor internetin Shpreh mendimin tënd Shkathtësi hulumtuese Thello dijet Provoje veten Pyetje për ty",
+      "textCoverage": 0.965,
+      "bestTextCandidate": 5,
+      "candidateScore": 0.965,
+      "filenameHintOnly": false,
+      "supplementary": false,
+      "visualReview": "Physical PDF contact sheet and matching ADT section contact sheet inspected; detailed page PNG retained."
+    }
+  },
+  {
+    "href": "pg006_sec001.html",
+    "family": "opener",
+    "title": "Ikonat dhe veprimtaritë e librit",
+    "bindings": [
+      "pg006_im004",
+      "pg006_im003",
+      "pg006_im001",
+      "pg006_im002"
+    ],
+    "images": [
+      {
+        "index": 0,
+        "id": "pg006_im004",
+        "path": "images/pg006_im004.png",
+        "alt": "Libër i hapur me shkronja dhe numra, i zbukuruar me gjethe të vogla.",
+        "decorative": false
+      },
+      {
+        "index": 1,
+        "id": "pg006_im003",
+        "path": "images/pg006_im003.png",
+        "alt": "Dy blloqe lodrash ndërtimi, një blu dhe një i kuq.",
+        "decorative": false
+      },
+      {
+        "index": 2,
+        "id": "pg006_im001",
+        "path": "images/pg006_im001.png",
+        "alt": "Mi kompjuteri i stilizuar si mi i vogël, me veshë rozë dhe bisht të zi.",
+        "decorative": false
+      },
+      {
+        "index": 3,
+        "id": "pg006_im002",
+        "path": "images/pg006_im002.png",
+        "alt": "Personazh portokalli që shikon përmes një lupe të madhe.",
+        "decorative": false
+      }
+    ],
+    "controls": 0,
+    "source": {
+      "href": "pg006_sec001.html",
+      "physicalPage": 6,
+      "confidence": 0.99,
+      "basis": "Physical page 6 vector scene and four exact raster object matches (xrefs 548, 553, 558, 562); source render visually checked.",
+      "textCoverage": 0,
+      "bestTextCandidate": 50,
+      "candidateScore": 0,
+      "filenameHintOnly": false,
+      "supplementary": false,
+      "visualReview": "Physical PDF contact sheet and matching ADT section contact sheet inspected; detailed page PNG retained."
+    }
+  },
+  {
+    "href": "pg007_sec001.html",
+    "family": "foreword",
+    "title": "Parathënie",
+    "bindings": [
+      "pg007_n0002",
+      "pg007_n0004",
+      "pg007_n0006",
+      "pg007_n0007",
+      "pg007_n0008",
+      "pg007_n0010",
+      "pg007_n0011",
+      "pg007_n0012",
+      "pg007_n0014",
+      "pg007_n0015",
+      "pg007_n0017",
+      "pg007_n0020",
+      "pg007_n0023",
+      "pg007_n0024",
+      "pg007_n0027",
+      "pg007_n0028",
+      "pg007_n0029",
+      "pg007_im004",
+      "pg007_im005",
+      "pg007_im006"
+    ],
+    "images": [
+      {
+        "index": 0,
+        "id": "pg007_im004",
+        "path": "images/pg007_im004.png",
+        "alt": "",
+        "decorative": true
+      },
+      {
+        "index": 1,
+        "id": "pg007_im005",
+        "path": "images/pg007_im005.png",
+        "alt": "",
+        "decorative": true
+      },
+      {
+        "index": 2,
+        "id": "pg007_im006",
+        "path": "images/pg007_im006.png",
+        "alt": "",
+        "decorative": true
+      }
+    ],
+    "controls": 0,
+    "source": {
+      "href": "pg007_sec001.html",
+      "physicalPage": 7,
+      "confidence": 0.99,
+      "basis": "Physical render visually compared with section text/artwork; matching excerpt: Parathënie I/e dashur nxënës/e, Ky libër është vazhdimësi e njohurive që ke marrë përgjatë katër vjetëve. Tani do të mësosh për jetën e paraardhësve t",
+      "textCoverage": 0.971,
+      "bestTextCandidate": 7,
+      "candidateScore": 0.971,
+      "filenameHintOnly": false,
+      "supplementary": false,
+      "visualReview": "Physical PDF contact sheet and matching ADT section contact sheet inspected; detailed page PNG retained."
+    }
+  },
+  {
+    "href": "pg008_sec001.html",
+    "family": "illustrated-lesson",
+    "title": "“Jam në klasën e pestë “",
+    "bindings": [
+      "pg008_n0002",
+      "pg008_n0004",
+      "pg008_n0005",
+      "pg008_n0007",
+      "pg008_n0008",
+      "pg008_n0010",
+      "pg008_n0011",
+      "pg008_n0012",
+      "pg008_n0013",
+      "pg008_n0014",
+      "pg008_im015",
+      "pg008_n0016",
+      "pg008_n0017",
+      "pg008_n0018",
+      "pg008_n0019",
+      "pg008_n0020",
+      "pg008_n0021",
+      "pg008_n0022",
+      "pg008_n0023"
+    ],
+    "images": [
+      {
+        "index": 0,
+        "id": "pg008_im015",
+        "path": "images/pg008_im015.png",
+        "alt": "Faqe ditari me tekst të shkruar me dorë në një bllok me spirale të kuqe.",
+        "decorative": false
+      }
+    ],
+    "controls": 0,
+    "source": {
+      "href": "pg008_sec001.html",
+      "physicalPage": 8,
+      "confidence": 0.99,
+      "basis": "Physical render visually compared with section text/artwork; matching excerpt: “Jam në klasën e pestë “ Fjalët kyçe: premtim, besim, përgjegjësi, ndryshim, personalitet, përvojë. Jam në klasën e pestë. Çfarë ndryshimesh kam pësua",
+      "textCoverage": 1,
+      "bestTextCandidate": 8,
+      "candidateScore": 1,
+      "filenameHintOnly": false,
+      "supplementary": false,
+      "visualReview": "Physical PDF contact sheet and matching ADT section contact sheet inspected; detailed page PNG retained."
+    }
+  },
+  {
+    "href": "qz001.html",
+    "family": "quiz",
+    "title": "Pse prindërit pranuan t’i marrin Arit një mace?",
+    "bindings": [
+      "qz001",
+      "qz001_que",
+      "qz001_o0",
+      "qz001_o1",
+      "qz001_o2"
+    ],
+    "images": [],
+    "controls": 3,
+    "source": {
+      "href": "qz001.html",
+      "physicalPage": 8,
+      "confidence": 0.95,
+      "basis": "Supplementary quiz immediately following the verified source lesson; question checked against that lesson.",
+      "supplementary": true,
+      "visualReview": "Physical PDF contact sheet and matching ADT section contact sheet inspected; detailed page PNG retained."
+    }
+  },
+  {
+    "href": "pg009_sec001.html",
+    "family": "illustrated-lesson",
+    "title": "Pyetje për ty",
+    "bindings": [
+      "pg009_im005",
+      "pg009_n0003",
+      "pg009_n0006",
+      "pg009_n0008",
+      "pg009_n0010",
+      "pg009_im006",
+      "pg009_n0013",
+      "pg009_n0015",
+      "pg009_n0016",
+      "pg009_n0017",
+      "pg009_n0019",
+      "pg009_n0020",
+      "pg009_n0021"
+    ],
+    "images": [
+      {
+        "index": 0,
+        "id": "pg009_im005",
+        "path": "images/pg009_im005.png",
+        "alt": "Tri pikëpyetje me ngjyra të ndryshme, që simbolizojnë pyetje dhe reflektim.",
+        "decorative": false
+      },
+      {
+        "index": 1,
+        "id": "pg009_im006",
+        "path": "images/pg009_im006.png",
+        "alt": "Libër i hapur me një lupë sipër, simbol i hulumtimit dhe thellimit të dijes.",
+        "decorative": false
+      }
+    ],
+    "controls": 1,
+    "source": {
+      "href": "pg009_sec001.html",
+      "physicalPage": 9,
+      "confidence": 0.99,
+      "basis": "Physical render visually compared with section text/artwork; matching excerpt: Pyetje për ty Analizo ndryshimet e Arit. Diskuto për ndryshimet e tua me shokët e shoqet. Shkruaj edhe ti në fletën e ditarit për ndryshimet e tua. Sh",
+      "textCoverage": 0.956,
+      "bestTextCandidate": 9,
+      "candidateScore": 0.956,
+      "filenameHintOnly": false,
+      "supplementary": false,
+      "visualReview": "Physical PDF contact sheet and matching ADT section contact sheet inspected; detailed page PNG retained."
+    }
+  },
+  {
+    "href": "pg009_sec002.html",
+    "family": "response",
+    "title": "Shkruaj edhe ti në fletën e ditarit për ndryshimet e tua.",
+    "bindings": [
+      "pg009_n0024",
+      "pg009_im017"
+    ],
+    "images": [
+      {
+        "index": 0,
+        "id": "pg009_im017",
+        "path": "images/pg009_im017.png",
+        "alt": "Fletë e zbrazët ditari me vija për të shkruar.",
+        "decorative": false
+      }
+    ],
+    "controls": 1,
+    "source": {
+      "href": "pg009_sec002.html",
+      "physicalPage": 9,
+      "confidence": 0.99,
+      "basis": "Physical render visually compared with section text/artwork; matching excerpt: Shkruaj edhe ti në fletën e ditarit për ndryshimet e tua.Shkruaj edhe ti në fletën e ditarit për ndryshimet e tua.",
+      "textCoverage": 1,
+      "bestTextCandidate": 9,
+      "candidateScore": 1,
+      "filenameHintOnly": false,
+      "supplementary": false,
+      "visualReview": "Physical PDF contact sheet and matching ADT section contact sheet inspected; detailed page PNG retained."
+    }
+  },
+  {
+    "href": "pg010_sec001.html",
+    "family": "identity-diagram",
+    "title": "Provoje veten",
+    "bindings": [
+      "pg010_n0002",
+      "pg010_n0004",
+      "pg010_n0005",
+      "pg010_im001",
+      "pg010_n0007",
+      "pg010_n0008",
+      "pg010_n0009",
+      "pg010_n0010",
+      "pg010_n0011",
+      "pg010_n0012",
+      "pg010_n0013",
+      "pg010_n0014"
+    ],
+    "images": [
+      {
+        "index": 0,
+        "id": null,
+        "path": "images/pg005_im007.png",
+        "alt": "",
+        "decorative": true
+      },
+      {
+        "index": 1,
+        "id": "pg010_im001",
+        "path": "images/pg010_im001.png",
+        "alt": "Flutur për t'u plotësuar me të dhëna personale",
+        "decorative": false
+      }
+    ],
+    "controls": 8,
+    "source": {
+      "href": "pg010_sec001.html",
+      "physicalPage": 10,
+      "confidence": 0.99,
+      "basis": "Physical render visually compared with section text/artwork; matching excerpt: 🧱 Provoje veten 1.Plotëso sipas kërkesave. Vendlindja Lënda ime më e pëlqyer Familja ime Ushqimi im më i pëlqyer Dëshira ime Kafsha që më pëlqen më sh",
+      "textCoverage": 1,
+      "bestTextCandidate": 10,
+      "candidateScore": 1,
+      "filenameHintOnly": false,
+      "supplementary": false,
+      "visualReview": "Physical PDF contact sheet and matching ADT section contact sheet inspected; detailed page PNG retained."
+    }
+  },
+  {
+    "href": "pg011_sec001.html",
+    "family": "self-assessment",
+    "title": "Në tabelë, vendos X për të treguar se sa i realizon ti veprimet e mëposhtme.",
+    "bindings": [
+      "pg011_n0002",
+      "pg011_n0003",
+      "pg011_n0007",
+      "pg011_n0009",
+      "pg011_n0011",
+      "pg011_n0013",
+      "pg011_n0016",
+      "pg011_n0022",
+      "pg011_n0028",
+      "pg011_n0034",
+      "pg011_n0040",
+      "pg011_n0046",
+      "pg011_n0052",
+      "pg011_n0058",
+      "pg011_n0064",
+      "pg011_n0070",
+      "pg011_n0076",
+      "pg011_n0082",
+      "pg011_n0088"
+    ],
+    "images": [],
+    "controls": 39,
+    "source": {
+      "href": "pg011_sec001.html",
+      "physicalPage": 11,
+      "confidence": 0.99,
+      "basis": "Physical render visually compared with section text/artwork; matching excerpt: 2.Në tabelë, vendos X për të treguar se sa i realizon ti veprimet e mëposhtme.Unë i kryej këto veprime:GjithmonëNganjëherëAsnjëherëI mbaj premtimet.Ku",
+      "textCoverage": 0.972,
+      "bestTextCandidate": 11,
+      "candidateScore": 0.972,
+      "filenameHintOnly": false,
+      "supplementary": false,
+      "visualReview": "Physical PDF contact sheet and matching ADT section contact sheet inspected; detailed page PNG retained."
+    }
+  },
+  {
+    "href": "pg011_sec002.html",
+    "family": "star-rating",
+    "title": "Pasi ta kesh plotësuar tabelën, ngjyrosi yjet për të treguar se sa i përgjegjshëm je ti.",
+    "bindings": [
+      "pg011_n0093",
+      "pg011_n0094",
+      "pg011_n0096",
+      "pg011_im001"
+    ],
+    "images": [
+      {
+        "index": 0,
+        "id": "pg011_im001",
+        "path": "images/pg011_im001.png",
+        "alt": "Pesë yje për vlerësim",
+        "decorative": false
+      }
+    ],
+    "controls": 5,
+    "source": {
+      "href": "pg011_sec002.html",
+      "physicalPage": 11,
+      "confidence": 0.99,
+      "basis": "Physical render visually compared with section text/artwork; matching excerpt: 3. Pasi ta kesh plotësuar tabelën, ngjyrosi yjet për të treguar se sa i përgjegjshëm je ti. Jam i përgjegjshëm.",
+      "textCoverage": 1,
+      "bestTextCandidate": 11,
+      "candidateScore": 1,
+      "filenameHintOnly": false,
+      "supplementary": false,
+      "visualReview": "Physical PDF contact sheet and matching ADT section contact sheet inspected; detailed page PNG retained."
+    }
+  },
+  {
+    "href": "pg012_sec001.html",
+    "family": "chapter-lesson",
+    "title": "Si kanë jetuar të parët tanë?",
+    "bindings": [
+      "pg012_n0002",
+      "pg012_n0003",
+      "pg012_n0005",
+      "pg012_n0006",
+      "pg012_n0008",
+      "pg012_n0010",
+      "pg012_n0011",
+      "pg012_n0012",
+      "pg012_n0013",
+      "pg012_n0014",
+      "pg012_im005",
+      "pg012_n0016",
+      "pg012_n0018",
+      "pg012_n0019",
+      "pg012_n0020",
+      "pg012_n0021",
+      "pg012_n0023",
+      "pg012_im002",
+      "pg012_n0025",
+      "pg012_im003",
+      "pg012_n0027",
+      "pg012_n0029",
+      "pg012_n0030",
+      "pg012_n0032",
+      "pg012_im004",
+      "pg012_n0034"
+    ],
+    "images": [
+      {
+        "index": 0,
+        "id": "pg012_im005",
+        "path": "images/pg012_im005.png",
+        "alt": "Kalaja e Prizrenit",
+        "decorative": false
+      },
+      {
+        "index": 1,
+        "id": "pg012_im002",
+        "path": "images/pg012_im002.png",
+        "alt": "Ura e Fshajtë",
+        "decorative": false
+      },
+      {
+        "index": 2,
+        "id": "pg012_im003",
+        "path": "images/pg012_im003.png",
+        "alt": "Shtëpia e Lidhjes së Prizrenit",
+        "decorative": false
+      },
+      {
+        "index": 3,
+        "id": "pg012_im004",
+        "path": "images/pg012_im004.png",
+        "alt": "Kompleksi Memorial Adem Jashari",
+        "decorative": false
+      }
+    ],
+    "controls": 0,
+    "source": {
+      "href": "pg012_sec001.html",
+      "physicalPage": 12,
+      "confidence": 0.99,
+      "basis": "Physical render visually compared with section text/artwork; matching excerpt: Si kanë jetuar të parët tanë? Monumentet historike Fjalët kyçe: monument, simbol, gërmim, përmendore, arkiv. Shpreh mendimin tënd - Kujto se çfarë ke ",
+      "textCoverage": 0.988,
+      "bestTextCandidate": 12,
+      "candidateScore": 0.988,
+      "filenameHintOnly": false,
+      "supplementary": false,
+      "visualReview": "Physical PDF contact sheet and matching ADT section contact sheet inspected; detailed page PNG retained."
+    }
+  },
+  {
+    "href": "pg013_sec001.html",
+    "family": "reference",
+    "title": "Thello dijet",
+    "bindings": [
+      "pg013_n0003",
+      "pg013_n0005",
+      "pg013_n0006",
+      "pg013_n0007",
+      "pg013_n0008",
+      "pg013_n0011",
+      "pg013_n0013",
+      "pg013_n0015",
+      "pg013_n0016"
+    ],
+    "images": [
+      {
+        "index": 0,
+        "id": null,
+        "path": "images/pg005_im003.png",
+        "alt": "",
+        "decorative": true
+      }
+    ],
+    "controls": 0,
+    "source": {
+      "href": "pg013_sec001.html",
+      "physicalPage": 13,
+      "confidence": 0.99,
+      "basis": "Physical render visually compared with section text/artwork; matching excerpt: 📖Thello dijetMonumentet kulturore-historike janë simbole historike të një kombi. Ato janë dëshmi e historisë së një populli gjatë periudhave të ndrysh",
+      "textCoverage": 0.97,
+      "bestTextCandidate": 13,
+      "candidateScore": 0.97,
+      "filenameHintOnly": false,
+      "supplementary": false,
+      "visualReview": "Physical PDF contact sheet and matching ADT section contact sheet inspected; detailed page PNG retained."
+    }
+  },
+  {
+    "href": "pg013_sec002.html",
+    "family": "response",
+    "title": "Pyetje për ty",
+    "bindings": [
+      "pg013_n0019",
+      "pg013_n0022",
+      "pg013_n0024",
+      "pg013_n0026",
+      "pg013_n0028",
+      "pg013_n0031",
+      "pg013_n0032"
+    ],
+    "images": [
+      {
+        "index": 0,
+        "id": null,
+        "path": "images/pg005_im006.png",
+        "alt": "",
+        "decorative": true
+      }
+    ],
+    "controls": 6,
+    "source": {
+      "href": "pg013_sec002.html",
+      "physicalPage": 13,
+      "confidence": 0.99,
+      "basis": "Physical render visually compared with section text/artwork; matching excerpt: ❓❔❓ Pyetje për ty Çfarë tregojnë këto fotografi? Çfarë tregojnë këto fotografi? Analizo se pse janë të rëndësishme monumentet historike. Analizo se ps",
+      "textCoverage": 1,
+      "bestTextCandidate": 13,
+      "candidateScore": 1,
+      "filenameHintOnly": false,
+      "supplementary": false,
+      "visualReview": "Physical PDF contact sheet and matching ADT section contact sheet inspected; detailed page PNG retained."
+    }
+  },
+  {
+    "href": "pg013_sec003.html",
+    "family": "discussion",
+    "title": "Diskuto",
+    "bindings": [
+      "pg013_n0035",
+      "pg013_n0036",
+      "pg013_n0037",
+      "pg013_n0038",
+      "pg013_n0039"
+    ],
+    "images": [
+      {
+        "index": 0,
+        "id": null,
+        "path": "images/pg005_im008.png",
+        "alt": "",
+        "decorative": true
+      }
+    ],
+    "controls": 2,
+    "source": {
+      "href": "pg013_sec003.html",
+      "physicalPage": 13,
+      "confidence": 0.99,
+      "basis": "Physical render visually compared with section text/artwork; matching excerpt: 💬 Diskuto Çfarë mendon ti për këto monumente historike të rëndësishme të vendit tonë? Cila është rëndësia kulturore e këtyre monumenteve?",
+      "textCoverage": 1,
+      "bestTextCandidate": 13,
+      "candidateScore": 1,
+      "filenameHintOnly": false,
+      "supplementary": false,
+      "visualReview": "Physical PDF contact sheet and matching ADT section contact sheet inspected; detailed page PNG retained."
+    }
+  },
+  {
+    "href": "qz002.html",
+    "family": "quiz",
+    "title": "Pse janë të rëndësishme monumentet historike?",
+    "bindings": [
+      "qz002",
+      "qz002_que",
+      "qz002_o0",
+      "qz002_o1",
+      "qz002_o2"
+    ],
+    "images": [],
+    "controls": 3,
+    "source": {
+      "href": "qz002.html",
+      "physicalPage": 13,
+      "confidence": 0.95,
+      "basis": "Supplementary quiz immediately following the verified source lesson; question checked against that lesson.",
+      "supplementary": true,
+      "visualReview": "Physical PDF contact sheet and matching ADT section contact sheet inspected; detailed page PNG retained."
+    }
+  },
+  {
+    "href": "pg014_sec001.html",
+    "family": "response",
+    "title": "Provoje veten",
+    "bindings": [
+      "pg014_n0002",
+      "pg014_n0004",
+      "pg014_n0005",
+      "pg014_n0006",
+      "pg014_n0007",
+      "pg014_n0008",
+      "pg014_n0009",
+      "pg014_n0010",
+      "pg014_n0011",
+      "pg014_n0012",
+      "pg014_n0013",
+      "pg014_n0014",
+      "pg014_n0015"
+    ],
+    "images": [
+      {
+        "index": 0,
+        "id": null,
+        "path": "images/pg005_im007.png",
+        "alt": "",
+        "decorative": true
+      }
+    ],
+    "controls": 5,
+    "source": {
+      "href": "pg014_sec001.html",
+      "physicalPage": 14,
+      "confidence": 0.9,
+      "basis": "Physical render visually compared with section text/artwork; matching excerpt: 🧱 Provoje veten 1. Identifikoji monumentet arkeologjike në rrethinën ku ti jeton dhe krahasoji ato me lokalitetet arkeologjike që tashmë ke mësuar. Id",
+      "textCoverage": 0.621,
+      "bestTextCandidate": 14,
+      "candidateScore": 0.621,
+      "filenameHintOnly": false,
+      "supplementary": false,
+      "visualReview": "Physical PDF contact sheet and matching ADT section contact sheet inspected; detailed page PNG retained."
+    }
+  },
+  {
+    "href": "pg015_sec001.html",
+    "family": "illustrated-lesson",
+    "title": "Vendbanimet arkeologjike",
+    "bindings": [
+      "pg015_n0002",
+      "pg015_n0004",
+      "pg015_n0005",
+      "pg015_n0007",
+      "pg015_n0010",
+      "pg015_n0012",
+      "pg015_n0014",
+      "pg015_n0016",
+      "pg015_n0017",
+      "pg015_n0018",
+      "pg015_n0019",
+      "pg015_im002",
+      "pg015_n0021",
+      "pg015_n0022",
+      "pg015_n0023",
+      "pg015_im003",
+      "pg015_n0025",
+      "pg015_n0026"
+    ],
+    "images": [
+      {
+        "index": 0,
+        "id": null,
+        "path": "images/pg005_im002.png",
+        "alt": "",
+        "decorative": true
+      },
+      {
+        "index": 1,
+        "id": "pg015_im002",
+        "path": "images/pg015_im002.png",
+        "alt": "Pamje e Ulpianës me rrënoja arkeologjike dhe shtigje përreth",
+        "decorative": false
+      },
+      {
+        "index": 2,
+        "id": "pg015_im003",
+        "path": "images/pg015_im003.png",
+        "alt": "Pamje e kalasë së Artanës në majë kodre me male në sfond",
+        "decorative": false
+      }
+    ],
+    "controls": 3,
+    "source": {
+      "href": "pg015_sec001.html",
+      "physicalPage": 15,
+      "confidence": 0.99,
+      "basis": "Physical render visually compared with section text/artwork; matching excerpt: Vendbanimet arkeologjike Fjalët kyçe: arkeologji, shkencë, qytetërim, gërmim, objekt, amforë. ✧ ✦ Shpreh mendimin tënd A e di çka janë vendbanimet ark",
+      "textCoverage": 0.974,
+      "bestTextCandidate": 15,
+      "candidateScore": 0.974,
+      "filenameHintOnly": false,
+      "supplementary": false,
+      "visualReview": "Physical PDF contact sheet and matching ADT section contact sheet inspected; detailed page PNG retained."
+    }
+  },
+  {
+    "href": "pg016_sec001.html",
+    "family": "illustrated-lesson",
+    "title": "Objekte arkeologjike",
+    "bindings": [
+      "pg016_im005",
+      "pg016_n0002",
+      "pg016_n0003",
+      "pg016_n0004",
+      "pg016_n0006",
+      "pg016_n0008",
+      "pg016_n0009",
+      "pg016_n0010",
+      "pg016_im006",
+      "pg016_n0012",
+      "pg016_n0014",
+      "pg016_n0015",
+      "pg016_im003",
+      "pg016_n0017",
+      "pg016_n0019",
+      "pg016_im004",
+      "pg016_n0021",
+      "pg016_im001",
+      "pg016_n0023",
+      "pg016_im002",
+      "pg016_n0025"
+    ],
+    "images": [
+      {
+        "index": 0,
+        "id": "pg016_im005",
+        "path": "images/pg016_im005.png",
+        "alt": "Figurinë arkeologjike e njohur si Hyjnesha në fron.",
+        "decorative": false
+      },
+      {
+        "index": 1,
+        "id": "pg016_im006",
+        "path": "images/pg016_im006.png",
+        "alt": "Amforë e gjetur në muze",
+        "decorative": false
+      },
+      {
+        "index": 2,
+        "id": "pg016_im003",
+        "path": "images/pg016_im003.png",
+        "alt": "Gur varri",
+        "decorative": false
+      },
+      {
+        "index": 3,
+        "id": "pg016_im004",
+        "path": "images/pg016_im004.png",
+        "alt": "Tempull",
+        "decorative": false
+      },
+      {
+        "index": 4,
+        "id": "pg016_im001",
+        "path": "images/pg016_im001.png",
+        "alt": "Gjetje arkeologjike me pjesë metalike dhe copa qeramike, të paraqitura së bashku.",
+        "decorative": false
+      },
+      {
+        "index": 5,
+        "id": "pg016_im002",
+        "path": "images/pg016_im002.png",
+        "alt": "Monedha",
+        "decorative": false
+      }
+    ],
+    "controls": 0,
+    "source": {
+      "href": "pg016_sec001.html",
+      "physicalPage": 16,
+      "confidence": 0.99,
+      "basis": "Physical render visually compared with section text/artwork; matching excerpt: Në “Muzeun Kombëtar të Kosovës” panë shumë gjëra, por u ndalën te “Hyjnesha në fron” - figurinë antropomorfe nga argjila e pjekur. Ajo paraqet figurën",
+      "textCoverage": 1,
+      "bestTextCandidate": 16,
+      "candidateScore": 1,
+      "filenameHintOnly": false,
+      "supplementary": false,
+      "visualReview": "Physical PDF contact sheet and matching ADT section contact sheet inspected; detailed page PNG retained."
+    }
+  },
+  {
+    "href": "pg017_sec001.html",
+    "family": "response",
+    "title": "Pyetje për ty",
+    "bindings": [
+      "pg017_n0003",
+      "pg017_n0004",
+      "pg017_n0005",
+      "pg017_n0006",
+      "pg017_n0007",
+      "pg017_n0008",
+      "pg017_n0009",
+      "pg017_n0010"
+    ],
+    "images": [
+      {
+        "index": 0,
+        "id": null,
+        "path": "images/pg005_im006.png",
+        "alt": "",
+        "decorative": true
+      }
+    ],
+    "controls": 7,
+    "source": {
+      "href": "pg017_sec001.html",
+      "physicalPage": 17,
+      "confidence": 0.99,
+      "basis": "Physical render visually compared with section text/artwork; matching excerpt: ???Pyetje për tyBashkë me mësuesin, organizoni vizitë në ndonjërin nga monumentet historike.Bashkë me mësuesin, organizoni vizitë në ndonjërin nga mon",
+      "textCoverage": 0.746,
+      "bestTextCandidate": 17,
+      "candidateScore": 0.746,
+      "filenameHintOnly": false,
+      "supplementary": false,
+      "visualReview": "Physical PDF contact sheet and matching ADT section contact sheet inspected; detailed page PNG retained."
+    }
+  },
+  {
+    "href": "pg017_sec002.html",
+    "family": "reference",
+    "title": "Diskuto",
+    "bindings": [
+      "pg017_n0014",
+      "pg017_n0017",
+      "pg017_n0020",
+      "pg017_n0022",
+      "pg017_n0024"
+    ],
+    "images": [],
+    "controls": 4,
+    "source": {
+      "href": "pg017_sec002.html",
+      "physicalPage": 17,
+      "confidence": 0.99,
+      "basis": "Physical render visually compared with section text/artwork; matching excerpt: Bashkë me ndihmën e prindërve apo të mësuesit, hulumto në internet për informacione të tjera rreth gjetjeve dhe gërmimeve arkeologjike në Kosovë (këtë",
+      "textCoverage": 1,
+      "bestTextCandidate": 17,
+      "candidateScore": 1,
+      "filenameHintOnly": false,
+      "supplementary": false,
+      "visualReview": "Physical PDF contact sheet and matching ADT section contact sheet inspected; detailed page PNG retained."
+    }
+  },
+  {
+    "href": "pg017_sec003.html",
+    "family": "reference",
+    "title": "Thello dijet",
+    "bindings": [
+      "pg017_n0027",
+      "pg017_n0029",
+      "pg017_n0030",
+      "pg017_n0031",
+      "pg017_n0032",
+      "pg017_n0035",
+      "pg017_n0037",
+      "pg017_n0038",
+      "pg017_n0040",
+      "pg017_n0041"
+    ],
+    "images": [
+      {
+        "index": 0,
+        "id": null,
+        "path": "images/pg005_im003.png",
+        "alt": "",
+        "decorative": true
+      },
+      {
+        "index": 1,
+        "id": null,
+        "path": "images/pg005_im001.png",
+        "alt": "",
+        "decorative": true
+      }
+    ],
+    "controls": 0,
+    "source": {
+      "href": "pg017_sec003.html",
+      "physicalPage": 17,
+      "confidence": 0.99,
+      "basis": "Physical render visually compared with section text/artwork; matching excerpt: 📖 Thello dijet Në Kosovë ka shumë gjetje arkeologjike, sepse ka qenë e banuar qysh në kohët e lashta, për shkak të tokave bujqësore dhe klimës së përs",
+      "textCoverage": 0.966,
+      "bestTextCandidate": 17,
+      "candidateScore": 0.966,
+      "filenameHintOnly": false,
+      "supplementary": false,
+      "visualReview": "Physical PDF contact sheet and matching ADT section contact sheet inspected; detailed page PNG retained."
+    }
+  },
+  {
+    "href": "qz003.html",
+    "family": "quiz",
+    "title": "Çfarë janë amforat?",
+    "bindings": [
+      "qz003",
+      "qz003_que",
+      "qz003_o0",
+      "qz003_o1",
+      "qz003_o2"
+    ],
+    "images": [],
+    "controls": 3,
+    "source": {
+      "href": "qz003.html",
+      "physicalPage": 17,
+      "confidence": 0.95,
+      "basis": "Supplementary quiz immediately following the verified source lesson; question checked against that lesson.",
+      "supplementary": true,
+      "visualReview": "Physical PDF contact sheet and matching ADT section contact sheet inspected; detailed page PNG retained."
+    }
+  },
+  {
+    "href": "pg018_sec001.html",
+    "family": "response",
+    "title": "Provoje veten",
+    "bindings": [
+      "pg018_n0002",
+      "pg018_n0004",
+      "pg018_n0005",
+      "pg018_n0006",
+      "pg018_n0007"
+    ],
+    "images": [
+      {
+        "index": 0,
+        "id": null,
+        "path": "images/pg005_im007.png",
+        "alt": "",
+        "decorative": true
+      }
+    ],
+    "controls": 2,
+    "source": {
+      "href": "pg018_sec001.html",
+      "physicalPage": 18,
+      "confidence": 0.99,
+      "basis": "Physical render visually compared with section text/artwork; matching excerpt: Provoje veten1. Çka janë vendbanimet arkeologjike?A e di ndonjë të tillë në vendin ku jeton?1. Çka janë vendbanimet arkeologjike? A e di ndonjë të til",
+      "textCoverage": 1,
+      "bestTextCandidate": 18,
+      "candidateScore": 1,
+      "filenameHintOnly": false,
+      "supplementary": false,
+      "visualReview": "Physical PDF contact sheet and matching ADT section contact sheet inspected; detailed page PNG retained."
+    }
+  },
+  {
+    "href": "pg018_sec002.html",
+    "family": "response",
+    "title": "2. Plotëso sipas kërkesave.",
+    "bindings": [
+      "pg018_n0010",
+      "pg018_n0014",
+      "pg018_n0016",
+      "pg018_n0018"
+    ],
+    "images": [],
+    "controls": 3,
+    "source": {
+      "href": "pg018_sec002.html",
+      "physicalPage": 18,
+      "confidence": 0.99,
+      "basis": "Physical render visually compared with section text/artwork; matching excerpt: 2. Plotëso sipas kërkesave. Cila është rëndësia e statujës “Hyjnesha në fron”? Pse mendon se iu dedikua idhullit të nënës? Pse mendon se janë të rëndë",
+      "textCoverage": 0.916,
+      "bestTextCandidate": 18,
+      "candidateScore": 0.916,
+      "filenameHintOnly": false,
+      "supplementary": false,
+      "visualReview": "Physical PDF contact sheet and matching ADT section contact sheet inspected; detailed page PNG retained."
+    }
+  },
+  {
+    "href": "pg018_sec003.html",
+    "family": "response",
+    "title": "3. Hulumto dhe listo emrat e disa vendbanimeve arkeologjike të vendit tonë.",
+    "bindings": [
+      "pg018_n0024",
+      "pg018_n0025",
+      "pg018_n0026",
+      "pg018_n0027"
+    ],
+    "images": [],
+    "controls": 3,
+    "source": {
+      "href": "pg018_sec003.html",
+      "physicalPage": 18,
+      "confidence": 0.99,
+      "basis": "Physical render visually compared with section text/artwork; matching excerpt: 3. Hulumto dhe listo emrat e disa vendbanimeve arkeologjike të vendit tonë. 1. 1. ___ 2. 2. ___ 3. 3. ___",
+      "textCoverage": 1,
+      "bestTextCandidate": 18,
+      "candidateScore": 1,
+      "filenameHintOnly": false,
+      "supplementary": false,
+      "visualReview": "Physical PDF contact sheet and matching ADT section contact sheet inspected; detailed page PNG retained."
+    }
+  },
+  {
+    "href": "pg018_sec004.html",
+    "family": "response",
+    "title": "4. Shkruaj disa të dhëna për njërin nga vendbanimet që të pëlqeu më shumë.",
+    "bindings": [
+      "pg018_n0029",
+      "pg018_n0030"
+    ],
+    "images": [],
+    "controls": 1,
+    "source": {
+      "href": "pg018_sec004.html",
+      "physicalPage": 18,
+      "confidence": 0.99,
+      "basis": "Physical render visually compared with section text/artwork; matching excerpt: 4. Shkruaj disa të dhëna për njërin nga vendbanimet që të pëlqeu më shumë. 4. Shkruaj disa të dhëna për njërin nga vendbanimet që të pëlqeu më shumë.",
+      "textCoverage": 1,
+      "bestTextCandidate": 18,
+      "candidateScore": 1,
+      "filenameHintOnly": false,
+      "supplementary": false,
+      "visualReview": "Physical PDF contact sheet and matching ADT section contact sheet inspected; detailed page PNG retained."
+    }
+  },
+  {
+    "href": "pg019_sec001.html",
+    "family": "photo-comparison",
+    "title": "Qyteti dikur dhe sot",
+    "bindings": [
+      "pg019_n0002",
+      "pg019_n0004",
+      "pg019_n0005",
+      "pg019_n0008",
+      "pg019_n0011",
+      "pg019_n0013",
+      "pg019_n0015",
+      "pg019_im004",
+      "pg019_n0018",
+      "pg019_n0019",
+      "pg019_n0020",
+      "pg019_n0021",
+      "pg019_im005",
+      "pg019_n0024",
+      "pg019_n0025",
+      "pg019_n0028",
+      "pg019_n0029",
+      "pg019_n0030",
+      "pg019_im006",
+      "pg019_n0032",
+      "pg019_im007",
+      "pg019_im009",
+      "pg019_im010",
+      "pg019_im001",
+      "pg019_im002",
+      "pg019_im008"
+    ],
+    "images": [
+      {
+        "index": 0,
+        "id": null,
+        "path": "images/pg005_im002.png",
+        "alt": "",
+        "decorative": true
+      },
+      {
+        "index": 1,
+        "id": "pg019_im004",
+        "path": "images/pg019_im004.png",
+        "alt": "Pamje e vjetër e Prishtinës me rrugë të ngushta dhe shtëpi të ulëta",
+        "decorative": false
+      },
+      {
+        "index": 2,
+        "id": "pg019_im005",
+        "path": "images/pg019_im005.png",
+        "alt": "Ndërtesa shumëkatëshe dhe rrugë më të zhvilluara në Prishtinë",
+        "decorative": false
+      },
+      {
+        "index": 3,
+        "id": "pg019_im006",
+        "path": "images/pg019_im006.png",
+        "alt": "Pamje e sotme e Prishtinës me ndërtesa të larta dhe qendra urbane",
+        "decorative": false
+      },
+      {
+        "index": 4,
+        "id": "pg019_im007",
+        "path": "images/pg019_im007.png",
+        "alt": "Fotografi e vjetër e Pejës me shtëpi pranë ujit",
+        "decorative": false
+      },
+      {
+        "index": 5,
+        "id": "pg019_im009",
+        "path": "images/pg019_im009.png",
+        "alt": "Fotografi e vjetër bardhë e zi e një zone të Pejës",
+        "decorative": false
+      },
+      {
+        "index": 6,
+        "id": "pg019_im010",
+        "path": "images/pg019_im010.png",
+        "alt": "Fotografi e vjetër e një rruge me kalldrëm në Pejë",
+        "decorative": false
+      },
+      {
+        "index": 7,
+        "id": "pg019_im001",
+        "path": "images/pg019_im001.png",
+        "alt": "Pamje e hershme urbane e Pejës",
+        "decorative": false
+      },
+      {
+        "index": 8,
+        "id": "pg019_im002",
+        "path": "images/pg019_im002.png",
+        "alt": "Pamje më e re e qytetit të Pejës me ndërtesa dhe automjete",
+        "decorative": false
+      },
+      {
+        "index": 9,
+        "id": "pg019_im008",
+        "path": "images/pg019_im008.png",
+        "alt": "Pamje e sotme e sheshit të qytetit të Pejës",
+        "decorative": false
+      }
+    ],
+    "controls": 4,
+    "source": {
+      "href": "pg019_sec001.html",
+      "physicalPage": 19,
+      "confidence": 0.99,
+      "basis": "Physical render visually compared with section text/artwork; matching excerpt: Qyteti dikur dhe sot Fjalët kyçe: qytet, zhvillim teknologjik, arkitekturë, kalldrëm, autostradë. ☁️ Shpreh mendimin tënd Krahaso si ka qenë qyteti di",
+      "textCoverage": 0.985,
+      "bestTextCandidate": 19,
+      "candidateScore": 0.985,
+      "filenameHintOnly": false,
+      "supplementary": false,
+      "visualReview": "Physical PDF contact sheet and matching ADT section contact sheet inspected; detailed page PNG retained."
+    }
+  },
+  {
+    "href": "pg020_sec001.html",
+    "family": "response",
+    "title": "Pyetje për ty",
+    "bindings": [
+      "pg020_n0003",
+      "pg020_n0006",
+      "pg020_n0008",
+      "pg020_n0010",
+      "pg020_n0012",
+      "pg020_n0014"
+    ],
+    "images": [
+      {
+        "index": 0,
+        "id": null,
+        "path": "images/pg005_im006.png",
+        "alt": "",
+        "decorative": true
+      }
+    ],
+    "controls": 5,
+    "source": {
+      "href": "pg020_sec001.html",
+      "physicalPage": 20,
+      "confidence": 0.99,
+      "basis": "Physical render visually compared with section text/artwork; matching excerpt: ❓Pyetje për ty–Si ishte Prishtina dikur e si është sot?Si ishte Prishtina dikur e si është sot?–Analizoji ndryshimet.Analizoji ndryshimet.–A ka pësuar",
+      "textCoverage": 0.964,
+      "bestTextCandidate": 20,
+      "candidateScore": 0.964,
+      "filenameHintOnly": false,
+      "supplementary": false,
+      "visualReview": "Physical PDF contact sheet and matching ADT section contact sheet inspected; detailed page PNG retained."
+    }
+  },
+  {
+    "href": "pg020_sec002.html",
+    "family": "discussion",
+    "title": "Diskuto",
+    "bindings": [
+      "pg020_n0017",
+      "pg020_n0020",
+      "pg020_n0022",
+      "pg020_n0023",
+      "pg020_n0024",
+      "pg020_n0025",
+      "pg020_n0026"
+    ],
+    "images": [
+      {
+        "index": 0,
+        "id": null,
+        "path": "images/pg005_im008.png",
+        "alt": "",
+        "decorative": true
+      }
+    ],
+    "controls": 4,
+    "source": {
+      "href": "pg020_sec002.html",
+      "physicalPage": 20,
+      "confidence": 0.99,
+      "basis": "Physical render visually compared with section text/artwork; matching excerpt: 💬Diskuto–A ka ndryshuar qyteti gjatë kohëve të ndryshme?A ka ndryshuar qyteti gjatë kohëve të ndryshme?–Përshkruaje zhvillimin e qytetit përgjatë hist",
+      "textCoverage": 1,
+      "bestTextCandidate": 20,
+      "candidateScore": 1,
+      "filenameHintOnly": false,
+      "supplementary": false,
+      "visualReview": "Physical PDF contact sheet and matching ADT section contact sheet inspected; detailed page PNG retained."
+    }
+  },
+  {
+    "href": "pg020_sec003.html",
+    "family": "reference",
+    "title": "Thello dijet",
+    "bindings": [
+      "pg020_n0029",
+      "pg020_n0031",
+      "pg020_n0032",
+      "pg020_n0033",
+      "pg020_n0034",
+      "pg020_n0035",
+      "pg020_n0036",
+      "pg020_n0037"
+    ],
+    "images": [
+      {
+        "index": 0,
+        "id": null,
+        "path": "images/pg005_im003.png",
+        "alt": "",
+        "decorative": true
+      }
+    ],
+    "controls": 0,
+    "source": {
+      "href": "pg020_sec003.html",
+      "physicalPage": 20,
+      "confidence": 0.99,
+      "basis": "Physical render visually compared with section text/artwork; matching excerpt: 🔎Thello dijetGjatë periudhave historike, për të pasur jetë më të mirë njeriu bëri shumë ndryshime në qytet. U ndryshuan rrugët, ndërtimi i shtëpive, m",
+      "textCoverage": 0.974,
+      "bestTextCandidate": 20,
+      "candidateScore": 0.974,
+      "filenameHintOnly": false,
+      "supplementary": false,
+      "visualReview": "Physical PDF contact sheet and matching ADT section contact sheet inspected; detailed page PNG retained."
+    }
+  },
+  {
+    "href": "pg021_sec001.html",
+    "family": "practice-opener",
+    "title": "Provoje veten",
+    "bindings": [
+      "pg021_im001",
+      "pg021_n0002"
+    ],
+    "images": [
+      {
+        "index": 0,
+        "id": "pg021_im001",
+        "path": "images/pg021_im001.png",
+        "alt": "",
+        "decorative": true
+      }
+    ],
+    "controls": 0,
+    "source": {
+      "href": "pg021_sec001.html",
+      "physicalPage": 21,
+      "confidence": 0.99,
+      "basis": "Physical render visually compared with section text/artwork; matching excerpt: Provoje veten",
+      "textCoverage": 1,
+      "bestTextCandidate": 49,
+      "candidateScore": 1,
+      "filenameHintOnly": false,
+      "supplementary": false,
+      "visualReview": "Physical PDF contact sheet and matching ADT section contact sheet inspected; detailed page PNG retained."
+    }
+  },
+  {
+    "href": "pg021_sec002.html",
+    "family": "response",
+    "title": "Shkruaj dhe vizato si kanë qenë:",
+    "bindings": [
+      "pg021_n0004",
+      "pg021_n0005",
+      "pg021_n0009",
+      "pg021_n0011"
+    ],
+    "images": [],
+    "controls": 2,
+    "source": {
+      "href": "pg021_sec002.html",
+      "physicalPage": 21,
+      "confidence": 0.99,
+      "basis": "Physical render visually compared with section text/artwork; matching excerpt: 🧱 1. Shkruaj dhe vizato si kanë qenë: rrugët dikur rrugët sot rrugët dikur rrugët sot",
+      "textCoverage": 1,
+      "bestTextCandidate": 21,
+      "candidateScore": 1,
+      "filenameHintOnly": false,
+      "supplementary": false,
+      "visualReview": "Physical PDF contact sheet and matching ADT section contact sheet inspected; detailed page PNG retained."
+    }
+  },
+  {
+    "href": "pg021_sec003.html",
+    "family": "response",
+    "title": "Imagjino dhe shkruaj se si e paramendon qytetin në të ardhmen.",
+    "bindings": [
+      "pg021_n0016",
+      "pg021_n0017",
+      "pg021_n0018"
+    ],
+    "images": [],
+    "controls": 1,
+    "source": {
+      "href": "pg021_sec003.html",
+      "physicalPage": 21,
+      "confidence": 0.99,
+      "basis": "Physical render visually compared with section text/artwork; matching excerpt: 2. Imagjino dhe shkruaj se si e paramendon qytetin në të ardhmen. Imagjino dhe shkruaj se si e paramendon qytetin në të ardhmen.",
+      "textCoverage": 1,
+      "bestTextCandidate": 21,
+      "candidateScore": 1,
+      "filenameHintOnly": false,
+      "supplementary": false,
+      "visualReview": "Physical PDF contact sheet and matching ADT section contact sheet inspected; detailed page PNG retained."
+    }
+  },
+  {
+    "href": "pg022_sec001.html",
+    "family": "photo-comparison",
+    "title": "Fshati dikur dhe sot",
+    "bindings": [
+      "pg022_n0002",
+      "pg022_n0004",
+      "pg022_n0005",
+      "pg022_n0008",
+      "pg022_n0011",
+      "pg022_n0013",
+      "pg022_n0015",
+      "pg022_n0017",
+      "pg022_im003",
+      "pg022_im004",
+      "pg022_n0019",
+      "pg022_n0020",
+      "pg022_n0021",
+      "pg022_n0022",
+      "pg022_n0024",
+      "pg022_n0025",
+      "pg022_n0027",
+      "pg022_n0028",
+      "pg022_n0029",
+      "pg022_n0032",
+      "pg022_n0035",
+      "pg022_n0037"
+    ],
+    "images": [
+      {
+        "index": 0,
+        "id": null,
+        "path": "images/pg005_im002.png",
+        "alt": "",
+        "decorative": true
+      },
+      {
+        "index": 1,
+        "id": "pg022_im003",
+        "path": "images/pg022_im003.png",
+        "alt": "Pamje e fshatit dikur me rrugë të thjeshta dhe kodra të hapura",
+        "decorative": false
+      },
+      {
+        "index": 2,
+        "id": "pg022_im004",
+        "path": "images/pg022_im004.png",
+        "alt": "Pamje e fshatit sot me rrugë të asfaltuar, makina dhe shumë ndërtesa",
+        "decorative": false
+      },
+      {
+        "index": 3,
+        "id": null,
+        "path": "images/pg005_im006.png",
+        "alt": "",
+        "decorative": true
+      }
+    ],
+    "controls": 6,
+    "source": {
+      "href": "pg022_sec001.html",
+      "physicalPage": 22,
+      "confidence": 0.99,
+      "basis": "Physical render visually compared with section text/artwork; matching excerpt: Fshati dikur dhe sot Fjalët kyçe: fshat, bujqësi, blegtori, urbanizim. ☁️ Shpreh mendimin tënd –Si ka qenë fshati dikur? Si ka qenë fshati dikur? –Si ",
+      "textCoverage": 0.967,
+      "bestTextCandidate": 22,
+      "candidateScore": 0.967,
+      "filenameHintOnly": false,
+      "supplementary": false,
+      "visualReview": "Physical PDF contact sheet and matching ADT section contact sheet inspected; detailed page PNG retained."
+    }
+  },
+  {
+    "href": "qz004.html",
+    "family": "quiz",
+    "title": "Si quhen rrugët shumë të gjera që lidhin vendbanime të ndryshme?",
+    "bindings": [
+      "qz004",
+      "qz004_que",
+      "qz004_o0",
+      "qz004_o1",
+      "qz004_o2"
+    ],
+    "images": [],
+    "controls": 3,
+    "source": {
+      "href": "qz004.html",
+      "physicalPage": 22,
+      "confidence": 0.95,
+      "basis": "Supplementary quiz immediately following the verified source lesson; question checked against that lesson.",
+      "supplementary": true,
+      "visualReview": "Physical PDF contact sheet and matching ADT section contact sheet inspected; detailed page PNG retained."
+    }
+  },
+  {
+    "href": "pg023_sec001.html",
+    "family": "comparison-diagram",
+    "title": "Të përbashkëtat",
+    "bindings": [
+      "pg023_n0002",
+      "pg023_n0004",
+      "pg023_n0005",
+      "pg023_n0006",
+      "pg023_im006",
+      "pg023_n0008"
+    ],
+    "images": [
+      {
+        "index": 0,
+        "id": "pg023_im006",
+        "path": "images/pg023_im006.png",
+        "alt": "Diagram me dy rrathë të mbivendosur për krahasim",
+        "decorative": false
+      }
+    ],
+    "controls": 4,
+    "source": {
+      "href": "pg023_sec001.html",
+      "physicalPage": 23,
+      "confidence": 0.9,
+      "basis": "Physical render visually compared with section text/artwork; matching excerpt: - Krahaso:Fshati dikurFshati dikurTë përbashkëtatTë përbashkëtatFshati sotFshati sotBashkë me ndihmën e prindërve apo të mësuesit, hulumto në internet",
+      "textCoverage": 0.574,
+      "bestTextCandidate": 23,
+      "candidateScore": 0.574,
+      "filenameHintOnly": false,
+      "supplementary": false,
+      "visualReview": "Physical PDF contact sheet and matching ADT section contact sheet inspected; detailed page PNG retained."
+    }
+  },
+  {
+    "href": "pg023_sec002.html",
+    "family": "reference",
+    "title": "Diskuto",
+    "bindings": [
+      "pg023_n0011",
+      "pg023_n0014",
+      "pg023_n0016",
+      "pg023_n0018",
+      "pg023_n0019",
+      "pg023_n0021",
+      "pg023_n0024",
+      "pg023_n0026",
+      "pg023_n0027",
+      "pg023_n0028",
+      "pg023_n0029",
+      "pg023_n0030",
+      "pg023_n0033",
+      "pg023_n0036",
+      "pg023_n0038",
+      "pg023_n0040"
+    ],
+    "images": [],
+    "controls": 4,
+    "source": {
+      "href": "pg023_sec002.html",
+      "physicalPage": 23,
+      "confidence": 0.99,
+      "basis": "Physical render visually compared with section text/artwork; matching excerpt: Diskuto Çfarë mendon për jetën në fshat dikur? Çfarë mendon për jetën në fshat dikur? A mund të gjesh diçka të përbashkët me jetën në fshat sot? A mun",
+      "textCoverage": 0.983,
+      "bestTextCandidate": 23,
+      "candidateScore": 0.983,
+      "filenameHintOnly": false,
+      "supplementary": false,
+      "visualReview": "Physical PDF contact sheet and matching ADT section contact sheet inspected; detailed page PNG retained."
+    }
+  },
+  {
+    "href": "pg024_sec001.html",
+    "family": "practice-opener",
+    "title": "Provoje veten",
+    "bindings": [
+      "pg024_n0002"
+    ],
+    "images": [
+      {
+        "index": 0,
+        "id": null,
+        "path": "images/pg005_im007.png",
+        "alt": "",
+        "decorative": true
+      }
+    ],
+    "controls": 0,
+    "source": {
+      "href": "pg024_sec001.html",
+      "physicalPage": 24,
+      "confidence": 0.99,
+      "basis": "Physical render visually compared with section text/artwork; matching excerpt: 🧱 Provoje veten",
+      "textCoverage": 1,
+      "bestTextCandidate": 49,
+      "candidateScore": 1,
+      "filenameHintOnly": false,
+      "supplementary": false,
+      "visualReview": "Physical PDF contact sheet and matching ADT section contact sheet inspected; detailed page PNG retained."
+    }
+  },
+  {
+    "href": "pg024_sec002.html",
+    "family": "response",
+    "title": "Shkruaj për përparësitë dhe mangësitë e jetës në fshat!",
+    "bindings": [
+      "pg024_n0004",
+      "pg024_n0005",
+      "pg024_n0006",
+      "pg024_n0007",
+      "pg024_n0008",
+      "pg024_n0009"
+    ],
+    "images": [],
+    "controls": 4,
+    "source": {
+      "href": "pg024_sec002.html",
+      "physicalPage": 24,
+      "confidence": 0.99,
+      "basis": "Physical render visually compared with section text/artwork; matching excerpt: 1.Shkruaj për përparësitë dhe mangësitë e jetës në fshat! Shkruaj për përparësitë dhe mangësitë e jetës në fshat! rreshti 1 Shkruaj për përparësitë dh",
+      "textCoverage": 0.78,
+      "bestTextCandidate": 24,
+      "candidateScore": 0.78,
+      "filenameHintOnly": false,
+      "supplementary": false,
+      "visualReview": "Physical PDF contact sheet and matching ADT section contact sheet inspected; detailed page PNG retained."
+    }
+  },
+  {
+    "href": "pg024_sec003.html",
+    "family": "comparison-diagram",
+    "title": "Bashkë me mësuesin, hulumto në internet për fshatra të ndryshme në botë, përzgjidhe një dhe krahasoje atë me një fshat të Kosovës!",
+    "bindings": [
+      "pg024_n0011",
+      "pg024_n0012",
+      "pg024_n0013",
+      "pg024_n0014",
+      "pg024_n0015",
+      "pg024_im004"
+    ],
+    "images": [
+      {
+        "index": 0,
+        "id": "pg024_im004",
+        "path": "images/pg024_im004.png",
+        "alt": "Diagram i Venit me dy rrathë që mbivendosen për krahasim",
+        "decorative": false
+      }
+    ],
+    "controls": 3,
+    "source": {
+      "href": "pg024_sec003.html",
+      "physicalPage": 24,
+      "confidence": 0.99,
+      "basis": "Physical render visually compared with section text/artwork; matching excerpt: 2.Bashkë me mësuesin, hulumto në internet për fshatra të ndryshme në botë, përzgjidhe një dhe krahasoje atë me një fshat të Kosovës! Fshati i një vend",
+      "textCoverage": 1,
+      "bestTextCandidate": 24,
+      "candidateScore": 1,
+      "filenameHintOnly": false,
+      "supplementary": false,
+      "visualReview": "Physical PDF contact sheet and matching ADT section contact sheet inspected; detailed page PNG retained."
+    }
+  },
+  {
+    "href": "pg024_sec004.html",
+    "family": "response",
+    "title": "Vazhdoje mendimin e dhënë më poshtë.",
+    "bindings": [
+      "pg024_n0017",
+      "pg024_n0018",
+      "pg024_n0019",
+      "pg024_n0020",
+      "pg024_n0021",
+      "pg024_n0022",
+      "pg024_n0023"
+    ],
+    "images": [],
+    "controls": 5,
+    "source": {
+      "href": "pg024_sec004.html",
+      "physicalPage": 24,
+      "confidence": 0.9,
+      "basis": "Physical render visually compared with section text/artwork; matching excerpt: ✏️ 3. Vazhdoje mendimin e dhënë më poshtë. Shumë njerëz sot parapëlqejnë jetën në fshat, sepse Shumë njerëz sot parapëlqejnë jetën në fshat, sepse Vaz",
+      "textCoverage": 0.496,
+      "bestTextCandidate": 24,
+      "candidateScore": 0.496,
+      "filenameHintOnly": false,
+      "supplementary": false,
+      "visualReview": "Physical PDF contact sheet and matching ADT section contact sheet inspected; detailed page PNG retained."
+    }
+  },
+  {
+    "href": "pg025_sec001.html",
+    "family": "illustrated-lesson",
+    "title": "Objektet e banimit në vendin tonë",
+    "bindings": [
+      "pg025_n0002",
+      "pg025_n0004",
+      "pg025_n0005",
+      "pg025_n0008",
+      "pg025_n0011",
+      "pg025_n0013",
+      "pg025_n0015",
+      "pg025_im002",
+      "pg025_n0017",
+      "pg025_n0018",
+      "pg025_im003",
+      "pg025_n0020",
+      "pg025_n0021",
+      "pg025_n0022",
+      "pg025_n0023",
+      "pg025_im004",
+      "pg025_n0025",
+      "pg025_n0026"
+    ],
+    "images": [
+      {
+        "index": 0,
+        "id": null,
+        "path": "images/pg005_im002.png",
+        "alt": "",
+        "decorative": true
+      },
+      {
+        "index": 1,
+        "id": "pg025_im002",
+        "path": "images/pg025_im002.png",
+        "alt": "Kasolle",
+        "decorative": false
+      },
+      {
+        "index": 2,
+        "id": "pg025_im003",
+        "path": "images/pg025_im003.png",
+        "alt": "Shtëpi përdhese tradicionale",
+        "decorative": false
+      },
+      {
+        "index": 3,
+        "id": "pg025_im004",
+        "path": "images/pg025_im004.png",
+        "alt": "Shtëpi tradicionale me kate",
+        "decorative": false
+      }
+    ],
+    "controls": 3,
+    "source": {
+      "href": "pg025_sec001.html",
+      "physicalPage": 25,
+      "confidence": 0.99,
+      "basis": "Physical render visually compared with section text/artwork; matching excerpt: Objektet e banimit në vendin tonë Fjalët kyçe: kasolle, kullë, shtëpi tradicionale, arkitekturë bashkëkohore. ✧ ✦ Shpreh mendimin tënd Si kanë qenë sh",
+      "textCoverage": 0.979,
+      "bestTextCandidate": 25,
+      "candidateScore": 0.979,
+      "filenameHintOnly": false,
+      "supplementary": false,
+      "visualReview": "Physical PDF contact sheet and matching ADT section contact sheet inspected; detailed page PNG retained."
+    }
+  },
+  {
+    "href": "pg026_sec001.html",
+    "family": "illustrated-lesson",
+    "title": "Një shtëpi moderne",
+    "bindings": [
+      "pg026_im001",
+      "pg026_n0002",
+      "pg026_n0003",
+      "pg026_n0004",
+      "pg026_n0005",
+      "pg026_n0006",
+      "pg026_im004",
+      "pg026_im003",
+      "pg026_n0008",
+      "pg026_n0009",
+      "pg026_im002",
+      "pg026_n0011"
+    ],
+    "images": [
+      {
+        "index": 0,
+        "id": "pg026_im001",
+        "path": "images/pg026_im001.png",
+        "alt": "Kullë guri",
+        "decorative": false
+      },
+      {
+        "index": 1,
+        "id": "pg026_im004",
+        "path": "images/pg026_im004.png",
+        "alt": "Ndërtesë moderne shumëkatëshe",
+        "decorative": false
+      },
+      {
+        "index": 2,
+        "id": "pg026_im003",
+        "path": "images/pg026_im003.png",
+        "alt": "Pallat modern me ballkone",
+        "decorative": false
+      },
+      {
+        "index": 3,
+        "id": "pg026_im002",
+        "path": "images/pg026_im002.png",
+        "alt": "Shtëpi moderne",
+        "decorative": false
+      }
+    ],
+    "controls": 0,
+    "source": {
+      "href": "pg026_sec001.html",
+      "physicalPage": 26,
+      "confidence": 0.99,
+      "basis": "Physical render visually compared with section text/artwork; matching excerpt: Kulla e gurit është një ndërtesë e vogël dhe e veçantë si një kështjellë. Ajo ka themele dhe mure shumë të forta. Dritaret dhe dyert janë të vogla dhe",
+      "textCoverage": 1,
+      "bestTextCandidate": 26,
+      "candidateScore": 1,
+      "filenameHintOnly": false,
+      "supplementary": false,
+      "visualReview": "Physical PDF contact sheet and matching ADT section contact sheet inspected; detailed page PNG retained."
+    }
+  },
+  {
+    "href": "qz005.html",
+    "family": "quiz",
+    "title": "Me çfarë merren kryesisht njerëzit që jetojnë në fshat?",
+    "bindings": [
+      "qz005",
+      "qz005_que",
+      "qz005_o0",
+      "qz005_o1",
+      "qz005_o2"
+    ],
+    "images": [],
+    "controls": 3,
+    "source": {
+      "href": "qz005.html",
+      "physicalPage": 26,
+      "confidence": 0.95,
+      "basis": "Supplementary quiz immediately following the verified source lesson; question checked against that lesson.",
+      "supplementary": true,
+      "visualReview": "Physical PDF contact sheet and matching ADT section contact sheet inspected; detailed page PNG retained."
+    }
+  },
+  {
+    "href": "pg027_sec001.html",
+    "family": "reference",
+    "title": "Pyetje për ty",
+    "bindings": [
+      "pg027_n0002",
+      "pg027_n0004",
+      "pg027_n0005",
+      "pg027_n0006",
+      "pg027_n0007",
+      "pg027_n0008",
+      "pg027_n0009",
+      "pg027_n0010",
+      "pg027_n0011"
+    ],
+    "images": [
+      {
+        "index": 0,
+        "id": null,
+        "path": "images/pg005_im006.png",
+        "alt": "",
+        "decorative": true
+      }
+    ],
+    "controls": 7,
+    "source": {
+      "href": "pg027_sec001.html",
+      "physicalPage": 27,
+      "confidence": 0.99,
+      "basis": "Physical render visually compared with section text/artwork; matching excerpt: ? ? ? Pyetje për ty Si ishin shtëpitë dikur? Si ishin shtëpitë dikur? Si ndryshuan ato gjatë kohës? Si ndryshuan ato gjatë kohës? Si ka ndryshuar mode",
+      "textCoverage": 0.792,
+      "bestTextCandidate": 27,
+      "candidateScore": 0.792,
+      "filenameHintOnly": false,
+      "supplementary": false,
+      "visualReview": "Physical PDF contact sheet and matching ADT section contact sheet inspected; detailed page PNG retained."
+    }
+  },
+  {
+    "href": "pg027_sec002.html",
+    "family": "reference",
+    "title": "Bashkë me ndihmën e prindërve apo të mësuesit, hulumto në internet dhe gjej informacione për kullat!",
+    "bindings": [
+      "pg027_n0013"
+    ],
+    "images": [],
+    "controls": 0,
+    "source": {
+      "href": "pg027_sec002.html",
+      "physicalPage": 27,
+      "confidence": 0.99,
+      "basis": "Physical render visually compared with section text/artwork; matching excerpt: Bashkë me ndihmën e prindërve apo të mësuesit, hulumto në internet dhe gjej informacione për kullat!",
+      "textCoverage": 0.876,
+      "bestTextCandidate": 27,
+      "candidateScore": 0.876,
+      "filenameHintOnly": false,
+      "supplementary": false,
+      "visualReview": "Physical PDF contact sheet and matching ADT section contact sheet inspected; detailed page PNG retained."
+    }
+  },
+  {
+    "href": "pg027_sec003.html",
+    "family": "reference",
+    "title": "Diskuto",
+    "bindings": [
+      "pg027_n0015",
+      "pg027_n0018",
+      "pg027_n0020",
+      "pg027_n0022",
+      "pg027_n0024",
+      "pg027_n0026",
+      "pg027_n0027"
+    ],
+    "images": [
+      {
+        "index": 0,
+        "id": null,
+        "path": "images/pg005_im008.png",
+        "alt": "",
+        "decorative": true
+      }
+    ],
+    "controls": 5,
+    "source": {
+      "href": "pg027_sec003.html",
+      "physicalPage": 27,
+      "confidence": 0.99,
+      "basis": "Physical render visually compared with section text/artwork; matching excerpt: 💬Diskuto–Si ishin ndërtuar kullat?Si ishin ndërtuar kullat?–Analizoji ndërtimet dikur dhe sot!Analizoji ndërtimet dikur dhe sot!–Cili ishte funksioni ",
+      "textCoverage": 1,
+      "bestTextCandidate": 27,
+      "candidateScore": 1,
+      "filenameHintOnly": false,
+      "supplementary": false,
+      "visualReview": "Physical PDF contact sheet and matching ADT section contact sheet inspected; detailed page PNG retained."
+    }
+  },
+  {
+    "href": "pg027_sec004.html",
+    "family": "reference",
+    "title": "Thello dijet",
+    "bindings": [
+      "pg027_n0029",
+      "pg027_n0031",
+      "pg027_n0032",
+      "pg027_n0033",
+      "pg027_n0034",
+      "pg027_n0035"
+    ],
+    "images": [
+      {
+        "index": 0,
+        "id": null,
+        "path": "images/pg005_im003.png",
+        "alt": "",
+        "decorative": true
+      }
+    ],
+    "controls": 0,
+    "source": {
+      "href": "pg027_sec004.html",
+      "physicalPage": 27,
+      "confidence": 0.99,
+      "basis": "Physical render visually compared with section text/artwork; matching excerpt: 📖Thello dijetPërpos ushqimit dhe veshmbathjes, në jetën e njeriut ka rëndësi të jashtëzakonshme edhe strehimi. Për t’u strehuar, njerëzit kanë ndërtua",
+      "textCoverage": 0.947,
+      "bestTextCandidate": 27,
+      "candidateScore": 0.947,
+      "filenameHintOnly": false,
+      "supplementary": false,
+      "visualReview": "Physical PDF contact sheet and matching ADT section contact sheet inspected; detailed page PNG retained."
+    }
+  },
+  {
+    "href": "pg027_sec005.html",
+    "family": "reference",
+    "title": "Fjalorthi",
+    "bindings": [
+      "pg027_n0037",
+      "pg027_n0040",
+      "pg027_n0042"
+    ],
+    "images": [],
+    "controls": 0,
+    "source": {
+      "href": "pg027_sec005.html",
+      "physicalPage": 27,
+      "confidence": 0.99,
+      "basis": "Physical render visually compared with section text/artwork; matching excerpt: 📖FjalorthiQerpiç - tulla për ndërtimin e shtëpive, të bëra prej dheut.Tallë - kërcelli (trungu i misrit).",
+      "textCoverage": 0.874,
+      "bestTextCandidate": 27,
+      "candidateScore": 0.874,
+      "filenameHintOnly": false,
+      "supplementary": false,
+      "visualReview": "Physical PDF contact sheet and matching ADT section contact sheet inspected; detailed page PNG retained."
+    }
+  },
+  {
+    "href": "pg028_sec001.html",
+    "family": "response",
+    "title": "Provoje veten",
+    "bindings": [
+      "pg028_n0002",
+      "pg028_n0004",
+      "pg028_n0005",
+      "pg028_n0006",
+      "pg028_n0007",
+      "pg028_n0008",
+      "pg028_n0010",
+      "pg028_n0011",
+      "pg028_n0012",
+      "pg028_n0013",
+      "pg028_n0014",
+      "pg028_n0015"
+    ],
+    "images": [],
+    "controls": 7,
+    "source": {
+      "href": "pg028_sec001.html",
+      "physicalPage": 28,
+      "confidence": 0.99,
+      "basis": "Physical render visually compared with section text/artwork; matching excerpt: Provoje veten1. Për çfarë qëllimesh ndërtoheshin kullat?Për çfarë qëllimesh ndërtoheshin kullat? rreshti 1Për çfarë qëllimesh ndërtoheshin kullat? rre",
+      "textCoverage": 0.811,
+      "bestTextCandidate": 28,
+      "candidateScore": 0.811,
+      "filenameHintOnly": false,
+      "supplementary": false,
+      "visualReview": "Physical PDF contact sheet and matching ADT section contact sheet inspected; detailed page PNG retained."
+    }
+  },
+  {
+    "href": "pg028_sec002.html",
+    "family": "wordsearch",
+    "title": "Gjej fjalët që kanë të bëjnë me objektet e banimit të vendit tonë!",
+    "bindings": [
+      "pg028_n0017",
+      "pg028_n0018",
+      "pg028_n0019",
+      "pg028_n0023",
+      "pg028_n0025",
+      "pg028_n0027",
+      "pg028_n0029",
+      "pg028_n0031",
+      "pg028_n0033",
+      "pg028_n0035",
+      "pg028_n0037",
+      "pg028_n0039",
+      "pg028_n0041",
+      "pg028_n0043",
+      "pg028_n0046",
+      "pg028_n0048",
+      "pg028_n0050",
+      "pg028_n0052",
+      "pg028_n0054",
+      "pg028_n0056",
+      "pg028_n0058",
+      "pg028_n0060",
+      "pg028_n0062",
+      "pg028_n0064",
+      "pg028_n0066",
+      "pg028_n0069",
+      "pg028_n0071",
+      "pg028_n0073",
+      "pg028_n0075",
+      "pg028_n0077",
+      "pg028_n0079",
+      "pg028_n0081",
+      "pg028_n0083",
+      "pg028_n0085",
+      "pg028_n0087",
+      "pg028_n0089",
+      "pg028_n0092",
+      "pg028_n0094",
+      "pg028_n0096",
+      "pg028_n0098",
+      "pg028_n0100",
+      "pg028_n0102",
+      "pg028_n0104",
+      "pg028_n0106",
+      "pg028_n0108",
+      "pg028_n0110",
+      "pg028_n0112",
+      "pg028_n0115",
+      "pg028_n0117",
+      "pg028_n0119",
+      "pg028_n0121",
+      "pg028_n0123",
+      "pg028_n0125",
+      "pg028_n0127",
+      "pg028_n0129",
+      "pg028_n0131",
+      "pg028_n0133",
+      "pg028_n0135",
+      "pg028_n0138",
+      "pg028_n0140",
+      "pg028_n0142",
+      "pg028_n0144",
+      "pg028_n0146",
+      "pg028_n0148",
+      "pg028_n0150",
+      "pg028_n0152",
+      "pg028_n0154",
+      "pg028_n0156",
+      "pg028_n0158",
+      "pg028_n0161",
+      "pg028_n0163",
+      "pg028_n0165",
+      "pg028_n0167",
+      "pg028_n0169",
+      "pg028_n0171",
+      "pg028_n0173",
+      "pg028_n0175",
+      "pg028_n0177",
+      "pg028_n0179",
+      "pg028_n0181",
+      "pg028_n0184",
+      "pg028_n0186",
+      "pg028_n0188",
+      "pg028_n0190",
+      "pg028_n0192",
+      "pg028_n0194",
+      "pg028_n0196",
+      "pg028_n0198",
+      "pg028_n0200",
+      "pg028_n0202",
+      "pg028_n0204",
+      "pg028_n0207",
+      "pg028_n0209",
+      "pg028_n0211",
+      "pg028_n0213",
+      "pg028_n0215",
+      "pg028_n0217",
+      "pg028_n0219",
+      "pg028_n0221",
+      "pg028_n0223",
+      "pg028_n0225",
+      "pg028_n0227",
+      "pg028_n0230",
+      "pg028_n0232",
+      "pg028_n0234",
+      "pg028_n0236",
+      "pg028_n0238",
+      "pg028_n0240",
+      "pg028_n0242",
+      "pg028_n0244",
+      "pg028_n0246",
+      "pg028_n0248",
+      "pg028_n0250"
+    ],
+    "images": [],
+    "controls": 1,
+    "source": {
+      "href": "pg028_sec002.html",
+      "physicalPage": 28,
+      "confidence": 0.99,
+      "basis": "Physical render visually compared with section text/artwork; matching excerpt: 3. Gjej fjalët që kanë të bëjnë me objektet e banimit të vendit tonë! Kullë guri, përdhese, qerpiç, çati, arkitekturë, tradicional, oda, kasolle, oxha",
+      "textCoverage": 1,
+      "bestTextCandidate": 28,
+      "candidateScore": 1,
+      "filenameHintOnly": false,
+      "supplementary": false,
+      "visualReview": "Physical PDF contact sheet and matching ADT section contact sheet inspected; detailed page PNG retained."
+    }
+  },
+  {
+    "href": "pg029_sec001.html",
+    "family": "photo-comparison",
+    "title": "Ndryshimi i objekteve dhe i mjeteve të punës gjatë kohës",
+    "bindings": [
+      "pg029_n0002",
+      "pg029_n0004",
+      "pg029_n0005",
+      "pg029_n0007",
+      "pg029_n0010",
+      "pg029_n0012",
+      "pg029_n0014",
+      "pg029_im004",
+      "pg029_n0017",
+      "pg029_im005",
+      "pg029_n0019",
+      "pg029_im006",
+      "pg029_n0021",
+      "pg029_n0023",
+      "pg029_n0024",
+      "pg029_n0025",
+      "pg029_im007",
+      "pg029_im008",
+      "pg029_n0028",
+      "pg029_n0029",
+      "pg029_im009",
+      "pg029_im010",
+      "pg029_n0032",
+      "pg029_n0033",
+      "pg029_n0034",
+      "pg029_n0035",
+      "pg029_im001",
+      "pg029_im002",
+      "pg029_n0038",
+      "pg029_n0039",
+      "pg029_n0040"
+    ],
+    "images": [
+      {
+        "index": 0,
+        "id": null,
+        "path": "images/pg005_im002.png",
+        "alt": "",
+        "decorative": true
+      },
+      {
+        "index": 1,
+        "id": "pg029_im004",
+        "path": "images/pg029_im004.png",
+        "alt": "Katedrale",
+        "decorative": false
+      },
+      {
+        "index": 2,
+        "id": "pg029_im005",
+        "path": "images/pg029_im005.png",
+        "alt": "Xhami",
+        "decorative": false
+      },
+      {
+        "index": 3,
+        "id": "pg029_im006",
+        "path": "images/pg029_im006.png",
+        "alt": "Kishë ortodokse",
+        "decorative": false
+      },
+      {
+        "index": 4,
+        "id": "pg029_im007",
+        "path": "images/pg029_im007.png",
+        "alt": "Punishte e vogël me mjete pune të thjeshta",
+        "decorative": false
+      },
+      {
+        "index": 5,
+        "id": "pg029_im008",
+        "path": "images/pg029_im008.png",
+        "alt": "Fabrikë moderne me shumë punëtorë",
+        "decorative": false
+      },
+      {
+        "index": 6,
+        "id": "pg029_im009",
+        "path": "images/pg029_im009.png",
+        "alt": "Stallë e thjeshtë me pak kafshë",
+        "decorative": false
+      },
+      {
+        "index": 7,
+        "id": "pg029_im010",
+        "path": "images/pg029_im010.png",
+        "alt": "Fermë moderne për mbajtjen e kafshëve",
+        "decorative": false
+      },
+      {
+        "index": 8,
+        "id": "pg029_im001",
+        "path": "images/pg029_im001.png",
+        "alt": "Punim i tokës me kalë me parmendë",
+        "decorative": false
+      },
+      {
+        "index": 9,
+        "id": "pg029_im002",
+        "path": "images/pg029_im002.png",
+        "alt": "Bujqësi moderne me traktor në fushë",
+        "decorative": false
+      }
+    ],
+    "controls": 3,
+    "source": {
+      "href": "pg029_sec001.html",
+      "physicalPage": 29,
+      "confidence": 0.99,
+      "basis": "Physical render visually compared with section text/artwork; matching excerpt: Ndryshimi i objekteve dhe i mjeteve të punës gjatë kohës Fjalët kyçe: objekt, ndryshim, përmirësim, mjete bashkëkohore. ✧ ✦ Shpreh mendimin tënd – A e",
+      "textCoverage": 0.965,
+      "bestTextCandidate": 29,
+      "candidateScore": 0.965,
+      "filenameHintOnly": false,
+      "supplementary": false,
+      "visualReview": "Physical PDF contact sheet and matching ADT section contact sheet inspected; detailed page PNG retained."
+    }
+  },
+  {
+    "href": "pg030_sec001.html",
+    "family": "response",
+    "title": "Pyetje për ty",
+    "bindings": [
+      "pg030_n0003",
+      "pg030_n0004",
+      "pg030_n0005",
+      "pg030_n0006",
+      "pg030_n0007",
+      "pg030_n0008"
+    ],
+    "images": [],
+    "controls": 5,
+    "source": {
+      "href": "pg030_sec001.html",
+      "physicalPage": 30,
+      "confidence": 0.99,
+      "basis": "Physical render visually compared with section text/artwork; matching excerpt: Pyetje për tyPse është e rëndësishme që njerëzit e secilit besim të kenë objektin e tyre fetar?Pse është e rëndësishme që njerëzit e secilit besim të ",
+      "textCoverage": 0.712,
+      "bestTextCandidate": 30,
+      "candidateScore": 0.712,
+      "filenameHintOnly": false,
+      "supplementary": false,
+      "visualReview": "Physical PDF contact sheet and matching ADT section contact sheet inspected; detailed page PNG retained."
+    }
+  },
+  {
+    "href": "pg030_sec002.html",
+    "family": "reference",
+    "title": "Bashkë me ndihmën e prindërve apo të mësuesit, hulumto në internet dhe gjej informacione për shpikje të rëndësishme që ndryshuan mënyrën e jetesës!",
+    "bindings": [
+      "pg030_n0011"
+    ],
+    "images": [],
+    "controls": 1,
+    "source": {
+      "href": "pg030_sec002.html",
+      "physicalPage": 30,
+      "confidence": 0.99,
+      "basis": "Physical render visually compared with section text/artwork; matching excerpt: 🐭Bashkë me ndihmën e prindërve apo të mësuesit, hulumto në internet dhe gjej informacione për shpikje të rëndësishme që ndryshuan mënyrën e jetesës!Ba",
+      "textCoverage": 0.916,
+      "bestTextCandidate": 30,
+      "candidateScore": 0.916,
+      "filenameHintOnly": false,
+      "supplementary": false,
+      "visualReview": "Physical PDF contact sheet and matching ADT section contact sheet inspected; detailed page PNG retained."
+    }
+  },
+  {
+    "href": "pg030_sec003.html",
+    "family": "reference",
+    "title": "Diskuto",
+    "bindings": [
+      "pg030_n0014",
+      "pg030_n0017",
+      "pg030_n0019",
+      "pg030_n0020",
+      "pg030_n0022"
+    ],
+    "images": [
+      {
+        "index": 0,
+        "id": null,
+        "path": "images/pg005_im008.png",
+        "alt": "",
+        "decorative": true
+      }
+    ],
+    "controls": 3,
+    "source": {
+      "href": "pg030_sec003.html",
+      "physicalPage": 30,
+      "confidence": 0.99,
+      "basis": "Physical render visually compared with section text/artwork; matching excerpt: Diskuto Cila mendon se është shpikja më e rëndësishme? Cila mendon se është shpikja më e rëndësishme? Si mendon se do të duken objektet pas 100 vjetës",
+      "textCoverage": 1,
+      "bestTextCandidate": 30,
+      "candidateScore": 1,
+      "filenameHintOnly": false,
+      "supplementary": false,
+      "visualReview": "Physical PDF contact sheet and matching ADT section contact sheet inspected; detailed page PNG retained."
+    }
+  },
+  {
+    "href": "pg030_sec004.html",
+    "family": "reference",
+    "title": "Thello dijet",
+    "bindings": [
+      "pg030_n0025",
+      "pg030_n0027",
+      "pg030_n0028",
+      "pg030_n0030",
+      "pg030_n0031",
+      "pg030_n0033",
+      "pg030_n0034"
+    ],
+    "images": [
+      {
+        "index": 0,
+        "id": null,
+        "path": "images/pg005_im003.png",
+        "alt": "",
+        "decorative": true
+      }
+    ],
+    "controls": 0,
+    "source": {
+      "href": "pg030_sec004.html",
+      "physicalPage": 30,
+      "confidence": 0.99,
+      "basis": "Physical render visually compared with section text/artwork; matching excerpt: 📖Thello dijetObjekte të ndryshme, si xhami, punishte, dyqane, ara, ferma dhe fabrika, gjatë periudhave të ndryshme, pësuan ndryshime në pamje. Po asht",
+      "textCoverage": 0.969,
+      "bestTextCandidate": 30,
+      "candidateScore": 0.969,
+      "filenameHintOnly": false,
+      "supplementary": false,
+      "visualReview": "Physical PDF contact sheet and matching ADT section contact sheet inspected; detailed page PNG retained."
+    }
+  },
+  {
+    "href": "pg030_sec005.html",
+    "family": "reference",
+    "title": "Fjalorthi",
+    "bindings": [
+      "pg030_n0037",
+      "pg030_n0039"
+    ],
+    "images": [
+      {
+        "index": 0,
+        "id": null,
+        "path": "images/pg005_im001.png",
+        "alt": "",
+        "decorative": true
+      }
+    ],
+    "controls": 0,
+    "source": {
+      "href": "pg030_sec005.html",
+      "physicalPage": 30,
+      "confidence": 0.9,
+      "basis": "Physical render visually compared with section text/artwork; matching excerpt: 📖FjalorthiReligjion - fe, besim.",
+      "textCoverage": 0.419,
+      "bestTextCandidate": 30,
+      "candidateScore": 0.419,
+      "filenameHintOnly": false,
+      "supplementary": false,
+      "visualReview": "Physical PDF contact sheet and matching ADT section contact sheet inspected; detailed page PNG retained."
+    }
+  },
+  {
+    "href": "qz006.html",
+    "family": "quiz",
+    "title": "Pse puna e njerëzve sot është bërë më e lehtë?",
+    "bindings": [
+      "qz006",
+      "qz006_que",
+      "qz006_o0",
+      "qz006_o1",
+      "qz006_o2"
+    ],
+    "images": [],
+    "controls": 3,
+    "source": {
+      "href": "qz006.html",
+      "physicalPage": 30,
+      "confidence": 0.95,
+      "basis": "Supplementary quiz immediately following the verified source lesson; question checked against that lesson.",
+      "supplementary": true,
+      "visualReview": "Physical PDF contact sheet and matching ADT section contact sheet inspected; detailed page PNG retained."
+    }
+  },
+  {
+    "href": "pg031_sec001.html",
+    "family": "practice-opener",
+    "title": "Provoje veten",
+    "bindings": [
+      "pg031_n0002"
+    ],
+    "images": [],
+    "controls": 0,
+    "source": {
+      "href": "pg031_sec001.html",
+      "physicalPage": 31,
+      "confidence": 0.99,
+      "basis": "Physical render visually compared with section text/artwork; matching excerpt: Provoje veten",
+      "textCoverage": 1,
+      "bestTextCandidate": 49,
+      "candidateScore": 1,
+      "filenameHintOnly": false,
+      "supplementary": false,
+      "visualReview": "Physical PDF contact sheet and matching ADT section contact sheet inspected; detailed page PNG retained."
+    }
+  },
+  {
+    "href": "pg031_sec002.html",
+    "family": "response",
+    "title": "Shkruaj për ndryshimet që ndodhën në:",
+    "bindings": [
+      "pg031_n0004",
+      "pg031_n0005",
+      "pg031_n0009",
+      "pg031_n0011"
+    ],
+    "images": [],
+    "controls": 2,
+    "source": {
+      "href": "pg031_sec002.html",
+      "physicalPage": 31,
+      "confidence": 0.99,
+      "basis": "Physical render visually compared with section text/artwork; matching excerpt: 1.Shkruaj për ndryshimet që ndodhën në: blegtori zejtari Shkruaj për ndryshimet që ndodhën në blegtori Shkruaj për ndryshimet që ndodhën në zejtari",
+      "textCoverage": 1,
+      "bestTextCandidate": 31,
+      "candidateScore": 1,
+      "filenameHintOnly": false,
+      "supplementary": false,
+      "visualReview": "Physical PDF contact sheet and matching ADT section contact sheet inspected; detailed page PNG retained."
+    }
+  },
+  {
+    "href": "pg031_sec003.html",
+    "family": "response",
+    "title": "Imagjino sikur je një blegtor a blegtore e suksesshme!",
+    "bindings": [
+      "pg031_n0016",
+      "pg031_n0017",
+      "pg031_n0018",
+      "pg031_n0019"
+    ],
+    "images": [],
+    "controls": 1,
+    "source": {
+      "href": "pg031_sec003.html",
+      "physicalPage": 31,
+      "confidence": 0.99,
+      "basis": "Physical render visually compared with section text/artwork; matching excerpt: 2. Imagjino sikur je një blegtor a blegtore e suksesshme! Përshkruaje punën që do të bëje.Imagjino sikur je një blegtor a blegtore e suksesshme! Përsh",
+      "textCoverage": 1,
+      "bestTextCandidate": 31,
+      "candidateScore": 1,
+      "filenameHintOnly": false,
+      "supplementary": false,
+      "visualReview": "Physical PDF contact sheet and matching ADT section contact sheet inspected; detailed page PNG retained."
+    }
+  },
+  {
+    "href": "pg031_sec004.html",
+    "family": "comparison-diagram",
+    "title": "Objekte bujqësore",
+    "bindings": [
+      "pg031_n0021",
+      "pg031_n0022",
+      "pg031_im005",
+      "pg031_n0024",
+      "pg031_n0025",
+      "pg031_n0026"
+    ],
+    "images": [
+      {
+        "index": 0,
+        "id": "pg031_im005",
+        "path": "images/pg031_im005.png",
+        "alt": "Diagramë Venn me dy rrathë që mbivendosen për krahasim",
+        "decorative": false
+      }
+    ],
+    "controls": 3,
+    "source": {
+      "href": "pg031_sec004.html",
+      "physicalPage": 31,
+      "confidence": 0.99,
+      "basis": "Physical render visually compared with section text/artwork; matching excerpt: 3. Krahaso: Objekte bujqësore Të përbashkëtat Objekte blegtorale Objekte bujqësore Të përbashkëtat Objekte blegtorale",
+      "textCoverage": 1,
+      "bestTextCandidate": 31,
+      "candidateScore": 1,
+      "filenameHintOnly": false,
+      "supplementary": false,
+      "visualReview": "Physical PDF contact sheet and matching ADT section contact sheet inspected; detailed page PNG retained."
+    }
+  },
+  {
+    "href": "pg032_sec001.html",
+    "family": "illustrated-lesson",
+    "title": "Veshjet tradicionale kosovare",
+    "bindings": [
+      "pg032_n0002",
+      "pg032_n0004",
+      "pg032_n0005",
+      "pg032_n0008",
+      "pg032_n0011",
+      "pg032_n0013",
+      "pg032_n0015",
+      "pg032_im003",
+      "pg032_n0018",
+      "pg032_n0019",
+      "pg032_n0020",
+      "pg032_n0021",
+      "pg032_n0022",
+      "pg032_n0023",
+      "pg032_im004",
+      "pg032_n0025",
+      "pg032_n0026",
+      "pg032_n0027",
+      "pg032_im005",
+      "pg032_n0030",
+      "pg032_n0031",
+      "pg032_n0032",
+      "pg032_n0033",
+      "pg032_n0034",
+      "pg032_im001",
+      "pg032_n0036",
+      "pg032_n0037"
+    ],
+    "images": [
+      {
+        "index": 0,
+        "id": null,
+        "path": "images/pg005_im002.png",
+        "alt": "",
+        "decorative": true
+      },
+      {
+        "index": 1,
+        "id": "pg032_im003",
+        "path": "images/pg032_im003.png",
+        "alt": "Veshje tradicionale burrash me tirq të bardhë të zbukuruar me gajtanë të zinj, brez në mes, mbulesë të bardhë të kokës dhe opinga.",
+        "decorative": false
+      },
+      {
+        "index": 2,
+        "id": "pg032_im004",
+        "path": "images/pg032_im004.png",
+        "alt": "Xhubletë e zezë me fund të valëzuar, e zbukuruar me shirita dhe ornamente shumëngjyrëshe.",
+        "decorative": false
+      },
+      {
+        "index": 3,
+        "id": "pg032_im005",
+        "path": "images/pg032_im005.png",
+        "alt": "Veshje e Dukagjinit për gra, me fustan të bardhë, jelek të kuq, shall me thekë në bel, çorape të errëta dhe opinga.",
+        "decorative": false
+      },
+      {
+        "index": 4,
+        "id": "pg032_im001",
+        "path": "images/pg032_im001.png",
+        "alt": "Veshje e Hasit për gra, me këmishë të çelët, jelek rozë dhe përparëse e fund të mbuluar me qëndisje e motive shumëngjyrëshe.",
+        "decorative": false
+      }
+    ],
+    "controls": 3,
+    "source": {
+      "href": "pg032_sec001.html",
+      "physicalPage": 32,
+      "confidence": 0.99,
+      "basis": "Physical render visually compared with section text/artwork; matching excerpt: Veshjet tradicionale kosovare Fjalët kyçe: veshje tradicionale, trashëgimi kulturore, vlerë, traditë. \u0007 Shpreh mendimin tënd A e di se populli ynë ka ",
+      "textCoverage": 0.978,
+      "bestTextCandidate": 32,
+      "candidateScore": 0.978,
+      "filenameHintOnly": false,
+      "supplementary": false,
+      "visualReview": "Physical PDF contact sheet and matching ADT section contact sheet inspected; detailed page PNG retained."
+    }
+  },
+  {
+    "href": "pg033_sec001.html",
+    "family": "reference",
+    "title": "Pyetje për ty",
+    "bindings": [
+      "pg033_n0003",
+      "pg033_n0006",
+      "pg033_n0008",
+      "pg033_n0010"
+    ],
+    "images": [
+      {
+        "index": 0,
+        "id": null,
+        "path": "images/pg005_im006.png",
+        "alt": "",
+        "decorative": true
+      }
+    ],
+    "controls": 3,
+    "source": {
+      "href": "pg033_sec001.html",
+      "physicalPage": 33,
+      "confidence": 0.99,
+      "basis": "Physical render visually compared with section text/artwork; matching excerpt: ❓Pyetje për tyA i përdorin në familjen tënde veshjet tradicionale?A i përdorin në familjen tënde veshjet tradicionale?Çka i bën të dallueshme veshjet ",
+      "textCoverage": 0.851,
+      "bestTextCandidate": 33,
+      "candidateScore": 0.851,
+      "filenameHintOnly": false,
+      "supplementary": false,
+      "visualReview": "Physical PDF contact sheet and matching ADT section contact sheet inspected; detailed page PNG retained."
+    }
+  },
+  {
+    "href": "pg033_sec002.html",
+    "family": "reference",
+    "title": "Diskuto",
+    "bindings": [
+      "pg033_n0013",
+      "pg033_n0016",
+      "pg033_n0018",
+      "pg033_n0020"
+    ],
+    "images": [],
+    "controls": 3,
+    "source": {
+      "href": "pg033_sec002.html",
+      "physicalPage": 33,
+      "confidence": 0.99,
+      "basis": "Physical render visually compared with section text/artwork; matching excerpt: Diskuto – Analizo se pse janë pjesë e rëndësishme e kulturës sonë këto veshje tradicionale! Analizo se pse janë pjesë e rëndësishme e kulturës sonë kë",
+      "textCoverage": 1,
+      "bestTextCandidate": 33,
+      "candidateScore": 1,
+      "filenameHintOnly": false,
+      "supplementary": false,
+      "visualReview": "Physical PDF contact sheet and matching ADT section contact sheet inspected; detailed page PNG retained."
+    }
+  },
+  {
+    "href": "pg033_sec003.html",
+    "family": "reference",
+    "title": "Thello dijet",
+    "bindings": [
+      "pg033_n0023",
+      "pg033_n0025",
+      "pg033_n0026",
+      "pg033_n0027",
+      "pg033_n0028",
+      "pg033_n0029",
+      "pg033_n0030",
+      "pg033_n0031",
+      "pg033_n0032"
+    ],
+    "images": [
+      {
+        "index": 0,
+        "id": null,
+        "path": "images/pg005_im003.png",
+        "alt": "",
+        "decorative": true
+      }
+    ],
+    "controls": 0,
+    "source": {
+      "href": "pg033_sec003.html",
+      "physicalPage": 33,
+      "confidence": 0.99,
+      "basis": "Physical render visually compared with section text/artwork; matching excerpt: Thello dijetVeshja tradicionale është një nga tiparet që e dallon një komb nga kombet e tjera. Veshjet tradicionale ekzistojnë që nga periudha ilire. ",
+      "textCoverage": 0.975,
+      "bestTextCandidate": 33,
+      "candidateScore": 0.975,
+      "filenameHintOnly": false,
+      "supplementary": false,
+      "visualReview": "Physical PDF contact sheet and matching ADT section contact sheet inspected; detailed page PNG retained."
+    }
+  },
+  {
+    "href": "pg033_sec004.html",
+    "family": "reference",
+    "title": "Fjalorthi",
+    "bindings": [
+      "pg033_n0035",
+      "pg033_n0037"
+    ],
+    "images": [
+      {
+        "index": 0,
+        "id": null,
+        "path": "images/pg005_im001.png",
+        "alt": "",
+        "decorative": true
+      }
+    ],
+    "controls": 0,
+    "source": {
+      "href": "pg033_sec004.html",
+      "physicalPage": 33,
+      "confidence": 0.9,
+      "basis": "Physical render visually compared with section text/artwork; matching excerpt: 📖 ✨FjalorthiShajak - material i punuar nga leshi.",
+      "textCoverage": 0.692,
+      "bestTextCandidate": 33,
+      "candidateScore": 0.692,
+      "filenameHintOnly": false,
+      "supplementary": false,
+      "visualReview": "Physical PDF contact sheet and matching ADT section contact sheet inspected; detailed page PNG retained."
+    }
+  },
+  {
+    "href": "pg034_sec001.html",
+    "family": "response",
+    "title": "Provoje veten",
+    "bindings": [
+      "pg034_n0002",
+      "pg034_n0004",
+      "pg034_n0005",
+      "pg034_n0009",
+      "pg034_n0010",
+      "pg034_n0012",
+      "pg034_n0013",
+      "pg034_n0015",
+      "pg034_n0016",
+      "pg034_im002",
+      "pg034_n0018",
+      "pg034_n0019",
+      "pg034_n0020",
+      "pg034_n0021",
+      "pg034_n0022",
+      "pg034_n0023",
+      "pg034_n0024",
+      "pg034_n0026",
+      "pg034_n0027",
+      "pg034_n0028"
+    ],
+    "images": [
+      {
+        "index": 0,
+        "id": "pg034_im002",
+        "path": "images/pg034_im002.png",
+        "alt": "Fotografi me veshje tradicionale",
+        "decorative": false
+      }
+    ],
+    "controls": 10,
+    "source": {
+      "href": "pg034_sec001.html",
+      "physicalPage": 34,
+      "confidence": 0.99,
+      "basis": "Physical render visually compared with section text/artwork; matching excerpt: Provoje veten1.Vazhdoje mendimin, duke dhënë argumentet e tua.Më pëlqen të vesh veshje tradicio­nale në festa, sepse…Më pëlqen të vesh veshje tradicio",
+      "textCoverage": 0.949,
+      "bestTextCandidate": 34,
+      "candidateScore": 0.949,
+      "filenameHintOnly": false,
+      "supplementary": false,
+      "visualReview": "Physical PDF contact sheet and matching ADT section contact sheet inspected; detailed page PNG retained."
+    }
+  },
+  {
+    "href": "pg035_sec001.html",
+    "family": "illustrated-lesson",
+    "title": "Kuzhina kosovare",
+    "bindings": [
+      "pg035_n0002",
+      "pg035_n0004",
+      "pg035_n0005",
+      "pg035_n0007",
+      "pg035_n0009",
+      "pg035_n0011",
+      "pg035_n0012",
+      "pg035_n0013",
+      "pg035_n0014",
+      "pg035_n0016",
+      "pg035_n0018",
+      "pg035_n0019",
+      "pg035_im006",
+      "pg035_n0021",
+      "pg035_n0022",
+      "pg035_im007",
+      "pg035_n0024",
+      "pg035_n0025",
+      "pg035_n0027",
+      "pg035_n0028",
+      "pg035_n0029"
+    ],
+    "images": [
+      {
+        "index": 0,
+        "id": "pg035_im006",
+        "path": "images/pg035_im006.png",
+        "alt": "Lista e ushqimeve të gjyshërve me gatime tradicionale",
+        "decorative": false
+      },
+      {
+        "index": 1,
+        "id": "pg035_im007",
+        "path": "images/pg035_im007.png",
+        "alt": "Lista e ushqimeve të prindërve me gatime bashkëkohore",
+        "decorative": false
+      }
+    ],
+    "controls": 1,
+    "source": {
+      "href": "pg035_sec001.html",
+      "physicalPage": 35,
+      "confidence": 0.99,
+      "basis": "Physical render visually compared with section text/artwork; matching excerpt: Kuzhina kosovare Fjalët kyçe: ushqim tradicional, kulturë, kuzhinë, vlera ushqimore. Shpreh mendimin tënd – Si e kupton thënien: “Tradita nuk harrohet",
+      "textCoverage": 0.972,
+      "bestTextCandidate": 35,
+      "candidateScore": 0.972,
+      "filenameHintOnly": false,
+      "supplementary": false,
+      "visualReview": "Physical PDF contact sheet and matching ADT section contact sheet inspected; detailed page PNG retained."
+    }
+  },
+  {
+    "href": "qz007.html",
+    "family": "quiz",
+    "title": "Ku përdoren sot veshjet tradicionale në Kosovë?",
+    "bindings": [
+      "qz007",
+      "qz007_que",
+      "qz007_o0",
+      "qz007_o1",
+      "qz007_o2"
+    ],
+    "images": [],
+    "controls": 3,
+    "source": {
+      "href": "qz007.html",
+      "physicalPage": 35,
+      "confidence": 0.95,
+      "basis": "Supplementary quiz immediately following the verified source lesson; question checked against that lesson.",
+      "supplementary": true,
+      "visualReview": "Physical PDF contact sheet and matching ADT section contact sheet inspected; detailed page PNG retained."
+    }
+  },
+  {
+    "href": "pg036_sec001.html",
+    "family": "reference",
+    "title": "Pyetje për ty",
+    "bindings": [
+      "pg036_n0002",
+      "pg036_n0005",
+      "pg036_n0006",
+      "pg036_n0008",
+      "pg036_n0010",
+      "pg036_n0011",
+      "pg036_n0013",
+      "pg036_n0016",
+      "pg036_n0017",
+      "pg036_n0020",
+      "pg036_n0023",
+      "pg036_n0025",
+      "pg036_n0027",
+      "pg036_n0029",
+      "pg036_n0030",
+      "pg036_n0031",
+      "pg036_n0032",
+      "pg036_n0033",
+      "pg036_n0034",
+      "pg036_n0035",
+      "pg036_n0036",
+      "pg036_n0037",
+      "pg036_n0040",
+      "pg036_n0042",
+      "pg036_n0043"
+    ],
+    "images": [],
+    "controls": 7,
+    "source": {
+      "href": "pg036_sec001.html",
+      "physicalPage": 36,
+      "confidence": 0.99,
+      "basis": "Physical render visually compared with section text/artwork; matching excerpt: Pyetje për ty Diskuto me nxënësit e tjerë për situatën e dhënë. Si u organizua ditëlindja e Arit? Diskuto me nxënësit e tjerë për situatën e dhënë. Si",
+      "textCoverage": 0.96,
+      "bestTextCandidate": 36,
+      "candidateScore": 0.96,
+      "filenameHintOnly": false,
+      "supplementary": false,
+      "visualReview": "Physical PDF contact sheet and matching ADT section contact sheet inspected; detailed page PNG retained."
+    }
+  },
+  {
+    "href": "pg037_sec001.html",
+    "family": "practice-opener",
+    "title": "Provoje veten",
+    "bindings": [
+      "pg037_n0002"
+    ],
+    "images": [
+      {
+        "index": 0,
+        "id": null,
+        "path": "images/pg005_im007.png",
+        "alt": "",
+        "decorative": true
+      }
+    ],
+    "controls": 0,
+    "source": {
+      "href": "pg037_sec001.html",
+      "physicalPage": 37,
+      "confidence": 0.99,
+      "basis": "Physical render visually compared with section text/artwork; matching excerpt: 🧩Provoje veten",
+      "textCoverage": 1,
+      "bestTextCandidate": 49,
+      "candidateScore": 1,
+      "filenameHintOnly": false,
+      "supplementary": false,
+      "visualReview": "Physical PDF contact sheet and matching ADT section contact sheet inspected; detailed page PNG retained."
+    }
+  },
+  {
+    "href": "pg037_sec002.html",
+    "family": "response",
+    "title": "Shkruaj recetën e dy ushqimeve që të pëlqejnë, një ushqim tradicional dhe një nga kultura të tjera.",
+    "bindings": [
+      "pg037_n0004",
+      "pg037_n0005",
+      "pg037_n0006",
+      "pg037_n0010",
+      "pg037_n0012"
+    ],
+    "images": [],
+    "controls": 2,
+    "source": {
+      "href": "pg037_sec002.html",
+      "physicalPage": 37,
+      "confidence": 0.99,
+      "basis": "Physical render visually compared with section text/artwork; matching excerpt: 🧩1.Shkruaj recetën e dy ushqimeve që të pëlqejnë, një ushqim tradicional dhe një nga kultura të tjera.a) Shkëmbeni në klasë recetat me njëri-tjetrin!R",
+      "textCoverage": 0.852,
+      "bestTextCandidate": 37,
+      "candidateScore": 0.852,
+      "filenameHintOnly": false,
+      "supplementary": false,
+      "visualReview": "Physical PDF contact sheet and matching ADT section contact sheet inspected; detailed page PNG retained."
+    }
+  },
+  {
+    "href": "pg037_sec003.html",
+    "family": "crossword",
+    "title": "Plotësoje fjalëkryqin.",
+    "bindings": [
+      "pg037_n0017",
+      "pg037_n0018",
+      "pg037_n0021",
+      "pg037_n0023",
+      "pg037_n0025",
+      "pg037_n0027",
+      "pg037_n0029",
+      "pg037_n0031",
+      "pg037_n0036",
+      "pg037_n0044",
+      "pg037_n0054",
+      "pg037_n0065",
+      "pg037_n0074",
+      "pg037_n0082"
+    ],
+    "images": [
+      {
+        "index": 0,
+        "id": null,
+        "path": "book-design/images/crossword-grid.png",
+        "alt": "Fjalëkryq me gjashtë rreshta dhe një kolonë me ngjyrë për fjalën përfundimtare.",
+        "decorative": false
+      }
+    ],
+    "controls": 40,
+    "source": {
+      "href": "pg037_sec003.html",
+      "physicalPage": 37,
+      "confidence": 0.99,
+      "basis": "Physical render visually compared with section text/artwork; matching excerpt: 2. Plotësoje fjalëkryqin. 1. Ushqimi kryesor në tryezën e Kosovës, i përgatitur nga mielli. 1. Ushqimi kryesor në tryezën e Kosovës, i përgatitur nga ",
+      "textCoverage": 0.927,
+      "bestTextCandidate": 37,
+      "candidateScore": 0.927,
+      "filenameHintOnly": false,
+      "supplementary": false,
+      "visualReview": "Physical PDF contact sheet and matching ADT section contact sheet inspected; detailed page PNG retained."
+    }
+  },
+  {
+    "href": "pg037_sec004.html",
+    "family": "response",
+    "title": "Në kolonën me ngjyrë zbulove një fjalë.",
+    "bindings": [
+      "pg037_n0090",
+      "pg037_n0091",
+      "pg037_n0092",
+      "pg037_n0093",
+      "pg037_n0094"
+    ],
+    "images": [],
+    "controls": 2,
+    "source": {
+      "href": "pg037_sec004.html",
+      "physicalPage": 37,
+      "confidence": 0.9,
+      "basis": "Physical render visually compared with section text/artwork; matching excerpt: 3. Në kolonën me ngjyrë zbulove një fjalë. Shkruaj për rëndësinë e asaj gjëje. Rreshti i parë për përgjigjen e ushtrimit 3 Rreshti i dytë për përgjigj",
+      "textCoverage": 0.533,
+      "bestTextCandidate": 37,
+      "candidateScore": 0.533,
+      "filenameHintOnly": false,
+      "supplementary": false,
+      "visualReview": "Physical PDF contact sheet and matching ADT section contact sheet inspected; detailed page PNG retained."
+    }
+  },
+  {
+    "href": "pg038_sec001.html",
+    "family": "illustrated-lesson",
+    "title": "Profesionet tona",
+    "bindings": [
+      "pg038_n0002",
+      "pg038_n0004",
+      "pg038_n0005",
+      "pg038_n0008",
+      "pg038_n0011",
+      "pg038_n0013",
+      "pg038_n0015",
+      "pg038_n0017",
+      "pg038_im002",
+      "pg038_n0020",
+      "pg038_n0021",
+      "pg038_im003",
+      "pg038_n0024",
+      "pg038_n0025",
+      "pg038_im004",
+      "pg038_n0028",
+      "pg038_n0029",
+      "pg038_n0030",
+      "pg038_im005",
+      "pg038_n0033",
+      "pg038_n0034",
+      "pg038_im006",
+      "pg038_im007",
+      "pg038_n0037",
+      "pg038_n0038",
+      "pg038_n0039",
+      "pg038_n0040",
+      "pg038_n0041"
+    ],
+    "images": [
+      {
+        "index": 0,
+        "id": null,
+        "path": "images/pg005_im002.png",
+        "alt": "",
+        "decorative": true
+      },
+      {
+        "index": 1,
+        "id": "pg038_im002",
+        "path": "images/pg038_im002.png",
+        "alt": "Vegla të vjetra zdrukthëtarie",
+        "decorative": false
+      },
+      {
+        "index": 2,
+        "id": "pg038_im003",
+        "path": "images/pg038_im003.png",
+        "alt": "Makineri moderne për përpunimin e drurit",
+        "decorative": false
+      },
+      {
+        "index": 3,
+        "id": "pg038_im004",
+        "path": "images/pg038_im004.png",
+        "alt": "Rrush duke u përzier për prodhimin e verës",
+        "decorative": false
+      },
+      {
+        "index": 4,
+        "id": "pg038_im005",
+        "path": "images/pg038_im005.png",
+        "alt": "Pajisje bashkëkohore për prodhimin e verës",
+        "decorative": false
+      },
+      {
+        "index": 5,
+        "id": "pg038_im006",
+        "path": "images/pg038_im006.png",
+        "alt": "Makina e shkrimit",
+        "decorative": false
+      },
+      {
+        "index": 6,
+        "id": "pg038_im007",
+        "path": "images/pg038_im007.png",
+        "alt": "Kompjuter për dërgimin dhe marrjen e lajmeve",
+        "decorative": false
+      }
+    ],
+    "controls": 3,
+    "source": {
+      "href": "pg038_sec001.html",
+      "physicalPage": 38,
+      "confidence": 0.99,
+      "basis": "Physical render visually compared with section text/artwork; matching excerpt: Profesionet tona Fjalët kyçe: profesion, mjete, zanat, përkushtim. ☁️ Shpreh mendimin tënd Cilat janë profesionet e prindërve të tu? Cilat janë profes",
+      "textCoverage": 0.984,
+      "bestTextCandidate": 38,
+      "candidateScore": 0.984,
+      "filenameHintOnly": false,
+      "supplementary": false,
+      "visualReview": "Physical PDF contact sheet and matching ADT section contact sheet inspected; detailed page PNG retained."
+    }
+  },
+  {
+    "href": "pg039_sec001.html",
+    "family": "illustrated-lesson",
+    "title": "Mos harro!",
+    "bindings": [
+      "pg039_im003",
+      "pg039_im004",
+      "pg039_im005",
+      "pg039_im006",
+      "pg039_n0002",
+      "pg039_n0003",
+      "pg039_n0004",
+      "pg039_n0005",
+      "pg039_n0006",
+      "pg039_n0007",
+      "pg039_n0009",
+      "pg039_n0010",
+      "pg039_n0013",
+      "pg039_n0016",
+      "pg039_n0018",
+      "pg039_n0020",
+      "pg039_n0021",
+      "pg039_n0024",
+      "pg039_n0026",
+      "pg039_n0027",
+      "pg039_n0028",
+      "pg039_n0029",
+      "pg039_n0030",
+      "pg039_n0031"
+    ],
+    "images": [
+      {
+        "index": 0,
+        "id": "pg039_im003",
+        "path": "images/pg039_im003.png",
+        "alt": "Stetoskop i kuq për kontrollimin e pacientëve.",
+        "decorative": false
+      },
+      {
+        "index": 1,
+        "id": "pg039_im004",
+        "path": "images/pg039_im004.png",
+        "alt": "Shiringë, shishe ilaçesh dhe tableta për mjekim.",
+        "decorative": false
+      },
+      {
+        "index": 2,
+        "id": "pg039_im005",
+        "path": "images/pg039_im005.png",
+        "alt": "Monitor me imazhe skanimi mjekësor të trupit.",
+        "decorative": false
+      },
+      {
+        "index": 3,
+        "id": "pg039_im006",
+        "path": "images/pg039_im006.png",
+        "alt": "Pajisje moderne mjekësore për ekzaminime në spital.",
+        "decorative": false
+      }
+    ],
+    "controls": 3,
+    "source": {
+      "href": "pg039_sec001.html",
+      "physicalPage": 39,
+      "confidence": 0.99,
+      "basis": "Physical render visually compared with section text/artwork; matching excerpt: Profesioni i mjekut është shumë i rëndësishëm. Ai kujdeset për shëndetin e njerëzve. Mjeku ndihmon në zbulimin dhe mjekimin e sëmundjeve. Pas shkollim",
+      "textCoverage": 0.984,
+      "bestTextCandidate": 39,
+      "candidateScore": 0.984,
+      "filenameHintOnly": false,
+      "supplementary": false,
+      "visualReview": "Physical PDF contact sheet and matching ADT section contact sheet inspected; detailed page PNG retained."
+    }
+  },
+  {
+    "href": "pg039_sec002.html",
+    "family": "response",
+    "title": "Pyetje për ty",
+    "bindings": [
+      "pg039_n0034",
+      "pg039_n0035",
+      "pg039_n0036",
+      "pg039_n0037",
+      "pg039_n0038",
+      "pg039_n0039",
+      "pg039_n0040",
+      "pg039_n0041",
+      "pg039_n0042"
+    ],
+    "images": [
+      {
+        "index": 0,
+        "id": null,
+        "path": "images/pg005_im006.png",
+        "alt": "",
+        "decorative": true
+      }
+    ],
+    "controls": 6,
+    "source": {
+      "href": "pg039_sec002.html",
+      "physicalPage": 39,
+      "confidence": 0.99,
+      "basis": "Physical render visually compared with section text/artwork; matching excerpt: ? ? ? Pyetje për ty Cilat profesione u panë në panair? Cilat profesione u panë në panair? Pse ushtrimi i profesionit ishte më i vështirë dikur? Pse us",
+      "textCoverage": 0.759,
+      "bestTextCandidate": 39,
+      "candidateScore": 0.759,
+      "filenameHintOnly": false,
+      "supplementary": false,
+      "visualReview": "Physical PDF contact sheet and matching ADT section contact sheet inspected; detailed page PNG retained."
+    }
+  },
+  {
+    "href": "qz008.html",
+    "family": "quiz",
+    "title": "Çfarë e ka lehtësuar punën në profesionet sot?",
+    "bindings": [
+      "qz008",
+      "qz008_que",
+      "qz008_o0",
+      "qz008_o1",
+      "qz008_o2"
+    ],
+    "images": [],
+    "controls": 3,
+    "source": {
+      "href": "qz008.html",
+      "physicalPage": 39,
+      "confidence": 0.95,
+      "basis": "Supplementary quiz immediately following the verified source lesson; question checked against that lesson.",
+      "supplementary": true,
+      "visualReview": "Physical PDF contact sheet and matching ADT section contact sheet inspected; detailed page PNG retained."
+    }
+  },
+  {
+    "href": "pg040_sec001.html",
+    "family": "project",
+    "title": "Provoje veten",
+    "bindings": [
+      "pg040_n0002",
+      "pg040_n0005",
+      "pg040_n0008",
+      "pg040_n0010",
+      "pg040_n0013",
+      "pg040_n0015",
+      "pg040_n0017",
+      "pg040_n0019",
+      "pg040_n0021",
+      "pg040_n0023",
+      "pg040_im003"
+    ],
+    "images": [
+      {
+        "index": 0,
+        "id": "pg040_im003",
+        "path": "images/pg040_im003.png",
+        "alt": "Fëmijë duke punuar së bashku në një projekt artistik me letra me ngjyra dhe lapsa.",
+        "decorative": false
+      }
+    ],
+    "controls": 7,
+    "source": {
+      "href": "pg040_sec001.html",
+      "physicalPage": 40,
+      "confidence": 0.99,
+      "basis": "Physical render visually compared with section text/artwork; matching excerpt: Provoje veten Projekt 1. Ndahuni në grupe me nga 4-5 nxënës dhe zgjidhni temën për të cilën do ta bëni projektin. 1. Ndahuni në grupe me nga 4-5 nxënë",
+      "textCoverage": 1,
+      "bestTextCandidate": 40,
+      "candidateScore": 1,
+      "filenameHintOnly": false,
+      "supplementary": false,
+      "visualReview": "Physical PDF contact sheet and matching ADT section contact sheet inspected; detailed page PNG retained."
+    }
+  },
+  {
+    "href": "pg041_sec001.html",
+    "family": "illustrated-lesson",
+    "title": "Organizimi i jetës në familje dhe në shoqëri",
+    "bindings": [
+      "pg041_n0002",
+      "pg041_n0004",
+      "pg041_n0005",
+      "pg041_n0007",
+      "pg041_n0008",
+      "pg041_n0009",
+      "pg041_n0010",
+      "pg041_n0011",
+      "pg041_n0013",
+      "pg041_n0014",
+      "pg041_n0015",
+      "pg041_im001"
+    ],
+    "images": [
+      {
+        "index": 0,
+        "id": "pg041_im001",
+        "path": "images/pg041_im001.png",
+        "alt": "Një familje është ulur së bashku në tryezë gjatë darkës dhe po bisedon.",
+        "decorative": false
+      }
+    ],
+    "controls": 0,
+    "source": {
+      "href": "pg041_sec001.html",
+      "physicalPage": 41,
+      "confidence": 0.99,
+      "basis": "Physical render visually compared with section text/artwork; matching excerpt: Organizimi i jetës në familje dhe në shoqëri Fjalët kyçe: familje, shoqëri, barazi, vendimmarrje. Situatë: Nëna ime është arkitekte në një kompani ndë",
+      "textCoverage": 0.959,
+      "bestTextCandidate": 41,
+      "candidateScore": 0.959,
+      "filenameHintOnly": false,
+      "supplementary": false,
+      "visualReview": "Physical PDF contact sheet and matching ADT section contact sheet inspected; detailed page PNG retained."
+    }
+  },
+  {
+    "href": "pg041_sec002.html",
+    "family": "reference",
+    "title": "Pyetje për ty",
+    "bindings": [
+      "pg041_im002",
+      "pg041_n0018",
+      "pg041_n0019",
+      "pg041_n0020",
+      "pg041_n0021",
+      "pg041_n0022"
+    ],
+    "images": [
+      {
+        "index": 0,
+        "id": "pg041_im002",
+        "path": "images/pg041_im002.png",
+        "alt": "",
+        "decorative": true
+      }
+    ],
+    "controls": 4,
+    "source": {
+      "href": "pg041_sec002.html",
+      "physicalPage": 41,
+      "confidence": 0.99,
+      "basis": "Physical render visually compared with section text/artwork; matching excerpt: Pyetje për tySi ishte një ditë e zakonshme e familjes së Olsës?Si ishte një ditë e zakonshme e familjes së Olsës?Cilat punë po bënte secili anëtar?Cil",
+      "textCoverage": 0.921,
+      "bestTextCandidate": 41,
+      "candidateScore": 0.921,
+      "filenameHintOnly": false,
+      "supplementary": false,
+      "visualReview": "Physical PDF contact sheet and matching ADT section contact sheet inspected; detailed page PNG retained."
+    }
+  },
+  {
+    "href": "pg042_sec001.html",
+    "family": "illustrated-lesson",
+    "title": "Analizoji fotografitë e dhëna.",
+    "bindings": [
+      "pg042_n0002",
+      "pg042_im005",
+      "pg042_im006"
+    ],
+    "images": [
+      {
+        "index": 0,
+        "id": "pg042_im005",
+        "path": "images/pg042_im005.png",
+        "alt": "Gra dhe burra në uniformë policie dhe një grup njerëzish që bashkëpunojnë rreth tryezës.",
+        "decorative": false
+      },
+      {
+        "index": 1,
+        "id": "pg042_im006",
+        "path": "images/pg042_im006.png",
+        "alt": "Gra dhe burra me veshje të personelit shëndetësor, me stetoskop dhe dosje.",
+        "decorative": false
+      }
+    ],
+    "controls": 0,
+    "source": {
+      "href": "pg042_sec001.html",
+      "physicalPage": 42,
+      "confidence": 0.99,
+      "basis": "Physical render visually compared with section text/artwork; matching excerpt: Analizoji fotografitë e dhëna.",
+      "textCoverage": 1,
+      "bestTextCandidate": 42,
+      "candidateScore": 1,
+      "filenameHintOnly": false,
+      "supplementary": false,
+      "visualReview": "Physical PDF contact sheet and matching ADT section contact sheet inspected; detailed page PNG retained."
+    }
+  },
+  {
+    "href": "pg042_sec002.html",
+    "family": "response",
+    "title": "Pyetje për ty",
+    "bindings": [
+      "pg042_n0004",
+      "pg042_n0006",
+      "pg042_n0007",
+      "pg042_n0008",
+      "pg042_n0009"
+    ],
+    "images": [
+      {
+        "index": 0,
+        "id": null,
+        "path": "images/pg005_im006.png",
+        "alt": "",
+        "decorative": true
+      }
+    ],
+    "controls": 4,
+    "source": {
+      "href": "pg042_sec002.html",
+      "physicalPage": 42,
+      "confidence": 0.9,
+      "basis": "Physical render visually compared with section text/artwork; matching excerpt: Pyetje për ty – Çfarë tregojnë fotografitë e dhëna? Çfarë tregojnë fotografitë e dhëna? – A mund të kryhen të gjitha punët njësoj nga burrat dhe gratë",
+      "textCoverage": 0.633,
+      "bestTextCandidate": 42,
+      "candidateScore": 0.633,
+      "filenameHintOnly": false,
+      "supplementary": false,
+      "visualReview": "Physical PDF contact sheet and matching ADT section contact sheet inspected; detailed page PNG retained."
+    }
+  },
+  {
+    "href": "pg042_sec003.html",
+    "family": "reference",
+    "title": "Thello dijet",
+    "bindings": [
+      "pg042_n0011",
+      "pg042_n0013",
+      "pg042_n0014",
+      "pg042_n0015",
+      "pg042_n0016",
+      "pg042_n0017",
+      "pg042_n0018"
+    ],
+    "images": [
+      {
+        "index": 0,
+        "id": null,
+        "path": "images/pg005_im003.png",
+        "alt": "",
+        "decorative": true
+      }
+    ],
+    "controls": 0,
+    "source": {
+      "href": "pg042_sec003.html",
+      "physicalPage": 42,
+      "confidence": 0.99,
+      "basis": "Physical render visually compared with section text/artwork; matching excerpt: 📖Thello dijetGjatë periudhave të ndryshme historike, organizimi i jetës në familje dhe në shoqëri ka ndryshuar vazhdimisht. Në një kohë, organizimi ës",
+      "textCoverage": 0.906,
+      "bestTextCandidate": 42,
+      "candidateScore": 0.906,
+      "filenameHintOnly": false,
+      "supplementary": false,
+      "visualReview": "Physical PDF contact sheet and matching ADT section contact sheet inspected; detailed page PNG retained."
+    }
+  },
+  {
+    "href": "qz009.html",
+    "family": "quiz",
+    "title": "Si organizohet sot jeta në familje sipas tekstit?",
+    "bindings": [
+      "qz009",
+      "qz009_que",
+      "qz009_o0",
+      "qz009_o1",
+      "qz009_o2"
+    ],
+    "images": [],
+    "controls": 3,
+    "source": {
+      "href": "qz009.html",
+      "physicalPage": 42,
+      "confidence": 0.95,
+      "basis": "Supplementary quiz immediately following the verified source lesson; question checked against that lesson.",
+      "supplementary": true,
+      "visualReview": "Physical PDF contact sheet and matching ADT section contact sheet inspected; detailed page PNG retained."
+    }
+  },
+  {
+    "href": "pg043_sec001.html",
+    "family": "response",
+    "title": "Provoje veten",
+    "bindings": [
+      "pg043_n0002",
+      "pg043_n0004",
+      "pg043_n0005",
+      "pg043_n0006",
+      "pg043_n0007",
+      "pg043_n0008",
+      "pg043_n0009",
+      "pg043_n0010",
+      "pg043_n0011",
+      "pg043_n0012",
+      "pg043_n0013",
+      "pg043_n0014",
+      "pg043_n0015",
+      "pg043_n0016",
+      "pg043_n0017",
+      "pg043_n0018",
+      "pg043_n0019",
+      "pg043_n0020",
+      "pg043_n0021",
+      "pg043_n0022",
+      "pg043_n0023",
+      "pg043_n0024",
+      "pg043_n0025",
+      "pg043_n0026"
+    ],
+    "images": [
+      {
+        "index": 0,
+        "id": null,
+        "path": "images/pg005_im007.png",
+        "alt": "",
+        "decorative": true
+      }
+    ],
+    "controls": 13,
+    "source": {
+      "href": "pg043_sec001.html",
+      "physicalPage": 43,
+      "confidence": 0.99,
+      "basis": "Physical render visually compared with section text/artwork; matching excerpt: Provoje veten 1.Përshkruaj një rast se si vini deri në një vendim të përbashkët në familjen tënde. Mundohu ta përmbledhësh këtë shkrim në tri pika kry",
+      "textCoverage": 0.962,
+      "bestTextCandidate": 43,
+      "candidateScore": 0.962,
+      "filenameHintOnly": false,
+      "supplementary": false,
+      "visualReview": "Physical PDF contact sheet and matching ADT section contact sheet inspected; detailed page PNG retained."
+    }
+  },
+  {
+    "href": "pg044_sec001.html",
+    "family": "chapter-lesson",
+    "title": "Të ndryshëm, por të barabartë",
+    "bindings": [
+      "pg044_n0002",
+      "pg044_n0003",
+      "pg044_n0005",
+      "pg044_n0006",
+      "pg044_im004",
+      "pg044_n0008",
+      "pg044_n0009",
+      "pg044_n0011",
+      "pg044_n0012",
+      "pg044_n0013",
+      "pg044_n0014",
+      "pg044_n0015",
+      "pg044_n0016",
+      "pg044_n0017",
+      "pg044_n0018",
+      "pg044_n0019",
+      "pg044_n0020",
+      "pg044_im002"
+    ],
+    "images": [
+      {
+        "index": 0,
+        "id": "pg044_im004",
+        "path": "images/pg044_im004.png",
+        "alt": "Fëmijë që komunikojnë dhe bashkëpunojnë me njëri-tjetrin",
+        "decorative": false
+      },
+      {
+        "index": 1,
+        "id": "pg044_im002",
+        "path": "images/pg044_im002.png",
+        "alt": "Nxënës që ecin së bashku në shkollë",
+        "decorative": false
+      }
+    ],
+    "controls": 3,
+    "source": {
+      "href": "pg044_sec001.html",
+      "physicalPage": 44,
+      "confidence": 0.99,
+      "basis": "Physical render visually compared with section text/artwork; matching excerpt: Të ndryshëm, por të barabartë Kultura, gjuha, tradita dhe vlerat njerëzore Fjalët kyçe:gjuhë, kulturë, traditë, zakon, vlera njerëzore. Emri dhe mbiem",
+      "textCoverage": 1,
+      "bestTextCandidate": 44,
+      "candidateScore": 1,
+      "filenameHintOnly": false,
+      "supplementary": false,
+      "visualReview": "Physical PDF contact sheet and matching ADT section contact sheet inspected; detailed page PNG retained."
+    }
+  },
+  {
+    "href": "pg044_sec002.html",
+    "family": "response",
+    "title": "Emri dhe mbiemri",
+    "bindings": [
+      "pg044_n0023",
+      "pg044_n0024",
+      "pg044_n0025",
+      "pg044_n0026"
+    ],
+    "images": [],
+    "controls": 3,
+    "source": {
+      "href": "pg044_sec002.html",
+      "physicalPage": 44,
+      "confidence": 0.99,
+      "basis": "Physical render visually compared with section text/artwork; matching excerpt: Plotëso: Emri dhe mbiemri Gjuha amtare: Kombësia:",
+      "textCoverage": 1,
+      "bestTextCandidate": 44,
+      "candidateScore": 1,
+      "filenameHintOnly": false,
+      "supplementary": false,
+      "visualReview": "Physical PDF contact sheet and matching ADT section contact sheet inspected; detailed page PNG retained."
+    }
+  },
+  {
+    "href": "pg045_sec001.html",
+    "family": "response",
+    "title": "Pyetje për ty",
+    "bindings": [
+      "pg045_n0003",
+      "pg045_n0007",
+      "pg045_n0009",
+      "pg045_n0010",
+      "pg045_n0012",
+      "pg045_n0014",
+      "pg045_n0017",
+      "pg045_n0021",
+      "pg045_n0023",
+      "pg045_n0025"
+    ],
+    "images": [
+      {
+        "index": 0,
+        "id": null,
+        "path": "images/pg005_im006.png",
+        "alt": "",
+        "decorative": true
+      },
+      {
+        "index": 1,
+        "id": null,
+        "path": "images/pg005_im008.png",
+        "alt": "",
+        "decorative": true
+      }
+    ],
+    "controls": 7,
+    "source": {
+      "href": "pg045_sec001.html",
+      "physicalPage": 45,
+      "confidence": 0.99,
+      "basis": "Physical render visually compared with section text/artwork; matching excerpt: ❓ ❓ ❓ Pyetje për ty – Flisni për vlerat tradicionale të vendit tonë! Flisni për vlerat tradicionale të vendit tonë! – A mendon se kjo fjali paraqet re",
+      "textCoverage": 0.981,
+      "bestTextCandidate": 45,
+      "candidateScore": 0.981,
+      "filenameHintOnly": false,
+      "supplementary": false,
+      "visualReview": "Physical PDF contact sheet and matching ADT section contact sheet inspected; detailed page PNG retained."
+    }
+  },
+  {
+    "href": "pg045_sec002.html",
+    "family": "response",
+    "title": "Thello dijet",
+    "bindings": [
+      "pg045_n0029",
+      "pg045_n0031",
+      "pg045_n0034",
+      "pg045_n0036",
+      "pg045_n0037",
+      "pg045_n0039",
+      "pg045_n0040",
+      "pg045_n0042",
+      "pg045_n0044",
+      "pg045_n0046",
+      "pg045_n0047",
+      "pg045_n0049",
+      "pg045_n0051",
+      "pg045_n0053",
+      "pg045_n0055"
+    ],
+    "images": [
+      {
+        "index": 0,
+        "id": null,
+        "path": "images/pg005_im003.png",
+        "alt": "",
+        "decorative": true
+      }
+    ],
+    "controls": 4,
+    "source": {
+      "href": "pg045_sec002.html",
+      "physicalPage": 45,
+      "confidence": 0.99,
+      "basis": "Physical render visually compared with section text/artwork; matching excerpt: 📖Thello dijetFamilja ndikon drejtpërdrejt në ndjenjat dhe zhvillimin e fëmijës, si dhe në sjelljen e tij në shoqëri.Kultura tradicionale dhe zakonet j",
+      "textCoverage": 0.982,
+      "bestTextCandidate": 45,
+      "candidateScore": 0.982,
+      "filenameHintOnly": false,
+      "supplementary": false,
+      "visualReview": "Physical PDF contact sheet and matching ADT section contact sheet inspected; detailed page PNG retained."
+    }
+  },
+  {
+    "href": "pg046_sec001.html",
+    "family": "response",
+    "title": "Provoje veten",
+    "bindings": [
+      "pg046_n0002",
+      "pg046_n0004",
+      "pg046_n0005",
+      "pg046_n0006",
+      "pg046_n0007",
+      "pg046_n0008"
+    ],
+    "images": [],
+    "controls": 3,
+    "source": {
+      "href": "pg046_sec001.html",
+      "physicalPage": 46,
+      "confidence": 0.99,
+      "basis": "Physical render visually compared with section text/artwork; matching excerpt: Provoje veten 1.Shkruaj gjuhët zyrtare që fliten në Kosovë: a. a. ______________________________ b. b. ______________________________ c. c. __________",
+      "textCoverage": 1,
+      "bestTextCandidate": 46,
+      "candidateScore": 1,
+      "filenameHintOnly": false,
+      "supplementary": false,
+      "visualReview": "Physical PDF contact sheet and matching ADT section contact sheet inspected; detailed page PNG retained."
+    }
+  },
+  {
+    "href": "pg046_sec002.html",
+    "family": "response",
+    "title": "Shkruaj mendimin tënd për secilën fjalë të dhënë:",
+    "bindings": [
+      "pg046_n0011",
+      "pg046_n0012",
+      "pg046_im004",
+      "pg046_n0014",
+      "pg046_im005",
+      "pg046_n0016",
+      "pg046_im006",
+      "pg046_n0018",
+      "pg046_im007",
+      "pg046_n0020",
+      "pg046_im008",
+      "pg046_n0022"
+    ],
+    "images": [
+      {
+        "index": 0,
+        "id": "pg046_im004",
+        "path": "images/pg046_im004.png",
+        "alt": "",
+        "decorative": true
+      },
+      {
+        "index": 1,
+        "id": "pg046_im005",
+        "path": "images/pg046_im005.png",
+        "alt": "",
+        "decorative": true
+      },
+      {
+        "index": 2,
+        "id": "pg046_im006",
+        "path": "images/pg046_im006.png",
+        "alt": "",
+        "decorative": true
+      },
+      {
+        "index": 3,
+        "id": "pg046_im007",
+        "path": "images/pg046_im007.png",
+        "alt": "",
+        "decorative": true
+      },
+      {
+        "index": 4,
+        "id": "pg046_im008",
+        "path": "images/pg046_im008.png",
+        "alt": "",
+        "decorative": true
+      }
+    ],
+    "controls": 5,
+    "source": {
+      "href": "pg046_sec002.html",
+      "physicalPage": 46,
+      "confidence": 0.9,
+      "basis": "Physical render visually compared with section text/artwork; matching excerpt: 2.Shkruaj mendimin tënd për secilën fjalë të dhënë:DASHURIADASHURIASINQERITETISINQERITETINJERIUNJERIUKULTURAKULTURAGJUHAGJUHA",
+      "textCoverage": 0.635,
+      "bestTextCandidate": 46,
+      "candidateScore": 0.635,
+      "filenameHintOnly": false,
+      "supplementary": false,
+      "visualReview": "Physical PDF contact sheet and matching ADT section contact sheet inspected; detailed page PNG retained."
+    }
+  },
+  {
+    "href": "pg047_sec001.html",
+    "family": "illustrated-lesson",
+    "title": "Llojllojshmëria etnike e kulturore",
+    "bindings": [
+      "pg047_n0002",
+      "pg047_n0004",
+      "pg047_n0005",
+      "pg047_n0008",
+      "pg047_n0009",
+      "pg047_n0010",
+      "pg047_n0012",
+      "pg047_n0013",
+      "pg047_n0015",
+      "pg047_n0016",
+      "pg047_n0017",
+      "pg047_im002",
+      "pg047_im004",
+      "pg047_im007",
+      "pg047_im003",
+      "pg047_im005",
+      "pg047_im006"
+    ],
+    "images": [
+      {
+        "index": 0,
+        "id": "pg047_im002",
+        "path": "images/pg047_im002.png",
+        "alt": "Fëmijë duke buzëqeshur dhe luajtur jashtë së bashku",
+        "decorative": false
+      },
+      {
+        "index": 1,
+        "id": "pg047_im004",
+        "path": "images/pg047_im004.png",
+        "alt": "Vajzë duke mbajtur një tullumbace blu jashtë",
+        "decorative": false
+      },
+      {
+        "index": 2,
+        "id": "pg047_im007",
+        "path": "images/pg047_im007.png",
+        "alt": "Fëmijë të veshur me kostume tradicionale duke qëndruar së bashku",
+        "decorative": false
+      },
+      {
+        "index": 3,
+        "id": "pg047_im003",
+        "path": "images/pg047_im003.png",
+        "alt": "Grup fëmijësh ulur në rreth duke punuar së bashku",
+        "decorative": false
+      },
+      {
+        "index": 4,
+        "id": "pg047_im005",
+        "path": "images/pg047_im005.png",
+        "alt": "Fëmijë me tullumbace duke buzëqeshur së bashku",
+        "decorative": false
+      },
+      {
+        "index": 5,
+        "id": "pg047_im006",
+        "path": "images/pg047_im006.png",
+        "alt": "Djalë që përdor karrocë me rrota, duke buzëqeshur jashtë me fëmijët e tjerë.",
+        "decorative": false
+      }
+    ],
+    "controls": 1,
+    "source": {
+      "href": "pg047_sec001.html",
+      "physicalPage": 47,
+      "confidence": 0.99,
+      "basis": "Physical render visually compared with section text/artwork; matching excerpt: Llojllojshmëria etnike e kulturore Fjalët kyçe: diversitet etnik, diversitet kulturor. Shpreh mendimin tënd - A e di çfarë do të thotë llojllojshmëri ",
+      "textCoverage": 1,
+      "bestTextCandidate": 47,
+      "candidateScore": 1,
+      "filenameHintOnly": false,
+      "supplementary": false,
+      "visualReview": "Physical PDF contact sheet and matching ADT section contact sheet inspected; detailed page PNG retained."
+    }
+  },
+  {
+    "href": "pg048_sec001.html",
+    "family": "response",
+    "title": "Pyetje për ty",
+    "bindings": [
+      "pg048_n0003",
+      "pg048_n0006",
+      "pg048_n0008",
+      "pg048_n0010",
+      "pg048_n0012",
+      "pg048_n0013",
+      "pg048_n0014",
+      "pg048_n0015"
+    ],
+    "images": [],
+    "controls": 4,
+    "source": {
+      "href": "pg048_sec001.html",
+      "physicalPage": 48,
+      "confidence": 0.99,
+      "basis": "Physical render visually compared with section text/artwork; matching excerpt: Pyetje për ty–Çfarë shikon në fotografitë e mësipërme?Çfarë shikon në fotografitë e mësipërme?–Për cilat komunitete bëhet fjalë?Për cilat komunitete b",
+      "textCoverage": 1,
+      "bestTextCandidate": 48,
+      "candidateScore": 1,
+      "filenameHintOnly": false,
+      "supplementary": false,
+      "visualReview": "Physical PDF contact sheet and matching ADT section contact sheet inspected; detailed page PNG retained."
+    }
+  },
+  {
+    "href": "pg048_sec002.html",
+    "family": "discussion",
+    "title": "Diskuto",
+    "bindings": [
+      "pg048_n0018",
+      "pg048_n0021",
+      "pg048_n0023",
+      "pg048_n0025",
+      "pg048_n0026"
+    ],
+    "images": [],
+    "controls": 2,
+    "source": {
+      "href": "pg048_sec002.html",
+      "physicalPage": 48,
+      "confidence": 0.99,
+      "basis": "Physical render visually compared with section text/artwork; matching excerpt: Diskuto –Pse është e rëndësishme që në shkolla të ketë llojllojshmëri etnike e kulturore? Pse është e rëndësishme që në shkolla të ketë llojllojshmëri",
+      "textCoverage": 1,
+      "bestTextCandidate": 48,
+      "candidateScore": 1,
+      "filenameHintOnly": false,
+      "supplementary": false,
+      "visualReview": "Physical PDF contact sheet and matching ADT section contact sheet inspected; detailed page PNG retained."
+    }
+  },
+  {
+    "href": "pg048_sec003.html",
+    "family": "reference",
+    "title": "Thello dijet",
+    "bindings": [
+      "pg048_n0029",
+      "pg048_n0031",
+      "pg048_n0032",
+      "pg048_n0033",
+      "pg048_n0034",
+      "pg048_n0036",
+      "pg048_n0037"
+    ],
+    "images": [
+      {
+        "index": 0,
+        "id": null,
+        "path": "images/pg005_im003.png",
+        "alt": "",
+        "decorative": true
+      }
+    ],
+    "controls": 0,
+    "source": {
+      "href": "pg048_sec003.html",
+      "physicalPage": 48,
+      "confidence": 0.99,
+      "basis": "Physical render visually compared with section text/artwork; matching excerpt: 📖Thello dijetLlojllojshmëria etnike dhe kulturore nënkupton dallimet që kanë popujt ndërmjet vete në traditat e tyre, në stilin e tyre të jetës, në ve",
+      "textCoverage": 0.976,
+      "bestTextCandidate": 48,
+      "candidateScore": 0.976,
+      "filenameHintOnly": false,
+      "supplementary": false,
+      "visualReview": "Physical PDF contact sheet and matching ADT section contact sheet inspected; detailed page PNG retained."
+    }
+  },
+  {
+    "href": "qz010.html",
+    "family": "quiz",
+    "title": "Çfarë do të thotë llojllojshmëri etnike dhe kulturore?",
+    "bindings": [
+      "qz010",
+      "qz010_que",
+      "qz010_o0",
+      "qz010_o1",
+      "qz010_o2"
+    ],
+    "images": [],
+    "controls": 3,
+    "source": {
+      "href": "qz010.html",
+      "physicalPage": 48,
+      "confidence": 0.95,
+      "basis": "Supplementary quiz immediately following the verified source lesson; question checked against that lesson.",
+      "supplementary": true,
+      "visualReview": "Physical PDF contact sheet and matching ADT section contact sheet inspected; detailed page PNG retained."
+    }
+  },
+  {
+    "href": "pg049_sec001.html",
+    "family": "practice-opener",
+    "title": "Provoje veten",
+    "bindings": [
+      "pg049_n0002"
+    ],
+    "images": [],
+    "controls": 0,
+    "source": {
+      "href": "pg049_sec001.html",
+      "physicalPage": 49,
+      "confidence": 0.99,
+      "basis": "Physical render visually compared with section text/artwork; matching excerpt: Provoje veten",
+      "textCoverage": 1,
+      "bestTextCandidate": 49,
+      "candidateScore": 1,
+      "filenameHintOnly": false,
+      "supplementary": false,
+      "visualReview": "Physical PDF contact sheet and matching ADT section contact sheet inspected; detailed page PNG retained."
+    }
+  },
+  {
+    "href": "pg049_sec002.html",
+    "family": "response",
+    "title": "Shkruaj si e kupton thënien:",
+    "bindings": [
+      "pg049_n0005",
+      "pg049_n0006",
+      "pg049_n0007",
+      "pg049_n0008",
+      "pg049_n0009",
+      "pg049_n0010"
+    ],
+    "images": [],
+    "controls": 3,
+    "source": {
+      "href": "pg049_sec002.html",
+      "physicalPage": 49,
+      "confidence": 0.9,
+      "basis": "Physical render visually compared with section text/artwork; matching excerpt: ✏️1.Shkruaj si e kupton thënien:“Të gjithë janë po aq të rëndësishëm sa unë.”Shkruaj si e kupton thënien: “Të gjithë janë po aq të rëndësishëm sa unë.",
+      "textCoverage": 0.596,
+      "bestTextCandidate": 49,
+      "candidateScore": 0.596,
+      "filenameHintOnly": false,
+      "supplementary": false,
+      "visualReview": "Physical PDF contact sheet and matching ADT section contact sheet inspected; detailed page PNG retained."
+    }
+  },
+  {
+    "href": "pg049_sec003.html",
+    "family": "illustrated-lesson",
+    "title": "Përshkruaje fotografinë e dhënë dhe emërtoje atë.",
+    "bindings": [
+      "pg049_n0012",
+      "pg049_n0013",
+      "pg049_n0014",
+      "pg049_n0015",
+      "pg049_n0016",
+      "pg049_n0017",
+      "pg049_n0018",
+      "pg049_im004"
+    ],
+    "images": [
+      {
+        "index": 0,
+        "id": "pg049_im004",
+        "path": "images/pg049_im004.png",
+        "alt": "Ilustrim me duar me ngjyra të ndryshme që mbështesin globin.",
+        "decorative": false
+      }
+    ],
+    "controls": 5,
+    "source": {
+      "href": "pg049_sec003.html",
+      "physicalPage": 49,
+      "confidence": 0.99,
+      "basis": "Physical render visually compared with section text/artwork; matching excerpt: 2.Përshkruaje fotografinë e dhënë dhe emërtoje atë. Përshkruaje fotografinë e dhënë dhe emërtoje atë. rreshti 1 Përshkruaje fotografinë e dhënë dhe em",
+      "textCoverage": 0.785,
+      "bestTextCandidate": 49,
+      "candidateScore": 0.785,
+      "filenameHintOnly": false,
+      "supplementary": false,
+      "visualReview": "Physical PDF contact sheet and matching ADT section contact sheet inspected; detailed page PNG retained."
+    }
+  },
+  {
+    "href": "pg049_sec004.html",
+    "family": "reference",
+    "title": "Ndahuni në klasë në grupe me nga gjashtë nxënës.",
+    "bindings": [
+      "pg049_n0021",
+      "pg049_n0022",
+      "pg049_n0023",
+      "pg049_n0024"
+    ],
+    "images": [],
+    "controls": 1,
+    "source": {
+      "href": "pg049_sec004.html",
+      "physicalPage": 49,
+      "confidence": 0.99,
+      "basis": "Physical render visually compared with section text/artwork; matching excerpt: 🔎✦✦Ndahuni në klasë në grupe me nga gjashtë nxënës. Hulumtoni dhe mblidhni materiale për llojllojshmërinë etnike e kulturore! Secili grup le të përgat",
+      "textCoverage": 1,
+      "bestTextCandidate": 49,
+      "candidateScore": 1,
+      "filenameHintOnly": false,
+      "supplementary": false,
+      "visualReview": "Physical PDF contact sheet and matching ADT section contact sheet inspected; detailed page PNG retained."
+    }
+  },
+  {
+    "href": "pg050_sec001.html",
+    "family": "illustrated-lesson",
+    "title": "Bashkëpunojmë për të mirën e përbashkët",
+    "bindings": [
+      "pg050_n0002",
+      "pg050_n0004",
+      "pg050_n0005",
+      "pg050_n0008",
+      "pg050_n0009",
+      "pg050_im001",
+      "pg050_n0012",
+      "pg050_n0013",
+      "pg050_n0016",
+      "pg050_n0019",
+      "pg050_n0021",
+      "pg050_n0023"
+    ],
+    "images": [
+      {
+        "index": 0,
+        "id": null,
+        "path": "images/pg005_im002.png",
+        "alt": "",
+        "decorative": true
+      },
+      {
+        "index": 1,
+        "id": "pg050_im001",
+        "path": "images/pg050_im001.png",
+        "alt": "Një familje e buzëqeshur së bashku në shtëpi",
+        "decorative": false
+      },
+      {
+        "index": 2,
+        "id": null,
+        "path": "images/pg005_im006.png",
+        "alt": "",
+        "decorative": true
+      }
+    ],
+    "controls": 4,
+    "source": {
+      "href": "pg050_sec001.html",
+      "physicalPage": 50,
+      "confidence": 0.99,
+      "basis": "Physical render visually compared with section text/artwork; matching excerpt: Bashkëpunojmë për të mirën e përbashkët Fjalët kyçe: mirëkuptim, bashkëpunim, vetëpërmbajtje, kompromis, zgjidhje. Shpreh mendimin tënd - Çfarë sheh n",
+      "textCoverage": 1,
+      "bestTextCandidate": 50,
+      "candidateScore": 1,
+      "filenameHintOnly": false,
+      "supplementary": false,
+      "visualReview": "Physical PDF contact sheet and matching ADT section contact sheet inspected; detailed page PNG retained."
+    }
+  },
+  {
+    "href": "qz011.html",
+    "family": "quiz",
+    "title": "Çfarë sjell bashkëpunimi në familje sipas tekstit?",
+    "bindings": [
+      "qz011",
+      "qz011_que",
+      "qz011_o0",
+      "qz011_o1",
+      "qz011_o2"
+    ],
+    "images": [],
+    "controls": 3,
+    "source": {
+      "href": "qz011.html",
+      "physicalPage": 50,
+      "confidence": 0.95,
+      "basis": "Supplementary quiz immediately following the verified source lesson; question checked against that lesson.",
+      "supplementary": true,
+      "visualReview": "Physical PDF contact sheet and matching ADT section contact sheet inspected; detailed page PNG retained."
+    }
+  }
+]

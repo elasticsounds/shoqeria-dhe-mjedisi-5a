@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="sq"><head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Shoqëria dhe mjedisi</title>
+<meta name="title-id" content="pg005_sec001">
+<meta name="page-section-id" content="4">
+<link href="./content/tailwind_output.css" rel="stylesheet">
+<link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+<link href="./assets/fonts.css" rel="stylesheet">
+<link rel="stylesheet" href="./book-design/components.css?v=9f3d745a858de581" data-book-style="true">
+<style>
+/* Page 5: source coordinates are expressed against the 639.449pt page width. */
+body:has(#content.icon-legend){display:block; padding-bottom:0}
+body:has(#content.icon-legend) > main{height:calc(100dvh - 60px); overflow-y:auto; overscroll-behavior:contain}
+#content.book.icon-legend{container-type:inline-size; width:100%; max-width:1000px; padding:0; margin:0 auto; background:#fff; color:#292b33}
+#content.book.icon-legend > section.legend-page{position:relative; width:100%; aspect-ratio:639.449 / 866.22; padding:0; overflow:hidden; background:#fff}
+#content.icon-legend .legend-paper{position:absolute; inset:1.675% 2.27%; background-color:#f2f6f5; background-image:repeating-linear-gradient(to bottom, #41bfd5 0, #41bfd5 1px, transparent 1px, transparent 5.21cqw); background-position:0 13.27cqw; background-size:100% 104.3cqw; background-repeat:no-repeat}
+#content.icon-legend .legend-paper::before{content:""; position:absolute; top:0; bottom:0; left:19.8%; width:.4cqw; background:#f486b7}
+#content.icon-legend .legend-title{position:absolute; left:38%; top:34%; width:34%; height:25%; background:url('./studio/assets/pg005_title_ring.png') center/100% 100% no-repeat; clip-path:ellipse(50% 50% at 50% 50%)}
+/* The crop preserves the source ring; cover only its printed letters with paper
+   so that the title itself remains live, selectable HTML. */
+#content.icon-legend .legend-title::before{content:""; position:absolute; left:24%; right:24%; top:17%; bottom:15%; background:#fff}
+#content.book.icon-legend .legend-title h1{position:absolute; inset:15% 12% 11%; display:flex; align-items:center; justify-content:center; text-align:center; margin:0; padding:0; font:400 5.004cqw/1.2 'Comic Sans MS','Segoe Print',cursive; color:#292b33; transform:scaleX(.82)}
+#content.icon-legend .legend-item{position:absolute; width:18.5%; margin:0; text-align:center}
+#content.icon-legend .legend-tile{width:70%; aspect-ratio:142 / 162; margin:0 auto; border-radius:2cqw; overflow:hidden; display:flex; align-items:center; justify-content:center}
+#content.book.icon-legend .legend-tile img{display:block; width:100%; height:100%; max-height:none; object-fit:contain; transform:scale(1.25)}
+#content.book.icon-legend .discuss img{transform:scale(1)}
+#content.book.icon-legend .test img{transform:scale(1.12)}
+#content.icon-legend .purple{background:#9b72b5}
+#content.icon-legend .green{background:#9acb91}
+#content.icon-legend .cream{background:#fff9ea}
+#content.icon-legend .blue{background:#78c3ce}
+#content.icon-legend .practice{border:.3cqw solid #ffad48}
+#content.book.icon-legend .legend-item p{margin:1.1cqw -8% 0; font:400 3.128cqw/1.2 'Comic Sans MS','Segoe Print',cursive; color:#292b33; overflow-wrap:normal; transform:scaleX(.82)}
+#content.icon-legend .glossary{left:19.3%; top:15.96%}
+#content.icon-legend .discuss{left:45.25%; top:12.5%}
+#content.icon-legend .internet{left:71.45%; top:16.1%}
+#content.icon-legend .thought{left:19.4%; top:39.2%}
+#content.icon-legend .research{left:71%; top:39%}
+#content.icon-legend .deepen{left:19.3%; top:61.8%}
+#content.icon-legend .questions{left:71%; top:61.8%}
+#content.icon-legend .test{left:45.45%; top:69.7%}
+@media(max-width:700px){
+ body:has(#content.icon-legend){padding-bottom:0}
+ #content.book.icon-legend > section.legend-page{aspect-ratio:auto; overflow:visible; padding:24px 16px 48px; display:grid; grid-template-columns:repeat(2,minmax(0,1fr)); gap:24px 12px; align-items:start; background:#f2f6f5}
+ #content.icon-legend .legend-paper{inset:0; background-size:100% 100%; background-position:0 0; background-image:repeating-linear-gradient(to bottom, transparent 0, transparent 33px, #65c9d9 33px, #65c9d9 34px)}
+ #content.icon-legend .legend-paper::before{left:8%; width:3px}
+ #content.icon-legend .legend-title{position:relative; left:auto; top:auto; width:min(250px,80%); height:auto; aspect-ratio:1; grid-column:1 / -1; justify-self:center; z-index:1; clip-path:ellipse(50% 50% at 50% 50%)}
+ #content.book.icon-legend .legend-title h1{font-size:clamp(27px,8vw,36px); transform:none}
+ #content.icon-legend .legend-item{position:relative; left:auto; top:auto; width:auto; z-index:1}
+ #content.icon-legend .legend-tile{width:min(112px,75%); border-radius:16px}
+ #content.icon-legend .practice{border-width:3px}
+ #content.book.icon-legend .legend-item p{font-size:18px; line-height:1.25; margin:8px 0 0; transform:none}
+}
+@media print{body:has(#content.icon-legend){padding:0} body:has(#content.icon-legend) > main{height:auto; overflow:visible} #content.book.icon-legend{max-width:none} }
+</style>
+</head>
+<body class="min-h-screen flex items-center justify-center">
+<main class="w-full" tabindex="0" aria-label="Çfarë ikonash përmban libri?">
+<div id="content" class="container mx-auto w-full opacity-0 book icon-legend" data-family="icon-guide">
+<section data-section-type="text_and_images" data-section-id="pg005_sec001" class="legend-page">
+ <div class="legend-paper" aria-hidden="true"></div>
+ <div class="legend-title"><h1 data-id="pg005_n0003">Çfarë<br>ikonash<br>përmban<br>libri?</h1></div>
+ <figure class="legend-item glossary"><div class="legend-tile purple"><img src="images/pg005_im001.png" alt="" data-id="pg005_im001"></div><p data-id="pg005_n0005">Fjalorthi</p></figure>
+ <figure class="legend-item discuss"><div class="legend-tile green"><img src="images/pg005_im008.png" alt="" data-id="pg005_im008"></div><p data-id="pg005_n0007">Diskuto</p></figure>
+ <figure class="legend-item internet"><div class="legend-tile cream"><img src="images/pg005_im004.png" alt="" data-id="pg005_im004"></div><p data-id="pg005_n0009">Përdor<br>internetin</p></figure>
+ <figure class="legend-item thought"><div class="legend-tile blue"><img src="images/pg005_im002.png" alt="" data-id="pg005_im002"></div><p data-id="pg005_n0011" aria-label="Shpreh mendimin tënd">Shpreh me-<br>ndimin tënd</p></figure>
+ <figure class="legend-item research"><div class="legend-tile cream"><img src="images/pg005_im005.png" alt="" data-id="pg005_im005"></div><p data-id="pg005_n0013">Shkathtësi<br>hulumtuese</p></figure>
+ <figure class="legend-item deepen"><div class="legend-tile purple"><img src="images/pg005_im003.png" alt="" data-id="pg005_im003"></div><p data-id="pg005_n0015">Thello dijet</p></figure>
+ <figure class="legend-item questions"><div class="legend-tile purple"><img src="images/pg005_im006.png" alt="" data-id="pg005_im006"></div><p data-id="pg005_n0019">Pyetje për ty</p></figure>
+ <figure class="legend-item test"><div class="legend-tile cream practice"><img src="images/pg005_im007.png" alt="" data-id="pg005_im007"></div><p data-id="pg005_n0017">Provoje veten</p></figure>
+</section></div></main>
+<div class="relative z-50" id="interface-container"></div>
+<div class="relative z-50" id="nav-container"></div>
+<script src="./assets/offline-preloader.js?v=9f3d745a858de581"></script>
+<script src="./assets/scorm.js"></script>
+<script src="./assets/base.bundle.local.js"></script>
+<script src="./book-design/responses.js?v=9f3d745a858de581" data-book-responses="true"></script>
+</body></html>

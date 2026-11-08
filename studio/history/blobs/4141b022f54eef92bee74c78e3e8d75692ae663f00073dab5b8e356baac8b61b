@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="sq"><head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Shoqëria dhe mjedisi</title>
+    <meta name="title-id" content="pg030_sec005">
+    <!-- Despite the name, this is the page's 1-based position in the reading
+         order, not a section id and not the printed page number. It drives the
+         "N of M" dock counter and is re-emitted on every package, so it tracks
+         the current order. Identity lives in title-id above. -->
+    <meta name="page-section-id" content="54">
+    <link href="./content/tailwind_output.css" rel="stylesheet">
+    <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+    <link href="./assets/fonts.css" rel="stylesheet">
+<link rel="stylesheet" href="./book-design/components.css?v=9f3d745a858de581" data-book-style="true"></head>
+
+<body class="min-h-screen flex items-center justify-center">
+    <main class="w-full">
+      <div id="content" class="container opacity-0 book" data-family="reference"><section data-section-type="boxed_text" data-section-id="pg030_sec005" class="mx-auto w-full max-w-5xl px-8 py-6 max-sm:px-4 b-page"><div class="overflow-hidden rounded-[2.25rem] border-[3px] border-[#b786d9] bg-[#d9c7e4] shadow-sm"><div class="flex items-stretch max-sm:flex-col"><div aria-hidden="true" class="flex w-[15%] min-w-[9rem] items-center justify-center bg-[#b98fcb] max-sm:w-full max-sm:min-w-0 max-sm:justify-start max-sm:px-5 max-sm:py-4 b-rubric-wrapper"><img src="images/pg005_im001.png" alt="" aria-hidden="true" class="b-rubric-icon"></div><div class="flex-1 bg-[#e6dbf1] px-8 py-6 max-sm:px-5 max-sm:py-5"><h1 class="adt-h3 mb-3 text-left font-bold text-purple-900" data-id="pg030_n0037">Fjalorthi</h1><p class="adt-body text-left text-slate-900"><span data-id="pg030_n0039">Religjion - fe, besim.</span></p></div></div></div></section></div>
+    </main>
+
+    <div class="relative z-50" id="interface-container"></div>
+    <div class="relative z-50" id="nav-container"></div>
+    <script src="./assets/offline-preloader.js?v=9f3d745a858de581"></script>
+    <script src="./assets/scorm.js"></script>
+    <script src="./assets/base.bundle.local.js"></script>
+
+
+
+<script src="./book-design/responses.js?v=9f3d745a858de581" data-book-responses="true"></script></body></html>

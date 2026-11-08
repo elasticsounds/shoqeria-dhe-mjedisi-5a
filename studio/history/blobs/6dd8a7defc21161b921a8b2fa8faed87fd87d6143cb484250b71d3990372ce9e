@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="sq"><head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Shoqëria dhe mjedisi</title>
+  <meta name="title-id" content="pg024_sec004">
+  <meta name="page-section-id" content="44">
+  <link href="./content/tailwind_output.css" rel="stylesheet">
+  <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+  <link href="./assets/fonts.css" rel="stylesheet">
+  <link rel="stylesheet" href="./book-design/components.css?v=9f3d745a858de581" data-book-style="true">
+  <style>
+    /* Focused view of exercise 3; the source is part of worksheet page 24. */
+    #content.book.page24-ex3 { padding: 28px 0 128px; font-family: BookPoppins, Arial, sans-serif; }
+    #content.book.page24-ex3 > section { position: relative; padding: 20px 0 30px; }
+    #content.book.page24-ex3 .worksheet-rail { position:absolute; left:2.35%; top:0; bottom:0; width:7.8%; background:#ffb450; }
+    #content.book.page24-ex3 .exercise { margin-left:12.87%; width:71.3%; font:400 18.77px/1.25 BookPoppins, Arial, sans-serif; color:#30313a; }
+    #content.book.page24-ex3 .instruction { margin:0; font:inherit; }
+    #content.book.page24-ex3 .stem-row { display:flex; align-items:baseline; gap:5px; }
+    #content.book.page24-ex3 .stem { flex:none; white-space:nowrap; }
+    #content.book.page24-ex3 :is(textarea, input) { display:block; width:100%; min-width:0; min-height:44px; height:44px; margin:0; padding:6px 2px 0; border:0; border-bottom:1px solid #30313a; border-radius:0; background:transparent; box-shadow:none; font:400 18px/1.3 BookPoppins, Arial, sans-serif; color:#30313a; }
+    #content.book.page24-ex3 .stem-row textarea { flex:1; resize:vertical; overflow:auto; }
+    #content.book.page24-ex3 .lines input { margin:0; }
+    @media(max-width:700px) {
+      #content.book.page24-ex3 { padding:20px 0 120px; }
+      #content.book.page24-ex3 > section { padding:12px 0 20px; }
+      #content.book.page24-ex3 .worksheet-rail { left:0; width:12px; }
+      #content.book.page24-ex3 .exercise { margin-left:28px; width:calc(100% - 48px); font-size:16px; line-height:1.5; }
+      #content.book.page24-ex3 .stem-row { display:block; }
+      #content.book.page24-ex3 .stem { white-space:normal; }
+      #content.book.page24-ex3 :is(textarea, input) { font-size:16px; }
+    }
+  </style>
+</head>
+<body class="min-h-screen flex items-center justify-center">
+  <main class="w-full">
+    <h1 class="sr-only" id="page-heading">Shoqëria dhe mjedisi</h1>
+    <div id="content" class="container opacity-0 book page24-ex3" data-family="response">
+      <h2 class="sr-only" id="section-heading">Vazhdoje mendimin e dhënë më poshtë.</h2>
+      <section data-section-type="other" data-section-id="pg024_sec004" class="b-page">
+        <div class="worksheet-rail" aria-hidden="true"></div>
+        <div class="exercise">
+          <p class="instruction"><span data-id="pg024_n0017">3.</span> <span data-id="pg024_n0018">Vazhdoje mendimin e dhënë më poshtë.</span></p>
+          <div class="stem-row">
+            <span class="stem" data-id="pg024_n0019">Shumë njerëz sot parapëlqejnë jetën në fshat, sepse</span>
+            <label for="item-1" class="sr-only">Shumë njerëz sot parapëlqejnë jetën në fshat, sepse</label>
+            <textarea id="item-1" data-activity-item="item-1" rows="1" aria-label="Shumë njerëz sot parapëlqejnë jetën në fshat, sepse"></textarea>
+          </div>
+          <div class="lines">
+            <span data-id="pg024_n0020" aria-hidden="true"></span><label for="item-2" class="sr-only">Vazhdo mendimin në rreshtin e parë</label><input id="item-2" data-activity-item="item-2" type="text" aria-label="Vazhdo mendimin në rreshtin e parë">
+            <span data-id="pg024_n0021" aria-hidden="true"></span><label for="item-3" class="sr-only">Vazhdo mendimin në rreshtin e dytë</label><input id="item-3" data-activity-item="item-3" type="text" aria-label="Vazhdo mendimin në rreshtin e dytë">
+            <span data-id="pg024_n0022" aria-hidden="true"></span><label for="item-4" class="sr-only">Vazhdo mendimin në rreshtin e tretë</label><input id="item-4" data-activity-item="item-4" type="text" aria-label="Vazhdo mendimin në rreshtin e tretë">
+            <span data-id="pg024_n0023" aria-hidden="true"></span><label for="item-5" class="sr-only">Vazhdo mendimin në rreshtin e katërt</label><input id="item-5" data-activity-item="item-5" type="text" aria-label="Vazhdo mendimin në rreshtin e katërt">
+          </div>
+        </div>
+      </section>
+    </div>
+  </main>
+  <div class="relative z-50" id="interface-container"></div>
+  <div class="relative z-50" id="nav-container"></div>
+  <script src="./assets/offline-preloader.js?v=9f3d745a858de581"></script>
+  <script src="./assets/scorm.js"></script>
+  <script src="./assets/base.bundle.local.js"></script>
+  <script src="./book-design/responses.js?v=9f3d745a858de581" data-book-responses="true"></script>
+</body></html>

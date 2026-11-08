@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="sq"><head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Shoqëria dhe mjedisi</title>
+    <meta name="title-id" content="pg037_sec004">
+    <!-- Despite the name, this is the page's 1-based position in the reading
+         order, not a section id and not the printed page number. It drives the
+         "N of M" dock counter and is re-emitted on every package, so it tracks
+         the current order. Identity lives in title-id above. -->
+    <meta name="page-section-id" content="61">
+    <link href="./content/tailwind_output.css" rel="stylesheet">
+    <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+    <link href="./assets/fonts.css" rel="stylesheet">
+<link rel="stylesheet" href="./book-design/components.css?v=9f3d745a858de581" data-book-style="true"></head>
+
+<body class="min-h-screen flex items-center justify-center">
+    <main class="w-full">
+      <h1 class="sr-only" id="page-heading">Shoqëria dhe mjedisi</h1>
+      <div id="content" class="container mx-auto w-full max-w-5xl px-8 max-sm:px-5 opacity-0 book" data-family="response"><h2 class="sr-only" id="section-heading">Në kolonën me ngjyrë zbulove një fjalë.</h2>
+  <section data-section-type="other" data-section-id="pg037_sec004" class="py-10 max-sm:py-6 b-page">
+    <div class="mx-auto w-full max-w-4xl">
+      <p class="adt-body mb-8 text-left leading-relaxed text-gray-900 max-sm:mb-6">
+        <span data-id="pg037_n0090">3.</span>
+        <span data-id="pg037_n0091">Në kolonën me ngjyrë zbulove një fjalë.</span>
+        <span data-id="pg037_n0092">Shkruaj për rëndësinë e asaj gjëje.</span>
+      </p>
+
+      <div class="space-y-5 max-sm:space-y-4">
+        <div>
+          <p class="adt-body text-gray-700 leading-none"><span data-id="pg037_n0093"></span></p>
+          <label for="item-1" class="sr-only">Rreshti i parë për përgjigjen e ushtrimit 3</label>
+          <input id="item-1" data-activity-item="item-1" type="text" aria-label="Rreshti i parë për përgjigjen e ushtrimit 3" class="-mt-5 min-h-11 w-full border-0 border-b border-gray-500 bg-transparent px-1 pt-6 pb-2 text-gray-900 outline-none focus:border-purple-500 focus:ring-0">
+        </div>
+
+        <div>
+          <p class="adt-body text-gray-700 leading-none"><span data-id="pg037_n0094"></span></p>
+          <label for="item-2" class="sr-only">Rreshti i dytë për përgjigjen e ushtrimit 3</label>
+          <input id="item-2" data-activity-item="item-2" type="text" aria-label="Rreshti i dytë për përgjigjen e ushtrimit 3" class="-mt-5 min-h-11 w-full border-0 border-b border-gray-500 bg-transparent px-1 pt-6 pb-2 text-gray-900 outline-none focus:border-purple-500 focus:ring-0">
+        </div>
+      </div>
+    </div>
+  </section>
+</div>
+    </main>
+
+    <div class="relative z-50" id="interface-container"></div>
+    <div class="relative z-50" id="nav-container"></div>
+    <script src="./assets/offline-preloader.js?v=9f3d745a858de581"></script>
+    <script src="./assets/scorm.js"></script>
+    <script src="./assets/base.bundle.local.js"></script>
+
+
+
+<script src="./book-design/responses.js?v=9f3d745a858de581" data-book-responses="true"></script></body></html>

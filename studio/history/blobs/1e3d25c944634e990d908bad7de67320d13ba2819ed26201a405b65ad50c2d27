@@ -1,0 +1,14 @@
+/* Local maintenance tool. Node built-ins only; no network or runtime dependencies. */
+const fs=require('fs'),path=require('path'),crypto=require('crypto');
+const root=path.resolve(__dirname,'..'),cacheFile=path.join(root,'assets/offline-preloader.js');
+function parse(s){const m=/\bvar INLINE\s*=\s*/.exec(s);if(!m)throw Error('Unknown offline cache');const start=m.index+m[0].length;let quoted=false,escape=false,depth=0,end=-1;for(let i=start;i<s.length;i++){const c=s[i];if(quoted){if(escape)escape=false;else if(c==='\\')escape=true;else if(c==='"')quoted=false;}else if(c==='"')quoted=true;else if(c==='{'||c==='[')depth++;else if(c==='}'||c===']'){if(--depth===0){end=i+1;break;}}}if(end<0)throw Error('Malformed cache');return {prefix:s.slice(0,start),value:JSON.parse(s.slice(start,end)),suffix:s.slice(end)};}
+const cache=parse(fs.readFileSync(cacheFile,'utf8')),spine=JSON.parse(fs.readFileSync(path.join(root,'content/pages.json')));
+const check=process.argv.includes('--check');
+if(!check){const normalized=spine.map(p=>fs.readFileSync(path.join(root,p.href),'utf8').replace(/((?:book-design\/(?:components\.css|responses\.js)|assets\/offline-preloader\.js))\?v=[\w-]+/g,'$1')).join('');const version=crypto.createHash('sha256').update(fs.readFileSync(path.join(__dirname,'components.css'))).update(fs.readFileSync(path.join(__dirname,'responses.js'))).update(normalized).digest('hex').slice(0,16);
+ for(const p of spine){const file=path.join(root,p.href),html=fs.readFileSync(file,'utf8').replace(/((?:book-design\/(?:components\.css|responses\.js)|assets\/offline-preloader\.js))(?:\?v=[\w-]+)?/g,'$1?v='+version);fs.writeFileSync(file,html);}
+ for(const key of Object.keys(cache.value)){const rel=key.replace(/^\.\//,''),file=path.resolve(root,rel);if(!file.startsWith(root+path.sep)||!fs.existsSync(file)||!fs.statSync(file).isFile()||! /\.(html|json|css)$/.test(rel))continue;const s=fs.readFileSync(file,'utf8');cache.value[key]=typeof cache.value[key]==='string'?s:JSON.parse(s);}
+ cache.value['./book-design/components.css']=fs.readFileSync(path.join(__dirname,'components.css'),'utf8');fs.writeFileSync(cacheFile,cache.prefix+JSON.stringify(cache.value)+cache.suffix);console.log('Updated offline HTML, dictionaries and CSS; dependency version '+version);
+}
+for(const p of spine)if(cache.value['./'+p.href]!==fs.readFileSync(path.join(root,p.href),'utf8'))throw Error('Stale page cache: '+p.href);
+for(const [key,value]of Object.entries(cache.value)){const file=path.resolve(root,key.replace(/^\.\//,''));if(!file.startsWith(root+path.sep)||!fs.existsSync(file)||! /\.(json|css)$/.test(file))continue;const disk=fs.readFileSync(file,'utf8');if((typeof value==='string'?value:JSON.stringify(value))!==(typeof value==='string'?disk:JSON.stringify(JSON.parse(disk))))throw Error('Stale dictionary/style cache: '+key);}
+console.log('All '+spine.length+' embedded pages and cached dictionaries/styles agree with disk.');

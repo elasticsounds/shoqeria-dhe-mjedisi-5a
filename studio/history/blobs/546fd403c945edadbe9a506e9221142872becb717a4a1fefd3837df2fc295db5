@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="sq"><head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Shoqëria dhe mjedisi</title><meta name="title-id" content="pg007_sec001"><meta name="page-section-id" content="6">
+<link href="./content/tailwind_output.css" rel="stylesheet"><link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet"><link href="./assets/fonts.css" rel="stylesheet"><link rel="stylesheet" href="./book-design/components.css?v=9f3d745a858de581" data-book-style="true">
+<style>
+/* Page 7: coordinates and type are scaled from the 639.449 × 866.220 pt source. */
+#content.book[data-family="foreword"]{padding:0;max-width:1000px;aspect-ratio:639.449/866.22;container-type:inline-size;overflow:hidden}
+#content.book[data-family="foreword"]>.foreword-page{position:relative;width:100%;height:100%;padding:0;overflow:hidden;background:#fff;color:#30313a}
+#content.book .foreword-page h1{position:absolute;left:20.08%;top:8.45%;margin:0;font:700 2.189cqw/1.35 BookPoppins,Arial,sans-serif}
+#content.book .foreword-page p{font:400 1.877cqw/2.815cqw BookAmiri,Georgia,serif;margin:0;color:inherit}
+#content.book .foreword-page em{font-style:italic}
+.foreword-page .salutation{position:absolute;left:20.08%;top:14.55%}
+.foreword-page .prose{position:absolute;left:15.638%;width:73.16%;top:18.70%;text-align:justify}
+.foreword-page .prose p{text-indent:4.45cqw}
+.foreword-page .ribbon{position:absolute;left:12.99%;width:77.5%;padding:0.55cqw 1.55cqw 0.55cqw 2.65cqw;text-align:justify;z-index:2}
+.foreword-page .ribbon::before{content:"";position:absolute;right:100%;top:50%;transform:translateY(-50%);border-top:2.85cqw solid transparent;border-bottom:2.85cqw solid transparent;border-right:2.85cqw solid var(--ribbon)}
+.foreword-page .ribbon p{text-indent:4.45cqw}
+.foreword-page .ribbon-one{top:54.75%;background:#c8b4d9;--ribbon:#c8b4d9}
+.foreword-page .ribbon-two{top:61.63%;background:#ffb149;--ribbon:#ffb149}
+.foreword-page .ribbon-three{top:69.67%;background:#9b73b7;--ribbon:#9b73b7;color:#fff}
+.foreword-page .credit{position:absolute;right:11.2%;top:81.3%;z-index:2}
+.foreword-page .side-accent{position:absolute;left:2.3%;top:31.1%;width:4.9%;height:5.8%;background:#92dce0;border-radius:0 100% 100% 0}
+.foreword-page .landscape-top{position:absolute;left:2.3%;top:57.8%;width:95.4%;height:27.3%;z-index:0}
+#content.book .foreword-page .landscape-bottom{position:absolute;left:2.3%;top:85%;width:95.4%;height:auto;max-width:none;z-index:0}
+@media(max-width:700px){
+ #content.book[data-family="foreword"]{aspect-ratio:auto;overflow:visible}
+ #content.book[data-family="foreword"]>.foreword-page{height:auto;overflow:hidden;padding:32px 22px 0}
+ #content.book .foreword-page h1{position:static;font-size:23px;line-height:1.3;margin:0 0 32px}
+ #content.book .foreword-page p{font-size:18px;line-height:1.55}
+ .foreword-page .salutation,.foreword-page .prose,.foreword-page .ribbon,.foreword-page .credit{position:relative;left:auto;right:auto;top:auto;width:auto}
+ .foreword-page .salutation{margin-bottom:22px!important}
+ .foreword-page .prose{text-align:left;margin-bottom:22px}
+ .foreword-page .prose p{text-indent:1.4em;margin:0 0 10px!important}
+ .foreword-page .ribbon{margin:0 0 8px 14px;padding:12px 14px;text-align:left}
+ .foreword-page .ribbon::before{border-top-width:18px;border-bottom-width:18px;border-right-width:14px}
+ .foreword-page .ribbon p{text-indent:1.4em}
+ .foreword-page .credit{text-align:right;margin:18px 0!important}
+ .foreword-page .side-accent,.foreword-page .landscape-top{display:none}
+ #content.book .foreword-page .landscape-bottom{position:relative;display:block;left:auto;top:auto;width:calc(100% + 44px);max-width:none;margin:0 -22px}
+}
+@media print{#content.book[data-family="foreword"]{width:639.449pt;max-width:none}}
+</style></head>
+<body class="min-h-screen flex items-center justify-center"><main class="w-full">
+<div id="content" class="mx-auto w-full bg-white opacity-0 book" data-family="foreword">
+<section data-section-type="foreword" data-section-id="pg007_sec001" class="foreword-page">
+<div class="side-accent" aria-hidden="true"></div>
+<svg class="landscape-top" viewBox="0 0 610 236" preserveAspectRatio="none" aria-hidden="true"><path fill="#92dce0" d="M0 0 C52 38 94 64 153 61 C210 57 245 18 315 27 C367 34 414 62 452 100 C484 132 477 177 471 218 C469 231 476 237 490 236 L0 236 Z"/></svg>
+<img class="landscape-bottom" src="studio/assets/pg007_landscape_bottom.png" alt="" aria-hidden="true">
+<h1 data-id="pg007_n0002">Parathënie</h1>
+<p class="salutation"><span data-id="pg007_n0004">I/e dashur nxënës/e,</span></p>
+<div class="prose">
+<p><span data-id="pg007_n0006">Ky libër është vazhdimësi e njohurive që ke marrë përgjatë katër vjetëve.</span> <span data-id="pg007_n0007">Tani do të mësosh për jetën e paraardhësve të tu, do të njihesh me monumentet historike, vendbanimet e lashta arkeo&shy;logjike, kuzhinën dhe veshjet tradicionale kosovare.</span> <span data-id="pg007_n0008">Do të mësosh, gjithashtu, për kulturën, gjuhën, zakonet, traditat dhe llojllojshmërinë etnike e kulturore.</span></p>
+<p><span data-id="pg007_n0010">Ne e kemi hartuar librin në atë mënyrë që të kesh mundësi të analizosh, të vlerësosh dhe t’i japësh mendimet e tua për zgjidhjen e situatave të ndryshme që kanë të bëjnë me të drejtat e tua dhe me institucionet që kanë për detyrë të të mbrojnë ty.</span> <span data-id="pg007_n0011">Këtë vit do të marrësh informacione edhe për historikun e Republikës së Kosovës, banorët e vjetër të saj, vendet fqinje, bashkëjetesën mes komuniteteve në këtë vend, si dhe për ngjarje të rëndësishme për vendin tonë, si <em>Pavarësia e Kosovës, Beteja e Kosovës</em> dhe <em>Lidhja e Prizrenit</em>.</span> <span data-id="pg007_n0012">Do të njihesh, po ashtu, me <em>Kushtetutën e Kosovës</em>, si ligji themelor i shtetit tonë.</span></p>
+<p><span data-id="pg007_n0014">Situatat e dhëna dhe ilustrimet do të të ndihmojnë që të kuptosh se si merren vendi&shy;met në familje, në shkollë e në shoqëri, pjesë e të cilave duhet të jesh edhe ti.</span> <span data-id="pg007_n0015">Aktivi&shy;tetet e ndryshme, në të cilat do të marrësh pjesë, do të ngrenë vetëdijen për tolerancë, mirë&shy;kuptim dhe bashkëpunim, të cilat janë kushtet themelore për një shoqëri me vlera.</span></p>
+<p><span data-id="pg007_n0017">Në këtë libër, gjithashtu, jepen edhe informacione të rëndësishme për sëmundjet e ndryshme, kujdesin ndaj pandemisë dhe rëndësinë që ka vaksinimi.</span></p>
+</div>
+<aside class="ribbon ribbon-one"><p><span data-id="pg007_n0020">Libri ka edhe një rubrikë të veçantë - <em>Fjalorthin</em>, që do të të ndihmojë të mësosh fjalë dhe shprehje të reja, duke e pasuruar, kështu, të shprehurit tënd.</span></p></aside>
+<aside class="ribbon ribbon-two"><p><span data-id="pg007_n0023">Rubrika <em>Provoje veten</em> do të ta krijojë mundësinë që të punosh shumë detyra krijuese dhe do të të ndihmojë për zhvillimin e të menduarit krijues.</span> <span data-id="pg007_n0024">Ato u përkasin niveleve të ndryshme dhe do të ta mundësojnë përdorimin praktik të njohurive.</span></p></aside>
+<aside class="ribbon ribbon-three"><p><span data-id="pg007_n0027">Rubrikat <em>Përdore internetin/Shkathtësi hulumtuese</em> janë lënë që t’i punosh bashkë me prindërit, mësuesin a ndonjë të rritur tjetër, duke pasur parasysh rreziqet që vijnë nga përdorimi i pakontro&shy;lluar i teknologjisë informative, veçanërisht internetit.</span> <span data-id="pg007_n0028">Në këtë mënyrë, do të të krijohen shprehi dhe shkathtësi të mira të hulumtimit dhe të kërkimit të informacioneve.</span></p></aside>
+<p class="credit"><span data-id="pg007_n0029">Autorët</span></p><span class="sr-only">7</span>
+</section></div></main>
+<div class="relative z-50" id="interface-container"></div><div class="relative z-50" id="nav-container"></div>
+<script src="./assets/offline-preloader.js?v=9f3d745a858de581"></script><script src="./assets/scorm.js"></script><script src="./assets/base.bundle.local.js"></script><script src="./book-design/responses.js?v=9f3d745a858de581" data-book-responses="true"></script>
+</body></html>

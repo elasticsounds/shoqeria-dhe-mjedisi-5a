@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="sq"><head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Shoqëria dhe mjedisi</title>
+    <meta name="title-id" content="pg048_sec001">
+    <!-- Despite the name, this is the page's 1-based position in the reading
+         order, not a section id and not the printed page number. It drives the
+         "N of M" dock counter and is re-emitted on every package, so it tracks
+         the current order. Identity lives in title-id above. -->
+    <meta name="page-section-id" content="84">
+    <link href="./content/tailwind_output.css" rel="stylesheet">
+    <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+    <link href="./assets/fonts.css" rel="stylesheet">
+<link rel="stylesheet" href="./book-design/components.css?v=9f3d745a858de581" data-book-style="true"></head>
+
+<body class="min-h-screen flex items-center justify-center">
+    <main class="w-full">
+      <div id="content" class="container mx-auto w-full max-w-5xl px-8 max-sm:px-4 opacity-0 book" data-family="response"><section data-section-type="other" data-section-id="pg048_sec001" class="py-8 b-page"><div class="rounded-[2rem] border-4 border-purple-500 bg-white px-10 py-8 max-lg:px-8 max-sm:px-5 max-sm:py-6"><h1 class="adt-h2 mb-6 text-left font-bold text-purple-700" data-id="pg048_n0003">Pyetje për ty</h1><ul class="mb-8 space-y-5 pl-0 text-left"><li class="list-none"><div class="flex items-start gap-3"><div class="adt-body leading-[1.2] text-slate-900" aria-hidden="true">–</div><div class="min-w-0 flex-1"><span class="adt-body text-slate-900" data-id="pg048_n0006">Çfarë shikon në fotografitë e mësipërme?</span><label for="item-1" class="sr-only">Çfarë shikon në fotografitë e mësipërme?</label><textarea id="item-1" data-activity-item="item-1" aria-label="Çfarë shikon në fotografitë e mësipërme?" class="mt-2 min-h-11 w-full rounded-xl border border-purple-300 bg-white px-4 py-3 text-slate-900 outline-none focus:border-purple-500" rows="2"></textarea></div></div></li><li class="list-none"><div class="flex items-start gap-3"><div class="adt-body leading-[1.2] text-slate-900" aria-hidden="true">–</div><div class="min-w-0 flex-1"><span class="adt-body text-slate-900" data-id="pg048_n0008">Për cilat komunitete bëhet fjalë?</span><label for="item-2" class="sr-only">Për cilat komunitete bëhet fjalë?</label><input id="item-2" type="text" data-activity-item="item-2" aria-label="Për cilat komunitete bëhet fjalë?" class="mt-2 min-h-11 w-full rounded-xl border border-purple-300 bg-white px-4 py-3 text-slate-900 outline-none focus:border-purple-500"></div></div></li><li class="list-none"><div class="flex items-start gap-3"><div class="adt-body leading-[1.2] text-slate-900" aria-hidden="true">–</div><div class="min-w-0 flex-1"><span class="adt-body text-slate-900" data-id="pg048_n0010">Shpjego çka është llojllojshmëria etnike e kulturore.</span><label for="item-3" class="sr-only">Shpjego çka është llojllojshmëria etnike e kulturore.</label><textarea id="item-3" data-activity-item="item-3" aria-label="Shpjego çka është llojllojshmëria etnike e kulturore." class="mt-2 min-h-11 w-full rounded-xl border border-purple-300 bg-white px-4 py-3 text-slate-900 outline-none focus:border-purple-500" rows="2"></textarea></div></div></li><li class="list-none"><div class="flex items-start gap-3"><div class="adt-body leading-[1.2] text-slate-900" aria-hidden="true">–</div><div class="min-w-0 flex-1"><span class="adt-body text-slate-900" data-id="pg048_n0012">Shpjego pse është e rëndësishme llojllojshmëria etnike e kulturore.</span><label for="item-4" class="sr-only">Shpjego pse është e rëndësishme llojllojshmëria etnike e kulturore.</label><textarea id="item-4" data-activity-item="item-4" aria-label="Shpjego pse është e rëndësishme llojllojshmëria etnike e kulturore." class="mt-2 min-h-11 w-full rounded-xl border border-purple-300 bg-white px-4 py-3 text-slate-900 outline-none focus:border-purple-500" rows="2"></textarea></div></div></li></ul><div class="space-y-5 pt-2" aria-hidden="true"><div class="border-b border-slate-500 pb-3" data-id="pg048_n0013"></div><div class="border-b border-slate-500 pb-3 text-transparent" data-id="pg048_n0014"></div><div class="border-b border-slate-500 pb-3 text-transparent" data-id="pg048_n0015"></div></div></div></section></div>
+    </main>
+
+    <div class="relative z-50" id="interface-container"></div>
+    <div class="relative z-50" id="nav-container"></div>
+    <script src="./assets/offline-preloader.js?v=9f3d745a858de581"></script>
+    <script src="./assets/scorm.js"></script>
+    <script src="./assets/base.bundle.local.js"></script>
+
+
+
+<script src="./book-design/responses.js?v=9f3d745a858de581" data-book-responses="true"></script></body></html>

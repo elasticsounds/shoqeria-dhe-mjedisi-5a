@@ -1,0 +1,122 @@
+[
+  {
+    "id": "cover",
+    "name": "Cover",
+    "href": "pg001_sec001.html",
+    "count": 1
+  },
+  {
+    "id": "contents",
+    "name": "Contents",
+    "href": "pg002_sec001.html",
+    "count": 2
+  },
+  {
+    "id": "icon-guide",
+    "name": "Icon Guide",
+    "href": "pg005_sec001.html",
+    "count": 1
+  },
+  {
+    "id": "opener",
+    "name": "Illustrated Divider",
+    "href": "pg006_sec001.html",
+    "count": 1
+  },
+  {
+    "id": "foreword",
+    "name": "Foreword",
+    "href": "pg007_sec001.html",
+    "count": 1
+  },
+  {
+    "id": "illustrated-lesson",
+    "name": "Illustrated Lesson",
+    "href": "pg008_sec001.html",
+    "count": 15
+  },
+  {
+    "id": "quiz",
+    "name": "Supplementary Quiz",
+    "href": "qz001.html",
+    "count": 11
+  },
+  {
+    "id": "response",
+    "name": "Written Response",
+    "href": "pg009_sec002.html",
+    "count": 30
+  },
+  {
+    "id": "identity-diagram",
+    "name": "Personal Identity Diagram",
+    "href": "pg010_sec001.html",
+    "count": 1
+  },
+  {
+    "id": "self-assessment",
+    "name": "Self-assessment Table",
+    "href": "pg011_sec001.html",
+    "count": 1
+  },
+  {
+    "id": "star-rating",
+    "name": "Star Rating",
+    "href": "pg011_sec002.html",
+    "count": 1
+  },
+  {
+    "id": "chapter-lesson",
+    "name": "Chapter Lesson",
+    "href": "pg012_sec001.html",
+    "count": 2
+  },
+  {
+    "id": "reference",
+    "name": "Reference and Glossary",
+    "href": "pg013_sec001.html",
+    "count": 23
+  },
+  {
+    "id": "discussion",
+    "name": "Discussion",
+    "href": "pg013_sec003.html",
+    "count": 3
+  },
+  {
+    "id": "photo-comparison",
+    "name": "Then-and-now Comparison",
+    "href": "pg019_sec001.html",
+    "count": 3
+  },
+  {
+    "id": "practice-opener",
+    "name": "Practice Divider",
+    "href": "pg021_sec001.html",
+    "count": 5
+  },
+  {
+    "id": "comparison-diagram",
+    "name": "Comparison Diagram",
+    "href": "pg023_sec001.html",
+    "count": 3
+  },
+  {
+    "id": "wordsearch",
+    "name": "Word Search",
+    "href": "pg028_sec002.html",
+    "count": 1
+  },
+  {
+    "id": "crossword",
+    "name": "Crossword",
+    "href": "pg037_sec003.html",
+    "count": 1
+  },
+  {
+    "id": "project",
+    "name": "Group Project",
+    "href": "pg040_sec001.html",
+    "count": 1
+  }
+]

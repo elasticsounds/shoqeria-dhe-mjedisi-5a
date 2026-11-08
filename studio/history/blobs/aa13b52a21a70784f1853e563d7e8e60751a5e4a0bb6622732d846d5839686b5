@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="sq"><head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Shoqëria dhe mjedisi</title>
+    <meta name="title-id" content="pg005_sec001">
+    <!-- Despite the name, this is the page's 1-based position in the reading
+         order, not a section id and not the printed page number. It drives the
+         "N of M" dock counter and is re-emitted on every package, so it tracks
+         the current order. Identity lives in title-id above. -->
+    <meta name="page-section-id" content="4">
+    <link href="./content/tailwind_output.css" rel="stylesheet">
+    <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+    <link href="./assets/fonts.css" rel="stylesheet">
+<link rel="stylesheet" href="./book-design/components.css?v=9f3d745a858de581" data-book-style="true"></head>
+
+<body class="min-h-screen flex items-center justify-center">
+    <main class="w-full">
+      <div id="content" class="container mx-auto w-full max-w-5xl px-8 max-sm:px-5 opacity-0 book" data-family="icon-guide">
+  <section data-section-type="text_and_images" data-section-id="pg005_sec001" class="relative overflow-hidden rounded-[2rem] bg-[#f4f8fc] px-10 py-8 max-lg:px-6 max-lg:py-8 max-sm:px-4 max-sm:py-6 b-page" style="background-image: repeating-linear-gradient(to bottom, transparent 0, transparent 63px, #67c3ee 63px, #67c3ee 65px);">
+    <div aria-hidden="true" class="absolute left-16 top-0 bottom-0 w-1 bg-pink-300 max-sm:left-8"></div>
+
+    <div class="relative z-10 flex flex-col gap-10 max-lg:gap-8 max-sm:gap-6">
+      <div class="flex justify-center">
+        <h1 class="adt-h1 max-w-[34rem] rounded-full border-4 border-purple-400 bg-white px-12 py-10 text-center font-medium text-neutral-900 shadow-[0_0_0_10px_rgba(192,132,252,0.18)] max-lg:max-w-[30rem] max-lg:px-10 max-lg:py-8 max-sm:w-full max-sm:max-w-none max-sm:px-6 max-sm:py-8 max-sm:text-left" data-id="pg005_n0003">Çfarë ikonash përmban libri?</h1>
+      </div>
+
+      <div class="grid grid-cols-3 gap-x-10 gap-y-12 max-lg:grid-cols-2 max-lg:gap-x-8 max-lg:gap-y-10 max-sm:grid-cols-1 max-sm:gap-y-8">
+        <div class="flex flex-col items-center gap-4 max-sm:gap-3">
+          <div class="flex h-44 w-44 items-center justify-center rounded-[2rem] bg-purple-500 p-5 shadow-lg max-sm:h-40 max-sm:w-40">
+            <img src="images/pg005_im001.png" alt="Fjalorthi" data-id="pg005_im001" class="h-full w-full object-contain">
+          </div>
+          <p class="adt-body max-w-[10rem] text-center font-medium leading-tight text-neutral-900" data-id="pg005_n0005">Fjalorthi</p>
+        </div>
+
+        <div class="flex flex-col items-center gap-4 max-sm:gap-3">
+          <div class="flex h-44 w-44 items-center justify-center rounded-[2rem] bg-green-300 p-5 shadow-lg max-sm:h-40 max-sm:w-40">
+            <img src="images/pg005_im008.png" alt="Diskuto" data-id="pg005_im008" class="h-full w-full object-contain">
+          </div>
+          <p class="adt-body max-w-[10rem] text-center font-medium leading-tight text-neutral-900" data-id="pg005_n0007">Diskuto</p>
+        </div>
+
+        <div class="flex flex-col items-center gap-4 max-sm:gap-3">
+          <div class="flex h-44 w-44 items-center justify-center rounded-[2rem] bg-amber-50 p-5 shadow-lg max-sm:h-40 max-sm:w-40">
+            <img src="images/pg005_im004.png" alt="Përdor internetin" data-id="pg005_im004" class="h-full w-full object-contain">
+          </div>
+          <p class="adt-body max-w-[11rem] text-center font-medium leading-tight text-neutral-900" data-id="pg005_n0009">Përdor internetin</p>
+        </div>
+
+        <div class="flex flex-col items-center gap-4 max-sm:gap-3">
+          <div class="flex h-44 w-44 items-center justify-center rounded-[2rem] bg-sky-300 p-5 shadow-lg max-sm:h-40 max-sm:w-40">
+            <img src="images/pg005_im002.png" alt="Shpreh mendimin tënd" data-id="pg005_im002" class="h-full w-full object-contain">
+          </div>
+          <p class="adt-body max-w-[12rem] text-center font-medium leading-tight text-neutral-900" data-id="pg005_n0011">Shpreh mendimin tënd</p>
+        </div>
+
+        <div class="flex flex-col items-center gap-4 max-sm:gap-3">
+          <div class="flex h-44 w-44 items-center justify-center rounded-[2rem] bg-amber-50 p-5 shadow-lg max-sm:h-40 max-sm:w-40">
+            <img src="images/pg005_im005.png" alt="Shkathtësi hulumtuese" data-id="pg005_im005" class="h-full w-full object-contain">
+          </div>
+          <p class="adt-body max-w-[12rem] text-center font-medium leading-tight text-neutral-900" data-id="pg005_n0013">Shkathtësi hulumtuese</p>
+        </div>
+
+        <div class="flex flex-col items-center gap-4 max-sm:gap-3">
+          <div class="flex h-44 w-44 items-center justify-center rounded-[2rem] bg-purple-400 p-5 shadow-lg max-sm:h-40 max-sm:w-40">
+            <img src="images/pg005_im003.png" alt="Thello dijet" data-id="pg005_im003" class="h-full w-full object-contain">
+          </div>
+          <p class="adt-body max-w-[10rem] text-center font-medium leading-tight text-neutral-900" data-id="pg005_n0015">Thello dijet</p>
+        </div>
+
+        <div class="flex flex-col items-center gap-4 max-sm:gap-3">
+          <div class="flex h-44 w-44 items-center justify-center rounded-[2rem] border-4 border-orange-300 bg-amber-50 p-5 shadow-lg max-sm:h-40 max-sm:w-40">
+            <img src="images/pg005_im007.png" alt="Provoje veten" data-id="pg005_im007" class="h-full w-full object-contain">
+          </div>
+          <p class="adt-body max-w-[10rem] text-center font-medium leading-tight text-neutral-900" data-id="pg005_n0017">Provoje veten</p>
+        </div>
+
+        <div class="flex flex-col items-center gap-4 max-sm:gap-3">
+          <div class="flex h-44 w-44 items-center justify-center rounded-[2rem] bg-purple-400 p-5 shadow-lg max-sm:h-40 max-sm:w-40">
+            <img src="images/pg005_im006.png" alt="Pyetje për ty" data-id="pg005_im006" class="h-full w-full object-contain">
+          </div>
+          <p class="adt-body max-w-[10rem] text-center font-medium leading-tight text-neutral-900" data-id="pg005_n0019">Pyetje për ty</p>
+        </div>
+      </div>
+    </div>
+  </section>
+</div>
+    </main>
+
+    <div class="relative z-50" id="interface-container"></div>
+    <div class="relative z-50" id="nav-container"></div>
+    <script src="./assets/offline-preloader.js?v=9f3d745a858de581"></script>
+    <script src="./assets/scorm.js"></script>
+    <script src="./assets/base.bundle.local.js"></script>
+
+
+
+<script src="./book-design/responses.js?v=9f3d745a858de581" data-book-responses="true"></script></body></html>

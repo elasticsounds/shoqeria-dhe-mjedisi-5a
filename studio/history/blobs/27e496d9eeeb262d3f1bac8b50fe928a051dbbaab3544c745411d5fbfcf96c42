@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html lang="sq"><head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Shoqëria dhe mjedisi</title>
+    <meta name="title-id" content="pg043_sec001">
+    <!-- Despite the name, this is the page's 1-based position in the reading
+         order, not a section id and not the printed page number. It drives the
+         "N of M" dock counter and is re-emitted on every package, so it tracks
+         the current order. Identity lives in title-id above. -->
+    <meta name="page-section-id" content="90">
+    <link href="./content/tailwind_output.css" rel="stylesheet">
+    <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+    <link href="./assets/fonts.css" rel="stylesheet">
+<link rel="stylesheet" href="./book-design/components.css?v=9f3d745a858de581" data-book-style="true">
+<style>
+/* Page 43: measured worksheet geometry, in source-width units. */
+#content [data-section-id="pg043_sec001"] {container-type:inline-size; position:relative; width:100%; max-width:1000px; aspect-ratio:639.449 / 866.22; height:auto; min-height:0; padding:0; background:#fff; color:#292a32; font-family:BookPoppins,Arial,sans-serif;}
+#content [data-section-id="pg043_sec001"] .adt-body {font-family:BookPoppins,Arial,sans-serif; font-size:1.877cqw; line-height:1.25; font-weight:400; margin:0;}
+#content [data-section-id="pg043_sec001"] .font-semibold {font-weight:400; margin-right:.3em;}
+#content [data-section-id="pg043_sec001"] .w-24 {position:absolute; left:4.55%; top:1.85%; width:9.75%; height:96%; background:#ffb149; margin:0;}
+#content [data-section-id="pg043_sec001"] .b-rubric-wrapper {position:absolute; z-index:2; left:10.4%; top:7%; width:7%; height:5.2%; border:2px solid #ffab46; background:#fff9ec; box-shadow:none; padding:0;}
+#content [data-section-id="pg043_sec001"] .b-rubric-icon {width:85%; height:85%; object-fit:contain;}
+#content [data-section-id="pg043_sec001"] .b-practice-heading {position:absolute; left:14.25%; top:8.25%; width:35%; height:5.2%; min-height:0; margin:0; padding:0 0 0 4%; border:2px solid #ffab46; background:#fff9ec;}
+#content [data-section-id="pg043_sec001"] .b-practice-heading h1 {font-family:BookPoppins,Arial,sans-serif; font-size:2.5cqw; line-height:1.2; margin:0;}
+#content [data-section-id="pg043_sec001"] .page43-main {padding:0;}
+#content [data-section-id="pg043_sec001"] .page43-exercises {margin:0;}
+#content [data-section-id="pg043_sec001"] .page43-exercises > div {margin:0;}
+#content [data-section-id="pg043_sec001"] .page43-q1 > p {position:absolute; left:15.7%; top:16.2%; width:74%;}
+#content [data-section-id="pg043_sec001"] .page43-groups {position:absolute; left:15.7%; top:23.1%; width:72%; margin:0;}
+#content [data-section-id="pg043_sec001"] .page43-groups > div {height:17.8cqw; margin:0;}
+#content [data-section-id="pg043_sec001"] .page43-groups > div > div {margin:.7cqw 0 0;}
+#content [data-section-id="pg043_sec001"] .page43-groups > div > div > div {height:4.3cqw; margin:0; gap:1.1cqw;}
+#content [data-section-id="pg043_sec001"] .page43-groups .bg-amber-300 {width:1.1cqw; height:1.1cqw; background:#ffb149;}
+#content [data-section-id="pg043_sec001"] .page43-groups .border-b, #content [data-section-id="pg043_sec001"] .page43-q3 .border-b {padding:0; border:0;}
+#content [data-section-id="pg043_sec001"] input {display:block; width:100%; height:3.7cqw; min-height:0; padding:0; border:0; border-bottom:1px solid #333; border-radius:0; background:transparent; font:inherit; font-size:1.8cqw;}
+#content [data-section-id="pg043_sec001"] input:focus, #content [data-section-id="pg043_sec001"] textarea:focus {outline:2px solid #7950aa; outline-offset:1px;}
+#content [data-section-id="pg043_sec001"] .page43-q2 {position:absolute; left:15.7%; top:63.8%; width:74%;}
+#content [data-section-id="pg043_sec001"] .page43-q2 textarea {display:block; width:100%; height:2.8cqw; min-height:0; resize:vertical; padding:0; margin:.2cqw 0 0; border:0; border-bottom:1px solid #777; border-radius:0; font:inherit; font-size:1.7cqw; background:transparent;}
+#content [data-section-id="pg043_sec001"] .page43-q3 {position:absolute; left:15.7%; top:70.8%; width:74%;}
+#content [data-section-id="pg043_sec001"] .page43-q3 > div {margin:2.3cqw 0 0;}
+#content [data-section-id="pg043_sec001"] .page43-q3 > div > div {height:4.35cqw; margin:0;}
+#content [data-section-id="pg043_sec001"] .folio43 {position:absolute; left:86.8%; top:90.8%; font-size:1.877cqw;}
+#content [data-section-id="pg043_sec001"] input, #content [data-section-id="pg043_sec001"] textarea {scroll-margin:90px;}
+@media(max-width:700px) {
+ #content [data-section-id="pg043_sec001"] {aspect-ratio:auto; height:auto; padding:24px 20px 100px 32px; border-left:12px solid #ffb149;}
+ #content [data-section-id="pg043_sec001"] .w-24 {display:none;}
+ #content [data-section-id="pg043_sec001"] .page43-main {padding:0;}
+ #content [data-section-id="pg043_sec001"] .page43-main > div:first-child {margin:0 0 28px; padding:0;}
+ #content [data-section-id="pg043_sec001"] .page43-main > div:first-child > div {display:flex; flex-direction:row; gap:0; align-items:center;}
+ #content [data-section-id="pg043_sec001"] .b-rubric-wrapper {position:static; width:58px; height:58px; flex-shrink:0;}
+ #content [data-section-id="pg043_sec001"] .b-practice-heading {position:static; width:auto; height:50px; flex:1; padding:0 12px; margin:0;}
+ #content [data-section-id="pg043_sec001"] .b-practice-heading h1 {font-size:20px;}
+ #content [data-section-id="pg043_sec001"] .adt-body {font-size:16px; line-height:1.45;}
+ #content [data-section-id="pg043_sec001"] .page43-q1 > p, #content [data-section-id="pg043_sec001"] .page43-groups, #content [data-section-id="pg043_sec001"] .page43-q2, #content [data-section-id="pg043_sec001"] .page43-q3 {position:static; width:100%;}
+ #content [data-section-id="pg043_sec001"] .page43-groups {margin:24px 0;}
+ #content [data-section-id="pg043_sec001"] .page43-groups > div {height:auto; margin:0 0 20px;}
+ #content [data-section-id="pg043_sec001"] .page43-groups > div > div {margin:4px 0 0;}
+ #content [data-section-id="pg043_sec001"] .page43-groups > div > div > div {height:48px; gap:8px;}
+ #content [data-section-id="pg043_sec001"] .page43-groups .bg-amber-300 {width:9px; height:9px;}
+ #content [data-section-id="pg043_sec001"] input {height:44px; font-size:16px;}
+ #content [data-section-id="pg043_sec001"] .page43-q2 {margin:0 0 28px;}
+ #content [data-section-id="pg043_sec001"] .page43-q2 textarea {height:80px; min-height:44px; margin:8px 0 0; font-size:16px; border:1px solid #777;}
+ #content [data-section-id="pg043_sec001"] .page43-q3 > div {margin:12px 0 0;}
+ #content [data-section-id="pg043_sec001"] .page43-q3 > div > div {height:48px;}
+ #content [data-section-id="pg043_sec001"] .folio43 {position:static; text-align:right; display:block; margin-top:35px; font-size:16px;}
+}
+</style></head>
+
+<body class="min-h-screen flex items-center justify-center">
+    <main class="w-full">
+      <div id="content" class="container opacity-0 book" data-family="response"><section data-section-type="other" data-section-id="pg043_sec001" class="mx-auto w-full max-w-5xl bg-white px-6 py-8 text-zinc-900 max-lg:px-5 max-sm:px-4 max-sm:py-6 b-page">
+  <div class="bg-white">
+    <div class="flex items-stretch max-sm:block">
+      <div aria-hidden="true" class="w-24 shrink-0 bg-amber-300 max-lg:w-20 max-sm:mb-3 max-sm:h-auto max-sm:w-14"></div>
+
+      <div class="page43-main flex-1 pl-12 pr-8 max-lg:pl-8 max-lg:pr-4 max-sm:pl-0 max-sm:pr-0">
+        <div class="mb-10 pt-2 max-sm:mb-8">
+          <div class="flex items-start gap-4 max-sm:flex-col max-sm:items-start max-sm:gap-3">
+            <div aria-hidden="true" class="flex h-20 w-20 shrink-0 items-center justify-center border-[3px] border-amber-400 bg-white shadow-sm max-sm:h-16 max-sm:w-16 b-rubric-wrapper"><img src="images/pg005_im007.png" alt="" aria-hidden="true" class="b-rubric-icon"></div>
+            <div class="mt-5 inline-flex min-h-16 items-center border-[3px] border-amber-400 bg-amber-50 px-6 py-3 max-sm:mt-0 max-sm:min-h-14 max-sm:px-4 b-practice-heading">
+              <h1 class="adt-h2 font-bold text-left" data-id="pg043_n0002">Provoje veten</h1>
+            </div>
+          </div>
+        </div>
+
+        <div class="page43-exercises space-y-10 max-sm:space-y-8">
+          <div class="page43-q1">
+            <p class="adt-body mb-4 text-left leading-relaxed max-sm:mb-5">
+              <span data-id="pg043_n0004" class="mr-2 font-semibold">1.</span><span data-id="pg043_n0005">Përshkruaj një rast se si vini deri në një vendim të përbashkët në familjen tënde.</span>
+              <span data-id="pg043_n0006">Mundohu ta përmbledhësh këtë shkrim në tri pika kryesore.</span>
+            </p>
+
+            <div class="page43-groups space-y-7 max-sm:space-y-6">
+              <div>
+                <p class="adt-body mb-3 text-left" data-id="pg043_n0007">Diskutimi:</p>
+                <div class="space-y-4 max-sm:space-y-3">
+                  <div class="flex items-center gap-3 max-sm:gap-2">
+                    <div aria-hidden="true" class="h-3 w-3 shrink-0 bg-amber-300"></div>
+                    <div class="flex-1 border-b border-zinc-500 pb-1">
+                      <div class="sr-only" data-id="pg043_n0008"></div>
+                      <label for="item-1" class="sr-only">Diskutimi: rreshti 1</label>
+                      <input id="item-1" data-activity-item="item-1" type="text" aria-label="Diskutimi: rreshti 1" class="min-h-11 w-full border-0 bg-transparent px-0 py-2 outline-none focus:ring-0">
+                    </div>
+                  </div>
+                  <div class="flex items-center gap-3 max-sm:gap-2">
+                    <div aria-hidden="true" class="h-3 w-3 shrink-0 bg-amber-300"></div>
+                    <div class="flex-1 border-b border-zinc-500 pb-1">
+                      <div class="sr-only" data-id="pg043_n0009"></div>
+                      <label for="item-2" class="sr-only">Diskutimi: rreshti 2</label>
+                      <input id="item-2" data-activity-item="item-2" type="text" aria-label="Diskutimi: rreshti 2" class="min-h-11 w-full border-0 bg-transparent px-0 py-2 outline-none focus:ring-0">
+                    </div>
+                  </div>
+                  <div class="flex items-center gap-3 max-sm:gap-2">
+                    <div aria-hidden="true" class="h-3 w-3 shrink-0 bg-amber-300"></div>
+                    <div class="flex-1 border-b border-zinc-500 pb-1">
+                      <div class="sr-only" data-id="pg043_n0010"></div>
+                      <label for="item-3" class="sr-only">Diskutimi: rreshti 3</label>
+                      <input id="item-3" data-activity-item="item-3" type="text" aria-label="Diskutimi: rreshti 3" class="min-h-11 w-full border-0 bg-transparent px-0 py-2 outline-none focus:ring-0">
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+              <div>
+                <p class="adt-body mb-3 text-left" data-id="pg043_n0011">Toleranca (respektimi i mendimeve të secilit/ës):</p>
+                <div class="space-y-4 max-sm:space-y-3">
+                  <div class="flex items-center gap-3 max-sm:gap-2">
+                    <div aria-hidden="true" class="h-3 w-3 shrink-0 bg-amber-300"></div>
+                    <div class="flex-1 border-b border-zinc-500 pb-1">
+                      <div class="sr-only" data-id="pg043_n0012"></div>
+                      <label for="item-4" class="sr-only">Toleranca (respektimi i mendimeve të secilit/ës): rreshti 1</label>
+                      <input id="item-4" data-activity-item="item-4" type="text" aria-label="Toleranca (respektimi i mendimeve të secilit/ës): rreshti 1" class="min-h-11 w-full border-0 bg-transparent px-0 py-2 outline-none focus:ring-0">
+                    </div>
+                  </div>
+                  <div class="flex items-center gap-3 max-sm:gap-2">
+                    <div aria-hidden="true" class="h-3 w-3 shrink-0 bg-amber-300"></div>
+                    <div class="flex-1 border-b border-zinc-500 pb-1">
+                      <div class="sr-only" data-id="pg043_n0013"></div>
+                      <label for="item-5" class="sr-only">Toleranca (respektimi i mendimeve të secilit/ës): rreshti 2</label>
+                      <input id="item-5" data-activity-item="item-5" type="text" aria-label="Toleranca (respektimi i mendimeve të secilit/ës): rreshti 2" class="min-h-11 w-full border-0 bg-transparent px-0 py-2 outline-none focus:ring-0">
+                    </div>
+                  </div>
+                  <div class="flex items-center gap-3 max-sm:gap-2">
+                    <div aria-hidden="true" class="h-3 w-3 shrink-0 bg-amber-300"></div>
+                    <div class="flex-1 border-b border-zinc-500 pb-1">
+                      <div class="sr-only" data-id="pg043_n0014"></div>
+                      <label for="item-6" class="sr-only">Toleranca (respektimi i mendimeve të secilit/ës): rreshti 3</label>
+                      <input id="item-6" data-activity-item="item-6" type="text" aria-label="Toleranca (respektimi i mendimeve të secilit/ës): rreshti 3" class="min-h-11 w-full border-0 bg-transparent px-0 py-2 outline-none focus:ring-0">
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+              <div>
+                <p class="adt-body mb-3 text-left" data-id="pg043_n0015">Vendimmarrja e përbashkët:</p>
+                <div class="space-y-4 max-sm:space-y-3">
+                  <div class="flex items-center gap-3 max-sm:gap-2">
+                    <div aria-hidden="true" class="h-3 w-3 shrink-0 bg-amber-300"></div>
+                    <div class="flex-1 border-b border-zinc-500 pb-1">
+                      <div class="sr-only" data-id="pg043_n0016"></div>
+                      <label for="item-7" class="sr-only">Vendimmarrja e përbashkët: rreshti 1</label>
+                      <input id="item-7" data-activity-item="item-7" type="text" aria-label="Vendimmarrja e përbashkët: rreshti 1" class="min-h-11 w-full border-0 bg-transparent px-0 py-2 outline-none focus:ring-0">
+                    </div>
+                  </div>
+                  <div class="flex items-center gap-3 max-sm:gap-2">
+                    <div aria-hidden="true" class="h-3 w-3 shrink-0 bg-amber-300"></div>
+                    <div class="flex-1 border-b border-zinc-500 pb-1">
+                      <div class="sr-only" data-id="pg043_n0017"></div>
+                      <label for="item-8" class="sr-only">Vendimmarrja e përbashkët: rreshti 2</label>
+                      <input id="item-8" data-activity-item="item-8" type="text" aria-label="Vendimmarrja e përbashkët: rreshti 2" class="min-h-11 w-full border-0 bg-transparent px-0 py-2 outline-none focus:ring-0">
+                    </div>
+                  </div>
+                  <div class="flex items-center gap-3 max-sm:gap-2">
+                    <div aria-hidden="true" class="h-3 w-3 shrink-0 bg-amber-300"></div>
+                    <div class="flex-1 border-b border-zinc-500 pb-1">
+                      <div class="sr-only" data-id="pg043_n0018"></div>
+                      <label for="item-9" class="sr-only">Vendimmarrja e përbashkët: rreshti 3</label>
+                      <input id="item-9" data-activity-item="item-9" type="text" aria-label="Vendimmarrja e përbashkët: rreshti 3" class="min-h-11 w-full border-0 bg-transparent px-0 py-2 outline-none focus:ring-0">
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="page43-q2">
+            <p class="adt-body mb-3 text-left leading-relaxed">
+              <span data-id="pg043_n0019" class="mr-2 font-semibold">2.</span><span data-id="pg043_n0020">Me ndihmën e prindërve, krahaso mënyrën se si janë marrë vendimet <i>dikur</i> dhe <i>sot</i>.</span>
+              <span data-id="pg043_n0021">Analizoji përgjegjësitë <i>sot</i> dhe <i>dikur</i>.</span>
+            </p>
+            <label for="item-10" class="sr-only">Me ndihmën e prindërve, krahaso mënyrën se si janë marrë vendimet dikur dhe sot. Analizoji përgjegjësitë sot dhe dikur.</label>
+            <textarea id="item-10" data-activity-item="item-10" aria-label="Me ndihmën e prindërve, krahaso mënyrën se si janë marrë vendimet dikur dhe sot. Analizoji përgjegjësitë sot dhe dikur." class="min-h-11 h-40 w-full border-0 border-b border-zinc-500 bg-transparent px-0 py-3 outline-none focus:ring-0"></textarea>
+          </div>
+
+          <div class="page43-q3">
+            <p class="adt-body mb-4 text-left leading-relaxed">
+              <span data-id="pg043_n0022" class="mr-2 font-semibold">3.</span><span data-id="pg043_n0023">Analizo se pse punët dhe përgjegjësitë duhen ndarë çdoherë, në mënyrë që jeta në familje dhe në shoqëri të funksionojë.</span>
+            </p>
+            <div class="space-y-4 max-sm:space-y-3">
+              <div class="border-b border-zinc-500 pb-1">
+                <div class="sr-only" data-id="pg043_n0024"></div>
+                <label for="item-11" class="sr-only">Analizo se pse punët dhe përgjegjësitë duhen ndarë çdoherë, në mënyrë që jeta në familje dhe në shoqëri të funksionojë. rreshti 1</label>
+                <input id="item-11" data-activity-item="item-11" type="text" aria-label="Analizo se pse punët dhe përgjegjësitë duhen ndarë çdoherë, në mënyrë që jeta në familje dhe në shoqëri të funksionojë. rreshti 1" class="min-h-11 w-full border-0 bg-transparent px-0 py-2 outline-none focus:ring-0">
+              </div>
+              <div class="border-b border-zinc-500 pb-1">
+                <div class="sr-only" data-id="pg043_n0025"></div>
+                <label for="item-12" class="sr-only">Analizo se pse punët dhe përgjegjësitë duhen ndarë çdoherë, në mënyrë që jeta në familje dhe në shoqëri të funksionojë. rreshti 2</label>
+                <input id="item-12" data-activity-item="item-12" type="text" aria-label="Analizo se pse punët dhe përgjegjësitë duhen ndarë çdoherë, në mënyrë që jeta në familje dhe në shoqëri të funksionojë. rreshti 2" class="min-h-11 w-full border-0 bg-transparent px-0 py-2 outline-none focus:ring-0">
+              </div>
+              <div class="border-b border-zinc-500 pb-1">
+                <div class="sr-only" data-id="pg043_n0026"></div>
+                <label for="item-13" class="sr-only">Analizo se pse punët dhe përgjegjësitë duhen ndarë çdoherë, në mënyrë që jeta në familje dhe në shoqëri të funksionojë. rreshti 3</label>
+                <input id="item-13" data-activity-item="item-13" type="text" aria-label="Analizo se pse punët dhe përgjegjësitë duhen ndarë çdoherë, në mënyrë që jeta në familje dhe në shoqëri të funksionojë. rreshti 3" class="min-h-11 w-full border-0 bg-transparent px-0 py-2 outline-none focus:ring-0">
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+<span class="folio43" aria-label="Faqja 43">43</span>
+</section></div>
+    </main>
+
+    <div class="relative z-50" id="interface-container"></div>
+    <div class="relative z-50" id="nav-container"></div>
+    <script src="./assets/offline-preloader.js?v=9f3d745a858de581"></script>
+    <script src="./assets/scorm.js"></script>
+    <script src="./assets/base.bundle.local.js"></script>
+
+
+
+<script src="./book-design/responses.js?v=9f3d745a858de581" data-book-responses="true"></script></body></html>

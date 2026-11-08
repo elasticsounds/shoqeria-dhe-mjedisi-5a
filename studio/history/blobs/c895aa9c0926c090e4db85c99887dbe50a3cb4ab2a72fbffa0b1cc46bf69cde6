@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="sq"><head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Shoqëria dhe mjedisi</title><meta name="title-id" content="pg009_sec001"><meta name="page-section-id" content="9">
+<link href="./content/tailwind_output.css" rel="stylesheet"><link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet"><link href="./assets/fonts.css" rel="stylesheet"><link rel="stylesheet" href="./book-design/components.css?v=9f3d745a858de581" data-book-style="true">
+<style>
+/* Page 9 coordinates are proportional to the 639.449 × 866.22 pt source. */
+body:has(#page9){align-items:flex-start} body:has(#page9) main{padding-bottom:100px}
+#content.book.page9{container-type:inline-size;position:relative;width:100%;max-width:1000px;aspect-ratio:639.449/866.22;margin:0 auto;padding:0;background:#fff;overflow:visible}
+#content.book.page9>section{position:relative;width:100%;height:100%;padding:0;margin:0}
+#content.book.page9 .p9-rail{position:absolute;left:2.35%;top:1.8%;width:2.2%;height:12.8%;background:#9b73b7}
+#content.book.page9 .p9-questions{position:absolute;left:13.4%;top:7.9%;width:84%;height:12%;border:2px solid #7950aa;border-right:0;border-radius:14px 0 0 14px}
+#content.book.page9 .p9-questions img{position:absolute;left:-1%;top:-24%;width:14.5%;height:auto}
+#content.book.page9 :is(h1,h2){font-family:'Comic Sans MS',cursive;font-size:2.815cqw;font-weight:400;line-height:1.1;margin:0}
+#content.book.page9 h1{position:absolute;left:15%;top:7%;color:#514399}
+#content.book.page9 .p9-list{position:absolute;left:2.5%;top:37%;padding:0;margin:0;list-style:none;font:400 1.876cqw/1.34 BookPoppins,Arial,sans-serif}
+#content.book.page9 .p9-list li{font:inherit;color:#30313a;margin:0} #content.book.page9 .p9-list li:before{content:'- ';white-space:pre}
+#content.book.page9 .p9-reading-rule{position:absolute;top:20.3%;left:14%;width:83.5%;height:39.6%;border-top:2px solid #7950aa;border-left:2px solid #7950aa;border-bottom:2px solid #7950aa}
+#content.book.page9 .p9-icon{position:absolute;left:14%;top:20.3%;width:8.7%;height:7.2%;background:#9b73b7;border-radius:18px;display:flex;align-items:center;justify-content:center}
+#content.book.page9 .p9-icon img{width:84%;height:auto}
+#content.book.page9 h2{position:absolute;left:23.6%;top:22.3%;color:#30313a}
+#content.book.page9 p.p9-intro,#content.book.page9 p.p9-side{position:absolute;margin:0;font:400 1.876cqw/2.5cqw BookAmiri,Georgia,serif;color:#30313a;text-align:justify}
+#content.book.page9 p.p9-intro{left:14.9%;top:27.1%;width:72.3%;text-indent:8.8cqw}
+#content.book.page9 p.p9-side{left:66.6%;top:33.8%;width:20.6%}
+#content.book.page9 .p9-notebook{position:absolute;left:2.35%;top:33.85%;width:62.7%;margin:0}
+#content.book.page9 .p9-notebook img{display:block;width:100%;height:auto}
+#content.book.page9 .p9-notebook textarea{position:absolute;left:20.5%;top:8.5%;width:72%;height:85%;max-width:none;min-height:44px;padding:0 1%;border:0;border-radius:0;resize:none;background:transparent;font:400 1.8cqw/2.55cqw BookPoppins,Arial,sans-serif;color:#30313a}
+#content.book.page9 .p9-notebook textarea:focus{background:rgba(255,255,255,.32)}
+#content.book.page9 .p9-folio{position:absolute;left:87.6%;top:91%;font:400 1.876cqw/1 BookPoppins,Arial,sans-serif}
+@media(max-width:700px){
+ #content.book.page9{aspect-ratio:auto;padding:22px 18px 0;container-type:normal}
+ #content.book.page9>section{height:auto;display:flex;flex-direction:column;gap:16px}
+ #content.book.page9 .p9-rail,#content.book.page9 .p9-reading-rule{display:none}
+ #content.book.page9 .p9-questions{position:relative;left:auto;top:auto;width:100%;height:auto;min-height:0;padding:62px 14px 15px;border:2px solid #7950aa;border-right:0}
+ #content.book.page9 .p9-questions img{left:0;top:-8px;width:74px}
+ #content.book.page9 h1{position:absolute;left:80px;top:15px;font-size:23px}
+ #content.book.page9 .p9-list{position:static;font:400 16px/1.5 BookPoppins,Arial,sans-serif}
+ #content.book.page9 .p9-list li{margin:3px 0}
+ #content.book.page9 .p9-icon{position:relative;left:auto;top:auto;width:62px;height:62px;border-radius:14px}
+ #content.book.page9 h2{position:absolute;left:75px;top:auto;margin-top:0;transform:translateY(8px);font-size:23px}
+ #content.book.page9 p.p9-intro,#content.book.page9 p.p9-side{position:static;width:auto;font:400 18px/1.45 BookAmiri,Georgia,serif;text-align:left;text-indent:0}
+ #content.book.page9 .p9-notebook{position:relative;left:auto;top:auto;width:100%;margin:0}
+ #content.book.page9 .p9-notebook textarea{font:400 16px/1.55 BookPoppins,Arial,sans-serif}
+ #content.book.page9 .p9-folio{position:static;align-self:flex-end;font:400 16px/1 BookPoppins,Arial,sans-serif;margin:0 8px 16px}
+}
+</style></head>
+<body class="min-h-screen flex items-center justify-center"><main class="w-full">
+<div id="content" class="container opacity-0 book page9" data-family="illustrated-lesson"><section id="page9" data-section-type="text_and_images" data-section-id="pg009_sec001">
+<div class="p9-rail" aria-hidden="true"></div>
+<aside class="p9-questions"><img data-id="pg009_im005" src="images/pg009_im005.png" alt=""><h1 data-id="pg009_n0003">Pyetje për ty</h1><ul class="p9-list"><li data-id="pg009_n0006">Analizo ndryshimet e Arit.</li><li data-id="pg009_n0008">Diskuto për ndryshimet e tua me shokët e shoqet.</li><li data-id="pg009_n0010">Shkruaj edhe ti në fletën e ditarit për ndryshimet e tua.</li></ul></aside>
+<div class="p9-reading-rule" aria-hidden="true"></div><div class="p9-icon"><img data-id="pg009_im006" src="images/pg009_im006.png" alt=""></div><h2 data-id="pg009_n0013">Thello dijet</h2>
+<p class="p9-intro"><span data-id="pg009_n0015">Njeriu ndryshon vazhdimisht.</span> <span data-id="pg009_n0016">Duke u rritur, ndryshon pamja dhe sjellja e tij.</span> <span data-id="pg009_n0017">Sa më shumë rritet, bëhet më i përgjegjshëm për kryerjen e detyrave, dallon veprimet e mira nga ato jo të mira dhe është në gjendje të marrë vendime të arsyeshme e të argumentuara për situata të ndryshme jetësore.</span></p>
+<p class="p9-side"><span data-id="pg009_n0019">Kështu, secili njeri ndërton personalitetin e tij.</span> <span data-id="pg009_n0020">Rol të madh për formimin e personalitetit të njeriut luajnë familja, shoqëria dhe komuniteti ku ai jeton.</span> <span data-id="pg009_n0021">Pranoji këshillat e prindërve dhe të mësuesve, sepse ata, me përvojën e tyre jetësore, të ndihmojnë ty të ndërtosh një personalitet të mirë dhe të dobishëm për veten dhe shoqërinë në të ardhmen.</span></p>
+<div class="p9-notebook"><img src="images/pg009_im017.png" alt=""><label for="item-1" class="sr-only">Shkruaj edhe ti në fletën e ditarit për ndryshimet e tua.</label><textarea id="item-1" data-activity-item="item-1" aria-label="Shkruaj edhe ti në fletën e ditarit për ndryshimet e tua."></textarea></div><span class="p9-folio">9</span>
+</section></div></main>
+<div class="relative z-50" id="interface-container"></div><div class="relative z-50" id="nav-container"></div>
+<script src="./assets/offline-preloader.js?v=9f3d745a858de581"></script><script src="./assets/scorm.js"></script><script src="./assets/base.bundle.local.js"></script><script src="./book-design/responses.js?v=9f3d745a858de581" data-book-responses="true"></script></body></html>

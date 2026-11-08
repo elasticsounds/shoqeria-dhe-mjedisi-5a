@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="sq"><head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Shoqëria dhe mjedisi</title>
+<meta name="title-id" content="pg037_sec002">
+<meta name="page-section-id" content="76">
+<link href="./content/tailwind_output.css" rel="stylesheet">
+<link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+<link href="./assets/fonts.css" rel="stylesheet">
+<link rel="stylesheet" href="./book-design/components.css?v=9f3d745a858de581" data-book-style="true">
+<style>
+/* Focused view of exercise 1: source proportions and colors without a second page canvas. */
+#content.book.recipe-page { padding: 32px 6% 128px 4.5%; font: 400 18.77px/1.25 BookPoppins, Arial, sans-serif; }
+#content.book.recipe-page .recipe-layout { display: grid; grid-template-columns: 11.5% minmax(0,1fr); gap: 2%; }
+#content.book.recipe-page .recipe-rail { background: #ffb149; }
+#content.book.recipe-page .recipe-content { padding: 12px 7% 0 0; min-width: 0; }
+#content.book.recipe-page .recipe-prompt, #content.book.recipe-page .recipe-exchange { font: inherit; color: #30313a; margin: 0 0 22px; }
+#content.book.recipe-page .recipe-exchange { margin-bottom: 12px; }
+#content.book.recipe-page .recipe-grid { display: grid; grid-template-columns: 1fr 1fr; border: 2px solid #9b73b7; }
+#content.book.recipe-page .recipe-cell { display: flex; flex-direction: column; min-width: 0; }
+#content.book.recipe-page .recipe-cell + .recipe-cell { border-left: 1px solid #9b73b7; }
+#content.book.recipe-page .recipe-cell label { display: flex; align-items: center; justify-content: center; min-height: 54px; padding: 5px 10px; border-bottom: 2px solid #9b73b7; font: inherit; text-align: center; background: #fff; }
+#content.book.recipe-page .recipe-cell textarea { display: block; width: 100%; height: 190px; min-height: 130px; border: 0; border-radius: 0; padding: 10px; background: #fff; font: inherit; resize: vertical; }
+@media (max-width: 600px) {
+ #content.book.recipe-page { padding: 24px 16px 110px; font-size: 16px; line-height: 1.4; }
+ #content.book.recipe-page .recipe-layout { grid-template-columns: 12px minmax(0,1fr); gap: 14px; }
+ #content.book.recipe-page .recipe-content { padding: 0; }
+ #content.book.recipe-page .recipe-grid { grid-template-columns: 1fr; }
+ #content.book.recipe-page .recipe-cell + .recipe-cell { border-left: 0; border-top: 2px solid #9b73b7; }
+ #content.book.recipe-page .recipe-cell label { min-height: 48px; }
+ #content.book.recipe-page .recipe-cell textarea { height: 150px; }
+}
+</style></head>
+<body class="min-h-screen flex items-center justify-center">
+<main class="w-full">
+<h1 class="sr-only" id="page-heading">Shoqëria dhe mjedisi</h1>
+<div id="content" class="container opacity-0 book recipe-page" data-family="response">
+<h2 class="sr-only" id="section-heading">Shkruaj recetën e dy ushqimeve që të pëlqejnë, një ushqim tradicional dhe një nga kultura të tjera.</h2>
+<section data-section-type="other" data-section-id="pg037_sec002" class="b-page">
+<div class="recipe-layout"><div class="recipe-rail" aria-hidden="true"></div><div class="recipe-content">
+<p class="recipe-prompt"><span data-id="pg037_n0004">1.</span> <span data-id="pg037_n0005">Shkruaj recetën e dy ushqimeve që të pëlqejnë, një ushqim tradicional dhe një nga kultura të tjera.</span></p>
+<p class="recipe-exchange" data-id="pg037_n0006">a) Shkëmbeni në klasë recetat me njëri-tjetrin!</p>
+<div class="recipe-grid">
+<div class="recipe-cell"><label for="item-1" data-id="pg037_n0010">Receta e ushqimit tradicional</label><textarea id="item-1" data-activity-item="item-1"></textarea></div>
+<div class="recipe-cell"><label for="item-2" data-id="pg037_n0012">Receta e ushqimit të ndonjë kulture tjetër</label><textarea id="item-2" data-activity-item="item-2"></textarea></div>
+</div></div></div></section></div></main>
+<div class="relative z-50" id="interface-container"></div>
+<div class="relative z-50" id="nav-container"></div>
+<script src="./assets/offline-preloader.js?v=9f3d745a858de581"></script>
+<script src="./assets/scorm.js"></script>
+<script src="./assets/base.bundle.local.js"></script>
+<script src="./book-design/responses.js?v=9f3d745a858de581" data-book-responses="true"></script>
+</body></html>

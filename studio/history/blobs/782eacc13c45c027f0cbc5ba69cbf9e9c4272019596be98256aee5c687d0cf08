@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="sq"><head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Shoqëria dhe mjedisi</title><meta name="title-id" content="pg039_sec002"><meta name="page-section-id" content="81">
+<link href="./content/tailwind_output.css" rel="stylesheet"><link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet"><link href="./assets/fonts.css" rel="stylesheet"><link rel="stylesheet" href="./book-design/components.css?v=9f3d745a858de581" data-book-style="true">
+<style>
+/* This is the separately navigable response view, not a full printed page. */
+#content.response39 { max-width:1000px; padding:64px 8% 120px; }
+.response39 .response-panel { position:relative; border:3px solid #7950aa; border-radius:18px 0 0 18px; padding:24px 26px 28px; color:#30313a; background:white; }
+.response39 .response-heading { display:flex; align-items:center; min-height:50px; padding-left:95px; margin:0 0 18px; }
+.response39 .response-heading img { position:absolute; top:-26px; left:-8px; width:125px; height:auto; }
+.response39 h1 { font:400 28px/1.2 cursive; color:#514395; margin:0; }
+.response39 .question, .response39 .writing { font:400 18px/1.45 BookPoppins,Arial,sans-serif; margin:0; }
+.response39 .question { margin-bottom:5px; }
+.response39 details { margin:0 0 8px 15px; }
+.response39 summary { font:400 14px/1.4 BookPoppins,Arial,sans-serif; color:#5e408e; cursor:pointer; min-height:32px; width:max-content; max-width:100%; }
+.response39 textarea { display:block; width:100%; min-height:70px; padding:8px; border:1px solid #7950aa; border-radius:3px; font:400 17px/1.4 BookPoppins,Arial,sans-serif; resize:vertical; }
+.response39 .writing { margin-top:14px; }
+.response39 .lines { margin-top:12px; }
+.response39 .lines input { display:block; width:100%; min-height:44px; border:0; border-bottom:1px solid #505050; border-radius:0; padding:5px 2px; background:transparent; font:400 17px/1.4 BookPoppins,Arial,sans-serif; }
+.response39 :is(input,textarea,summary):focus-visible { outline:3px solid #7950aa; outline-offset:2px; }
+.response39 .save-note { margin:14px 0 0; font:400 13px/1.4 BookPoppins,Arial,sans-serif; color:#555; }
+@media(max-width:600px) { #content.response39 { padding:48px 20px 120px; } .response39 .response-panel { padding:20px 15px 24px; border-radius:14px 0 0 14px; } .response39 .response-heading { padding-left:72px; min-height:46px; } .response39 .response-heading img { width:92px; top:-22px; } .response39 h1 { font-size:24px; } .response39 .question,.response39 .writing { font-size:16px; } .response39 summary { min-height:44px; display:list-item; padding-top:8px; font-size:14px; } }
+#content.book.response39 .response-panel p.question, #content.book.response39 .response-panel p.writing { font:400 18px/1.45 BookPoppins,Arial,sans-serif; }
+#content.book.response39 .response-panel h1 { font:400 28px/1.2 cursive; color:#514395; }
+#content.book.response39 .response-panel p.save-note { font:400 13px/1.4 BookPoppins,Arial,sans-serif; color:#555; }
+#content.book.response39 .lines input { border:0; border-bottom:1px solid #505050; border-radius:0; padding:5px 2px; background:transparent; }
+@media(max-width:600px) { #content.book.response39 .response-panel p.question, #content.book.response39 .response-panel p.writing { font-size:16px; } }
+</style></head>
+<body class="min-h-screen flex items-center justify-center"><main class="w-full">
+<div id="content" class="container mx-auto w-full opacity-0 book response39" data-family="response">
+<section data-section-type="other" data-section-id="pg039_sec002" class="b-page">
+<div class="response-panel">
+<div class="response-heading"><img src="images/pg005_im006.png" alt="" aria-hidden="true"><h1 data-id="pg039_n0034">Pyetje për ty</h1></div>
+<p class="question" data-id="pg039_n0035">- Cilat profesione u panë në panair?</p>
+<details><summary>Shkruaj përgjigjen</summary><label class="sr-only" for="item-1">Cilat profesione u panë në panair?</label><textarea id="item-1" data-activity-item="item-1" aria-label="Cilat profesione u panë në panair?"></textarea></details>
+<p class="question" data-id="pg039_n0036">- Pse ushtrimi i profesionit ishte më i vështirë <em>dikur</em>?</p>
+<details><summary>Shkruaj përgjigjen</summary><label class="sr-only" for="item-2">Pse ushtrimi i profesionit ishte më i vështirë dikur?</label><textarea id="item-2" data-activity-item="item-2" aria-label="Pse ushtrimi i profesionit ishte më i vështirë dikur?"></textarea></details>
+<p class="question" data-id="pg039_n0037">- Çfarë e lehtësoi punën në secilin profesion?</p>
+<details><summary>Shkruaj përgjigjen</summary><label class="sr-only" for="item-3">Çfarë e lehtësoi punën në secilin profesion?</label><textarea id="item-3" data-activity-item="item-3" aria-label="Çfarë e lehtësoi punën në secilin profesion?"></textarea></details>
+<p class="writing"><span data-id="pg039_n0038">Shkruaj për profesionin që dëshiron ta ushtrosh në të ardhmen!</span> <span data-id="pg039_n0039">Përmend përgjegjësitë dhe rëndësinë që ka ai prefesion!</span></p>
+<div class="lines">
+<label class="sr-only" for="item-4">Shkruaj përgjigjen në rreshtin e parë për profesionin që dëshiron ta ushtrosh në të ardhmen</label><input id="item-4" type="text" data-activity-item="item-4" aria-label="Shkruaj përgjigjen në rreshtin e parë për profesionin që dëshiron ta ushtrosh në të ardhmen"><span class="sr-only" data-id="pg039_n0040"></span>
+<label class="sr-only" for="item-5">Shkruaj përgjigjen në rreshtin e dytë për përgjegjësitë dhe rëndësinë e profesionit</label><input id="item-5" type="text" data-activity-item="item-5" aria-label="Shkruaj përgjigjen në rreshtin e dytë për përgjegjësitë dhe rëndësinë e profesionit"><span class="sr-only" data-id="pg039_n0041"></span>
+<label class="sr-only" for="item-6">Shkruaj përgjigjen në rreshtin e tretë për profesionin</label><input id="item-6" type="text" data-activity-item="item-6" aria-label="Shkruaj përgjigjen në rreshtin e tretë për profesionin"><span class="sr-only" data-id="pg039_n0042"></span>
+</div><p class="save-note">Përgjigjet ruhen në këtë pajisje.</p>
+</div></section></div></main>
+<div class="relative z-50" id="interface-container"></div><div class="relative z-50" id="nav-container"></div>
+<script src="./assets/offline-preloader.js?v=9f3d745a858de581"></script><script src="./assets/scorm.js"></script><script src="./assets/base.bundle.local.js"></script><script src="./book-design/responses.js?v=9f3d745a858de581" data-book-responses="true"></script></body></html>

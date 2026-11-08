@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="sq">
+<head>
+<meta charset="utf-8" />
+<noscript><meta http-equiv="refresh" content="0; url=pg040_sec001.html" /></noscript>
+<title>Shoqëria dhe mjedisi</title>
+</head>
+<body>
+<p><a id="entry-link" href="pg040_sec001.html">Shoqëria dhe mjedisi</a></p>
+<script>
+(function () {
+  var target = "pg040_sec001.html" + location.search + location.hash;
+  document.getElementById("entry-link").href = target;
+  location.replace(target);
+})();
+</script>
+</body>
+</html>

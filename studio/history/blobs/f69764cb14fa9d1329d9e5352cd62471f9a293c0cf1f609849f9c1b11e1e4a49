@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="sq"><head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Shoqëria dhe mjedisi</title>
+    <meta name="title-id" content="pg020_sec003">
+    <!-- Despite the name, this is the page's 1-based position in the reading
+         order, not a section id and not the printed page number. It drives the
+         "N of M" dock counter and is re-emitted on every package, so it tracks
+         the current order. Identity lives in title-id above. -->
+    <meta name="page-section-id" content="30">
+    <link href="./content/tailwind_output.css" rel="stylesheet">
+    <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+    <link href="./assets/fonts.css" rel="stylesheet">
+<link rel="stylesheet" href="./book-design/components.css?v=9f3d745a858de581" data-book-style="true"></head>
+
+<body class="min-h-screen flex items-center justify-center">
+    <main class="w-full">
+      <div id="content" class="container opacity-0 book" data-family="reference"><section data-section-type="boxed_text" data-section-id="pg020_sec003" class="mx-auto w-full max-w-5xl px-8 py-8 max-sm:px-4 b-page"><div class="rounded-[2rem] border-4 border-purple-500 bg-white shadow-[0_10px_0_rgba(168,85,247,0.08)] b-panel-reading"><div class="flex items-start gap-6 px-10 py-9 max-lg:px-7 max-lg:py-7 max-sm:flex-col max-sm:items-start max-sm:gap-4 max-sm:px-5 max-sm:py-5"><div aria-hidden="true" class="flex h-28 w-28 shrink-0 items-center justify-center rounded-[1.75rem] bg-purple-300 shadow-inner max-lg:h-24 max-lg:w-24 max-sm:h-20 max-sm:w-20 b-rubric-wrapper"><img src="images/pg005_im003.png" alt="" aria-hidden="true" class="b-rubric-icon"></div><div class="min-w-0 flex-1 max-sm:w-full"><h1 class="adt-h3 mb-4 text-left font-bold text-gray-900" data-id="pg020_n0029">Thello dijet</h1><p class="adt-body text-left leading-8 text-gray-800 max-sm:leading-7"><span data-id="pg020_n0031">Gjatë periudhave historike, për të pasur jetë më të mirë njeriu bëri shumë ndryshime në qytet.</span> <span data-id="pg020_n0032">U ndryshuan rrugët, ndërtimi i shtëpive, mënyra e jetesës etj.</span> <span data-id="pg020_n0033">U pajisën qytetet me ujësjellës dhe drita.</span> <span data-id="pg020_n0034">Zhvillimi i teknologjisë mundësoi ndërtimin e fabrikave, dhe kështu u hapën vende pune në qytete.</span> <span data-id="pg020_n0035">Shkollat dhe spitalet dikur ishin pak dhe pa shumë pajisje sot ka shumë më shumë dhe janë të pajisura me të gjitha mjetet teknologjike e bashkëkohore.</span> <span data-id="pg020_n0036">Rrugët e thjeshta të dikurshme u shndërruan në rrugë ndërqytetëse shumë të gjera, që njihen si autostrada.</span> <span data-id="pg020_n0037">Tregtia gjithnjë e më shumë po zhvillohet në qendra të mëdha tregtare.</span></p></div></div></div></section></div>
+    </main>
+
+    <div class="relative z-50" id="interface-container"></div>
+    <div class="relative z-50" id="nav-container"></div>
+    <script src="./assets/offline-preloader.js?v=9f3d745a858de581"></script>
+    <script src="./assets/scorm.js"></script>
+    <script src="./assets/base.bundle.local.js"></script>
+
+
+
+<script src="./book-design/responses.js?v=9f3d745a858de581" data-book-responses="true"></script></body></html>

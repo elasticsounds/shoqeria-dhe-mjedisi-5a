@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="sq"><head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Shoqëria dhe mjedisi</title><meta name="title-id" content="pg039_sec001"><meta name="page-section-id" content="58">
+<link href="./content/tailwind_output.css" rel="stylesheet"><link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet"><link href="./assets/fonts.css" rel="stylesheet"><link rel="stylesheet" href="./book-design/components.css?v=9f3d745a858de581" data-book-style="true">
+<style>
+#content.book.pg39{aspect-ratio:639.449/866.22;padding:8% 13% 120px;max-width:1000px;color:#30313a}
+#content.book.pg39 .photos{display:flex;align-items:center;justify-content:center;gap:1.5%;margin:0 auto 22px;width:85%}
+#content.book.pg39 .photos img{width:23.8%;height:auto;border-radius:0;object-fit:contain}
+#content.book.pg39 .narrative,#content.book.pg39 .reminder{font:400 18.77px/1.35 BookAmiri,Georgia,serif;margin:0 0 22px}
+#content.book.pg39 .reminder{font-style:italic;margin-bottom:35px}
+#content.book.pg39 .questions{position:relative;border:3px solid #7950aa;border-right:0;border-radius:20px 0 0 20px;padding:20px 24px 24px}
+#content.book.pg39 .questions img{position:absolute;width:110px;top:-31px;left:-9px}
+#content.book.pg39 .questions h1{font:400 28px/1.2 cursive;color:#51439a;margin:0 0 20px 98px}
+#content.book.pg39 .questions p{font:400 18.77px/1.35 BookPoppins,Arial,sans-serif;margin:0 0 4px}
+#content.book.pg39 .questions textarea{display:block;width:100%;min-height:44px;height:44px;padding:5px 8px;margin:2px 0 10px;font:16px/1.35 BookPoppins,Arial,sans-serif}
+#content.book.pg39 .questions input{display:block;width:100%;height:44px;min-height:44px;border:0;border-bottom:1px solid #555;border-radius:0;padding:5px 2px;background:transparent}
+#content.book.pg39 .writing{margin-top:12px}
+@media(max-width:700px){#content.book.pg39{aspect-ratio:auto;padding:28px 20px 125px}#content.book.pg39 .photos{width:100%;gap:2%}#content.book.pg39 .narrative,#content.book.pg39 .reminder{font-size:18px;line-height:1.45}#content.book.pg39 .questions{padding:20px 15px 18px;border-right:3px solid #7950aa;border-radius:16px}#content.book.pg39 .questions img{width:75px;top:-23px}#content.book.pg39 .questions h1{font-size:25px;margin-left:70px}#content.book.pg39 .questions p{font-size:16px;line-height:1.45}}
+</style></head>
+<body class="min-h-screen flex items-center justify-center"><main class="w-full">
+<div id="content" class="container mx-auto w-full bg-white opacity-0 book pg39" data-family="illustrated-lesson" data-response-owner="pg039_sec002">
+<section data-section-type="text_and_images" data-section-id="pg039_sec001" class="w-full b-page">
+<div class="photos">
+<img data-id="pg039_im003" src="images/pg039_im003.png" alt="Stetoskop i kuq për kontrollimin e pacientëve.">
+<img data-id="pg039_im004" src="images/pg039_im004.png" alt="Shiringë, shishe ilaçesh dhe tableta për mjekim.">
+<img data-id="pg039_im005" src="images/pg039_im005.png" alt="Monitor me imazhe skanimi mjekësor të trupit.">
+<img data-id="pg039_im006" src="images/pg039_im006.png" alt="Pajisje moderne mjekësore për ekzaminime në spital.">
+</div>
+<p class="narrative"><span data-id="pg039_n0002">Profesioni i mjekut është shumë i rëndësishëm.</span> <span data-id="pg039_n0003">Ai kujdeset për shëndetin e njerëzve.</span> <span data-id="pg039_n0004">Mjeku ndihmon në zbulimin dhe mjekimin e sëmundjeve.</span> <span data-id="pg039_n0005">Pas shkollimit, mjeku premton se do t’i ndihmojë pacientët gjatë gjithë jetës së tij.</span> <span data-id="pg039_n0006">Dikur, mjekët punonin edhe pa pajisje moderne – ata përdornin stetoskopin për t’i kontrolluar pacientët dhe për të zbuluar sëmundje.</span> <span data-id="pg039_n0007">Sot, ky profesion është përmirësuar shumë, sepse ka pajisje të reja dhe teknologji moderne.</span></p>
+<p class="reminder"><span data-id="pg039_n0009">Mos harro!</span><br><span data-id="pg039_n0010">Të gjitha profesionet janë të domosdoshme dhe të rëndësishme që të funksionojë jeta në shoqëri.</span></p>
+<div class="questions" aria-labelledby="pg039_n0034">
+<img src="images/pg005_im006.png" alt="" aria-hidden="true"><h1 data-id="pg039_n0034" id="pg039_n0034">Pyetje për ty</h1>
+<p data-id="pg039_n0035">- Cilat profesione u panë në panair?</p><label for="item-1" class="sr-only">Cilat profesione u panë në panair?</label><textarea id="item-1" data-activity-item="item-1" aria-label="Cilat profesione u panë në panair?"></textarea>
+<p data-id="pg039_n0036">- Pse ushtrimi i profesionit ishte më i vështirë <em>dikur</em>?</p><label for="item-2" class="sr-only">Pse ushtrimi i profesionit ishte më i vështirë dikur?</label><textarea id="item-2" data-activity-item="item-2" aria-label="Pse ushtrimi i profesionit ishte më i vështirë dikur?"></textarea>
+<p data-id="pg039_n0037">- Çfarë e lehtësoi punën në secilin profesion?</p><label for="item-3" class="sr-only">Çfarë e lehtësoi punën në secilin profesion?</label><textarea id="item-3" data-activity-item="item-3" aria-label="Çfarë e lehtësoi punën në secilin profesion?"></textarea>
+<div class="writing"><p><span data-id="pg039_n0038">Shkruaj për profesionin që dëshiron ta ushtrosh në të ardhmen!</span> <span data-id="pg039_n0039">Përmend përgjegjësitë dhe rëndësinë që ka ai prefesion!</span></p>
+<span class="sr-only" data-id="pg039_n0040"></span><label for="item-4" class="sr-only">Shkruaj përgjigjen në rreshtin e parë për profesionin që dëshiron ta ushtrosh në të ardhmen</label><input id="item-4" type="text" data-activity-item="item-4" aria-label="Shkruaj përgjigjen në rreshtin e parë për profesionin që dëshiron ta ushtrosh në të ardhmen">
+<span class="sr-only" data-id="pg039_n0041"></span><label for="item-5" class="sr-only">Shkruaj përgjigjen në rreshtin e dytë për përgjegjësitë dhe rëndësinë e profesionit</label><input id="item-5" type="text" data-activity-item="item-5" aria-label="Shkruaj përgjigjen në rreshtin e dytë për përgjegjësitë dhe rëndësinë e profesionit">
+<span class="sr-only" data-id="pg039_n0042"></span><label for="item-6" class="sr-only">Shkruaj përgjigjen në rreshtin e tretë për profesionin</label><input id="item-6" type="text" data-activity-item="item-6" aria-label="Shkruaj përgjigjen në rreshtin e tretë për profesionin"></div>
+</div></section></div></main>
+<div class="relative z-50" id="interface-container"></div><div class="relative z-50" id="nav-container"></div><script src="./assets/offline-preloader.js?v=9f3d745a858de581"></script><script src="./assets/scorm.js"></script><script src="./assets/base.bundle.local.js"></script><script src="./book-design/responses.js?v=9f3d745a858de581" data-book-responses="true"></script></body></html>

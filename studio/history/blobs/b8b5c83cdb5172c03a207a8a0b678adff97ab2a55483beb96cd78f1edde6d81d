@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="sq"><head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Shoqëria dhe mjedisi</title>
+    <meta name="title-id" content="pg020_sec001">
+    <!-- Despite the name, this is the page's 1-based position in the reading
+         order, not a section id and not the printed page number. It drives the
+         "N of M" dock counter and is re-emitted on every package, so it tracks
+         the current order. Identity lives in title-id above. -->
+    <meta name="page-section-id" content="31">
+    <link href="./content/tailwind_output.css" rel="stylesheet">
+    <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+    <link href="./assets/fonts.css" rel="stylesheet">
+<link rel="stylesheet" href="./book-design/components.css?v=9f3d745a858de581" data-book-style="true"></head>
+
+<body class="min-h-screen flex items-center justify-center">
+    <main class="w-full">
+      <div id="content" class="container opacity-0 book" data-family="response"><section data-section-type="other" data-section-id="pg020_sec001" class="mx-auto w-full max-w-5xl bg-white px-8 py-8 max-sm:px-4 b-page"><div class="rounded-[2rem] border-4 border-violet-500 bg-white px-8 py-7 shadow-sm max-sm:px-4 max-sm:py-5"><div class="flex items-start gap-4"><div aria-hidden="true" class="shrink-0 leading-none text-violet-500 b-rubric-wrapper"><img src="images/pg005_im006.png" alt="" aria-hidden="true" class="b-rubric-icon"></div><div class="flex-1"><h1 class="adt-h3 mb-4 text-violet-700" data-id="pg020_n0003">Pyetje për ty</h1><ul class="space-y-5"><li><div class="flex items-start gap-2"><span aria-hidden="true" class="adt-body text-slate-700">–</span><span class="adt-body text-slate-900" data-id="pg020_n0006">Si ishte Prishtina dikur e si është sot?</span></div><label for="item-1" class="sr-only">Si ishte Prishtina dikur e si është sot?</label><textarea id="item-1" data-activity-item="item-1" aria-label="Si ishte Prishtina dikur e si është sot?" class="mt-2 w-full min-h-11 rounded-[1.5rem] border-2 border-violet-300 bg-white px-4 py-3 text-slate-800 outline-none focus:border-violet-500 focus:ring-2 focus:ring-violet-200 h-28"></textarea></li><li><div class="flex items-start gap-2"><span aria-hidden="true" class="adt-body text-slate-700">–</span><span class="adt-body text-slate-900" data-id="pg020_n0008">Analizoji ndryshimet.</span></div><label for="item-2" class="sr-only">Analizoji ndryshimet.</label><textarea id="item-2" data-activity-item="item-2" aria-label="Analizoji ndryshimet." class="mt-2 w-full min-h-11 rounded-[1.5rem] border-2 border-violet-300 bg-white px-4 py-3 text-slate-800 outline-none focus:border-violet-500 focus:ring-2 focus:ring-violet-200 h-28"></textarea></li><li><div class="flex items-start gap-2"><span aria-hidden="true" class="adt-body text-slate-700">–</span><span class="adt-body text-slate-900" data-id="pg020_n0010">A ka pësuar ndryshime vendi ku ti jeton?</span></div><label for="item-3" class="sr-only">A ka pësuar ndryshime vendi ku ti jeton?</label><textarea id="item-3" data-activity-item="item-3" aria-label="A ka pësuar ndryshime vendi ku ti jeton?" class="mt-2 w-full min-h-11 rounded-[1.5rem] border-2 border-violet-300 bg-white px-4 py-3 text-slate-800 outline-none focus:border-violet-500 focus:ring-2 focus:ring-violet-200 h-28"></textarea></li><li><div class="flex items-start gap-2"><span aria-hidden="true" class="adt-body text-slate-700">–</span><span class="adt-body text-slate-900" data-id="pg020_n0012">Çka do të ndryshoje ti në qytetet e sotme në mënyrë që të ruhet mjedisi i pastër?</span></div><label for="item-4" class="sr-only">Çka do të ndryshoje ti në qytetet e sotme në mënyrë që të ruhet mjedisi i pastër?</label><textarea id="item-4" data-activity-item="item-4" aria-label="Çka do të ndryshoje ti në qytetet e sotme në mënyrë që të ruhet mjedisi i pastër?" class="mt-2 w-full min-h-11 rounded-[1.5rem] border-2 border-violet-300 bg-white px-4 py-3 text-slate-800 outline-none focus:border-violet-500 focus:ring-2 focus:ring-violet-200 h-32"></textarea></li></ul></div></div></div><aside class="mt-5 ml-auto w-[58%] rounded-[1.75rem] border-2 border-violet-400 bg-amber-100 px-5 py-4 shadow-sm max-lg:w-[72%] max-sm:ml-0 max-sm:w-full"><div class="flex items-start gap-4 max-sm:flex-col"><div aria-hidden="true" class="shrink-0 leading-none text-violet-500">🐭</div><div class="flex-1"><span class="adt-body text-amber-950 block mb-3" data-id="pg020_n0014">Bashkë me ndihmën e prindërve apo të mësuesit, hulumto në internet dhe gjej informacione rreth ndryshimit të qyteteve të ndryshme të botës.</span><label for="item-5" class="sr-only">Bashkë me ndihmën e prindërve apo të mësuesit, hulumto në internet dhe gjej informacione rreth ndryshimit të qyteteve të ndryshme të botës.</label><textarea id="item-5" data-activity-item="item-5" aria-label="Bashkë me ndihmën e prindërve apo të mësuesit, hulumto në internet dhe gjej informacione rreth ndryshimit të qyteteve të ndryshme të botës." class="w-full min-h-11 rounded-[1.25rem] border-2 border-amber-300 bg-white px-4 py-3 text-slate-800 outline-none focus:border-amber-500 focus:ring-2 focus:ring-amber-200 h-24"></textarea></div></div></aside></section></div>
+    </main>
+
+    <div class="relative z-50" id="interface-container"></div>
+    <div class="relative z-50" id="nav-container"></div>
+    <script src="./assets/offline-preloader.js?v=9f3d745a858de581"></script>
+    <script src="./assets/scorm.js"></script>
+    <script src="./assets/base.bundle.local.js"></script>
+
+
+
+<script src="./book-design/responses.js?v=9f3d745a858de581" data-book-responses="true"></script></body></html>

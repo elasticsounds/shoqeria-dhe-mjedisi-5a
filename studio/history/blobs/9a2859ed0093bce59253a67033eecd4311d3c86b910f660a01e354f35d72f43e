@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="sq"><head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Shoqëria dhe mjedisi</title>
+    <meta name="title-id" content="pg009_sec002">
+    <!-- Despite the name, this is the page's 1-based position in the reading
+         order, not a section id and not the printed page number. It drives the
+         "N of M" dock counter and is re-emitted on every package, so it tracks
+         the current order. Identity lives in title-id above. -->
+    <meta name="page-section-id" content="10">
+    <link href="./content/tailwind_output.css" rel="stylesheet">
+    <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+    <link href="./assets/fonts.css" rel="stylesheet">
+<link rel="stylesheet" href="./book-design/components.css?v=9f3d745a858de581" data-book-style="true"><style>#content.book[data-family="response"] textarea[data-response-share="pg009-diary"]{background:transparent;border:0;border-radius:0;resize:none}#content.book[data-family="response"] textarea[data-response-share="pg009-diary"]:focus{background:rgba(255,255,255,.55)}</style></head>
+
+<body class="min-h-screen flex items-center justify-center">
+    <main class="w-full">
+      <h1 class="sr-only" id="page-heading">Shoqëria dhe mjedisi</h1>
+      <div id="content" class="container opacity-0 book" data-family="response"><h2 class="sr-only" id="section-heading">Shkruaj edhe ti në fletën e ditarit për ndryshimet e tua.</h2><section data-section-type="other" data-section-id="pg009_sec002" class="mx-auto w-full max-w-5xl px-8 max-sm:px-5 py-8 bg-white b-page"><div class="rounded-[2rem] border-4 border-red-300 bg-gradient-to-br from-rose-50 via-white to-orange-50 p-6 max-sm:p-4 shadow-lg"><div class="mb-5 rounded-[1.75rem] border-2 border-purple-300 bg-purple-100 px-5 py-4 max-sm:px-4"><p class="adt-body font-medium leading-relaxed text-gray-900"><span data-id="pg009_n0024">Shkruaj edhe ti në fletën e ditarit për ndryshimet e tua.</span></p></div><div class="relative rounded-2xl overflow-hidden border-2 border-red-200 bg-white shadow-sm"><img data-id="pg009_im017" src="images/pg009_im017.png" alt="Fletë e zbrazët ditari me vija për të shkruar." class="block w-full h-auto"><div class="absolute inset-0 z-10 flex"><div class="w-[18%] max-sm:w-[20%]"></div><div class="flex-1 px-[6%] pt-[11%] pb-[7%] max-sm:px-[4.5%] max-sm:pt-[10%] max-sm:pb-[6%]"><label for="activity-item-1" class="sr-only">Shkruaj edhe ti në fletën e ditarit për ndryshimet e tua.</label><textarea id="activity-item-1" data-activity-item="item-1" data-response-share="pg009-diary" aria-label="Shkruaj edhe ti në fletën e ditarit për ndryshimet e tua." class="w-full min-h-11 h-full rounded-lg border-0 bg-white/10 px-2 py-2 text-gray-900 outline-none focus:bg-white/70 focus:ring-4 focus:ring-purple-200 resize-none" placeholder=""></textarea></div></div></div></div></section></div>
+    </main>
+
+    <div class="relative z-50" id="interface-container"></div>
+    <div class="relative z-50" id="nav-container"></div>
+    <script src="./assets/offline-preloader.js?v=9f3d745a858de581"></script>
+    <script src="./assets/scorm.js"></script>
+    <script src="./assets/base.bundle.local.js"></script>
+
+
+
+<script src="./book-design/responses.js?v=9f3d745a858de581" data-book-responses="true"></script></body></html>

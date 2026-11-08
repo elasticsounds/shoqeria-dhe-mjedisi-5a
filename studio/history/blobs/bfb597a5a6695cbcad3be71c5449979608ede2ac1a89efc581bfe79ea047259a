@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="sq"><head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Shoqëria dhe mjedisi</title>
+    <meta name="title-id" content="pg015_sec001">
+    <!-- Despite the name, this is the page's 1-based position in the reading
+         order, not a section id and not the printed page number. It drives the
+         "N of M" dock counter and is re-emitted on every package, so it tracks
+         the current order. Identity lives in title-id above. -->
+    <meta name="page-section-id" content="19">
+    <link href="./content/tailwind_output.css" rel="stylesheet">
+    <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+    <link href="./assets/fonts.css" rel="stylesheet">
+<link rel="stylesheet" href="./book-design/components.css?v=9f3d745a858de581" data-book-style="true"></head>
+
+<body class="min-h-screen flex items-center justify-center">
+    <main class="w-full">
+      <div id="content" class="container opacity-0 book" data-family="illustrated-lesson"><section data-section-type="text_and_images" data-section-id="pg015_sec001" class="mx-auto w-full max-w-5xl bg-white text-slate-800 b-page">
+  <div class="w-full bg-[#a377b5] b-banner">
+    <div class="mx-auto w-full max-w-5xl px-8 py-14 max-sm:px-5 max-sm:py-8">
+      <h1 class="adt-h2 font-bold text-left text-white" data-id="pg015_n0002">Vendbanimet arkeologjike</h1>
+    </div>
+  </div>
+
+  <div class="mx-auto w-full max-w-5xl px-8 py-6 max-sm:px-5">
+    <aside class="mb-10 rounded-[1.75rem] border-[4px] border-[#9b59b6] bg-white overflow-hidden b-keywords">
+      <div class="flex items-stretch max-lg:flex-col">
+        <div class="bg-[#b88acb] px-5 py-4 flex items-center shrink-0">
+          <div class="adt-body font-bold text-white b-keyword-label" data-id="pg015_n0004">Fjalët kyçe:</div>
+        </div>
+        <div class="px-5 py-4 flex items-center">
+          <div class="adt-body text-left" data-id="pg015_n0005">arkeologji, shkencë, qytetërim, gërmim, objekt, amforë.</div>
+        </div>
+      </div>
+    </aside>
+
+    <aside class="mb-10 rounded-[1.75rem] bg-sky-200 px-6 py-5 max-sm:px-4 b-panel-thought">
+      <div class="flex items-start gap-4 max-sm:flex-col max-sm:gap-3">
+        <div aria-hidden="true" class="shrink-0 pt-1 b-rubric-wrapper"><img src="images/pg005_im002.png" alt="" aria-hidden="true" class="b-rubric-icon"></div>
+        <div class="flex-1">
+          <h3 class="adt-h3 mb-3 text-left text-slate-800" data-id="pg015_n0007">Shpreh mendimin tënd</h3>
+          <div class="space-y-4">
+            <div>
+              <p class="adt-body text-left"><span data-id="pg015_n0010">A e di çka janë vendbanimet arkeologjike?</span></p>
+              <label for="item-1" class="sr-only">A e di çka janë vendbanimet arkeologjike?</label>
+              <textarea id="item-1" data-activity-item="item-1" aria-label="A e di çka janë vendbanimet arkeologjike?" class="mt-2 min-h-11 w-full rounded-2xl border-2 border-sky-300 bg-white px-4 py-3 text-slate-800 outline-none focus:border-purple-400 focus:ring-2 focus:ring-purple-200"></textarea>
+            </div>
+            <div>
+              <p class="adt-body text-left"><span data-id="pg015_n0012">A njeh ndonjë prej tyre?</span></p>
+              <label for="item-2" class="sr-only">A njeh ndonjë prej tyre?</label>
+              <input id="item-2" type="text" data-activity-item="item-2" aria-label="A njeh ndonjë prej tyre?" class="mt-2 min-h-11 w-full rounded-2xl border-2 border-sky-300 bg-white px-4 py-3 text-slate-800 outline-none focus:border-purple-400 focus:ring-2 focus:ring-purple-200">
+            </div>
+            <div>
+              <p class="adt-body text-left"><span data-id="pg015_n0014">Analizoji edhe fotografitë me informacionet e dhëna.</span></p>
+              <label for="item-3" class="sr-only">Analizoji edhe fotografitë me informacionet e dhëna.</label>
+              <textarea id="item-3" data-activity-item="item-3" aria-label="Analizoji edhe fotografitë me informacionet e dhëna." class="mt-2 min-h-11 w-full rounded-2xl border-2 border-sky-300 bg-white px-4 py-3 text-slate-800 outline-none focus:border-purple-400 focus:ring-2 focus:ring-purple-200"></textarea>
+            </div>
+          </div>
+        </div>
+      </div>
+    </aside>
+
+    <p class="adt-body mb-6 text-left leading-8">
+      <span data-id="pg015_n0016">Situatë: Arta, bashkë me prindërit dhe vëllanë e saj, donin t’i vizitonin vendet arkeologjike të Kosovës.</span>
+      <span data-id="pg015_n0017">Arta nuk kishte dëgjuar më parë për to dhe nuk e dinte se ç’ishin.</span>
+      <span data-id="pg015_n0018">Prindërit ia shpjeguan se objektet arkeologjike tregonin mënyrën e jetesës, kulturën, qytetërimin e popujve të lashtë, që nga epoka e vjetër e gurit e deri në mesjetën e hershme.</span>
+      <span data-id="pg015_n0019">Ato mund të jenë vendbanime, ndërtesa të mëdha, si: piramida, ura, tempuj, varre etj.</span>
+    </p>
+
+    <div class="mb-4 flex justify-center">
+      <img data-id="pg015_im002" src="images/pg015_im002.png" alt="Pamje e Ulpianës me rrënoja arkeologjike dhe shtigje përreth" class="w-full max-w-3xl h-auto rounded-none">
+    </div>
+
+    <p class="adt-body mb-8 text-left leading-8 max-w-3xl mx-auto">
+      <span data-id="pg015_n0021">Vizitën e parë e bënë në Ulpianë.</span>
+      <span data-id="pg015_n0022">Nëna tregoi se Ulpiana është një monument i trashëgimisë kulturore, në afërsi të Prishtinës.</span>
+      <span data-id="pg015_n0023">Ulpiana ishte një qytet ilir i rëndësishëm për Mbretërinë Dardane.</span>
+    </p>
+
+    <div class="flex items-start gap-4 max-sm:flex-col">
+      <div class="w-[66%] max-sm:w-full">
+        <img data-id="pg015_im003" src="images/pg015_im003.png" alt="Pamje e kalasë së Artanës në majë kodre me male në sfond" class="w-full h-auto rounded-none">
+      </div>
+      <p class="adt-body w-[34%] text-left leading-8 max-sm:w-full">
+        <span data-id="pg015_n0025">Më pas u ndalën në Artanë (Novobërdë), në një kala mesjetare në Komunën e Artanës, mes qyteteve Gjilan dhe Prishtinë.</span>
+        <span data-id="pg015_n0026">Artana ka qenë qendër kryesore në kohën e mesjetës, me fortesë (kala) të madhe mesjetare, të ngritur në majë të një vullkani të shuar në formë koni.</span>
+      </p>
+    </div>
+  </div>
+</section></div>
+    </main>
+
+    <div class="relative z-50" id="interface-container"></div>
+    <div class="relative z-50" id="nav-container"></div>
+    <script src="./assets/offline-preloader.js?v=9f3d745a858de581"></script>
+    <script src="./assets/scorm.js"></script>
+    <script src="./assets/base.bundle.local.js"></script>
+
+
+
+<script src="./book-design/responses.js?v=9f3d745a858de581" data-book-responses="true"></script></body></html>

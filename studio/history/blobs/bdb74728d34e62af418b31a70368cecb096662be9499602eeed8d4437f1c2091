@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="sq"><head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Shoqëria dhe mjedisi</title>
+    <meta name="title-id" content="pg022_sec001">
+    <!-- Despite the name, this is the page's 1-based position in the reading
+         order, not a section id and not the printed page number. It drives the
+         "N of M" dock counter and is re-emitted on every package, so it tracks
+         the current order. Identity lives in title-id above. -->
+    <meta name="page-section-id" content="29">
+    <link href="./content/tailwind_output.css" rel="stylesheet">
+    <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+    <link href="./assets/fonts.css" rel="stylesheet">
+<link rel="stylesheet" href="./book-design/components.css?v=9f3d745a858de581" data-book-style="true"></head>
+
+<body class="min-h-screen flex items-center justify-center">
+    <main class="w-full">
+      <div id="content" class="container mx-auto w-full max-w-5xl px-8 max-sm:px-5 opacity-0 book" data-family="photo-comparison">
+  <section data-section-type="text_and_images" data-section-id="pg022_sec001" class="bg-white pb-10 text-slate-800 b-page">
+    <div class="-mx-8 bg-[#a274b5] max-sm:-mx-5 b-banner">
+      <div class="mx-auto w-full max-w-5xl px-8 py-16 max-sm:px-5 max-sm:py-10">
+        <h1 class="adt-h2 font-bold text-white" data-id="pg022_n0002">Fshati dikur dhe sot</h1>
+      </div>
+    </div>
+
+    <aside class="mt-0 rounded-b-[2rem] rounded-t-none border-4 border-t-0 border-purple-500 bg-white px-6 py-4 max-sm:px-4 b-keywords">
+      <div class="flex items-center gap-4 max-sm:flex-col max-sm:items-start max-sm:gap-3">
+        <span data-id="pg022_n0004" class="inline-flex min-h-11 shrink-0 items-center rounded-[1.4rem] border-4 border-purple-600 bg-[#c79ad7] px-6 py-3 font-bold text-white b-keyword-label">Fjalët kyçe:</span>
+        <p class="adt-body min-w-0 flex-1 text-left text-slate-800 break-words"><span data-id="pg022_n0005">fshat, bujqësi, blegtori, urbanizim.</span></p>
+      </div>
+    </aside>
+
+    <aside class="mt-6 rounded-[2rem] bg-[#94cce0] px-6 py-5 shadow-sm max-sm:px-4">
+      <div class="flex items-start gap-5 max-sm:flex-col max-sm:gap-4">
+        <div aria-hidden="true" class="flex h-20 w-20 shrink-0 items-center justify-center rounded-full bg-white/75 text-center leading-none b-rubric-wrapper"><img src="images/pg005_im002.png" alt="" aria-hidden="true" class="b-rubric-icon"></div>
+        <div class="flex-1">
+          <h3 class="adt-h3 mb-3 font-semibold text-slate-900" data-id="pg022_n0008">Shpreh mendimin tënd</h3>
+          <ul class="space-y-4">
+            <li class="adt-body text-left text-slate-900">
+              <div class="flex items-start gap-2"><span aria-hidden="true">–</span><span data-id="pg022_n0011">Si ka qenë fshati dikur?</span></div>
+              <label for="item-1" class="sr-only">Si ka qenë fshati dikur?</label>
+              <textarea id="item-1" data-activity-item="item-1" aria-label="Si ka qenë fshati dikur?" class="mt-2 min-h-11 w-full rounded-xl border-2 border-sky-700 bg-white px-4 py-3 outline-none focus:border-purple-500"></textarea>
+            </li>
+            <li class="adt-body text-left text-slate-900">
+              <div class="flex items-start gap-2"><span aria-hidden="true">–</span><span data-id="pg022_n0013">Si është fshati sot?</span></div>
+              <label for="item-2" class="sr-only">Si është fshati sot?</label>
+              <textarea id="item-2" data-activity-item="item-2" aria-label="Si është fshati sot?" class="mt-2 min-h-11 w-full rounded-xl border-2 border-sky-700 bg-white px-4 py-3 outline-none focus:border-purple-500"></textarea>
+            </li>
+            <li class="adt-body text-left text-slate-900">
+              <div class="flex items-start gap-2"><span aria-hidden="true">–</span><span data-id="pg022_n0015">Analizoji fotografitë e dhëna më poshtë!</span></div>
+              <label for="item-3" class="sr-only">Analizoji fotografitë e dhëna më poshtë!</label>
+              <textarea id="item-3" data-activity-item="item-3" aria-label="Analizoji fotografitë e dhëna më poshtë!" class="mt-2 min-h-11 w-full rounded-xl border-2 border-sky-700 bg-white px-4 py-3 outline-none focus:border-purple-500"></textarea>
+            </li>
+            <li class="adt-body text-left text-slate-900">
+              <div class="flex items-start gap-2"><span aria-hidden="true">–</span><span data-id="pg022_n0017">Përmend disa ndryshime të fshatit dikur dhe sot.</span></div>
+              <label for="item-4" class="sr-only">Përmend disa ndryshime të fshatit dikur dhe sot.</label>
+              <textarea id="item-4" data-activity-item="item-4" aria-label="Përmend disa ndryshime të fshatit dikur dhe sot." class="mt-2 min-h-11 w-full rounded-xl border-2 border-sky-700 bg-white px-4 py-3 outline-none focus:border-purple-500"></textarea>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </aside>
+
+    <div class="mt-6 overflow-hidden max-lg:overflow-visible">
+      <div class="float-left mr-5 w-[58%] max-lg:float-none max-lg:mr-0 max-lg:w-full">
+        <div class="flex flex-col gap-1">
+          <img data-id="pg022_im003" src="images/pg022_im003.png" alt="Pamje e fshatit dikur me rrugë të thjeshta dhe kodra të hapura" class="h-auto w-full object-cover">
+          <img data-id="pg022_im004" src="images/pg022_im004.png" alt="Pamje e fshatit sot me rrugë të asfaltuar, makina dhe shumë ndërtesa" class="h-auto w-full object-cover">
+        </div>
+      </div>
+
+      <div class="adt-body text-left leading-8">
+        <p class="adt-body text-left leading-8"><span data-id="pg022_n0019">Në të kaluarën, në fshatra zakonisht njerëzit punonin me bagëti dhe në ara (si punë kryesore).</span> <span data-id="pg022_n0020">Përdornin vegla të thjeshta për punë dhe shumë fshatra ofronin shërbime bazë ushqimore për zonat përreth.</span> <span data-id="pg022_n0021">Shtëpitë dikur ishin të thjeshta.</span> <span data-id="pg022_n0022">Fshatrat karakterizoheshin nga hapësira të gjelbëruara.</span></p>
+        <p class="adt-body mt-3 text-left leading-8"><span data-id="pg022_n0024">Dikur ishte vështirë të udhëtoje në fshat, sepse nuk kishte automjete.</span> <span data-id="pg022_n0025">Njerëzit udhëtonin kryesisht me qerre me kuaj nëpër rrugë të ngushta.</span></p>
+        <p class="adt-body mt-3 text-left leading-8"><span data-id="pg022_n0027">Në fshatrat e sotme, bujqësia dhe blegtoria janë zhvilluar shumë, meqë tani përdoren mjete më bashkëkohore të punës, të cilat i kanë lehtësuar këto veprimtari.</span> <span data-id="pg022_n0028">Po ashtu, njerëzit në fshatra nuk varen më nga bujqësia dhe blegtoria, meqë shumica janë të angazhuar në sektorë të ndryshëm.</span> <span data-id="pg022_n0029">Gjithashtu, fshatrat e sotme kanë ndryshuar edhe në infrastrukturë; ato karakterizohen nga shtëpi me arkitekturë moderne, rrugë të asfaltuara, pak fabrika etj.</span></p>
+      </div>
+    </div>
+
+    <aside class="mt-10 rounded-[2rem] border-4 border-purple-500 bg-white px-6 py-5 max-sm:px-4">
+      <div class="flex items-start gap-4 max-sm:flex-col max-sm:gap-3">
+        <div aria-hidden="true" class="shrink-0 leading-none b-rubric-wrapper"><img src="images/pg005_im006.png" alt="" aria-hidden="true" class="b-rubric-icon"></div>
+        <div class="flex-1 border-t-4 border-purple-500 pt-3 max-sm:border-t-0 max-sm:pt-0">
+          <h3 class="adt-h3 mb-4 font-semibold text-purple-700" data-id="pg022_n0032">Pyetje për ty</h3>
+          <ul class="space-y-4">
+            <li class="adt-body text-left text-slate-900">
+              <div class="flex items-start gap-2"><span aria-hidden="true">–</span><span data-id="pg022_n0035">Çfarë faktorësh mendon që ndikuan në ndryshimin e fshatit dikur me të sotmin?</span></div>
+              <label for="item-5" class="sr-only">Çfarë faktorësh mendon që ndikuan në ndryshimin e fshatit dikur me të sotmin?</label>
+              <textarea id="item-5" data-activity-item="item-5" aria-label="Çfarë faktorësh mendon që ndikuan në ndryshimin e fshatit dikur me të sotmin?" class="mt-2 min-h-11 w-full rounded-xl border-2 border-purple-400 bg-purple-50 px-4 py-3 outline-none focus:border-purple-600"></textarea>
+            </li>
+            <li class="adt-body text-left text-slate-900">
+              <div class="flex items-start gap-2"><span aria-hidden="true">–</span><span data-id="pg022_n0037">Analizo se si u formuan qytezat dhe qytetet!</span></div>
+              <label for="item-6" class="sr-only">Analizo se si u formuan qytezat dhe qytetet!</label>
+              <textarea id="item-6" data-activity-item="item-6" aria-label="Analizo se si u formuan qytezat dhe qytetet!" class="mt-2 min-h-11 w-full rounded-xl border-2 border-purple-400 bg-purple-50 px-4 py-3 outline-none focus:border-purple-600"></textarea>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </aside>
+  </section>
+</div>
+    </main>
+
+    <div class="relative z-50" id="interface-container"></div>
+    <div class="relative z-50" id="nav-container"></div>
+    <script src="./assets/offline-preloader.js?v=9f3d745a858de581"></script>
+    <script src="./assets/scorm.js"></script>
+    <script src="./assets/base.bundle.local.js"></script>
+
+
+
+<script src="./book-design/responses.js?v=9f3d745a858de581" data-book-responses="true"></script></body></html>

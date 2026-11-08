@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="sq"><head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Shoqëria dhe mjedisi</title>
+    <meta name="title-id" content="pg044_sec001">
+    <!-- Despite the name, this is the page's 1-based position in the reading
+         order, not a section id and not the printed page number. It drives the
+         "N of M" dock counter and is re-emitted on every package, so it tracks
+         the current order. Identity lives in title-id above. -->
+    <meta name="page-section-id" content="70">
+    <link href="./content/tailwind_output.css" rel="stylesheet">
+    <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+    <link href="./assets/fonts.css" rel="stylesheet">
+<link rel="stylesheet" href="./book-design/components.css?v=9f3d745a858de581" data-book-style="true"></head>
+
+<body class="min-h-screen flex items-center justify-center">
+    <main class="w-full">
+      <div id="content" class="container mx-auto w-full max-w-5xl px-8 max-sm:px-5 opacity-0 book" data-family="chapter-lesson">
+  <section data-section-type="text_and_images" data-section-id="pg044_sec001" class="bg-white pb-8 text-slate-800 b-page">
+    <div class="-mx-8 bg-[#a373b6] max-sm:-mx-5 b-banner">
+      <div class="mx-auto w-full max-w-5xl px-8 py-14 max-sm:px-5 max-sm:py-10">
+        <h1 class="adt-h1 font-bold text-white" data-id="pg044_n0002">Të ndryshëm, por të barabartë</h1>
+        <p class="adt-body mt-2 text-white"><span data-id="pg044_n0003" class="b-chapter-subtitle">Kultura, gjuha, tradita dhe vlerat njerëzore</span></p>
+      </div>
+    </div>
+
+    <div class="mt-4 rounded-[2rem] border-4 border-[#9f49f2] bg-white px-6 py-5 max-sm:px-4">
+      <p class="adt-body text-left leading-relaxed text-slate-800">
+        <span data-id="pg044_n0005" class="mr-3 inline-block rounded-[1.4rem] border-2 border-[#8d4aa8] bg-[#b78bd0] px-4 py-3 font-semibold text-white b-keyword-label">Fjalët kyçe:</span><span data-id="pg044_n0006">gjuhë, kulturë, traditë, zakon, vlera njerëzore.</span>
+      </p>
+    </div>
+
+    <div class="mt-8 rounded-[2rem] bg-[#8cc4d8] p-6 max-sm:p-4">
+      <div class="overflow-hidden rounded-[1.75rem] bg-[#8cc4d8]">
+        <div class="float-right ml-8 mb-4 w-[33%] rounded-[1.8rem] border-2 border-[#7ab2d3] bg-[#fff0bf] p-5 max-lg:w-[36%] max-sm:float-none max-sm:ml-0 max-sm:mb-5 max-sm:w-full max-sm:p-4">
+          <div class="space-y-4">
+            <div>
+              <label for="item-1" class="sr-only">Emri dhe mbiemri</label>
+              <input id="item-1" data-activity-item="item-1" type="text" aria-label="Emri dhe mbiemri" placeholder="Emri dhe mbiemri" class="min-h-11 w-full rounded-[1.2rem] border-2 border-[#f2c22b] bg-white px-4 py-3 text-slate-800 outline-none placeholder:text-slate-700 focus:border-purple-500">
+            </div>
+            <div>
+              <label for="item-2" class="sr-only">Gjuha amtare</label>
+              <input id="item-2" data-activity-item="item-2" type="text" aria-label="Gjuha amtare" placeholder="Gjuha amtare" class="min-h-11 w-full rounded-[1.2rem] border-2 border-[#f2c22b] bg-white px-4 py-3 text-slate-800 outline-none placeholder:text-slate-700 focus:border-purple-500">
+            </div>
+            <div>
+              <label for="item-3" class="sr-only">Kombësia</label>
+              <input id="item-3" data-activity-item="item-3" type="text" aria-label="Kombësia" placeholder="Kombësia" class="min-h-11 w-full rounded-[1.2rem] border-2 border-[#f2c22b] bg-white px-4 py-3 text-slate-800 outline-none placeholder:text-slate-700 focus:border-purple-500">
+            </div>
+          </div>
+        </div>
+
+        <div class="rounded-[1.75rem] bg-[#79b6c8] p-4 max-sm:p-3">
+          <img src="images/pg044_im004.png" alt="Fëmijë që komunikojnë dhe bashkëpunojnë me njëri-tjetrin" data-id="pg044_im004" class="w-full h-auto rounded-[1.25rem]">
+        </div>
+
+        <h2 class="adt-h2 mt-4 text-slate-900" data-id="pg044_n0008">Shpreh mendimin tënd</h2>
+        <p class="adt-body mt-4 clear-both text-left text-slate-900"><span data-id="pg044_n0009">Njerëzit janë qenie të gjalla që flasin dhe bashkëpunojnë me njëri-tjetrin, duke përdorur të njëjtën gjuhë me zë, me fjalë ose me shenja.</span></p>
+      </div>
+    </div>
+
+    <div class="mt-8 space-y-2 text-left text-slate-900">
+      <p class="adt-body leading-relaxed"><span data-id="pg044_n0011">Situatë: Një ditë, nxënësit e klasës së pestë vendosën që të diskutonin për llojllojshmërinë etnike dhe kulturore.</span></p>
+      <p class="adt-body leading-relaxed"><span data-id="pg044_n0012">Ata u ulën në formë rrethore dhe filluan që të flisnin me radhë.</span></p>
+      <p class="adt-body leading-relaxed"><span data-id="pg044_n0013">Ana mori fjalën e para dhe tha se ne na bashkojnë shumë gjëra.</span></p>
+      <p class="adt-body leading-relaxed"><span data-id="pg044_n0014">“Po”, - ndërhyri menjëherë Lisi.</span></p>
+      <p class="adt-body leading-relaxed"><span data-id="pg044_n0015">“Të gjithë ne flasim, ecim, mendojmë dhe kujdesemi për njëri-tjetrin”.</span></p>
+      <p class="adt-body leading-relaxed"><span data-id="pg044_n0016">“Unë dua të di,- tha Mati, - se nga se ndryshojnë njerëzit?</span></p>
+      <p class="adt-body leading-relaxed"><span data-id="pg044_n0017">“Njerëzit ndryshojnë nga përkatësia kombëtare, gjuha që flasin, vendi ku jetojnë etj.”, nxitoi të fliste Era.</span></p>
+      <p class="adt-body leading-relaxed"><span data-id="pg044_n0018">“Ne kemi traditat, veshjet, ushqimin tonë, vlerat njerëzore që nuk i harrojmë edhe kur largohemi nga vendlindja jonë”, tha Meritoni me krenari.</span></p>
+      <p class="adt-body leading-relaxed"><span data-id="pg044_n0019">Nxënësit diskutuan gjatë midis tyre dhe në fund kuptuan se kulturat duhen respektuar gjithmonë nga të gjithë.</span></p>
+      <p class="adt-body leading-relaxed"><span data-id="pg044_n0020">Në fund, ata përqafuan njëri-tjetrin duke buzëqeshur.</span></p>
+    </div>
+
+    <div class="mt-8">
+      <img src="images/pg044_im002.png" alt="Nxënës që ecin së bashku në shkollë" data-id="pg044_im002" class="w-full h-auto rounded-lg">
+    </div>
+  </section>
+</div>
+    </main>
+
+    <div class="relative z-50" id="interface-container"></div>
+    <div class="relative z-50" id="nav-container"></div>
+    <script src="./assets/offline-preloader.js?v=9f3d745a858de581"></script>
+    <script src="./assets/scorm.js"></script>
+    <script src="./assets/base.bundle.local.js"></script>
+
+
+
+<script src="./book-design/responses.js?v=9f3d745a858de581" data-book-responses="true"></script></body></html>

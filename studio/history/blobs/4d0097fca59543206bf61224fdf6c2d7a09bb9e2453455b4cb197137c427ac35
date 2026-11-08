@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="sq"><head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Shoqëria dhe mjedisi</title>
+    <meta name="title-id" content="pg031_sec002">
+    <!-- Despite the name, this is the page's 1-based position in the reading
+         order, not a section id and not the printed page number. It drives the
+         "N of M" dock counter and is re-emitted on every package, so it tracks
+         the current order. Identity lives in title-id above. -->
+    <meta name="page-section-id" content="56">
+    <link href="./content/tailwind_output.css" rel="stylesheet">
+    <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+    <link href="./assets/fonts.css" rel="stylesheet">
+<link rel="stylesheet" href="./book-design/components.css?v=9f3d745a858de581" data-book-style="true"></head>
+
+<body class="min-h-screen flex items-center justify-center">
+    <main class="w-full">
+      <h1 class="sr-only" id="page-heading">Shoqëria dhe mjedisi</h1>
+      <div id="content" class="container opacity-0 book" data-family="response"><h2 class="sr-only" id="section-heading">Shkruaj për ndryshimet që ndodhën në:</h2><section data-section-type="other" data-section-id="pg031_sec002" class="mx-auto w-full max-w-5xl px-8 py-8 max-sm:px-4 bg-white b-page">
+  <div class="rounded-[2rem] border-4 border-amber-300 bg-amber-50 p-8 shadow-sm max-sm:p-5">
+    <div class="mb-5 adt-body leading-relaxed text-slate-900">
+      <span data-id="pg031_n0004" class="mr-2 font-semibold">1.</span><span data-id="pg031_n0005">Shkruaj për ndryshimet që ndodhën në:</span>
+    </div>
+
+    <table class="w-full table-fixed border-separate border-spacing-0 overflow-hidden rounded-[1.75rem] bg-white max-sm:block" aria-label="Shkruaj për ndryshimet që ndodhën në:">
+      <tbody><tr class="max-sm:block">
+        <th scope="col" class="w-1/2 border-4 border-fuchsia-300 bg-fuchsia-50 p-4 text-center align-middle max-sm:block max-sm:w-full max-sm:border-b-0">
+          <span data-id="pg031_n0009" class="adt-body font-normal text-slate-900">blegtori</span>
+        </th>
+        <th scope="col" class="w-1/2 border-y-4 border-r-4 border-fuchsia-300 bg-fuchsia-50 p-4 text-center align-middle max-sm:block max-sm:w-full max-sm:border-l-4 max-sm:border-t-0">
+          <span data-id="pg031_n0011" class="adt-body font-normal text-slate-900">zejtari</span>
+        </th>
+      </tr>
+      <tr class="max-sm:block">
+        <td class="border-x-4 border-b-4 border-fuchsia-300 p-5 align-top max-sm:block max-sm:w-full max-sm:border-r-4 max-sm:border-b-0">
+          <label for="item-1" class="sr-only">Shkruaj për ndryshimet që ndodhën në blegtori</label>
+          <textarea id="item-1" data-activity-item="item-1" aria-label="Shkruaj për ndryshimet që ndodhën në blegtori" class="min-h-11 h-64 w-full rounded-[1.5rem] border-2 border-fuchsia-200 bg-fuchsia-50/40 p-4 text-slate-900 outline-none focus:border-fuchsia-400 focus:ring-2 focus:ring-fuchsia-200 max-sm:h-44"></textarea>
+        </td>
+        <td class="border-r-4 border-b-4 border-l-4 border-fuchsia-300 p-5 align-top max-sm:block max-sm:w-full max-sm:border-t-0">
+          <label for="item-2" class="sr-only">Shkruaj për ndryshimet që ndodhën në zejtari</label>
+          <textarea id="item-2" data-activity-item="item-2" aria-label="Shkruaj për ndryshimet që ndodhën në zejtari" class="min-h-11 h-64 w-full rounded-[1.5rem] border-2 border-fuchsia-200 bg-fuchsia-50/40 p-4 text-slate-900 outline-none focus:border-fuchsia-400 focus:ring-2 focus:ring-fuchsia-200 max-sm:h-44"></textarea>
+        </td>
+      </tr>
+    </tbody></table>
+  </div></section></div>
+    </main>
+
+    <div class="relative z-50" id="interface-container"></div>
+    <div class="relative z-50" id="nav-container"></div>
+    <script src="./assets/offline-preloader.js?v=9f3d745a858de581"></script>
+    <script src="./assets/scorm.js"></script>
+    <script src="./assets/base.bundle.local.js"></script>
+
+
+
+<script src="./book-design/responses.js?v=9f3d745a858de581" data-book-responses="true"></script></body></html>

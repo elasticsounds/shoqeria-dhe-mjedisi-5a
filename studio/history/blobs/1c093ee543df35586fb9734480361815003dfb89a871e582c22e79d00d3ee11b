@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="sq"><head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Shoqëria dhe mjedisi</title>
+    <meta name="title-id" content="pg017_sec003">
+    <!-- Despite the name, this is the page's 1-based position in the reading
+         order, not a section id and not the printed page number. It drives the
+         "N of M" dock counter and is re-emitted on every package, so it tracks
+         the current order. Identity lives in title-id above. -->
+    <meta name="page-section-id" content="23">
+    <link href="./content/tailwind_output.css" rel="stylesheet">
+    <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+    <link href="./assets/fonts.css" rel="stylesheet">
+<link rel="stylesheet" href="./book-design/components.css?v=9f3d745a858de581" data-book-style="true"></head>
+
+<body class="min-h-screen flex items-center justify-center">
+    <main class="w-full">
+      <div id="content" class="container opacity-0 book" data-family="reference"><section data-section-type="boxed_text" data-section-id="pg017_sec003" class="mx-auto w-full max-w-5xl px-8 max-sm:px-5 py-8 b-page">
+  <div class="space-y-8">
+    <div class="overflow-hidden rounded-[2rem] border-4 border-violet-500 bg-white shadow-[0_8px_0_rgba(168,85,247,0.12)] b-panel-reading">
+      <div class="flex items-start gap-4 px-6 pt-6 max-sm:px-4">
+        <div aria-hidden="true" class="flex h-20 w-20 items-center justify-center rounded-3xl bg-violet-400 text-white shadow-inner max-sm:h-16 max-sm:w-16 b-rubric-wrapper"><img src="images/pg005_im003.png" alt="" aria-hidden="true" class="b-rubric-icon"></div>
+        <div class="flex-1 pt-2">
+          <h1 class="adt-h3 font-semibold text-zinc-900" data-id="pg017_n0027">Thello dijet</h1>
+        </div>
+      </div>
+      <p class="adt-body px-6 pb-6 pt-4 leading-8 text-left text-zinc-800 max-sm:px-4"><span data-id="pg017_n0029">Në Kosovë ka shumë gjetje arkeologjike, sepse ka qenë e banuar qysh në kohët e lashta, për shkak të tokave bujqësore dhe klimës së përshtatshme që ka pasur.</span> <span data-id="pg017_n0030">Ka pasur gjetje në rreth 400 vende.</span> <span data-id="pg017_n0031">Gjetjet janë vendbanime, vizatime në shpella, armë, enë, mozaikë etj.</span> <span data-id="pg017_n0032">Shumica prej këtyre gjetjeve, ruhen në “Muzeun Etnologjik të Kosovës”.</span></p>
+    </div>
+
+    <aside class="overflow-hidden rounded-[2rem] bg-violet-200/80 ring-4 ring-violet-300 shadow-[0_8px_0_rgba(139,92,246,0.12)]">
+      <div class="flex items-start gap-4 px-6 py-6 max-sm:flex-col max-sm:px-4">
+        <div aria-hidden="true" class="flex h-24 w-24 items-center justify-center rounded-full bg-violet-500 text-white shadow-lg max-sm:h-20 max-sm:w-20 b-rubric-wrapper"><img src="images/pg005_im001.png" alt="" aria-hidden="true" class="b-rubric-icon"></div>
+        <div class="flex-1 space-y-4">
+          <h3 class="adt-h3 font-semibold text-zinc-900" data-id="pg017_n0035">Fjalorthi</h3>
+          <div class="adt-body leading-8 text-zinc-900"><span data-id="pg017_n0037">Artefakt -</span> <span data-id="pg017_n0038">një objekt i ndërtuar nga njeriu, i gjetur nga gërmimet arkeologjike.</span></div>
+          <div class="adt-body leading-8 text-zinc-900"><span data-id="pg017_n0040">Dardani -</span> <span data-id="pg017_n0041">Kosova në kohën e Ilirisë.</span></div>
+        </div>
+      </div>
+    </aside>
+  </div>
+</section></div>
+    </main>
+
+    <div class="relative z-50" id="interface-container"></div>
+    <div class="relative z-50" id="nav-container"></div>
+    <script src="./assets/offline-preloader.js?v=9f3d745a858de581"></script>
+    <script src="./assets/scorm.js"></script>
+    <script src="./assets/base.bundle.local.js"></script>
+
+
+
+<script src="./book-design/responses.js?v=9f3d745a858de581" data-book-responses="true"></script></body></html>

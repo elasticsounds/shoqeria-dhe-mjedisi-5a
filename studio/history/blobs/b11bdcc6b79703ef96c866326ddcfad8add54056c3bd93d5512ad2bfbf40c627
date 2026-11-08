@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="sq"><head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Shoqëria dhe mjedisi</title>
+    <meta name="title-id" content="pg032_sec001">
+    <!-- Despite the name, this is the page's 1-based position in the reading
+         order, not a section id and not the printed page number. It drives the
+         "N of M" dock counter and is re-emitted on every package, so it tracks
+         the current order. Identity lives in title-id above. -->
+    <meta name="page-section-id" content="62">
+    <link href="./content/tailwind_output.css" rel="stylesheet">
+    <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+    <link href="./assets/fonts.css" rel="stylesheet">
+<link rel="stylesheet" href="./book-design/components.css?v=9f3d745a858de581" data-book-style="true"></head>
+
+<body class="min-h-screen flex items-center justify-center">
+    <main class="w-full">
+      <div id="content" class="container mx-auto opacity-0 book" data-family="illustrated-lesson">
+  <section data-section-type="text_and_images" data-section-id="pg032_sec001" class="w-full bg-white b-page">
+    <div class="w-full bg-purple-500 b-banner">
+      <div class="mx-auto w-full max-w-5xl px-8 py-16 max-sm:px-5 max-sm:py-10">
+        <h1 class="adt-h1 font-bold text-white text-left" data-id="pg032_n0002">Veshjet tradicionale kosovare</h1>
+      </div>
+    </div>
+
+    <div class="mx-auto w-full max-w-5xl px-8 py-6 space-y-10 max-sm:px-5">
+      <div class="border-4 border-purple-500 rounded-[2rem] overflow-hidden bg-white flex items-stretch max-sm:flex-col max-sm:rounded-3xl">
+        <div class="bg-purple-400 text-white px-5 py-4 flex items-center rounded-r-3xl max-sm:rounded-r-none max-sm:rounded-b-3xl">
+          <span class="adt-body font-bold b-keyword-label" data-id="pg032_n0004">Fjalët kyçe:</span>
+        </div>
+        <div class="px-5 py-4 flex items-center">
+          <span class="adt-body text-stone-700" data-id="pg032_n0005">veshje tradicionale, trashëgimi kulturore, vlerë, traditë.</span>
+        </div>
+      </div>
+
+      <aside class="bg-sky-300 rounded-[2rem] px-6 py-5 shadow-sm max-sm:px-4 b-panel-thought">
+        <div class="flex items-start gap-5 max-sm:flex-col max-sm:gap-3">
+          <div aria-hidden="true" class="shrink-0 w-24 h-24 max-sm:w-20 max-sm:h-20 rounded-full bg-white border-2 border-slate-400 flex items-center justify-center text-violet-300 b-rubric-wrapper"><img src="images/pg005_im002.png" alt="" aria-hidden="true" class="b-rubric-icon"></div>
+          <div class="space-y-3 w-full">
+            <h2 class="adt-h2 text-left font-medium text-stone-800" data-id="pg032_n0008">Shpreh mendimin tënd</h2>
+            <ul class="space-y-3 text-stone-800">
+              <li class="adt-body flex flex-col gap-2">
+                <span data-id="pg032_n0011">A e di se populli ynë ka shumë veshje tradicionale?</span>
+                <textarea id="item-1" data-activity-item="item-1" aria-label="A e di se populli ynë ka shumë veshje tradicionale?" class="w-full min-h-11 rounded-2xl border-2 border-sky-700 bg-white px-4 py-3 text-stone-800 outline-none focus:ring-2 focus:ring-sky-500"></textarea>
+              </li>
+              <li class="adt-body flex flex-col gap-2">
+                <span data-id="pg032_n0013">Në cilat raste vishen ato?</span>
+                <textarea id="item-2" data-activity-item="item-2" aria-label="Në cilat raste vishen ato?" class="w-full min-h-11 rounded-2xl border-2 border-sky-700 bg-white px-4 py-3 text-stone-800 outline-none focus:ring-2 focus:ring-sky-500"></textarea>
+              </li>
+              <li class="adt-body flex flex-col gap-2">
+                <span data-id="pg032_n0015">Analizoji fotografitë me informacionet e dhëna!</span>
+                <textarea id="item-3" data-activity-item="item-3" aria-label="Analizoji fotografitë me informacionet e dhëna!" class="w-full min-h-11 rounded-2xl border-2 border-sky-700 bg-white px-4 py-3 text-stone-800 outline-none focus:ring-2 focus:ring-sky-500"></textarea>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </aside>
+
+      <div class="grid grid-cols-[1fr_1.3fr_1.2fr_1.1fr] gap-6 items-start max-lg:grid-cols-2 max-sm:grid-cols-1">
+        <div class="flex justify-center">
+          <img src="images/pg032_im003.png" alt="Veshje tradicionale burrash me tirq të bardhë të zbukuruar me gajtanë të zinj, brez në mes, mbulesë të bardhë të kokës dhe opinga." data-id="pg032_im003" class="w-full h-auto max-w-[220px] object-contain">
+        </div>
+        <p class="adt-body text-left text-stone-800 leading-8">
+          <span data-id="pg032_n0018">Veshjet tradicionale të burrave zakonisht përbëhen nga një këmishë e bardhë dhe tirqit të punuar prej shajaku.</span>
+          <span> </span>
+          <span data-id="pg032_n0019">Tirqit janë të zbukuruar me gajtanë me ngjyrë të zezë.</span>
+          <span> </span>
+          <span data-id="pg032_n0020">Rreth tirqve është e vendosur shoka.</span>
+          <span> </span>
+          <span data-id="pg032_n0021">Në kokë mbahet plisi, si simbol i shqiptarëve.</span>
+          <span> </span>
+          <span data-id="pg032_n0022">Në disa treva, si në Rugovë p.sh., koka lidhet edhe me shall.</span>
+          <span> </span>
+          <span data-id="pg032_n0023">Si mbathje janë përdorur opingat.</span>
+        </p>
+        <div class="flex justify-center">
+          <img src="images/pg032_im004.png" alt="Xhubletë e zezë me fund të valëzuar, e zbukuruar me shirita dhe ornamente shumëngjyrëshe." data-id="pg032_im004" class="w-full h-auto object-contain rounded-sm">
+        </div>
+        <p class="adt-body text-left text-stone-800 leading-8">
+          <span data-id="pg032_n0025">Xhubleta është veshje me skaj të valëzuar si zile, e cila mbahet nga dy shiritat mbi supe, vishet me një këmishë të bardhë prej liri me mëngë të gjata.</span>
+          <span> </span>
+          <span data-id="pg032_n0026">Në këmbë mbathen çorapë leshi dhe opinga.</span>
+          <span> </span>
+          <span data-id="pg032_n0027">Kjo veshje tradicionale shqiptare mbrohet nga UNESCO-ja.</span>
+        </p>
+      </div>
+
+      <div class="grid grid-cols-[0.9fr_1.9fr_1fr] gap-8 items-start max-lg:grid-cols-1">
+        <div class="flex justify-center max-lg:order-1">
+          <img src="images/pg032_im005.png" alt="Veshje e Dukagjinit për gra, me fustan të bardhë, jelek të kuq, shall me thekë në bel, çorape të errëta dhe opinga." data-id="pg032_im005" class="w-full h-auto max-w-[180px] object-contain">
+        </div>
+        <p class="adt-body text-left text-stone-800 leading-8 max-lg:order-2">
+          <span data-id="pg032_n0030">Pothuajse të gjitha veshjet e grave janë të përbëra nga një këmishë e bardhë e gjatë, me mëngë të gjata, skajet e së cilës janë të qëndisura me ngjyra.</span>
+          <span> </span>
+          <span data-id="pg032_n0031">Sipër, gratë mbajnë një jelek të zbukuruar me fije të arta.</span>
+          <span> </span>
+          <span data-id="pg032_n0032">Dy pështjellakë janë gjithashtu karakteristikë e këtyre veshjeve.</span>
+          <span> </span>
+          <span data-id="pg032_n0033">Çorapët janë prej leshi dhe opingat prej lëkure.</span>
+          <span> </span>
+          <span data-id="pg032_n0034">Veshjet dallojnë sipas moshave; zakonisht veshjet e vajzave janë më të stolisura se ato të grave.</span>
+        </p>
+        <div class="flex flex-col items-center gap-4 max-lg:order-3">
+          <img src="images/pg032_im001.png" alt="Veshje e Hasit për gra, me këmishë të çelët, jelek rozë dhe përparëse e fund të mbuluar me qëndisje e motive shumëngjyrëshe." data-id="pg032_im001" class="w-full h-auto max-w-[240px] object-contain">
+          <div class="adt-caption italic text-stone-800 text-left w-full">
+            <span data-id="pg032_n0036">Veshje e Hasit</span>
+          </div>
+        </div>
+      </div>
+
+      <div class="adt-caption italic text-stone-800 text-left">
+        <span data-id="pg032_n0037">Veshje e Dukagjinit</span>
+      </div>
+    </div>
+  </section>
+</div>
+    </main>
+
+    <div class="relative z-50" id="interface-container"></div>
+    <div class="relative z-50" id="nav-container"></div>
+    <script src="./assets/offline-preloader.js?v=9f3d745a858de581"></script>
+    <script src="./assets/scorm.js"></script>
+    <script src="./assets/base.bundle.local.js"></script>
+
+
+
+<script src="./book-design/responses.js?v=9f3d745a858de581" data-book-responses="true"></script></body></html>

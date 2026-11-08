@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="sq"><head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Shoqëria dhe mjedisi</title>
+    <meta name="title-id" content="pg033_sec003">
+    <meta name="page-section-id" content="69">
+    <link href="./content/tailwind_output.css" rel="stylesheet">
+    <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+    <link href="./assets/fonts.css" rel="stylesheet">
+    <link rel="stylesheet" href="./book-design/components.css?v=9f3d745a858de581" data-book-style="true">
+    <style>
+      /* Focused view of the source reading panel. PatrickHand is not available;
+         the cursive stack is a visible substitute, not the source font. */
+      #content.book.pg033-reading {container-type:inline-size; padding:40px 0 128px;}
+      #content.book.pg033-reading > section {margin:0 2.3% 0 14.7%; padding:0;}
+      #content.book.pg033-reading .reading-frame {position:relative; border:2px solid #7950aa; border-right:0; border-radius:20px 0 0 20px; padding:0 0 18px;}
+      #content.book.pg033-reading .reading-badge {position:absolute; left:-2px; top:-2px; width:10.5%; max-width:none; height:auto;}
+      #content.book.pg033-reading h1 {font:400 clamp(23px,2.815cqw,28.15px)/1.2 'Segoe Print','Comic Sans MS',cursive; color:#30313a; margin:0 0 0 11.8%; padding-top:2.6%;}
+      #content.book.pg033-reading .reading-copy {width:87.4%; margin:3.2% 0 0 1.1%; font-family:BookAmiri,Georgia,serif;}
+      #content.book.pg033-reading .reading-copy p {font:400 clamp(16px,1.877cqw,18.77px)/1.333 BookAmiri,Georgia,serif; color:#30313a; text-align:justify; margin:0;}
+      #content.book.pg033-reading .reading-copy p:first-child {text-indent:13.5%;}
+      @media (max-width:700px) {
+        #content.book.pg033-reading {padding:24px 0 120px;}
+        #content.book.pg033-reading > section {margin:0 16px;}
+        #content.book.pg033-reading .reading-frame {padding:0 14px 16px; border-radius:16px 0 0 16px;}
+        #content.book.pg033-reading .reading-badge {width:62px;}
+        #content.book.pg033-reading h1 {font-size:25px; margin-left:62px; padding-top:16px; min-height:69px;}
+        #content.book.pg033-reading .reading-copy {width:auto; margin:12px 0 0;}
+        #content.book.pg033-reading .reading-copy p {font-size:18px; line-height:1.5; text-align:left;}
+        #content.book.pg033-reading .reading-copy p:first-child {text-indent:2em;}
+      }
+    </style>
+</head>
+<body class="min-h-screen flex items-center justify-center">
+    <main class="w-full">
+      <div id="content" class="container opacity-0 book pg033-reading" data-family="reference">
+        <section data-section-type="boxed_text" data-section-id="pg033_sec003" class="b-page">
+          <div class="reading-frame">
+            <img class="reading-badge" src="studio/assets/pg033_reading_badge.png" alt="" aria-hidden="true">
+            <h1 data-id="pg033_n0023">Thello dijet</h1>
+            <div class="reading-copy">
+              <p><span data-id="pg033_n0025">Veshja tradicionale është një nga tiparet që e dallon një komb nga kombet e tjera.</span></p>
+              <p><span data-id="pg033_n0026">Veshjet tradicionale ekzistojnë që nga periudha ilire.</span> <span data-id="pg033_n0027">Simbolet dhe motivet themelore me të cilat janë disenjuar këto veshje u ngjajnë veshjeve ilire.</span> <span data-id="pg033_n0028">Materialet që përdoren për krijimin e këtyre rrobave janë të thurura.</span> <span data-id="pg033_n0029">Kryesisht, këto rroba kanë tri ngjyra kryesore: të bardhë, të zezë dhe të kuqe (e cila është më simbolikja).</span> <span data-id="pg033_n0030">Veshjet tradicionale në Kosovë dallohen sipas krahinave, si: veshja e Dukagjinit, e Hasit, e Llapit, e Rugovës, e Opojës, e Karadakut e të tjera.</span></p>
+              <p><span data-id="pg033_n0031">Në ditët e sotme, në Kosovë veshjet tradicionale përdoren në jetën artistike e kulturore dhe në festa të ndryshme familjare.</span> <span data-id="pg033_n0032">Ato ruhen edhe në muze si dëshmi kulturore për vendin tonë.</span></p>
+            </div>
+          </div>
+        </section>
+      </div>
+    </main>
+    <div class="relative z-50" id="interface-container"></div>
+    <div class="relative z-50" id="nav-container"></div>
+    <script src="./assets/offline-preloader.js?v=9f3d745a858de581"></script>
+    <script src="./assets/scorm.js"></script>
+    <script src="./assets/base.bundle.local.js"></script>
+    <script src="./book-design/responses.js?v=9f3d745a858de581" data-book-responses="true"></script>
+</body></html>

@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="sq"><head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Shoqëria dhe mjedisi</title>
+    <meta name="title-id" content="pg023_sec002">
+    <!-- Despite the name, this is the page's 1-based position in the reading
+         order, not a section id and not the printed page number. It drives the
+         "N of M" dock counter and is re-emitted on every package, so it tracks
+         the current order. Identity lives in title-id above. -->
+    <meta name="page-section-id" content="32">
+    <link href="./content/tailwind_output.css" rel="stylesheet">
+    <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+    <link href="./assets/fonts.css" rel="stylesheet">
+<link rel="stylesheet" href="./book-design/components.css?v=9f3d745a858de581" data-book-style="true"></head>
+
+<body class="min-h-screen flex items-center justify-center">
+    <main class="w-full">
+      <div id="content" class="container opacity-0 book" data-family="reference">
+  <section data-section-type="boxed_text" data-section-id="pg023_sec002" class="mx-auto w-full max-w-5xl px-8 max-sm:px-5 py-8 bg-white b-page">
+    <div class="space-y-6">
+      <aside class="rounded-[2rem] bg-[#a8cf8f] border-4 border-[#8e5bb7] p-6 max-sm:p-4 text-left shadow-sm">
+        <h1 class="adt-h3 font-bold text-[#1f2937] mb-4" data-id="pg023_n0011">Diskuto</h1>
+        <div class="space-y-4">
+          <div class="rounded-2xl bg-white/60 p-4">
+            <p class="adt-body text-[#1f2937]"><span data-id="pg023_n0014">Çfarë mendon për jetën në fshat dikur?</span></p>
+            <label for="item-1" class="sr-only">Çfarë mendon për jetën në fshat dikur?</label>
+            <textarea id="item-1" data-activity-item="item-1" aria-label="Çfarë mendon për jetën në fshat dikur?" class="mt-3 w-full min-h-11 rounded-xl border-2 border-[#8e5bb7] bg-white px-4 py-3 text-[#1f2937] outline-none focus:ring-2 focus:ring-[#8e5bb7]"></textarea>
+          </div>
+          <div class="rounded-2xl bg-white/60 p-4">
+            <p class="adt-body text-[#1f2937]"><span data-id="pg023_n0016">A mund të gjesh diçka të përbashkët me jetën në fshat sot?</span></p>
+            <label for="item-2" class="sr-only">A mund të gjesh diçka të përbashkët me jetën në fshat sot?</label>
+            <textarea id="item-2" data-activity-item="item-2" aria-label="A mund të gjesh diçka të përbashkët me jetën në fshat sot?" class="mt-3 w-full min-h-11 rounded-xl border-2 border-[#8e5bb7] bg-white px-4 py-3 text-[#1f2937] outline-none focus:ring-2 focus:ring-[#8e5bb7]"></textarea>
+          </div>
+          <div class="rounded-2xl bg-white/60 p-4">
+            <p class="adt-body text-[#1f2937]"><span data-id="pg023_n0018">Krahasoji fshatrat e Kosovës me fshatrat e vendeve të tjera në botë!</span> <span data-id="pg023_n0019">Analizoji ndryshimet!</span></p>
+            <label for="item-3" class="sr-only">Krahasoji fshatrat e Kosovës me fshatrat e vendeve të tjera në botë! Analizoji ndryshimet!</label>
+            <textarea id="item-3" data-activity-item="item-3" aria-label="Krahasoji fshatrat e Kosovës me fshatrat e vendeve të tjera në botë! Analizoji ndryshimet!" class="mt-3 w-full min-h-11 rounded-xl border-2 border-[#8e5bb7] bg-white px-4 py-3 text-[#1f2937] outline-none focus:ring-2 focus:ring-[#8e5bb7]"></textarea>
+          </div>
+          <div class="rounded-2xl bg-white/60 p-4">
+            <p class="adt-body text-[#1f2937]"><span data-id="pg023_n0021">Hulumtim në grup: Grupi 1 - Fshati dikur; grupi 2 - Fshati sot; grupi 3 - Krahasimi i fshatit dikur dhe sot; grupi 4 - Intervistë me gjyshërit: Si ishte fshati dikur?</span></p>
+            <label for="item-4" class="sr-only">Hulumtim në grup: Grupi 1 - Fshati dikur; grupi 2 - Fshati sot; grupi 3 - Krahasimi i fshatit dikur dhe sot; grupi 4 - Intervistë me gjyshërit: Si ishte fshati dikur?</label>
+            <textarea id="item-4" data-activity-item="item-4" aria-label="Hulumtim në grup: Grupi 1 - Fshati dikur; grupi 2 - Fshati sot; grupi 3 - Krahasimi i fshatit dikur dhe sot; grupi 4 - Intervistë me gjyshërit: Si ishte fshati dikur?" class="mt-3 w-full min-h-11 rounded-xl border-2 border-[#8e5bb7] bg-white px-4 py-3 text-[#1f2937] outline-none focus:ring-2 focus:ring-[#8e5bb7]"></textarea>
+          </div>
+        </div>
+      </aside>
+
+      <div class="rounded-[2rem] border-4 border-[#8e5bb7] bg-white p-6 max-sm:p-4 shadow-sm">
+        <h3 class="adt-h3 font-bold text-[#1f2937] mb-4" data-id="pg023_n0024">Thello dijet</h3>
+        <p class="adt-body leading-8 text-[#1f2937]"><span data-id="pg023_n0026">Fshati është një vend ku jetojnë njerëz, të cilët kryesisht merren me bujqësi dhe blegtori.</span> <span data-id="pg023_n0027">Fshati dikur konsiderohej burimi kryesor i të ardhurave të qytetit.</span> <span data-id="pg023_n0028">Në fshat, numri i popullsisë është më i vogël se në qytet, si dhe shtëpitë janë më të thjeshta.</span> <span data-id="pg023_n0029">Fshati zakonisht karakterizohet nga ndërtesa të ulëta, ndërmarrje industriale (fabrika) më të pakta në krahasim me qytetin, hapësira të gjelbëruara etj.</span> <span data-id="pg023_n0030">Me procesin që njihet si “urbanizim”, shumë fshatra janë shndërruar në qyteza e qytete në botë.</span></p>
+      </div>
+
+      <aside class="rounded-[2rem] bg-[#d8c1e8] border-4 border-[#8e5bb7] p-6 max-sm:p-4 shadow-sm text-left">
+        <h3 class="adt-h3 font-bold text-[#1f2937] mb-4" data-id="pg023_n0033">Fjalorthi</h3>
+        <div class="space-y-3">
+          <p class="adt-body text-[#1f2937]"><span data-id="pg023_n0036">Infrastrukturë - sistem ndërtimesh të ndryshme (infrastruktura rrugore, infrastruktura e shkollës etj.).</span></p>
+          <p class="adt-body text-[#1f2937]"><span data-id="pg023_n0038">Blegtori - degë e ekonomisë që merret me rritjen e bagëtive.</span></p>
+          <p class="adt-body text-[#1f2937]"><span data-id="pg023_n0040">Bujqësi - degë e ekonomisë që përfshin punimin e tokës dhe rritjen e bimëve.</span></p>
+        </div>
+      </aside>
+    </div>
+  </section>
+</div>
+    </main>
+
+    <div class="relative z-50" id="interface-container"></div>
+    <div class="relative z-50" id="nav-container"></div>
+    <script src="./assets/offline-preloader.js?v=9f3d745a858de581"></script>
+    <script src="./assets/scorm.js"></script>
+    <script src="./assets/base.bundle.local.js"></script>
+
+
+
+<script src="./book-design/responses.js?v=9f3d745a858de581" data-book-responses="true"></script></body></html>

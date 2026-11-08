@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="sq"><head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Shoqëria dhe mjedisi</title>
+    <meta name="title-id" content="pg033_sec002">
+    <!-- Despite the name, this is the page's 1-based position in the reading
+         order, not a section id and not the printed page number. It drives the
+         "N of M" dock counter and is re-emitted on every package, so it tracks
+         the current order. Identity lives in title-id above. -->
+    <meta name="page-section-id" content="61">
+    <link href="./content/tailwind_output.css" rel="stylesheet">
+    <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+    <link href="./assets/fonts.css" rel="stylesheet">
+<link rel="stylesheet" href="./book-design/components.css?v=9f3d745a858de581" data-book-style="true"></head>
+
+<body class="min-h-screen flex items-center justify-center">
+    <main class="w-full">
+      <div id="content" class="container mx-auto w-full max-w-5xl px-8 max-sm:px-4 opacity-0 book" data-family="reference">
+  <section data-section-type="boxed_text" data-section-id="pg033_sec002" class="py-8 b-page">
+    <div class="rounded-[2rem] bg-[#a8cf8f] px-10 py-8 text-[#2f2140] shadow-sm max-lg:px-7 max-lg:py-7 max-sm:px-5 max-sm:py-6">
+      <div class="mb-5 flex items-start gap-4 max-sm:gap-3">
+        <div class="mt-1 shrink-0">
+          <div class="relative h-14 w-20 max-sm:h-12 max-sm:w-16">
+            <div class="absolute left-0 top-3 h-8 w-11 rounded-full border-2 border-[#8a8a8a] bg-white"></div>
+            <div class="absolute left-2 top-9 h-3 w-3 rotate-45 border-b-2 border-l-2 border-[#8a8a8a] bg-white"></div>
+            <div class="absolute left-6 top-0 h-8 w-11 rounded-full border-2 border-[#8a8a8a] bg-white"></div>
+            <div class="absolute left-12 top-6 h-3 w-3 rotate-45 border-r-2 border-t-2 border-[#8a8a8a] bg-white"></div>
+            <div class="absolute left-9 top-3 h-[2px] w-5 bg-[#b9b9b9]"></div>
+            <div class="absolute left-9 top-6 h-[2px] w-5 bg-[#b9b9b9]"></div>
+            <div class="absolute left-9 top-9 h-[2px] w-5 bg-[#b9b9b9]"></div>
+          </div>
+        </div>
+        <h1 class="adt-h2 pt-1 text-[#2f2140]" data-id="pg033_n0013">Diskuto</h1>
+      </div>
+
+      <ul class="space-y-6 max-sm:space-y-5 text-[#2f2140]">
+        <li class="adt-body">
+          <div class="flex items-start gap-3">
+            <span aria-hidden="true" class="pt-1">–</span>
+            <span data-id="pg033_n0016">Analizo se pse janë pjesë e rëndësishme e kulturës sonë këto veshje tradicionale!</span>
+          </div>
+          <label for="item-1" class="sr-only">Analizo se pse janë pjesë e rëndësishme e kulturës sonë këto veshje tradicionale!</label>
+          <textarea id="item-1" data-activity-item="item-1" aria-label="Analizo se pse janë pjesë e rëndësishme e kulturës sonë këto veshje tradicionale!" class="mt-3 min-h-11 w-full rounded-3xl border border-white/70 bg-white px-4 py-3 text-[#2f2140] outline-none focus:border-[#7c4aa5]" placeholder=""></textarea>
+        </li>
+        <li class="adt-body">
+          <div class="flex items-start gap-3">
+            <span aria-hidden="true" class="pt-1">–</span>
+            <span data-id="pg033_n0018">Bashkë me mësuesin dhe nxënësit e tjerë, diskuto për mënyrën se si janë punuar ato!</span>
+          </div>
+          <label for="item-2" class="sr-only">Bashkë me mësuesin dhe nxënësit e tjerë, diskuto për mënyrën se si janë punuar ato!</label>
+          <textarea id="item-2" data-activity-item="item-2" aria-label="Bashkë me mësuesin dhe nxënësit e tjerë, diskuto për mënyrën se si janë punuar ato!" class="mt-3 min-h-11 w-full rounded-3xl border border-white/70 bg-white px-4 py-3 text-[#2f2140] outline-none focus:border-[#7c4aa5]" placeholder=""></textarea>
+        </li>
+        <li class="adt-body">
+          <div class="flex items-start gap-3">
+            <span aria-hidden="true" class="pt-1">–</span>
+            <span data-id="pg033_n0020">Çka paraqesin motivet në xhubletë?</span>
+          </div>
+          <label for="item-3" class="sr-only">Çka paraqesin motivet në xhubletë?</label>
+          <input id="item-3" type="text" data-activity-item="item-3" aria-label="Çka paraqesin motivet në xhubletë?" class="mt-3 min-h-11 w-full rounded-3xl border border-white/70 bg-white px-4 py-3 text-[#2f2140] outline-none focus:border-[#7c4aa5]">
+        </li>
+      </ul>
+    </div>
+  </section>
+</div>
+    </main>
+
+    <div class="relative z-50" id="interface-container"></div>
+    <div class="relative z-50" id="nav-container"></div>
+    <script src="./assets/offline-preloader.js?v=9f3d745a858de581"></script>
+    <script src="./assets/scorm.js"></script>
+    <script src="./assets/base.bundle.local.js"></script>
+
+
+
+<script src="./book-design/responses.js?v=9f3d745a858de581" data-book-responses="true"></script></body></html>

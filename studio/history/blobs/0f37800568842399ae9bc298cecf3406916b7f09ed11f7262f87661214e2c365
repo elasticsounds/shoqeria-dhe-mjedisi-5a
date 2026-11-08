@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="sq"><head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Shoqëria dhe mjedisi</title>
+    <meta name="title-id" content="pg021_sec002">
+    <!-- Despite the name, this is the page's 1-based position in the reading
+         order, not a section id and not the printed page number. It drives the
+         "N of M" dock counter and is re-emitted on every package, so it tracks
+         the current order. Identity lives in title-id above. -->
+    <meta name="page-section-id" content="34">
+    <link href="./content/tailwind_output.css" rel="stylesheet">
+    <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+    <link href="./assets/fonts.css" rel="stylesheet">
+<link rel="stylesheet" href="./book-design/components.css?v=9f3d745a858de581" data-book-style="true"></head>
+
+<body class="min-h-screen flex items-center justify-center">
+    <main class="w-full">
+      <h1 class="sr-only" id="page-heading">Shoqëria dhe mjedisi</h1>
+      <div id="content" class="container mx-auto w-full max-w-5xl px-8 max-sm:px-3 opacity-0 book" data-family="response"><h2 class="sr-only" id="section-heading">Shkruaj dhe vizato si kanë qenë:</h2>
+  <section data-section-type="other" data-section-id="pg021_sec002" class="bg-white py-8 b-page">
+    <div class="mb-6 flex items-start gap-4 max-sm:gap-3">
+      <div aria-hidden="true" class="flex h-20 w-20 shrink-0 items-center justify-center rounded-2xl border-4 border-orange-300 bg-gradient-to-br from-amber-100 to-orange-200 max-sm:h-16 max-sm:w-16">
+        <span class="adt-body">🧱</span>
+      </div>
+      <div class="flex-1 rounded-2xl border-4 border-orange-300 bg-amber-50 px-5 py-4 shadow-sm max-sm:px-4">
+        <p class="adt-body font-semibold text-slate-800"><span data-id="pg021_n0004">1.</span> <span data-id="pg021_n0005">Shkruaj dhe vizato si kanë qenë:</span></p>
+      </div>
+    </div>
+
+    <table class="w-full table-fixed border-collapse overflow-hidden rounded-2xl border-4 border-purple-400 bg-white">
+      <tbody><tr class="bg-purple-50">
+        <th scope="col" class="w-1/2 border-2 border-purple-400 px-4 py-4 text-left align-top adt-body font-medium text-slate-800 max-sm:px-3 max-sm:py-3">
+          <span data-id="pg021_n0009">rrugët dikur</span>
+        </th>
+        <th scope="col" class="w-1/2 border-2 border-purple-400 px-4 py-4 text-left align-top adt-body font-medium text-slate-800 max-sm:px-3 max-sm:py-3">
+          <span data-id="pg021_n0011">rrugët sot</span>
+        </th>
+      </tr>
+      <tr>
+        <td class="border-2 border-purple-400 p-4 align-top max-sm:p-2">
+          <label for="item-1" class="sr-only">rrugët dikur</label>
+          <textarea id="item-1" data-activity-item="item-1" aria-label="rrugët dikur" class="min-h-11 h-80 w-full rounded-xl border-2 border-dashed border-purple-300 bg-purple-50/40 p-4 adt-body text-slate-800 outline-none focus:border-purple-500 focus:ring-2 focus:ring-purple-200 max-sm:h-64 max-sm:p-3"></textarea>
+        </td>
+        <td class="border-2 border-purple-400 p-4 align-top max-sm:p-2">
+          <label for="item-2" class="sr-only">rrugët sot</label>
+          <textarea id="item-2" data-activity-item="item-2" aria-label="rrugët sot" class="min-h-11 h-80 w-full rounded-xl border-2 border-dashed border-purple-300 bg-purple-50/40 p-4 adt-body text-slate-800 outline-none focus:border-purple-500 focus:ring-2 focus:ring-purple-200 max-sm:h-64 max-sm:p-3"></textarea>
+        </td>
+      </tr>
+    </tbody></table>
+  </section>
+</div>
+    </main>
+
+    <div class="relative z-50" id="interface-container"></div>
+    <div class="relative z-50" id="nav-container"></div>
+    <script src="./assets/offline-preloader.js?v=9f3d745a858de581"></script>
+    <script src="./assets/scorm.js"></script>
+    <script src="./assets/base.bundle.local.js"></script>
+
+
+
+<script src="./book-design/responses.js?v=9f3d745a858de581" data-book-responses="true"></script></body></html>

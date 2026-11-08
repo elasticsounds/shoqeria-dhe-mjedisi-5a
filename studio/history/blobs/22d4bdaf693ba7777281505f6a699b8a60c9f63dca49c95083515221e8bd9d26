@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="sq"><head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Shoqëria dhe mjedisi</title><meta name="title-id" content="pg021_sec001"><meta name="page-section-id" content="34">
+<link href="./content/tailwind_output.css" rel="stylesheet"><link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet"><link href="./assets/fonts.css" rel="stylesheet"><link rel="stylesheet" href="./book-design/components.css?v=9f3d745a858de581" data-book-style="true">
+<style>
+#content.book.pg21{width:100%;max-width:1000px;padding:0 0 100px;margin:auto;font-family:BookPoppins,Arial,sans-serif;color:#30313a}
+#content.book.pg21 .sheet{position:relative;container-type:inline-size;width:100%;aspect-ratio:639.449/866.22;background:white}
+#content.book.pg21 .rail{position:absolute;left:4.55%;top:1.8%;width:9.7%;height:96.5%;background:#ffb149}
+#content.book.pg21 .banner{position:absolute;left:14.25%;top:8.15%;width:35%;height:5.25%;border:2px solid #ffad48;background:#fff9eb;display:flex;align-items:center;padding-left:4.1%;}
+#content.book.pg21 .banner:before{content:'';position:absolute;left:-1px;bottom:-2px;width:9%;height:25%;border-bottom:2px solid #ffad48;transform:skewY(-25deg);transform-origin:bottom left}
+#content.book.pg21 .blocks{position:absolute;left:10.4%;top:7.0%;width:6.95%;height:auto;z-index:1}
+#content.book.pg21 h1{font:700 2.502cqw/1.2 BookPoppins,Arial,sans-serif;margin:0;white-space:nowrap;color:#30313a}
+#content.book.pg21 .prompt{position:absolute;left:15.7%;margin:0;font:400 1.877cqw/1.4 BookPoppins,Arial,sans-serif;color:#30313a}
+#content.book.pg21 .one{top:15.9%}#content.book.pg21 .two{top:54.0%}
+#content.book.pg21 .grid{position:absolute;left:15.7%;top:18.9%;width:73.2%;height:30.3%;display:grid;grid-template-columns:1fr 1fr;border:2px solid #a078b4}
+#content.book.pg21 .cell{position:relative;min-width:0;display:flex;flex-direction:column;background-position:center;background-repeat:no-repeat;background-size:contain}
+#content.book.pg21 .cell+ .cell{border-left:2px solid #a078b4}
+#content.book.pg21 .cell label{height:13.5%;min-height:0;display:flex;align-items:center;gap:.3em;border-bottom:2px solid #a078b4;padding:0 1.5%;font:400 1.877cqw/1.2 BookPoppins,Arial,sans-serif}
+#content.book.pg21 textarea{display:block;width:100%;height:100%;min-height:0;border:0;border-radius:0;resize:none;padding:.5em;background:transparent;font:400 1.65cqw/1.4 BookPoppins,Arial,sans-serif;color:#30313a}
+#content.book.pg21 .cell textarea{flex:1;padding-bottom:40px}
+#content.book.pg21 .draw{position:absolute;bottom:4px;right:5px;min-height:32px;padding:3px 10px;background:#fff;border:1px solid #7950aa;border-radius:4px;font:400 13px/1.2 BookPoppins,Arial,sans-serif;color:#593579;cursor:pointer}
+#content.book.pg21 .answer{position:absolute;left:15.7%;top:59.4%;width:73.2%;height:28.4%;border:2px solid #a078b4}
+#content.book.pg21 .folio{position:absolute;left:87.4%;top:91.3%;font:400 1.877cqw/1 BookPoppins,Arial,sans-serif}
+#content.book.pg21 dialog{position:fixed;inset:0;margin:auto;width:min(94vw,760px);max-height:90vh;overflow:auto;border:2px solid #7950aa;border-radius:5px;background:white;padding:18px;color:#30313a;font:16px/1.5 BookPoppins,Arial,sans-serif}
+#content.book.pg21 dialog::backdrop{background:#0009}#content.book.pg21 dialog h2{font:700 20px/1.3 BookPoppins,Arial,sans-serif;margin:0 0 8px}#content.book.pg21 dialog p{font:400 16px/1.4 BookPoppins,Arial,sans-serif;margin:8px 0}
+#content.book.pg21 canvas{display:block;width:100%;height:auto;aspect-ratio:720/400;border:1px solid #7950aa;background:#fff;touch-action:none;cursor:crosshair}
+#content.book.pg21 .tools{display:flex;gap:8px;flex-wrap:wrap;align-items:center;margin-top:10px}#content.book.pg21 .tools button,#content.book.pg21 .tools label{font:400 15px/1.3 BookPoppins,Arial,sans-serif;padding:10px;border:1px solid #7950aa;background:#fff;border-radius:4px;cursor:pointer}#content.book.pg21 .tools input{max-width:220px;font-size:14px}
+@media(max-width:700px){#content.book.pg21{padding:0 0 110px}#content.book.pg21 .sheet{aspect-ratio:auto;padding:30px 18px 30px 32px}#content.book.pg21 .rail{left:0;top:0;width:14px;height:100%}#content.book.pg21 .banner{position:relative;left:auto;top:auto;width:100%;height:56px;padding-left:58px}#content.book.pg21 .banner:before{display:none}#content.book.pg21 .blocks{left:25px;top:23px;width:58px}#content.book.pg21 h1{font-size:21px}#content.book.pg21 .prompt{position:static;font-size:16px;line-height:1.45;margin:24px 0 12px}#content.book.pg21 .grid{position:static;width:100%;height:auto;grid-template-columns:1fr}#content.book.pg21 .cell+ .cell{border-left:0;border-top:2px solid #a078b4}#content.book.pg21 .cell label{height:auto;min-height:44px;font-size:16px;padding:8px}#content.book.pg21 .cell textarea{height:180px;flex:none;font-size:16px}#content.book.pg21 .draw{min-height:44px;font-size:15px}#content.book.pg21 .answer{position:static;width:100%;height:230px}#content.book.pg21 .answer textarea{font-size:16px}#content.book.pg21 .folio{position:static;text-align:right;font-size:16px;margin-top:18px}}
+@media print{#content.book.pg21{padding:0}#content.book.pg21 .draw,#content.book.pg21 dialog{display:none}}
+</style></head>
+<body class="min-h-screen flex items-center justify-center"><main class="w-full">
+<div id="content" class="book pg21 opacity-0" data-family="page21">
+<section class="sheet" data-section-type="other" data-section-id="pg021_sec001">
+<div class="rail" aria-hidden="true"></div><div class="banner"><h1 data-id="pg021_n0002">Provoje veten</h1></div>
+<img class="blocks" src="studio/assets/pg021_blocks.png" alt="">
+<p class="prompt one" id="pg021_sec002">1. Shkruaj dhe vizato si kanë qenë:</p>
+<div class="grid" role="group" aria-label="Shkruaj dhe vizato si kanë qenë">
+<div class="cell" data-drawing="item-1"><label for="past">rrugët <em>dikur</em></label><textarea id="past" aria-label="rrugët dikur"></textarea><button type="button" class="draw" data-draw="item-1">Vizato</button></div>
+<div class="cell" data-drawing="item-2"><label for="present">rrugët <em>sot</em></label><textarea id="present" aria-label="rrugët sot"></textarea><button type="button" class="draw" data-draw="item-2">Vizato</button></div>
+</div>
+<p class="prompt two" id="pg021_sec003">2. Imagjino dhe shkruaj se si e paramendon qytetin në të ardhmen.</p>
+<div class="answer"><textarea id="future" aria-label="Imagjino dhe shkruaj se si e paramendon qytetin në të ardhmen."></textarea></div><span class="folio">21</span>
+<dialog aria-labelledby="drawing-title"><h2 id="drawing-title">Vizato</h2><p>Vizato me gisht ose me maus, ose ngarko një figurë. Vizatimi ruhet automatikisht.</p><canvas width="720" height="400" aria-label="Hapësira e vizatimit"></canvas><div class="tools"><button type="button" data-clear>Fshi vizatimin</button><label>Ngarko figurë <input type="file" accept="image/*" data-upload></label><button type="button" data-close>Mbyll</button></div></dialog>
+</section></div></main>
+<div class="relative z-50" id="interface-container"></div><div class="relative z-50" id="nav-container"></div>
+<script src="./assets/offline-preloader.js?v=9f3d745a858de581"></script><script src="./assets/scorm.js"></script><script src="./assets/base.bundle.local.js"></script>
+<script>
+(function(){
+var prefix='adt5a.responses.f7bf719411a7c7cf.', dkey='adt5a.pg021.drawing.', map=[['past','pg021_sec002','item-1'],['present','pg021_sec002','item-2'],['future','pg021_sec003','item-1']];
+function get(k){try{return JSON.parse(localStorage.getItem(prefix+k)||'{}')}catch(e){return {}}}
+function init(){var root=document.querySelector('#content.pg21');if(!root||root.dataset.pg21Ready)return;root.dataset.pg21Ready='1';
+map.forEach(function(m){var el=root.querySelector('#'+m[0]), saved=get(m[1])[m[2]];if(saved&&typeof saved.value==='string')el.value=saved.value;el.addEventListener('input',function(){var v=get(m[1]);v[m[2]]={value:el.value};try{localStorage.setItem(prefix+m[1],JSON.stringify(v))}catch(e){}})});
+var dialog=root.querySelector('dialog'),canvas=dialog.querySelector('canvas'),ctx=canvas.getContext('2d'),current='',painting=false;ctx.lineCap='round';ctx.lineJoin='round';ctx.lineWidth=3;ctx.strokeStyle='#30313a';
+function preview(k){var v;try{v=localStorage.getItem(dkey+k)}catch(e){}var cell=root.querySelector('[data-drawing="'+k+'"]');if(cell)cell.style.backgroundImage=v?'url("'+v+'")':''}
+function store(){try{localStorage.setItem(dkey+current,canvas.toDataURL('image/png'));preview(current)}catch(e){alert('Vizatimi nuk u ruajt. Kontrollo hapësirën e ruajtjes.')}}
+root.querySelectorAll('[data-draw]').forEach(function(b){preview(b.dataset.draw);b.addEventListener('click',function(){current=b.dataset.draw;dialog.querySelector('h2').textContent=current==='item-1'?'Vizato: rrugët dikur':'Vizato: rrugët sot';ctx.clearRect(0,0,canvas.width,canvas.height);var url;try{url=localStorage.getItem(dkey+current)}catch(e){}if(url){var img=new Image();img.onload=function(){ctx.drawImage(img,0,0,canvas.width,canvas.height)};img.src=url}dialog.showModal()})});
+function point(e){var r=canvas.getBoundingClientRect();return [(e.clientX-r.left)*canvas.width/r.width,(e.clientY-r.top)*canvas.height/r.height]}
+canvas.addEventListener('pointerdown',function(e){painting=true;canvas.setPointerCapture(e.pointerId);var p=point(e);ctx.beginPath();ctx.moveTo(p[0],p[1]);ctx.lineTo(p[0]+.01,p[1]+.01);ctx.stroke()});canvas.addEventListener('pointermove',function(e){if(!painting)return;var p=point(e);ctx.lineTo(p[0],p[1]);ctx.stroke()});canvas.addEventListener('pointerup',function(){if(painting){painting=false;store()}});canvas.addEventListener('pointercancel',function(){if(painting){painting=false;store()}});
+dialog.querySelector('[data-clear]').addEventListener('click',function(){ctx.clearRect(0,0,canvas.width,canvas.height);try{localStorage.removeItem(dkey+current)}catch(e){}preview(current)});dialog.querySelector('[data-close]').addEventListener('click',function(){dialog.close()});dialog.querySelector('[data-upload]').addEventListener('change',function(e){var f=e.target.files[0];if(!f)return;var img=new Image(),url=URL.createObjectURL(f);img.onload=function(){ctx.clearRect(0,0,canvas.width,canvas.height);var s=Math.min(canvas.width/img.width,canvas.height/img.height);ctx.drawImage(img,(canvas.width-img.width*s)/2,(canvas.height-img.height*s)/2,img.width*s,img.height*s);URL.revokeObjectURL(url);store()};img.src=url;e.target.value=''})}
+if(document.readyState==='loading')document.addEventListener('DOMContentLoaded',init);else init();new MutationObserver(init).observe(document.documentElement,{childList:true,subtree:true});
+})();
+</script></body></html>

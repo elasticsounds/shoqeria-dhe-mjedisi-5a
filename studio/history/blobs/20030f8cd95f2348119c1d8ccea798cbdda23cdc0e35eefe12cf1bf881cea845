@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?><manifest xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" identifier="ADT_SHOQERIA_DHE_MJEDISI_5A" version="1.0" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd                        http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+  </metadata>
+
+  <organizations default="ADT_ORG">
+    <organization identifier="ADT_ORG">
+      <title>Shoqëria dhe mjedisi</title>
+      <item identifier="ITEM_1" identifierref="RESOURCE_1">
+        <title>Shoqëria dhe mjedisi</title>
+      </item>
+    </organization>
+  </organizations>
+
+  <resources>
+    <resource identifier="RESOURCE_1" type="webcontent" adlcp:scormtype="sco" href="index.html">
+      <file href="index.html"/>
+      <file href="pg001_sec001.html"/>
+      <file href="pg002_sec001.html"/>
+      <file href="pg003_sec001.html"/>
+      <file href="pg005_sec001.html"/>
+      <file href="pg006_sec001.html"/>
+      <file href="pg007_sec001.html"/>
+      <file href="pg008_sec001.html"/>
+      <file href="qz001.html"/>
+      <file href="pg009_sec001.html"/>
+      <file href="pg009_sec002.html"/>
+      <file href="pg010_sec001.html"/>
+      <file href="pg011_sec001.html"/>
+      <file href="pg011_sec002.html"/>
+      <file href="pg012_sec001.html"/>
+      <file href="pg013_sec001.html"/>
+      <file href="pg013_sec002.html"/>
+      <file href="pg013_sec003.html"/>
+      <file href="qz002.html"/>
+      <file href="pg014_sec001.html"/>
+      <file href="pg015_sec001.html"/>
+      <file href="pg016_sec001.html"/>
+      <file href="pg017_sec001.html"/>
+      <file href="pg017_sec002.html"/>
+      <file href="pg017_sec003.html"/>
+      <file href="qz003.html"/>
+      <file href="pg018_sec001.html"/>
+      <file href="pg018_sec002.html"/>
+      <file href="pg018_sec003.html"/>
+      <file href="pg018_sec004.html"/>
+      <file href="pg019_sec001.html"/>
+      <file href="pg020_sec001.html"/>
+      <file href="pg020_sec002.html"/>
+      <file href="pg020_sec003.html"/>
+      <file href="pg021_sec001.html"/>
+      <file href="pg021_sec002.html"/>
+      <file href="pg021_sec003.html"/>
+      <file href="pg022_sec001.html"/>
+      <file href="qz004.html"/>
+      <file href="pg023_sec001.html"/>
+      <file href="pg023_sec002.html"/>
+      <file href="pg024_sec001.html"/>
+      <file href="pg024_sec002.html"/>
+      <file href="pg024_sec003.html"/>
+      <file href="pg024_sec004.html"/>
+      <file href="pg025_sec001.html"/>
+      <file href="pg026_sec001.html"/>
+      <file href="qz005.html"/>
+      <file href="pg027_sec001.html"/>
+      <file href="pg027_sec002.html"/>
+      <file href="pg027_sec003.html"/>
+      <file href="pg027_sec004.html"/>
+      <file href="pg027_sec005.html"/>
+      <file href="pg028_sec001.html"/>
+      <file href="pg028_sec002.html"/>
+      <file href="pg029_sec001.html"/>
+      <file href="pg030_sec001.html"/>
+      <file href="pg030_sec002.html"/>
+      <file href="pg030_sec003.html"/>
+      <file href="pg030_sec004.html"/>
+      <file href="pg030_sec005.html"/>
+      <file href="qz006.html"/>
+      <file href="pg031_sec001.html"/>
+      <file href="pg031_sec002.html"/>
+      <file href="pg031_sec003.html"/>
+      <file href="pg031_sec004.html"/>
+      <file href="pg032_sec001.html"/>
+      <file href="pg033_sec001.html"/>
+      <file href="pg033_sec002.html"/>
+      <file href="pg033_sec003.html"/>
+      <file href="pg033_sec004.html"/>
+      <file href="pg034_sec001.html"/>
+      <file href="pg035_sec001.html"/>
+      <file href="qz007.html"/>
+      <file href="pg036_sec001.html"/>
+      <file href="pg037_sec001.html"/>
+      <file href="pg037_sec002.html"/>
+      <file href="pg037_sec003.html"/>
+      <file href="pg037_sec004.html"/>
+      <file href="pg038_sec001.html"/>
+      <file href="pg039_sec001.html"/>
+      <file href="pg039_sec002.html"/>
+      <file href="qz008.html"/>
+      <file href="pg040_sec001.html"/>
+      <file href="pg041_sec001.html"/>
+      <file href="pg041_sec002.html"/>
+      <file href="pg042_sec001.html"/>
+      <file href="pg042_sec002.html"/>
+      <file href="pg042_sec003.html"/>
+      <file href="qz009.html"/>
+      <file href="pg043_sec001.html"/>
+      <file href="pg044_sec001.html"/>
+      <file href="pg044_sec002.html"/>
+      <file href="pg045_sec001.html"/>
+      <file href="pg045_sec002.html"/>
+      <file href="pg046_sec001.html"/>
+      <file href="pg046_sec002.html"/>
+      <file href="pg047_sec001.html"/>
+      <file href="pg048_sec001.html"/>
+      <file href="pg048_sec002.html"/>
+      <file href="pg048_sec003.html"/>
+      <file href="qz010.html"/>
+      <file href="pg049_sec001.html"/>
+      <file href="pg049_sec002.html"/>
+      <file href="pg049_sec003.html"/>
+      <file href="pg049_sec004.html"/>
+      <file href="pg050_sec001.html"/>
+      <file href="qz011.html"/>
+    <file href="AGENTS.md"/><file href="assets/activities.bundle.local.js"/><file href="assets/auto-fit.js"/><file href="assets/base.bundle.local.js"/><file href="assets/base.bundle.min.js"/><file href="assets/base.bundle.min.js.map"/><file href="assets/config.json"/><file href="assets/favicon_io/about.txt"/><file href="assets/favicon_io/android-chrome-192x192.png"/><file href="assets/favicon_io/android-chrome-512x512.png"/><file href="assets/favicon_io/apple-touch-icon.png"/><file href="assets/favicon_io/favicon-16x16.png"/><file href="assets/favicon_io/favicon-32x32.png"/><file href="assets/favicon_io/favicon.ico"/><file href="assets/favicon_io/site.webmanifest"/><file href="assets/fonts/AtkinsonHyperlegible-400-latin-ext.woff2"/><file href="assets/fonts/AtkinsonHyperlegible-400-latin.woff2"/><file href="assets/fonts/AtkinsonHyperlegible-700-latin-ext.woff2"/><file href="assets/fonts/AtkinsonHyperlegible-700-latin.woff2"/><file href="assets/fonts/Merriweather-Italic-VariableFont.woff2"/><file href="assets/fonts/Merriweather-VariableFont.woff2"/><file href="assets/fonts.css"/><file href="assets/interface_translations/sq/interface_translations.json"/><file href="assets/libs/fontawesome/css/all.min.css"/><file href="assets/libs/fontawesome/webfonts/fa-brands-400.woff2"/><file href="assets/libs/fontawesome/webfonts/fa-regular-400.woff2"/><file href="assets/libs/fontawesome/webfonts/fa-solid-900.woff2"/><file href="assets/libs/fontawesome/webfonts/fa-v4compatibility.woff2"/><file href="assets/offline-preloader.js"/><file href="assets/scorm.js"/><file href="assets/sounds/drop.mp3"/><file href="assets/sounds/error.mp3"/><file href="assets/sounds/reset.mp3"/><file href="assets/sounds/success.mp3"/><file href="assets/sounds/validate_error.mp3"/><file href="assets/sounds/validate_success.mp3"/><file href="assets/symbols/biomes.png"/><file href="assets/symbols/cactus.png"/><file href="assets/symbols/deciduous.png"/><file href="assets/symbols/deforestation.png"/><file href="assets/symbols/ecosystem.png"/><file href="assets/symbols/evergreen.png"/><file href="assets/symbols/photosynthesis.png"/><file href="assets/symbols/pollution.png"/><file href="assets/symbols/prairie.png"/><file href="assets/symbols/smog.png"/><file href="assets/tailwind_css.css"/><file href="book-design/brand-guide.html"/><file href="book-design/components.css"/><file href="book-design/components.tailwind.css"/><file href="book-design/evidence/adt-inventory.json"/><file href="book-design/evidence/asset-provenance.json"/><file href="book-design/evidence/cache-verification.json"/><file href="book-design/evidence/original-hashes.json"/><file href="book-design/evidence/page-families.json"/><file href="book-design/evidence/pdf-contact-01-10.png"/><file href="book-design/evidence/pdf-contact-11-20.png"/><file href="book-design/evidence/pdf-contact-21-30.png"/><file href="book-design/evidence/pdf-contact-31-40.png"/><file href="book-design/evidence/pdf-contact-41-50.png"/><file href="book-design/evidence/pdf-inventory.json"/><file href="book-design/evidence/source-section-map.json"/><file href="book-design/examples/chapter-lesson.html"/><file href="book-design/examples/comparison-diagram.html"/><file href="book-design/examples/contents.html"/><file href="book-design/examples/cover.html"/><file href="book-design/examples/crossword.html"/><file href="book-design/examples/discussion.html"/><file href="book-design/examples/foreword.html"/><file href="book-design/examples/icon-guide.html"/><file href="book-design/examples/identity-diagram.html"/><file href="book-design/examples/illustrated-lesson.html"/><file href="book-design/examples/opener.html"/><file href="book-design/examples/photo-comparison.html"/><file href="book-design/examples/practice-opener.html"/><file href="book-design/examples/project.html"/><file href="book-design/examples/quiz.html"/><file href="book-design/examples/reference.html"/><file href="book-design/examples/response.html"/><file href="book-design/examples/self-assessment.html"/><file href="book-design/examples/star-rating.html"/><file href="book-design/examples/wordsearch.html"/><file href="book-design/examples.json"/><file href="book-design/fonts/Amiri-400.ttf"/><file href="book-design/fonts/Amiri-700.ttf"/><file href="book-design/fonts/amiri-OFL.txt"/><file href="book-design/fonts/Poppins-400.ttf"/><file href="book-design/fonts/Poppins-600.ttf"/><file href="book-design/fonts/Poppins-700.ttf"/><file href="book-design/fonts/poppins-OFL.txt"/><file href="book-design/guide.css"/><file href="book-design/images/ecology.png"/><file href="book-design/images/opener-landscape.svg"/><file href="book-design/images/publisher.png"/><file href="book-design/package.json"/><file href="content/i18n/sq/audios.json"/><file href="content/i18n/sq/glossary.json"/><file href="content/i18n/sq/images.json"/><file href="content/i18n/sq/speech_texts.json"/><file href="content/i18n/sq/texts.json"/><file href="content/i18n/sq/timecode/timecode_output.json"/><file href="content/i18n/sq/videos.json"/><file href="content/navigation/nav.html"/><file href="content/pages.json"/><file href="content/tailwind_output.css"/><file href="content/toc.json"/><file href="cover.png"/><file href="images/pg001_im001.png"/><file href="images/pg005_im001.png"/><file href="images/pg005_im002.png"/><file href="images/pg005_im003.png"/><file href="images/pg005_im004.png"/><file href="images/pg005_im005.png"/><file href="images/pg005_im006.png"/><file href="images/pg005_im007.png"/><file href="images/pg005_im008.png"/><file href="images/pg006_im001.png"/><file href="images/pg006_im002.png"/><file href="images/pg006_im003.png"/><file href="images/pg006_im004.png"/><file href="images/pg007_im004.png"/><file href="images/pg007_im005.png"/><file href="images/pg007_im006.png"/><file href="images/pg008_im015.png"/><file href="images/pg009_im005.png"/><file href="images/pg009_im006.png"/><file href="images/pg009_im017.png"/><file href="images/pg010_im001.png"/><file href="images/pg011_im001.png"/><file href="images/pg012_im002.png"/><file href="images/pg012_im003.png"/><file href="images/pg012_im004.png"/><file href="images/pg012_im005.png"/><file href="images/pg015_im002.png"/><file href="images/pg015_im003.png"/><file href="images/pg016_im001.png"/><file href="images/pg016_im002.png"/><file href="images/pg016_im003.png"/><file href="images/pg016_im004.png"/><file href="images/pg016_im005.png"/><file href="images/pg016_im006.png"/><file href="images/pg019_im001.png"/><file href="images/pg019_im002.png"/><file href="images/pg019_im004.png"/><file href="images/pg019_im005.png"/><file href="images/pg019_im006.png"/><file href="images/pg019_im007.png"/><file href="images/pg019_im008.png"/><file href="images/pg019_im009.png"/><file href="images/pg019_im010.png"/><file href="images/pg021_im001.png"/><file href="images/pg022_im003.png"/><file href="images/pg022_im004.png"/><file href="images/pg023_im006.png"/><file href="images/pg024_im004.png"/><file href="images/pg025_im002.png"/><file href="images/pg025_im003.png"/><file href="images/pg025_im004.png"/><file href="images/pg026_im001.png"/><file href="images/pg026_im002.png"/><file href="images/pg026_im003.png"/><file href="images/pg026_im004.png"/><file href="images/pg029_im001.png"/><file href="images/pg029_im002.png"/><file href="images/pg029_im004.png"/><file href="images/pg029_im005.png"/><file href="images/pg029_im006.png"/><file href="images/pg029_im007.png"/><file href="images/pg029_im008.png"/><file href="images/pg029_im009.png"/><file href="images/pg029_im010.png"/><file href="images/pg031_im005.png"/><file href="images/pg032_im001.png"/><file href="images/pg032_im003.png"/><file href="images/pg032_im004.png"/><file href="images/pg032_im005.png"/><file href="images/pg034_im002.png"/><file href="images/pg035_im006.png"/><file href="images/pg035_im007.png"/><file href="images/pg038_im002.png"/><file href="images/pg038_im003.png"/><file href="images/pg038_im004.png"/><file href="images/pg038_im005.png"/><file href="images/pg038_im006.png"/><file href="images/pg038_im007.png"/><file href="images/pg039_im003.png"/><file href="images/pg039_im004.png"/><file href="images/pg039_im005.png"/><file href="images/pg039_im006.png"/><file href="images/pg040_im003.png"/><file href="images/pg041_im001.png"/><file href="images/pg041_im002.png"/><file href="images/pg042_im005.png"/><file href="images/pg042_im006.png"/><file href="images/pg044_im002.png"/><file href="images/pg044_im004.png"/><file href="images/pg046_im004.png"/><file href="images/pg046_im005.png"/><file href="images/pg046_im006.png"/><file href="images/pg046_im007.png"/><file href="images/pg046_im008.png"/><file href="images/pg047_im002.png"/><file href="images/pg047_im003.png"/><file href="images/pg047_im004.png"/><file href="images/pg047_im005.png"/><file href="images/pg047_im006.png"/><file href="images/pg047_im007.png"/><file href="images/pg049_im004.png"/><file href="images/pg050_im001.png"/><file href="imsmanifest.xml"/><file href="book-design/images/crossword-grid.png"/><file href="book-design/responses.js"/><file href="book-design/CHANGES-AND-VALIDATION.md"/><file href="book-design/evidence/change-log.json"/><file href="book-design/evidence/final-adt-inventory.json"/><file href="book-design/evidence/final-report.json"/><file href="book-design/evidence/flagged-issues.json"/><file href="book-design/evidence/layout-accessibility.json"/><file href="book-design/evidence/navigation-exercises.json"/><file href="book-design/evidence/reader-contact-1280-001.png"/><file href="book-design/evidence/reader-contact-1280-010.png"/><file href="book-design/evidence/reader-contact-1280-019.png"/><file href="book-design/evidence/reader-contact-1280-028.png"/><file href="book-design/evidence/reader-contact-1280-037.png"/><file href="book-design/evidence/reader-contact-1280-046.png"/><file href="book-design/evidence/reader-contact-1280-055.png"/><file href="book-design/evidence/reader-contact-1280-064.png"/><file href="book-design/evidence/reader-contact-1280-073.png"/><file href="book-design/evidence/reader-contact-1280-082.png"/><file href="book-design/evidence/reader-contact-1280-091.png"/><file href="book-design/evidence/reader-contact-1280-100.png"/><file href="book-design/evidence/reader-contact-390-001.png"/><file href="book-design/evidence/reader-contact-390-010.png"/><file href="book-design/evidence/reader-contact-390-019.png"/><file href="book-design/evidence/reader-contact-390-028.png"/><file href="book-design/evidence/reader-contact-390-037.png"/><file href="book-design/evidence/reader-contact-390-046.png"/><file href="book-design/evidence/reader-contact-390-055.png"/><file href="book-design/evidence/reader-contact-390-064.png"/><file href="book-design/evidence/reader-contact-390-073.png"/><file href="book-design/evidence/reader-contact-390-082.png"/><file href="book-design/evidence/reader-contact-390-091.png"/><file href="book-design/evidence/reader-contact-390-100.png"/><file href="book-design/evidence/reader-contact-index.json"/><file href="book-design/evidence/structural-validation.json"/><file href="book-design/report.html"/><file href="book-design/rebuild-cache.cjs"/><file href="book-design/START-HERE.md"/><file href="book-design/evidence/export-verification.json"/><file href="book-design/page009.css"/></resource>
+  </resources>
+
+</manifest>

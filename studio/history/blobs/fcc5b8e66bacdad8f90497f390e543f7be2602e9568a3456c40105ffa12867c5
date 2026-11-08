@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="sq"><head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Shoqëria dhe mjedisi</title><meta name="title-id" content="pg039_sec001"><meta name="page-section-id" content="58">
+<link href="./content/tailwind_output.css" rel="stylesheet"><link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet"><link href="./assets/fonts.css" rel="stylesheet"><link rel="stylesheet" href="./book-design/components.css?v=9f3d745a858de581" data-book-style="true">
+<style>
+#content.page39 {padding:0!important;max-width:1000px;container-type:inline-size;background:white;color:#292a31}
+.page39 .sheet {position:relative;width:100%;aspect-ratio:639.449 / 866.22;overflow:visible;font-family:BookAmiri,Georgia,serif;font-size:1.876cqw;line-height:1.33}
+.page39 .sheet p,.page39 .sheet h1,.page39 .sheet h2 {margin:0;font-size:inherit;font-weight:400}
+.page39 .edge {position:absolute;top:1.75%;left:2.35%;width:2.25%;height:12.8%;background:#9b73b7}
+.page39 .photos {position:absolute;left:22.6%;top:6.25%;width:59.7%;height:10.8%;display:flex;gap:1.1%;align-items:stretch}
+.page39 .photos img {height:100%;width:auto;min-width:0;object-fit:contain;border-radius:0;box-shadow:none}
+.page39 .intro {position:absolute;left:15.65%;top:17.95%;width:73.2%;text-align:justify;line-height:1.34}
+.page39 .reminder {position:absolute;left:15.65%;top:28.85%;width:73.2%;font-style:italic;line-height:1.34}
+.page39 .questions {position:absolute;left:13.2%;top:35.6%;width:84.4%;height:22.7%;border:2px solid #7950aa;border-right:0;border-radius:20px 0 0 20px;padding:5.3% 2.5% 0; font-family:BookPoppins,Arial,sans-serif;font-size:1.876cqw;line-height:1.34}
+.page39 .questions .question-art {position:absolute;left:-.9%;top:-10%;width:15%;height:auto}
+.page39 .rubric-title {font-family:'Comic Sans MS',cursive!important;font-size:2.815cqw!important;line-height:1.1!important}
+.page39 .questions .rubric-title {position:absolute;top:3%;left:15%;color:#51439a}
+.page39 .questions .writing {margin-top:1.8%;display:grid;gap:0}
+.page39 .writing input {display:block;width:86%;height:2.05cqw;min-height:0!important;border:0!important;border-bottom:1px solid #555!important;border-radius:0!important;background:transparent!important;padding:0 2px!important;font:1.5cqw BookPoppins,Arial,sans-serif!important;outline-offset:2px}
+.page39 .discussion {position:absolute;left:13.2%;top:60.2%;width:84.4%;height:12.1%;background:#9acd8c;border-radius:20px;padding:7.4% 2.7% 0;font:1.876cqw/1.34 BookPoppins,Arial,sans-serif}
+.page39 .discussion .discussion-art {position:absolute;left:3.3%;top:-8%;width:8.3%;height:auto}
+.page39 .discussion .rubric-title {position:absolute;top:14%;left:13.5%}
+.page39 .reading {position:absolute;left:14.75%;top:73.4%;width:82.85%;height:16.75%;border:2px solid #7950aa;border-right:0;border-radius:20px 0 0 20px;padding:7.4% 1% 0;line-height:1.22}
+.page39 .reading .reading-art {position:absolute;left:-.2%;top:-.5%;width:10.6%;height:auto}
+.page39 .reading .rubric-title {position:absolute;left:11.6%;top:10%}
+.page39 .reading p:first-of-type {text-indent:10.5%}
+.page39 .folio {position:absolute;top:90.8%;left:86.5%;font:1.876cqw BookPoppins,Arial,sans-serif}
+.page39 details {position:absolute;right:2%;top:3%;font:1.2cqw BookPoppins,Arial,sans-serif;z-index:3}
+.page39 summary {cursor:pointer;background:white;border:1px solid #7950aa;border-radius:4px;padding:.3em .6em;min-height:26px}
+.page39 details[open] {width:55%}
+.page39 details .response-box {background:white;border:1px solid #7950aa;box-shadow:0 3px 10px #0003;padding:8px;max-height:32vh;overflow:auto}
+.page39 details label {display:block;font-size:13px;line-height:1.25;margin:3px 0}
+.page39 details textarea {display:block;width:100%;min-height:44px;border:1px solid #777;background:white;font:16px BookPoppins,Arial,sans-serif;margin-bottom:5px}
+#content.page39 .sheet p {font-size:1.876cqw;line-height:1.34}
+#content.page39 .sheet .questions p,#content.page39 .sheet .discussion p {font-family:BookPoppins,Arial,sans-serif;line-height:1.34}
+#content.page39 .sheet .reading p {font-family:BookAmiri,Georgia,serif;line-height:1.22}
+#content.page39 .sheet .reminder h1 {font:italic 400 1.876cqw/1.34 BookAmiri,Georgia,serif}
+#content.page39 .sheet h2.rubric-title {font-weight:400}
+@media(max-width:600px){
+ #content.page39 {width:100%;padding:0 16px 100px!important}.page39 .sheet {aspect-ratio:auto;font-size:18px;line-height:1.45;display:flex;flex-direction:column;gap:20px;padding:24px 0 40px}.page39 .edge{display:none}
+ .page39 .photos,.page39 .intro,.page39 .reminder,.page39 .questions,.page39 .discussion,.page39 .reading,.page39 .folio {position:relative;left:auto;top:auto;width:100%;height:auto}
+ .page39 .photos{display:grid;grid-template-columns:repeat(2,1fr);gap:8px}.page39 .photos img{width:100%;height:130px;object-fit:contain}
+ #content.page39 .sheet p{font-size:18px;line-height:1.45}#content.page39 .sheet .questions p,#content.page39 .sheet .discussion p{font-size:16px;line-height:1.45}#content.page39 .sheet .reminder h1{font-size:18px;line-height:1.45}
+ .page39 .intro{text-align:left}.page39 .questions,.page39 .discussion,.page39 .reading{font-size:16px;line-height:1.45;padding:70px 15px 18px;border-right:2px solid #7950aa;border-radius:16px}.page39 .discussion{border:0}
+ .page39 .questions .question-art{width:85px;top:-12px;left:0}.page39 .discussion .discussion-art{width:65px;top:-8px;left:12px}.page39 .reading .reading-art{width:70px;top:0;left:0}
+ .page39 .rubric-title{font-size:24px!important}.page39 .questions .rubric-title,.page39 .discussion .rubric-title,.page39 .reading .rubric-title{top:18px;left:95px}
+ .page39 .writing input{width:100%;height:44px;min-height:44px!important;font-size:16px!important}.page39 .folio{text-align:right;font-size:16px}
+ .page39 details,.page39 details[open]{position:static;width:auto;margin:10px 0;font-size:14px}.page39 summary{min-height:44px;padding:10px}.page39 details .response-box{max-height:none}.page39 .reading p:first-of-type{text-indent:0}
+}
+</style></head>
+<body class="min-h-screen flex items-center justify-center"><main class="w-full">
+<div id="content" class="container mx-auto w-full opacity-0 book page39" data-family="illustrated-lesson">
+<section data-section-type="text_and_images" data-section-id="pg039_sec001" class="sheet">
+<div class="edge" aria-hidden="true"></div>
+<div class="photos">
+<img data-id="pg039_im003" src="images/pg039_im003.png" alt="Stetoskop i kuq për kontrollimin e pacientëve.">
+<img data-id="pg039_im004" src="images/pg039_im004.png" alt="Shiringë, shishe ilaçesh dhe tableta për mjekim.">
+<img data-id="pg039_im005" src="images/pg039_im005.png" alt="Monitor me imazhe skanimi mjekësor të trupit.">
+<img data-id="pg039_im006" src="images/pg039_im006.png" alt="Pajisje moderne mjekësore për ekzaminime në spital.">
+</div>
+<p class="intro"><span data-id="pg039_n0002">Profesioni i mjekut është shumë i rëndësishëm.</span> <span data-id="pg039_n0003">Ai kujdeset për shëndetin e njerëzve.</span> <span data-id="pg039_n0004">Mjeku ndihmon në zbulimin dhe mjekimin e sëmundjeve.</span> <span data-id="pg039_n0005">Pas shkollimit, mjeku premton se do t’i ndihmojë pacientët gjatë gjithë jetës së tij.</span> <span data-id="pg039_n0006">Dikur, mjekët punonin edhe pa pajisje moderne – ata përdornin stetoskopin për t’i kontrolluar pacientët dhe për të zbuluar sëmundje.</span> <span data-id="pg039_n0007">Sot, ky profesion është përmirësuar shumë, sepse ka pajisje të reja dhe teknologji moderne.</span></p>
+<div class="reminder"><h1 data-id="pg039_n0009">Mos harro!</h1><p data-id="pg039_n0010">Të gjitha profesionet janë të domosdoshme dhe të rëndësishme që të funksionojë jeta në shoqëri.</p></div>
+<div class="questions" id="pyetje-per-ty">
+<img class="question-art" src="studio/assets/pg039_questions.png" alt="" aria-hidden="true"><h2 class="rubric-title" data-id="pg039_n0034">Pyetje për ty</h2>
+<p>– <span data-id="pg039_n0035">Cilat profesione u panë në panair?</span></p><p>– <span data-id="pg039_n0036">Pse ushtrimi i profesionit ishte më i vështirë <i>dikur</i>?</span></p><p>– <span data-id="pg039_n0037">Çfarë e lehtësoi punën në secilin profesion?</span></p>
+<p><span data-id="pg039_n0038">Shkruaj për profesionin që dëshiron ta ushtrosh në të ardhmen!</span> <span data-id="pg039_n0039">Përmend përgjegjësitë dhe rëndësinë që ka ai prefesion!</span></p>
+<div class="writing"><input id="q-item-4" data-activity-item="q-item-4" aria-label="Shkruaj përgjigjen në rreshtin e parë për profesionin që dëshiron ta ushtrosh në të ardhmen"><input id="q-item-5" data-activity-item="q-item-5" aria-label="Shkruaj përgjigjen në rreshtin e dytë për përgjegjësitë dhe rëndësinë e profesionit"><input id="q-item-6" data-activity-item="q-item-6" aria-label="Shkruaj përgjigjen në rreshtin e tretë për profesionin"></div>
+<details><summary>Përgjigju pyetjeve</summary><div class="response-box"><label for="q-item-1">Cilat profesione u panë në panair?</label><textarea id="q-item-1" data-activity-item="q-item-1"></textarea><label for="q-item-2">Pse ushtrimi i profesionit ishte më i vështirë dikur?</label><textarea id="q-item-2" data-activity-item="q-item-2"></textarea><label for="q-item-3">Çfarë e lehtësoi punën në secilin profesion?</label><textarea id="q-item-3" data-activity-item="q-item-3"></textarea><a href="pg039_sec002.html">Hap pyetjet veçmas</a></div></details>
+</div>
+<aside class="discussion" aria-labelledby="discussion-title"><img class="discussion-art" src="studio/assets/pg039_discussion.png" alt="" aria-hidden="true"><h2 id="discussion-title" class="rubric-title" data-id="pg039_n0013">Diskuto</h2>
+<p>– <span data-id="pg039_n0016">Cilat nga zanatet janë në zhdukje në Kosovë?</span></p><p>– <span data-id="pg039_n0018">Cilat janë masat që po merren për vazhdimin e punës së tyre?</span></p><p>– <span data-id="pg039_n0020">Analizo: cili nga zanatet mendon se duhet të vazhdojë?</span> <span data-id="pg039_n0021">Pse?</span></p>
+<details><summary>Shkruaj përgjigjet</summary><div class="response-box"><label for="item-1">Cilat nga zanatet janë në zhdukje në Kosovë?</label><textarea id="item-1" data-activity-item="item-1"></textarea><label for="item-2">Cilat janë masat që po merren për vazhdimin e punës së tyre?</label><textarea id="item-2" data-activity-item="item-2"></textarea><label for="item-3">Analizo: cili nga zanatet mendon se duhet të vazhdojë? Pse?</label><textarea id="item-3" data-activity-item="item-3"></textarea></div></details></aside>
+<div class="reading"><img class="reading-art" src="studio/assets/pg039_reading.png" alt="" aria-hidden="true"><h2 class="rubric-title" data-id="pg039_n0024">Thello dijet</h2><p><span data-id="pg039_n0026">Profesioni është një punë që kryhet nga një person i përgatitur në mënyrë të veçantë, qoftë përmes arsimit, qoftë përmes kurseve trajnuese.</span> <span data-id="pg039_n0027">Njeriu zgjedh profesionin që ka dëshirë dhe mëson e specializohet për ta kryer atë punë.</span> <span data-id="pg039_n0028">Secili profesion ka rëndësinë e tij.</span></p><p><span data-id="pg039_n0029">Puna në vendin tonë dikur është kryer me vështirësi për shkak të mungesës së mjeteve të punës.</span> <span data-id="pg039_n0030">Me zhvillimin e teknologjisë, sot, edhe te ne, si në të gjitha vendet e botës, puna kryhet me mjete bashkëkohore.</span> <span data-id="pg039_n0031">Çdo profesion që ka njeriu, duhet të bëhet me përkushtim dhe përgjegjësi.</span></p></div><span class="folio">39</span>
+</section></div></main>
+<div class="relative z-50" id="interface-container"></div><div class="relative z-50" id="nav-container"></div>
+<script src="./assets/offline-preloader.js?v=9f3d745a858de581"></script><script src="./assets/scorm.js"></script><script src="./assets/base.bundle.local.js"></script><script src="./book-design/responses.js?v=9f3d745a858de581" data-book-responses="true"></script>
+<script>
+/* The question controls on the full page and the focused view share the existing focused-view response keys. */
+(function(){var key='adt5a.responses.f7bf719411a7c7cf.pg039_sec002';function load(){var v;try{v=JSON.parse(localStorage.getItem(key)||'{}')}catch(e){v={}}for(var i=1;i<=6;i++){var el=document.getElementById('q-item-'+i),entry=v['item-'+i];if(el&&entry&&typeof entry.value==='string')el.value=entry.value}}function save(e){if(!/^q-item-[1-6]$/.test(e.target.id))return;var v;try{v=JSON.parse(localStorage.getItem(key)||'{}');v[e.target.id.replace('q-','')]={value:e.target.value};localStorage.setItem(key,JSON.stringify(v))}catch(err){}}document.addEventListener('input',save);document.addEventListener('change',save);setTimeout(load,250);})();
+</script></body></html>

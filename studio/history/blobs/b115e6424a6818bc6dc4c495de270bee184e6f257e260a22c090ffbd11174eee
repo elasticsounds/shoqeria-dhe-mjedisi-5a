@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="sq"><head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Shoqëria dhe mjedisi</title>
+    <meta name="title-id" content="pg049_sec002">
+    <!-- Despite the name, this is the page's 1-based position in the reading
+         order, not a section id and not the printed page number. It drives the
+         "N of M" dock counter and is re-emitted on every package, so it tracks
+         the current order. Identity lives in title-id above. -->
+    <meta name="page-section-id" content="86">
+    <link href="./content/tailwind_output.css" rel="stylesheet">
+    <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+    <link href="./assets/fonts.css" rel="stylesheet">
+<link rel="stylesheet" href="./book-design/components.css?v=9f3d745a858de581" data-book-style="true"></head>
+
+<body class="min-h-screen flex items-center justify-center">
+    <main class="w-full">
+      <h1 class="sr-only" id="page-heading">Shoqëria dhe mjedisi</h1>
+      <div id="content" class="container opacity-0 book" data-family="response"><h2 class="sr-only" id="section-heading">Shkruaj si e kupton thënien:</h2><section data-section-type="other" data-section-id="pg049_sec002" class="mx-auto w-full max-w-5xl px-8 max-sm:px-5 py-10 bg-gradient-to-b from-amber-50 to-white b-page"><div class="rounded-3xl border-4 border-amber-300 bg-white shadow-lg overflow-hidden"><div class="flex"><div aria-hidden="true" class="w-8 bg-amber-300 max-sm:w-4"></div><div class="flex-1 p-8 max-sm:p-5"><div class="mb-6 flex items-center gap-4"><div aria-hidden="true" class="h-14 w-14 rounded-2xl bg-amber-100 border-2 border-amber-300 flex items-center justify-center">✏️</div><div class="rounded-2xl border-2 border-amber-300 bg-amber-50 px-4 py-3 w-full"></div></div><div class="space-y-4"><div class="adt-body text-slate-900"><span data-id="pg049_n0005" class="font-semibold mr-2">1.</span><span data-id="pg049_n0006">Shkruaj si e kupton thënien:</span></div><p class="adt-body text-slate-900"><span data-id="pg049_n0007" class="italic">“Të gjithë janë po aq të rëndësishëm sa unë.”</span></p><div class="space-y-4 pt-2"><div><div data-id="pg049_n0008" class="sr-only"></div><label for="item-1" class="sr-only">Shkruaj si e kupton thënien: “Të gjithë janë po aq të rëndësishëm sa unë.”</label><input id="item-1" data-activity-item="item-1" type="text" aria-label="Shkruaj si e kupton thënien: “Të gjithë janë po aq të rëndësishëm sa unë.”" class="w-full min-h-11 rounded-none border-0 border-b-2 border-slate-500 bg-transparent px-1 py-3 text-slate-900 focus:outline-none focus:border-amber-500"></div><div><div data-id="pg049_n0009" class="sr-only"></div><label for="item-2" class="sr-only">Vazhdo përgjigjen për thënien: “Të gjithë janë po aq të rëndësishëm sa unë.”</label><input id="item-2" data-activity-item="item-2" type="text" aria-label="Vazhdo përgjigjen për thënien: “Të gjithë janë po aq të rëndësishëm sa unë.”" class="w-full min-h-11 rounded-none border-0 border-b-2 border-slate-500 bg-transparent px-1 py-3 text-slate-900 focus:outline-none focus:border-amber-500"></div><div><div data-id="pg049_n0010" class="sr-only"></div><label for="item-3" class="sr-only">Përfundo përgjigjen për thënien: “Të gjithë janë po aq të rëndësishëm sa unë.”</label><input id="item-3" data-activity-item="item-3" type="text" aria-label="Përfundo përgjigjen për thënien: “Të gjithë janë po aq të rëndësishëm sa unë.”" class="w-full min-h-11 rounded-none border-0 border-b-2 border-slate-500 bg-transparent px-1 py-3 text-slate-900 focus:outline-none focus:border-amber-500"></div></div></div></div></div></div></section></div>
+    </main>
+
+    <div class="relative z-50" id="interface-container"></div>
+    <div class="relative z-50" id="nav-container"></div>
+    <script src="./assets/offline-preloader.js?v=9f3d745a858de581"></script>
+    <script src="./assets/scorm.js"></script>
+    <script src="./assets/base.bundle.local.js"></script>
+
+
+
+<script src="./book-design/responses.js?v=9f3d745a858de581" data-book-responses="true"></script></body></html>

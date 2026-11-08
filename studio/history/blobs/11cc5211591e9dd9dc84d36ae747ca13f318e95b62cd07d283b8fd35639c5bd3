@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="sq"><head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Shoqëria dhe mjedisi</title>
+    <meta name="title-id" content="pg035_sec001">
+    <!-- Despite the name, this is the page's 1-based position in the reading
+         order, not a section id and not the printed page number. It drives the
+         "N of M" dock counter and is re-emitted on every package, so it tracks
+         the current order. Identity lives in title-id above. -->
+    <meta name="page-section-id" content="67">
+    <link href="./content/tailwind_output.css" rel="stylesheet">
+    <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+    <link href="./assets/fonts.css" rel="stylesheet">
+<link rel="stylesheet" href="./book-design/components.css?v=9f3d745a858de581" data-book-style="true"></head>
+
+<body class="min-h-screen flex items-center justify-center">
+    <main class="w-full">
+      <div id="content" class="container mx-auto bg-white opacity-0 book" data-family="illustrated-lesson">
+  <section data-section-type="text_and_images" data-section-id="pg035_sec001" class="w-full b-page">
+    <div class="w-full bg-purple-500 b-banner">
+      <div class="mx-auto w-full max-w-5xl px-8 py-16 max-sm:px-5 max-sm:py-10">
+        <h1 class="adt-h1 font-bold text-left text-white" data-id="pg035_n0002">Kuzhina kosovare</h1>
+      </div>
+    </div>
+
+    <div class="mx-auto w-full max-w-5xl px-8 py-6 max-sm:px-5 max-sm:py-5">
+      <div class="mb-5 overflow-hidden rounded-[2rem] border-4 border-purple-400 bg-white">
+        <div class="flex items-stretch max-sm:flex-col">
+          <div class="flex shrink-0 items-center bg-purple-300 px-6 py-5 rounded-r-[2rem] max-sm:rounded-r-none max-sm:rounded-b-[1.5rem]">
+            <span class="adt-body font-bold text-white b-keyword-label" data-id="pg035_n0004">Fjalët kyçe:</span>
+          </div>
+          <div class="adt-body flex items-center px-6 py-5 text-slate-800">
+            <span data-id="pg035_n0005">ushqim tradicional, kulturë, kuzhinë, vlera ushqimore.</span>
+          </div>
+        </div>
+      </div>
+
+      <div class="mb-6 rounded-[1.75rem] bg-sky-300 px-6 py-5 shadow-sm max-sm:px-4 b-panel-thought">
+        <div class="flex items-start gap-5 max-sm:flex-col max-sm:gap-3">
+          <div class="relative mt-1 h-20 w-20 shrink-0 max-sm:h-16 max-sm:w-16">
+            <div class="absolute left-3 top-3 h-10 w-12 rounded-full border-2 border-slate-500/60 bg-white"></div>
+            <div class="absolute left-0 top-5 h-8 w-8 rounded-full border-2 border-slate-500/60 bg-white"></div>
+            <div class="absolute left-9 top-0 h-8 w-8 rounded-full border-2 border-slate-500/60 bg-white"></div>
+            <div class="absolute left-8 top-7 h-8 w-10 rounded-full border-2 border-slate-500/60 bg-white"></div>
+            <div class="absolute left-14 top-13 h-2 w-2 rounded-full border border-slate-500/60 bg-white"></div>
+            <div class="absolute left-17 top-[3.7rem] h-1.5 w-1.5 rounded-full border border-slate-500/60 bg-white"></div>
+          </div>
+          <div class="flex-1">
+            <h2 class="adt-h2 mb-3 text-left font-medium text-slate-900" data-id="pg035_n0007">Shpreh mendimin tënd</h2>
+            <p class="adt-body mb-4 text-left text-slate-900">
+              <span data-id="pg035_n0009">– Si e kupton thënien: “Tradita nuk harrohet”?</span>
+            </p>
+            <label for="response-item-1" class="sr-only">Si e kupton thënien: Tradita nuk harrohet?</label>
+            <textarea id="response-item-1" data-activity-item="item-1" aria-label="Si e kupton thënien: Tradita nuk harrohet?" class="adt-body min-h-32 w-full rounded-2xl border-2 border-white/80 bg-white/90 px-4 py-3 text-slate-900 outline-none"></textarea>
+          </div>
+        </div>
+      </div>
+
+      <p class="adt-body mb-6 text-left leading-8 text-slate-900">
+        <span class="font-semibold" data-id="pg035_n0011">Situatë: Për ditëlindjen e Arit, prindërit organizuan një festë në shtëpi, ku i ftuan edhe të afërmit dhe shokët e shoqet e Arit.</span>
+        <span data-id="pg035_n0012">I bënë të gjitha parapërgatitjet e nevojshme dhe gjëja e fundit që mbeti ishte ushqimi që do të shërbenin për të ftuarit.</span>
+        <span data-id="pg035_n0013">Gjyshërit donin ushqime tradicionale, kurse prindërit donin të përgatitnin ushqime të tjera.</span>
+        <span data-id="pg035_n0014">Gjithsesi, në familjen e Arit diskutojnë për çdo gjë, para se të marrin ndonjë vendim bashkërisht.</span>
+      </p>
+
+      <p class="adt-body mb-6 text-left leading-8 text-slate-900">
+        <span data-id="pg035_n0016">Ja si u vendos:</span>
+      </p>
+
+      <p class="adt-body mb-8 text-left leading-8 text-slate-900">
+        <span data-id="pg035_n0018">Të shtrohet një sofër me ushqimet tradicionale të gjyshërve dhe një tavolinë me ushqimet që do të përgatisnin prindërit e Arit.</span>
+        <span data-id="pg035_n0019">Të dyja palët përgatitën listën e ushqimeve.</span>
+      </p>
+
+      <div class="grid grid-cols-2 items-start gap-10 mb-8 max-lg:grid-cols-1 max-lg:gap-8">
+        <figure class="flex flex-col items-center">
+          <div class="relative w-full max-w-md">
+            <div class="absolute left-4 top-2 z-0 h-16 w-20 -rotate-[35deg] rounded-sm bg-red-500 opacity-90"></div>
+            <div class="absolute right-4 top-2 z-0 h-16 w-20 rotate-[35deg] rounded-sm bg-red-500 opacity-90"></div>
+            <div class="relative z-10 overflow-hidden rounded-[2rem] bg-amber-50 px-5 pb-5 pt-7 shadow-sm border border-amber-100">
+              <img src="images/pg035_im006.png" alt="Lista e ushqimeve të gjyshërve me gatime tradicionale" data-id="pg035_im006" class="mb-4 w-full h-auto drop-shadow-md">
+              <div class="adt-body mb-2 text-left font-semibold text-slate-900" data-id="pg035_n0021">Lista e ushqimeve të gjyshërve:</div>
+              <div class="adt-body text-left text-slate-900" data-id="pg035_n0022">Mish qengji i pjekur në tavë, kryelanë, byrekë, djathë, kos, speca, domate e lakra turshi.</div>
+            </div>
+          </div>
+        </figure>
+
+        <figure class="flex flex-col items-center">
+          <div class="relative w-full max-w-md">
+            <div class="absolute right-6 top-0 z-0 h-14 w-28 rounded-sm bg-lime-300 opacity-90"></div>
+            <div class="absolute left-0 top-1/3 z-0 h-24 w-8 rounded-r-sm bg-red-500 opacity-90"></div>
+            <div class="relative z-10 overflow-hidden rounded-[2rem] bg-amber-50 px-5 pb-5 pt-7 shadow-sm border border-amber-100">
+              <img src="images/pg035_im007.png" alt="Lista e ushqimeve të prindërve me gatime bashkëkohore" data-id="pg035_im007" class="mb-4 w-full h-auto drop-shadow-md">
+              <div class="adt-body mb-2 text-left font-semibold text-slate-900" data-id="pg035_n0024">Lista e ushqimeve të prindërve:</div>
+              <div class="adt-body text-left text-slate-900" data-id="pg035_n0025">Makarona bolonjeze, sushi, perime të fërguara, patate të skuqura, picë, sallatë dhe kërpudha.</div>
+            </div>
+          </div>
+        </figure>
+      </div>
+
+      <p class="adt-body pb-6 text-left leading-8 text-slate-900">
+        <span data-id="pg035_n0027">Në ditën e festës, të gjithë u mahnitën.</span>
+        <span data-id="pg035_n0028">Gjyshërit kishin paraqitur kuzhinën tradicionale shqiptare, ndërsa prindërit kuzhinën bashkëkohore.</span>
+        <span data-id="pg035_n0029">Në fund u shërbye edhe tortë.</span>
+      </p>
+    </div>
+  </section>
+</div>
+    </main>
+
+    <div class="relative z-50" id="interface-container"></div>
+    <div class="relative z-50" id="nav-container"></div>
+    <script src="./assets/offline-preloader.js?v=9f3d745a858de581"></script>
+    <script src="./assets/scorm.js"></script>
+    <script src="./assets/base.bundle.local.js"></script>
+
+
+
+<script src="./book-design/responses.js?v=9f3d745a858de581" data-book-responses="true"></script></body></html>

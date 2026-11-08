@@ -1,0 +1,14 @@
+{
+  "version": "9f3d745a858de581",
+  "htmlCopies": 107,
+  "dictionaries": [
+    "./content/i18n/sq/texts.json",
+    "./content/i18n/sq/speech_texts.json",
+    "./content/i18n/sq/audios.json",
+    "./content/i18n/sq/videos.json",
+    "./content/i18n/sq/images.json",
+    "./content/i18n/sq/glossary.json",
+    "./content/i18n/sq/timecode/timecode_output.json"
+  ],
+  "synchronized": true
+}

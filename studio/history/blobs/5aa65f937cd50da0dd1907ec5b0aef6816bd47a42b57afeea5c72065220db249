@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="sq"><head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Shoqëria dhe mjedisi</title>
+    <meta name="title-id" content="pg007_sec001">
+    <!-- Despite the name, this is the page's 1-based position in the reading
+         order, not a section id and not the printed page number. It drives the
+         "N of M" dock counter and is re-emitted on every package, so it tracks
+         the current order. Identity lives in title-id above. -->
+    <meta name="page-section-id" content="6">
+    <link href="./content/tailwind_output.css" rel="stylesheet">
+    <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+    <link href="./assets/fonts.css" rel="stylesheet">
+<link rel="stylesheet" href="./book-design/components.css?v=9f3d745a858de581" data-book-style="true"></head>
+
+<body class="min-h-screen flex items-center justify-center">
+    <main class="w-full">
+      <div id="content" class="mx-auto w-full max-w-5xl bg-white overflow-hidden opacity-0 book" data-family="foreword">
+  <section data-section-type="foreword" data-section-id="pg007_sec001" class="relative px-10 py-14 max-lg:px-8 max-sm:px-5 max-sm:py-8 overflow-hidden bg-white b-page">
+    <div class="relative z-10 max-w-4xl mx-auto">
+      <h1 class="adt-h2 font-bold text-neutral-800 mb-12 max-sm:mb-8 text-left" data-id="pg007_n0002">Parathënie</h1>
+
+      <p class="adt-body text-neutral-800 mb-8 leading-8 text-left"><span data-id="pg007_n0004">I/e dashur nxënës/e,</span></p>
+
+      <p class="adt-body text-neutral-800 mb-6 leading-8 text-left"><span data-id="pg007_n0006">Ky libër është vazhdimësi e njohurive që ke marrë përgjatë katër vjetëve.</span> <span data-id="pg007_n0007">Tani do të mësosh për jetën e paraardhësve të tu, do të njihesh me monumentet historike, vendbanimet e lashta arkeologjike, kuzhinën dhe veshjet tradicionale kosovare.</span> <span data-id="pg007_n0008">Do të mësosh, gjithashtu, për kulturën, gjuhën, zakonet, traditat dhe llojllojshmërinë etnike e kulturore.</span></p>
+
+      <p class="adt-body text-neutral-800 mb-6 leading-8 text-left"><span data-id="pg007_n0010">Ne e kemi hartuar librin në atë mënyrë që të kesh mundësi të analizosh, të vlerësosh dhe t’i japësh mendimet e tua për zgjidhjen e situatave të ndryshme që kanë të bëjnë me të drejtat e tua dhe me institucionet që kanë për detyrë të të mbrojnë ty.</span> <span data-id="pg007_n0011">Këtë vit do të marrësh informacione edhe për historikun e Republikës së Kosovës, banorët e vjetër të saj, vendet fqinje, bashkëjetesën mes komuniteteve në këtë vend, si dhe për ngjarje të rëndësishme për vendin tonë, si Pavarësia e Kosovës, Beteja e Kosovës dhe Lidhja e Prizrenit.</span> <span data-id="pg007_n0012">Do të njihesh, po ashtu, me Kushtetutën e Kosovës, si ligji themelor i shtetit tonë.</span></p>
+
+      <p class="adt-body text-neutral-800 mb-6 leading-8 text-left"><span data-id="pg007_n0014">Situatat e dhëna dhe ilustrimet do të të ndihmojnë që të kuptosh se si merren vendimet në familje, në shkollë e në shoqëri, pjesë e të cilave duhet të jesh edhe ti.</span> <span data-id="pg007_n0015">Aktivitetet e ndryshme, në të cilat do të marrësh pjesë, do të ngrenë vetëdijen për tolerancë, mirëkuptim dhe bashkëpunim, të cilat janë kushtet themelore për një shoqëri me vlera.</span></p>
+
+      <p class="adt-body text-neutral-800 mb-8 leading-8 text-left"><span data-id="pg007_n0017">Në këtë libër, gjithashtu, jepen edhe informacione të rëndësishme për sëmundjet e ndryshme, kujdesin ndaj pandemisë dhe rëndësinë që ka vaksinimi.</span></p>
+    </div>
+
+    <div class="relative z-10 max-w-4xl mx-auto mt-6 space-y-3 max-sm:space-y-4">
+      <aside class="relative pl-10 max-sm:pl-0">
+        <div class="absolute left-0 top-1/2 -translate-y-1/2 w-0 h-0 border-t-[30px] border-b-[30px] border-r-[30px] border-t-transparent border-b-transparent border-r-violet-200 max-sm:hidden" aria-hidden="true"></div>
+        <div class="bg-violet-200 text-neutral-800 px-8 py-5 max-sm:px-5 rounded-sm">
+          <p class="adt-body leading-8 text-left"><span data-id="pg007_n0020">Libri ka edhe një rubrikë të veçantë - Fjalorthin, që do të të ndihmojë të mësosh fjalë dhe shprehje të reja, duke e pasuruar, kështu, të shprehurit tënd.</span></p>
+        </div>
+      </aside>
+
+      <aside class="relative pl-10 max-sm:pl-0">
+        <div class="absolute left-0 top-1/2 -translate-y-1/2 w-0 h-0 border-t-[30px] border-b-[30px] border-r-[30px] border-t-transparent border-b-transparent border-r-amber-300 max-sm:hidden" aria-hidden="true"></div>
+        <div class="bg-amber-300 text-neutral-800 px-8 py-5 max-sm:px-5 rounded-sm">
+          <p class="adt-body leading-8 text-left"><span data-id="pg007_n0023">Rubrika Provoje veten do të ta krijojë mundësinë që të punosh shumë detyra krijuese dhe do të të ndihmojë për zhvillimin e të menduarit krijues.</span> <span data-id="pg007_n0024">Ato u përkasin niveleve të ndryshme dhe do të ta mundësojnë përdorimin praktik të njohurive.</span></p>
+        </div>
+      </aside>
+
+      <aside class="relative pl-10 max-sm:pl-0">
+        <div class="absolute left-0 top-1/2 -translate-y-1/2 w-0 h-0 border-t-[34px] border-b-[34px] border-r-[34px] border-t-transparent border-b-transparent border-r-purple-500/70 max-sm:hidden" aria-hidden="true"></div>
+        <div class="bg-purple-500/70 text-white px-8 py-5 max-sm:px-5 rounded-sm b-foreword-guidance">
+          <p class="adt-body leading-8 text-left"><span data-id="pg007_n0027">Rubrikat Përdore internetin/Shkathtësi hulumtuese janë lënë që t’i punosh bashkë me prindërit, mësuesin a ndonjë të rritur tjetër, duke pasur parasysh rreziqet që vijnë nga përdorimi i pakontrolluar i teknologjisë informative, veçanërisht internetit.</span> <span data-id="pg007_n0028">Në këtë mënyrë, do të të krijohen shprehi dhe shkathtësi të mira të hulumtimit dhe të kërkimit të informacioneve.</span></p>
+        </div>
+      </aside>
+    </div>
+
+    <div class="relative z-10 max-w-4xl mx-auto flex justify-end mt-6 mb-6">
+      <p class="adt-body text-neutral-800 text-left"><span data-id="pg007_n0029">Autorët</span></p>
+    </div>
+
+    <div class="pointer-events-none absolute -left-12 top-[35%] z-0 h-24 w-24 rounded-r-full bg-sky-300/80 max-lg:-left-14 max-lg:top-[41%] max-lg:h-20 max-lg:w-20 max-sm:hidden" aria-hidden="true"></div>
+
+    <div class="relative mt-4 h-[22rem] max-lg:h-[18rem] max-sm:h-[10rem] overflow-hidden">
+      <div class="absolute left-0 bottom-0 w-full h-[72%] bg-sky-300/80 rounded-tl-[8rem] rounded-tr-[16rem] max-sm:rounded-tl-[3rem] max-sm:rounded-tr-[5rem]" aria-hidden="true"></div>
+      <div class="absolute left-0 bottom-0 w-full h-[34%] bg-lime-500/80 rounded-tr-[8rem] max-sm:rounded-tr-[3rem]" aria-hidden="true"></div>
+      <div class="absolute right-[12%] top-[18%] w-48 h-28 bg-white rounded-[50%] rotate-[18deg] max-lg:w-40 max-lg:h-24 max-sm:w-20 max-sm:h-10" aria-hidden="true"></div>
+      <img data-id="pg007_im004" src="images/pg007_im004.png" alt="" class="absolute z-10 right-8 bottom-10 w-36 h-auto max-lg:w-28 max-sm:w-20 max-sm:right-3 max-sm:bottom-4" role="presentation" aria-hidden="true">
+      <img data-id="pg007_im005" src="images/pg007_im005.png" alt="" class="absolute z-10 left-[20%] bottom-10 w-24 h-auto max-lg:w-20 max-sm:w-14 max-sm:left-[18%] max-sm:bottom-3" role="presentation" aria-hidden="true">
+      <img data-id="pg007_im006" src="images/pg007_im006.png" alt="" class="absolute z-10 left-[30%] bottom-8 w-28 h-auto max-lg:w-24 max-sm:w-16 max-sm:left-[30%] max-sm:bottom-2" role="presentation" aria-hidden="true">
+    </div>
+  </section>
+</div>
+    </main>
+
+    <div class="relative z-50" id="interface-container"></div>
+    <div class="relative z-50" id="nav-container"></div>
+    <script src="./assets/offline-preloader.js?v=9f3d745a858de581"></script>
+    <script src="./assets/scorm.js"></script>
+    <script src="./assets/base.bundle.local.js"></script>
+
+
+
+<script src="./book-design/responses.js?v=9f3d745a858de581" data-book-responses="true"></script></body></html>

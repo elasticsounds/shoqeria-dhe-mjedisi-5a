@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="sq"><head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Shoqëria dhe mjedisi</title>
+    <meta name="title-id" content="pg029_sec001">
+    <!-- Despite the name, this is the page's 1-based position in the reading
+         order, not a section id and not the printed page number. It drives the
+         "N of M" dock counter and is re-emitted on every package, so it tracks
+         the current order. Identity lives in title-id above. -->
+    <meta name="page-section-id" content="52">
+    <link href="./content/tailwind_output.css" rel="stylesheet">
+    <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+    <link href="./assets/fonts.css" rel="stylesheet">
+<link rel="stylesheet" href="./book-design/components.css?v=9f3d745a858de581" data-book-style="true"></head>
+
+<body class="min-h-screen flex items-center justify-center">
+    <main class="w-full">
+      <div id="content" class="container mx-auto w-full max-w-5xl px-8 max-sm:px-5 opacity-0 book" data-family="photo-comparison">
+  <section data-section-type="text_and_images" data-section-id="pg029_sec001" class="bg-white text-slate-800 pb-10 b-page">
+    <div class="relative left-1/2 right-1/2 -mx-[50vw] w-screen bg-[#a476b5] b-banner">
+      <div class="mx-auto w-full max-w-5xl px-8 max-sm:px-5 py-12 max-sm:py-8">
+        <h1 class="adt-h1 font-bold text-white max-w-4xl leading-tight" data-id="pg029_n0002">Ndryshimi i objekteve dhe i mjeteve të punës gjatë kohës</h1>
+      </div>
+    </div>
+
+    <div class="-mt-3 mb-8 max-sm:mb-6">
+      <div class="rounded-[1.8rem] border-4 border-purple-500 bg-white overflow-hidden">
+        <div class="flex items-stretch max-sm:flex-col">
+          <div class="bg-[#b57adf] px-5 py-4 flex items-center rounded-r-[1.4rem] max-sm:rounded-r-none max-sm:rounded-b-none">
+            <span class="adt-body font-bold text-white whitespace-nowrap b-keyword-label" data-id="pg029_n0004">Fjalët kyçe:</span>
+          </div>
+          <div class="flex-1 px-5 py-4 flex items-center">
+            <span class="adt-body text-slate-800" data-id="pg029_n0005">objekt, ndryshim, përmirësim, mjete bashkëkohore.</span>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <aside class="mb-6 rounded-[1.8rem] bg-sky-300 px-5 py-4 shadow-sm b-panel-thought">
+      <div class="flex gap-4 max-sm:flex-col max-sm:items-center max-sm:text-left">
+        <div class="shrink-0 flex items-start justify-center pt-1 max-sm:pt-0 b-rubric-wrapper" aria-hidden="true"><img src="images/pg005_im002.png" alt="" aria-hidden="true" class="b-rubric-icon"></div>
+        <div class="flex-1">
+          <h2 class="adt-h2 font-semibold mb-2 text-slate-900" data-id="pg029_n0007">Shpreh mendimin tënd</h2>
+          <ul class="space-y-3">
+            <li class="adt-body text-slate-800">
+              <div class="mb-2 flex items-start gap-2">
+                <span aria-hidden="true">–</span>
+                <span data-id="pg029_n0010">A e di si kanë ndryshuar objektet gjatë periudhave historike?</span>
+              </div>
+              <label for="item-1" class="sr-only">A e di si kanë ndryshuar objektet gjatë periudhave historike?</label>
+              <textarea id="item-1" data-activity-item="item-1" aria-label="A e di si kanë ndryshuar objektet gjatë periudhave historike?" class="w-full min-h-11 rounded-2xl border-2 border-sky-500 bg-white px-4 py-3 outline-none focus:border-purple-500 focus:ring-2 focus:ring-purple-200"></textarea>
+            </li>
+            <li class="adt-body text-slate-800">
+              <div class="mb-2 flex items-start gap-2">
+                <span aria-hidden="true">–</span>
+                <span data-id="pg029_n0012">Po mjetet e punës, si kanë ndryshuar?</span>
+              </div>
+              <label for="item-2" class="sr-only">Po mjetet e punës, si kanë ndryshuar?</label>
+              <textarea id="item-2" data-activity-item="item-2" aria-label="Po mjetet e punës, si kanë ndryshuar?" class="w-full min-h-11 rounded-2xl border-2 border-sky-500 bg-white px-4 py-3 outline-none focus:border-purple-500 focus:ring-2 focus:ring-purple-200"></textarea>
+            </li>
+            <li class="adt-body text-slate-800">
+              <div class="mb-2 flex items-start gap-2">
+                <span aria-hidden="true">–</span>
+                <span data-id="pg029_n0014">Analizoji fotografitë dhe informacionet e dhëna!</span>
+              </div>
+              <label for="item-3" class="sr-only">Analizoji fotografitë dhe informacionet e dhëna!</label>
+              <textarea id="item-3" data-activity-item="item-3" aria-label="Analizoji fotografitë dhe informacionet e dhëna!" class="w-full min-h-11 rounded-2xl border-2 border-sky-500 bg-white px-4 py-3 outline-none focus:border-purple-500 focus:ring-2 focus:ring-purple-200"></textarea>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </aside>
+
+    <div class="grid grid-cols-3 gap-2 mb-6 max-sm:grid-cols-1">
+      <figure class="flex flex-col items-center">
+        <img src="images/pg029_im004.png" alt="Katedrale" data-id="pg029_im004" class="w-full h-auto rounded-sm object-cover">
+        <figcaption class="adt-caption italic mt-1 text-slate-800" data-id="pg029_n0017">Katedrale</figcaption>
+      </figure>
+      <figure class="flex flex-col items-center">
+        <img src="images/pg029_im005.png" alt="Xhami" data-id="pg029_im005" class="w-full h-auto rounded-sm object-cover">
+        <figcaption class="adt-caption italic mt-1 text-slate-800" data-id="pg029_n0019">Xhami</figcaption>
+      </figure>
+      <figure class="flex flex-col items-center">
+        <img src="images/pg029_im006.png" alt="Kishë ortodokse" data-id="pg029_im006" class="w-full h-auto rounded-sm object-cover">
+        <figcaption class="adt-caption italic mt-1 text-slate-800" data-id="pg029_n0021">Kishë ortodokse</figcaption>
+      </figure>
+    </div>
+
+    <p class="adt-body leading-relaxed mb-8 text-left text-slate-800">
+      <span data-id="pg029_n0023">Njerëzit kanë besime dhe bindje të ndryshme, që do të thotë se ekzistojnë edhe fe të ndryshme nëpër botë.</span>
+      <span data-id="pg029_n0024">Shumica e feve kanë edhe objektet e tyre të posaçme për praktikat e besimtarëve që u përkasin atyre feve.</span>
+      <span data-id="pg029_n0025">Edhe këto objekte fetare kanë arkitekturën e tyre të veçantë, e cila, po ashtu, ka ndryshuar përgjatë historisë, por është ruajtur në formën e përgjithshme (shih fotografitë lart).</span>
+    </p>
+
+    <div class="mb-8 grid grid-cols-[1.05fr,1.45fr] gap-3 items-start max-lg:grid-cols-1">
+      <div class="grid grid-cols-2 gap-2 max-sm:grid-cols-1">
+        <img src="images/pg029_im007.png" alt="Punishte e vogël me mjete pune të thjeshta" data-id="pg029_im007" class="w-full h-auto object-cover">
+        <img src="images/pg029_im008.png" alt="Fabrikë moderne me shumë punëtorë" data-id="pg029_im008" class="w-full h-auto object-cover">
+      </div>
+      <p class="adt-body leading-relaxed text-left text-slate-800">
+        <span data-id="pg029_n0028">Zejtarët dikur punonin në punishte të vogla me mjete pune të thjeshta.</span>
+        <span data-id="pg029_n0029">Sot ka fabrika të mëdha moderne, me teknologji bashkëkohore, me numër të madh punëtorësh, që karakterizohen nga cilësia e lartë e prodhimeve.</span>
+      </p>
+    </div>
+
+    <div class="mb-8 grid grid-cols-[1.05fr,1.45fr] gap-3 items-start max-lg:grid-cols-1">
+      <div class="grid grid-cols-2 gap-2 max-sm:grid-cols-1">
+        <img src="images/pg029_im009.png" alt="Stallë e thjeshtë me pak kafshë" data-id="pg029_im009" class="w-full h-auto object-cover">
+        <img src="images/pg029_im010.png" alt="Fermë moderne për mbajtjen e kafshëve" data-id="pg029_im010" class="w-full h-auto object-cover">
+      </div>
+      <p class="adt-body leading-relaxed text-left text-slate-800">
+        <span data-id="pg029_n0032">Blegtoria është mjaft e zhvilluar në vendin tonë.</span>
+        <span data-id="pg029_n0033">Dikur stallat ishin të thjeshta dhe mbaheshin pak kafshë.</span>
+        <span data-id="pg029_n0034">Njerëzit gjithmonë janë marrë me rritjen e kafshëve dhe kanë punuar në kushte të vështira.</span>
+        <span data-id="pg029_n0035">Me zhvillimin e teknologjisë, nga stallat e thjeshta u ndërtuan fermat moderne, të cilat kanë kushte të mira dhe të përshtatshme për mbajtjen e kafshëve.</span>
+      </p>
+    </div>
+
+    <div class="grid grid-cols-[1.05fr,1.45fr] gap-3 items-start max-lg:grid-cols-1">
+      <div class="grid grid-cols-2 gap-2 max-sm:grid-cols-1">
+        <img src="images/pg029_im001.png" alt="Punim i tokës me kalë me parmendë" data-id="pg029_im001" class="w-full h-auto object-cover">
+        <img src="images/pg029_im002.png" alt="Bujqësi moderne me traktor në fushë" data-id="pg029_im002" class="w-full h-auto object-cover">
+      </div>
+      <p class="adt-body leading-relaxed text-left text-slate-800">
+        <span data-id="pg029_n0038">Kosova ka shumë toka pjellore dhe bujqësia ka qenë e zhvilluar në të gjitha kohët.</span>
+        <span data-id="pg029_n0039">Dikur punohej me mjete primitive (me kalë me parmendë, siç shihet në fotografi), ndërsa sot toka punohet me traktorë, kombajna etj.</span>
+        <span data-id="pg029_n0040">Kjo njihet si bujqësi moderne dhe prodhimet janë shumë më të mëdha.</span>
+      </p>
+    </div>
+  </section>
+</div>
+    </main>
+
+    <div class="relative z-50" id="interface-container"></div>
+    <div class="relative z-50" id="nav-container"></div>
+    <script src="./assets/offline-preloader.js?v=9f3d745a858de581"></script>
+    <script src="./assets/scorm.js"></script>
+    <script src="./assets/base.bundle.local.js"></script>
+
+
+
+<script src="./book-design/responses.js?v=9f3d745a858de581" data-book-responses="true"></script></body></html>

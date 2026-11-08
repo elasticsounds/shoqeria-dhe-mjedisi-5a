@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="sq"><head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Shoqëria dhe mjedisi</title>
+  <meta name="title-id" content="pg011_sec002">
+  <meta name="page-section-id" content="13">
+  <link href="./content/tailwind_output.css" rel="stylesheet">
+  <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+  <link href="./assets/fonts.css" rel="stylesheet">
+  <link rel="stylesheet" href="./book-design/components.css?v=9f3d745a858de581" data-book-style="true">
+</head>
+<body class="min-h-screen flex items-center justify-center">
+  <main class="w-full">
+    <h1 class="sr-only" id="page-heading">Shoqëria dhe mjedisi</h1>
+    <div id="content" class="container opacity-0 book" data-family="star-rating">
+      <h2 class="sr-only" id="section-heading">Pasi ta kesh plotësuar tabelën, ngjyrosi yjet për të treguar se sa i përgjegjshëm je ti.</h2>
+      <section data-section-type="other" data-section-id="pg011_sec002" class="b-page rating-section">
+        <style>
+          #content.book .rating-section { font-family:BookPoppins,Arial,sans-serif; max-width:730px; margin:0 auto; }
+          #content.book .rating-section .rating-instruction { font:400 18.8px/1.35 BookPoppins,Arial,sans-serif; margin:0 0 25px; }
+          #content.book .rating-box { border:1.5px solid #524aa0; }
+          #content.book .rating-section .rating-caption { font:400 17.2px/1.3 BookPoppins,Arial,sans-serif; text-align:center; margin:0; padding:22px 8px; border-bottom:1.5px solid #524aa0; }
+          #content.book .rating-area { padding:18px 0 20px; }
+          #content.book .rating-stars { position:relative; width:min(316px, 100%); margin:auto; }
+          #content.book .rating-stars img { display:block; width:100%; height:auto; }
+          #content.book .rating-targets { position:absolute; inset:0; display:flex; }
+          #content.book .rating-targets label { position:relative; display:block; flex:1 1 20%; cursor:pointer; min-width:0; }
+          #content.book .rating-targets input { position:absolute; inset:0; width:100%; height:100%; margin:0; opacity:0; cursor:pointer; }
+          #content.book .rating-targets label:after { content:""; position:absolute; inset:2% 2%; pointer-events:none; background:#ffb149; opacity:0; clip-path:polygon(50% 7%, 61% 32%, 95% 38%, 75% 59%, 80% 91%, 50% 76%, 20% 91%, 25% 59%, 5% 38%, 39% 32%); }
+          #content.book .rating-targets label:has(input:checked):after, #content.book .rating-targets label:has(~ label input:checked):after { opacity:.8; }
+          #content.book .rating-targets label:has(input:focus-visible) { outline:3px solid #075a70; outline-offset:2px; }
+          @media (max-width:700px) {
+            #content.book .rating-section .rating-instruction { font-size:16px; line-height:1.5; margin-bottom:20px; }
+            #content.book .rating-section .rating-caption { font-size:16px; padding:18px 8px; }
+            #content.book .rating-area { padding:18px 0; }
+          }
+        </style>
+        <p class="rating-instruction"><span data-id="pg011_n0093">3.</span> <span data-id="pg011_n0094">Pasi ta kesh plotësuar tabelën, ngjyrosi yjet për të treguar se sa i përgjegjshëm je ti.</span></p>
+        <div class="rating-box">
+          <p class="rating-caption" id="rating-caption"><span data-id="pg011_n0096">Jam i përgjegjshëm.</span></p>
+          <div class="rating-area">
+            <div class="rating-stars">
+              <img data-id="pg011_im001" src="studio/assets/pg011-stars.png" alt="">
+              <div class="rating-targets" role="radiogroup" aria-labelledby="rating-caption">
+                <label><input id="item-1" data-activity-item="item-1" type="radio" name="responsibility-rating" value="1" aria-label="1 yll"></label>
+                <label><input id="item-2" data-activity-item="item-2" type="radio" name="responsibility-rating" value="2" aria-label="2 yje"></label>
+                <label><input id="item-3" data-activity-item="item-3" type="radio" name="responsibility-rating" value="3" aria-label="3 yje"></label>
+                <label><input id="item-4" data-activity-item="item-4" type="radio" name="responsibility-rating" value="4" aria-label="4 yje"></label>
+                <label><input id="item-5" data-activity-item="item-5" type="radio" name="responsibility-rating" value="5" aria-label="5 yje"></label>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+    </div>
+  </main>
+  <div class="relative z-50" id="interface-container"></div>
+  <div class="relative z-50" id="nav-container"></div>
+  <script src="./assets/offline-preloader.js?v=9f3d745a858de581"></script>
+  <script src="./assets/scorm.js"></script>
+  <script src="./assets/base.bundle.local.js"></script>
+  <script src="./book-design/responses.js?v=9f3d745a858de581" data-book-responses="true"></script>
+</body></html>

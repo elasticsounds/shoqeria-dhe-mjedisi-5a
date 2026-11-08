@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="sq"><head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Shoqëria dhe mjedisi</title>
+    <meta name="title-id" content="pg033_sec004">
+    <!-- Despite the name, this is the page's 1-based position in the reading
+         order, not a section id and not the printed page number. It drives the
+         "N of M" dock counter and is re-emitted on every package, so it tracks
+         the current order. Identity lives in title-id above. -->
+    <meta name="page-section-id" content="60">
+    <link href="./content/tailwind_output.css" rel="stylesheet">
+    <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+    <link href="./assets/fonts.css" rel="stylesheet">
+<link rel="stylesheet" href="./book-design/components.css?v=9f3d745a858de581" data-book-style="true"></head>
+
+<body class="min-h-screen flex items-center justify-center">
+    <main class="w-full">
+      <div id="content" class="container opacity-0 book" data-family="reference"><section data-section-type="boxed_text" data-section-id="pg033_sec004" class="mx-auto w-full max-w-5xl px-8 py-8 max-sm:px-4 b-page"><div class="flex items-stretch overflow-hidden rounded-[1.75rem] border-2 border-[#b98ad1] bg-[#d9c7e3] shadow-sm max-sm:flex-col"><div aria-hidden="true" class="flex w-40 shrink-0 items-center justify-center bg-[#b287c6] px-4 py-4 max-sm:w-full max-sm:justify-center max-sm:py-3 b-rubric-wrapper"><img src="images/pg005_im001.png" alt="" aria-hidden="true" class="b-rubric-icon"></div><div class="flex flex-1 items-center px-6 py-5 max-sm:px-5 max-sm:py-4"><div class="w-full"><h1 class="adt-h3 mb-3 text-[#2f1f39]" data-id="pg033_n0035">Fjalorthi</h1><p class="adt-body leading-relaxed text-gray-900"><span data-id="pg033_n0037">Shajak - material i punuar nga leshi.</span></p></div></div></div></section></div>
+    </main>
+
+    <div class="relative z-50" id="interface-container"></div>
+    <div class="relative z-50" id="nav-container"></div>
+    <script src="./assets/offline-preloader.js?v=9f3d745a858de581"></script>
+    <script src="./assets/scorm.js"></script>
+    <script src="./assets/base.bundle.local.js"></script>
+
+
+
+<script src="./book-design/responses.js?v=9f3d745a858de581" data-book-responses="true"></script></body></html>

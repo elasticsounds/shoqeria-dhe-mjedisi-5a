@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="sq"><head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Shoqëria dhe mjedisi</title>
+    <meta name="title-id" content="pg023_sec001">
+    <!-- Despite the name, this is the page's 1-based position in the reading
+         order, not a section id and not the printed page number. It drives the
+         "N of M" dock counter and is re-emitted on every package, so it tracks
+         the current order. Identity lives in title-id above. -->
+    <meta name="page-section-id" content="33">
+    <link href="./content/tailwind_output.css" rel="stylesheet">
+    <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+    <link href="./assets/fonts.css" rel="stylesheet">
+<link rel="stylesheet" href="./book-design/components.css?v=9f3d745a858de581" data-book-style="true"></head>
+
+<body class="min-h-screen flex items-center justify-center">
+    <main class="w-full">
+      <h1 class="sr-only" id="page-heading">Shoqëria dhe mjedisi</h1>
+      <div id="content" class="container opacity-0 book" data-family="comparison-diagram"><h2 class="sr-only" id="section-heading">Të përbashkëtat</h2><section data-section-type="other" data-section-id="pg023_sec001" class="mx-auto w-full max-w-5xl px-8 max-sm:px-4 py-8 bg-white text-slate-800 b-page"><div class="rounded-[2.25rem] border-4 border-violet-500 bg-white px-6 py-7 max-sm:px-4 max-sm:py-5"><p class="adt-body mb-6"><span data-id="pg023_n0002">- Krahaso:</span></p><div class="mb-5 grid grid-cols-3 gap-5 items-start max-lg:gap-4 max-sm:grid-cols-1"><div class="flex flex-col items-center text-center max-sm:items-stretch max-sm:text-left"><p class="adt-body mb-3"><span data-id="pg023_n0004">Fshati dikur</span></p><label for="item-1" class="sr-only">Fshati dikur</label><textarea id="item-1" data-activity-item="item-1" aria-label="Fshati dikur" class="w-full min-h-11 h-24 max-sm:h-28 rounded-3xl border-2 border-violet-300 bg-violet-50/40 px-4 py-3 outline-none focus:ring-4 focus:ring-violet-200"></textarea></div><div class="flex flex-col items-center text-center max-sm:items-stretch max-sm:text-left"><p class="adt-body mb-3"><span data-id="pg023_n0005">Të përbashkëtat</span></p><label for="item-2" class="sr-only">Të përbashkëtat</label><textarea id="item-2" data-activity-item="item-2" aria-label="Të përbashkëtat" class="w-full min-h-11 h-24 max-sm:h-28 rounded-3xl border-2 border-amber-400 bg-amber-50/40 px-4 py-3 outline-none focus:ring-4 focus:ring-amber-200"></textarea></div><div class="flex flex-col items-center text-center max-sm:items-stretch max-sm:text-left"><p class="adt-body mb-3"><span data-id="pg023_n0006">Fshati sot</span></p><label for="item-3" class="sr-only">Fshati sot</label><textarea id="item-3" data-activity-item="item-3" aria-label="Fshati sot" class="w-full min-h-11 h-24 max-sm:h-28 rounded-3xl border-2 border-emerald-300 bg-emerald-50/40 px-4 py-3 outline-none focus:ring-4 focus:ring-emerald-200"></textarea></div></div><div class="rounded-[2rem] border border-slate-200 bg-white px-2 py-3 max-sm:px-1"><img data-id="pg023_im006" src="images/pg023_im006.png" alt="Diagram me dy rrathë të mbivendosur për krahasim" class="w-full h-auto mx-auto"></div></div><aside class="mt-3 ml-auto w-[48%] rounded-[1.75rem] border-2 border-violet-400 bg-amber-100/80 p-5 shadow-sm max-lg:w-[60%] max-sm:ml-0 max-sm:w-full max-sm:p-4"><p class="adt-body mb-3"><span data-id="pg023_n0008">Bashkë me ndihmën e prindërve apo të mësuesit, hulumto në internet dhe gjej informacione për ndryshimin e fshatrave përgjatë historisë.</span></p><label for="item-4" class="sr-only">Bashkë me ndihmën e prindërve apo të mësuesit, hulumto në internet dhe gjej informacione për ndryshimin e fshatrave përgjatë historisë.</label><textarea id="item-4" data-activity-item="item-4" aria-label="Bashkë me ndihmën e prindërve apo të mësuesit, hulumto në internet dhe gjej informacione për ndryshimin e fshatrave përgjatë historisë." class="w-full min-h-11 h-24 rounded-2xl border-2 border-violet-300 bg-white px-4 py-3 outline-none focus:ring-4 focus:ring-violet-200"></textarea></aside></section></div>
+    </main>
+
+    <div class="relative z-50" id="interface-container"></div>
+    <div class="relative z-50" id="nav-container"></div>
+    <script src="./assets/offline-preloader.js?v=9f3d745a858de581"></script>
+    <script src="./assets/scorm.js"></script>
+    <script src="./assets/base.bundle.local.js"></script>
+
+
+
+<script src="./book-design/responses.js?v=9f3d745a858de581" data-book-responses="true"></script></body></html>

@@ -1,0 +1,31 @@
+[
+  {
+    "id": "E-01",
+    "status": "Teacher review",
+    "page": 37,
+    "section": "pg037_sec003.html",
+    "detail": "The original generated letter-entry grid has different cell counts/offsets from the source diagram, including Albanian digraph treatment. The exact source grid is restored and the six full-word response fields are primary. Legacy letter controls remain in a separate expandable area with IDs/names/values preserved and support up to two characters. No answer key or letter-to-cell grading was invented."
+  },
+  {
+    "id": "E-02",
+    "status": "Teacher review",
+    "page": 46,
+    "section": "pg046_sec001.html",
+    "detail": "The original source asks for official languages and provides three response lines without specifying the intended scope. The original prompt and open response controls are preserved. A teacher should confirm the expected response count/scope; no new answer was supplied."
+  },
+  {
+    "id": "H-01",
+    "status": "Human validation remaining",
+    "detail": "Live screen-reader/assistive-technology use, classroom pedagogical review, and SCORM 1.2 operation in the target LMS were not certified by these browser checks."
+  },
+  {
+    "id": "P-01",
+    "status": "Provenance limitation",
+    "detail": "For retained original raster crops of vector artwork, exact historical extraction coordinates are unavailable where explicitly null in the ledger. Their physical source pages and appearance were visually checked. Every newly extracted figure has recorded crop coordinates or source vector bounds."
+  },
+  {
+    "id": "S-01",
+    "status": "Source scope, intentional",
+    "detail": "Physical page 4 is lined notes stationery. Contents references to pages 53–101 are outside the supplied 1–50 PDF/Part 1 ADT. No missing later lessons or publication details were fabricated."
+  }
+]

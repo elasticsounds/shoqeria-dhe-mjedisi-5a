@@ -1,0 +1,1421 @@
+{
+  "ajvar": {
+    "word": "ajvar",
+    "definition": "Përgatitje ushqimore që bëhet zakonisht nga specat e pjekur.",
+    "variations": [
+      "ajvar",
+      "ajvari"
+    ],
+    "emoji": "🌶️🍅",
+    "id": "gl001"
+  },
+  "amforë": {
+    "word": "amforë",
+    "definition": "Enë e madhe prej dheu që përdorej dikur për të ruajtur ushqime ose lëngje.",
+    "variations": [
+      "amforë",
+      "amforat",
+      "amforën"
+    ],
+    "emoji": "🏺🌾",
+    "id": "gl002"
+  },
+  "argumentuar": {
+    "word": "argumentuar",
+    "definition": "I shpjeguar me arsye dhe fakte.",
+    "variations": [
+      "argumentuar",
+      "argumenton",
+      "argument",
+      "argumente"
+    ],
+    "emoji": "🗣️📌",
+    "id": "gl003"
+  },
+  "arkeolog": {
+    "word": "arkeolog",
+    "definition": "Njeri që studion të kaluarën duke gjetur dhe shqyrtuar objekte të vjetra.",
+    "variations": [
+      "arkeolog",
+      "arkeologë",
+      "arkeologjik"
+    ],
+    "emoji": "🧑‍🔬⛏️",
+    "id": "gl004"
+  },
+  "arkeologji": {
+    "word": "arkeologji",
+    "definition": "Shkenca që studion jetën e njerëzve të lashtë përmes objekteve dhe vendeve të gjetura.",
+    "variations": [
+      "arkeologji",
+      "arkeologjike",
+      "arkeologjisë"
+    ],
+    "emoji": "🏺⛏️🔍",
+    "id": "gl005"
+  },
+  "arkitekturë": {
+    "word": "arkitekturë",
+    "definition": "Mënyra si projektohen dhe ndërtohen shtëpitë ose ndërtesat.",
+    "variations": [
+      "arkitekturë",
+      "arkitektura"
+    ],
+    "emoji": "📐🏛️",
+    "id": "gl006"
+  },
+  "arkiv": {
+    "word": "arkiv",
+    "definition": "Vend ku ruhen dokumente dhe të dhëna të rëndësishme.",
+    "variations": [
+      "arkiv",
+      "arkivi",
+      "arkiva",
+      "arkivat"
+    ],
+    "emoji": "🗂️📚",
+    "id": "gl007"
+  },
+  "artefakt": {
+    "word": "artefakt",
+    "definition": "Objekt i bërë nga njeriu, i gjetur nga gërmimet arkeologjike.",
+    "variations": [
+      "artefakt",
+      "artefakte",
+      "artefaktet"
+    ],
+    "emoji": "🏺🔍",
+    "id": "gl008"
+  },
+  "autostradë": {
+    "word": "autostradë",
+    "definition": "Rrugë e gjerë dhe e shpejtë për udhëtim me automjete.",
+    "variations": [
+      "autostradë",
+      "autostrada",
+      "autostrada"
+    ],
+    "emoji": "🛣️🚗",
+    "id": "gl009"
+  },
+  "barazi": {
+    "word": "barazi",
+    "definition": "Gjendje kur të gjithë trajtohen njësoj dhe kanë të drejta të barabarta.",
+    "variations": [
+      "barazi",
+      "barazia"
+    ],
+    "emoji": "⚖️🤝",
+    "id": "gl010"
+  },
+  "bashkëpunim": {
+    "word": "bashkëpunim",
+    "definition": "Punë e përbashkët mes njerëzve për të arritur një qëllim.",
+    "variations": [
+      "bashkëpunimi",
+      "bashkëpunoj",
+      "bashkëpunojnë"
+    ],
+    "emoji": "🤝🛠️",
+    "id": "gl011"
+  },
+  "besim": {
+    "word": "besim",
+    "definition": "Ndjenja se mund t’i mbështetesh dikujt ose se diçka është e vërtetë.",
+    "variations": [
+      "besim",
+      "besimi",
+      "besimin"
+    ],
+    "emoji": "💛🤗",
+    "id": "gl012"
+  },
+  "blegtori": {
+    "word": "blegtori",
+    "definition": "Degë e ekonomisë që merret me rritjen dhe mbajtjen e kafshëve.",
+    "variations": [
+      "blegtori",
+      "blegtoria"
+    ],
+    "emoji": "🐄🐑",
+    "id": "gl013"
+  },
+  "boza": {
+    "word": "boza",
+    "definition": "Pije freskuese që përgatitet me bazë misri.",
+    "variations": [
+      "boza",
+      "bozë"
+    ],
+    "emoji": "🥤🌽",
+    "id": "gl014"
+  },
+  "bujqësi": {
+    "word": "bujqësi",
+    "definition": "Degë e ekonomisë që merret me punimin e tokës dhe rritjen e bimëve.",
+    "variations": [
+      "bujqësi",
+      "bujqësia"
+    ],
+    "emoji": "🌾🚜",
+    "id": "gl015"
+  },
+  "bulmet": {
+    "word": "bulmet",
+    "definition": "Ushqime që bëhen nga qumështi, si djathi, kosi dhe gjalpi.",
+    "variations": [
+      "bulmet",
+      "bulmeti"
+    ],
+    "emoji": "🥛🧀",
+    "id": "gl016"
+  },
+  "çerdhe": {
+    "word": "çerdhe",
+    "definition": "Vend ku qëndrojnë dhe kujdesen për fëmijët e vegjël gjatë ditës.",
+    "variations": [
+      "çerdhe",
+      "çerdheve",
+      "çerdhet"
+    ],
+    "emoji": "🧸👶",
+    "id": "gl017"
+  },
+  "Dardani": {
+    "word": "Dardani",
+    "definition": "Emri i Kosovës në kohën e Ilirisë.",
+    "variations": [
+      "Dardani",
+      "Dardane",
+      "Mbretëria Dardane"
+    ],
+    "emoji": "🗺️📜",
+    "id": "gl018"
+  },
+  "dashuri": {
+    "word": "dashuri",
+    "definition": "Ndjenjë e fortë afërsie, kujdesi dhe mirësie ndaj dikujt.",
+    "variations": [
+      "dashuria",
+      "dashurisë"
+    ],
+    "emoji": "❤️🥰",
+    "id": "gl019"
+  },
+  "dëshmi": {
+    "word": "dëshmi",
+    "definition": "Diçka që tregon ose vërteton se një ngjarje apo gjë ka ndodhur vërtet.",
+    "variations": [
+      "dëshmi",
+      "dëshmia",
+      "dëshmitë"
+    ],
+    "emoji": "🔎📖",
+    "id": "gl020"
+  },
+  "diskutim": {
+    "word": "diskutim",
+    "definition": "Bisedë ku njerëzit japin mendimet e tyre për një çështje.",
+    "variations": [
+      "diskutimi",
+      "diskutime",
+      "diskutoj",
+      "diskutoni"
+    ],
+    "emoji": "💬🗣️",
+    "id": "gl021"
+  },
+  "diversitet": {
+    "word": "diversitet",
+    "definition": "Prania e njerëzve, kulturave ose ideve të ndryshme në të njëjtin vend apo shoqëri.",
+    "variations": [
+      "diversiteti",
+      "diversitet etnik",
+      "diversitet kulturor"
+    ],
+    "emoji": "🌍🌈",
+    "id": "gl022"
+  },
+  "etnik": {
+    "word": "etnik",
+    "definition": "Që lidhet me një popull, prejardhje ose bashkësi njerëzish me tipare të përbashkëta.",
+    "variations": [
+      "etnike",
+      "etniku",
+      "etnia"
+    ],
+    "emoji": "🧑‍🤝‍🧑🌐",
+    "id": "gl023"
+  },
+  "fabrikë": {
+    "word": "fabrikë",
+    "definition": "Ndërtesë e madhe ku prodhohen gjëra me makina dhe me shumë punëtorë.",
+    "variations": [
+      "fabrikë",
+      "fabrika",
+      "fabrikat"
+    ],
+    "emoji": "🏭⚙️",
+    "id": "gl024"
+  },
+  "familje": {
+    "word": "familje",
+    "definition": "Grup njerëzish që jetojnë së bashku dhe kujdesen për njëri-tjetrin.",
+    "variations": [
+      "familje",
+      "familja",
+      "familjes"
+    ],
+    "emoji": "👨‍👩‍👧‍👦🏠",
+    "id": "gl025"
+  },
+  "fermë": {
+    "word": "fermë",
+    "definition": "Vend ku rriten kafshë ose prodhohen ushqime bujqësore në mënyrë të organizuar.",
+    "variations": [
+      "fermë",
+      "ferma",
+      "fermat"
+    ],
+    "emoji": "🚜🐓",
+    "id": "gl026"
+  },
+  "figurë": {
+    "word": "figurë",
+    "definition": "Pamja ose paraqitja e një personi; mund të jetë edhe person i njohur në histori.",
+    "variations": [
+      "figurë",
+      "figura",
+      "figurën"
+    ],
+    "emoji": "👤🖼️",
+    "id": "gl027"
+  },
+  "figurinë": {
+    "word": "figurinë",
+    "definition": "Statujë ose model i vogël që paraqet një njeri, kafshë ose formë tjetër.",
+    "variations": [
+      "figurinë",
+      "figurinë antropomorfe",
+      "figurina"
+    ],
+    "emoji": "🗿🧍",
+    "id": "gl028"
+  },
+  "fortesë": {
+    "word": "fortesë",
+    "definition": "Ndërtesë e fortë për mbrojtje, si një kala.",
+    "variations": [
+      "fortesë",
+      "fortesa",
+      "fortesë (kala)"
+    ],
+    "emoji": "🏰🛡️",
+    "id": "gl029"
+  },
+  "fshat": {
+    "word": "fshat",
+    "definition": "Vendbanim më i vogël se qyteti, ku njerëzit jetojnë dhe shpesh merren me bujqësi e blegtori.",
+    "variations": [
+      "fshat",
+      "fshati",
+      "fshatra",
+      "fshatrat"
+    ],
+    "emoji": "🏡🌳",
+    "id": "gl030"
+  },
+  "gazetari": {
+    "word": "gazetari",
+    "definition": "Profesion që merret me mbledhjen, shkrimin dhe shpërndarjen e lajmeve.",
+    "variations": [
+      "gazetari",
+      "gazetar",
+      "gazetarë"
+    ],
+    "emoji": "📰🎤",
+    "id": "gl031"
+  },
+  "gërmim": {
+    "word": "gërmim",
+    "definition": "Punë kërkimi në tokë për të gjetur gjëra të vjetra ose të fshehura.",
+    "variations": [
+      "gërmim",
+      "gërmime",
+      "gërmimi",
+      "gërmimet"
+    ],
+    "emoji": "⛏️🪨",
+    "id": "gl032"
+  },
+  "gjeneratë": {
+    "word": "gjeneratë",
+    "definition": "Grup njerëzish të afërt në moshë, si fëmijët, prindërit ose gjyshërit e një kohe.",
+    "variations": [
+      "gjeneratë",
+      "gjenerate",
+      "gjenerata",
+      "gjeneratës"
+    ],
+    "emoji": "👨‍👩‍👧‍👦🔄",
+    "id": "gl033"
+  },
+  "gjetje": {
+    "word": "gjetje",
+    "definition": "Diçka që është zbuluar, sidomos nga toka ose nga studimi i së kaluarës.",
+    "variations": [
+      "gjetje",
+      "gjetjet",
+      "të gjeturat"
+    ],
+    "emoji": "🔍🏺",
+    "id": "gl034"
+  },
+  "gjuhë": {
+    "word": "gjuhë",
+    "definition": "Mjeti me të cilin njerëzit flasin, shprehin mendimet dhe komunikojnë me njëri-tjetrin.",
+    "variations": [
+      "gjuha",
+      "gjuhët",
+      "gjuhësor"
+    ],
+    "emoji": "🗣️📚",
+    "id": "gl035"
+  },
+  "gjuhë amtare": {
+    "word": "gjuhë amtare",
+    "definition": "Gjuha e parë që mëson një fëmijë në familje.",
+    "variations": [
+      "gjuha amtare",
+      "gjuhës amtare"
+    ],
+    "emoji": "👶🗣️",
+    "id": "gl036"
+  },
+  "hajat": {
+    "word": "hajat",
+    "definition": "Pjesë e shtëpisë, zakonisht e hapur, që shtrihet përpara ose anash saj.",
+    "variations": [
+      "hajat",
+      "hajati"
+    ],
+    "emoji": "🏡🚪",
+    "id": "gl037"
+  },
+  "historik": {
+    "word": "historik",
+    "definition": "Që lidhet me historinë ose me ngjarje të rëndësishme të së kaluarës.",
+    "variations": [
+      "historik",
+      "historike",
+      "historisë"
+    ],
+    "emoji": "📜⏳",
+    "id": "gl038"
+  },
+  "i pavarur": {
+    "word": "i pavarur",
+    "definition": "Që është i lirë dhe vendos vetë, pa u drejtuar nga të tjerët.",
+    "variations": [
+      "i pavarur",
+      "e pavarur",
+      "pavarësi",
+      "pavarësia"
+    ],
+    "emoji": "🕊️🇽🇰",
+    "id": "gl039"
+  },
+  "identitet kulturor": {
+    "word": "identitet kulturor",
+    "definition": "Tiparet e kulturës që tregojnë se cilit popull ose bashkësi i përket dikush.",
+    "variations": [
+      "identiteti kulturor",
+      "identitet",
+      "identitete"
+    ],
+    "emoji": "🪪🎭",
+    "id": "gl040"
+  },
+  "infrastrukturë": {
+    "word": "infrastrukturë",
+    "definition": "Sistem ndërtimesh dhe shërbimesh që i duhen një vendi, si rrugët, shkollat dhe rrjeti i ujit.",
+    "variations": [
+      "infrastrukturë",
+      "infrastruktura"
+    ],
+    "emoji": "🛣️🏗️",
+    "id": "gl041"
+  },
+  "institucion": {
+    "word": "institucion",
+    "definition": "Vend ose organizatë që kryen një shërbim të caktuar për njerëzit, si shkolla ose spitali.",
+    "variations": [
+      "institucion",
+      "institucione",
+      "institucionet"
+    ],
+    "emoji": "🏢📋",
+    "id": "gl042"
+  },
+  "kalldrëm": {
+    "word": "kalldrëm",
+    "definition": "Rrugë e shtruar me gurë.",
+    "variations": [
+      "kalldrëm",
+      "kalldrëmi"
+    ],
+    "emoji": "🪨🛣️",
+    "id": "gl043"
+  },
+  "kasolle": {
+    "word": "kasolle",
+    "definition": "Ndërtesë e thjeshtë dhe e vogël që është përdorur për banim.",
+    "variations": [
+      "kasolle",
+      "kasollja",
+      "kasolleve"
+    ],
+    "emoji": "🛖🏠",
+    "id": "gl044"
+  },
+  "katedrale": {
+    "word": "katedrale",
+    "definition": "Kishë e madhe dhe e rëndësishme e krishterë.",
+    "variations": [
+      "katedrale",
+      "katedralja",
+      "katedralet"
+    ],
+    "emoji": "⛪🔔",
+    "id": "gl045"
+  },
+  "kishë ortodokse": {
+    "word": "kishë ortodokse",
+    "definition": "Objekt fetar ku luten besimtarët ortodoksë.",
+    "variations": [
+      "kishë ortodokse",
+      "kisha ortodokse",
+      "kishat ortodokse"
+    ],
+    "emoji": "⛪🕯️",
+    "id": "gl046"
+  },
+  "kombajnë": {
+    "word": "kombajnë",
+    "definition": "Makinë e madhe që përdoret për korrjen dhe mbledhjen e drithit.",
+    "variations": [
+      "kombajnë",
+      "kombajna",
+      "kombajnat"
+    ],
+    "emoji": "🚜🌽",
+    "id": "gl047"
+  },
+  "kombësi": {
+    "word": "kombësi",
+    "definition": "Përkatësia e një personi ndaj një populli ose kombi.",
+    "variations": [
+      "kombësia",
+      "kombësitë"
+    ],
+    "emoji": "🏳️🌍",
+    "id": "gl048"
+  },
+  "kompromis": {
+    "word": "kompromis",
+    "definition": "Marrëveshje ku secili lëshon diçka për të arritur një zgjidhje të përbashkët.",
+    "variations": [
+      "kompromisi",
+      "kompromise"
+    ],
+    "emoji": "⚖️🤲",
+    "id": "gl049"
+  },
+  "komunikacion": {
+    "word": "komunikacion",
+    "definition": "Lëvizja e njerëzve dhe automjeteve nëpër rrugë.",
+    "variations": [
+      "komunikacion",
+      "komunikacioni"
+    ],
+    "emoji": "🚦🚌",
+    "id": "gl050"
+  },
+  "komunikim": {
+    "word": "komunikim",
+    "definition": "Shkëmbim i mendimeve, ndjenjave ose informacionit mes njerëzve.",
+    "variations": [
+      "komunikimi",
+      "komunikoj",
+      "komunikojnë"
+    ],
+    "emoji": "💬📣",
+    "id": "gl051"
+  },
+  "komunitet": {
+    "word": "komunitet",
+    "definition": "Grup njerëzish që jetojnë ose punojnë së bashku në të njëjtin vend.",
+    "variations": [
+      "komunitet",
+      "komuniteti",
+      "komunitetin",
+      "komunitete"
+    ],
+    "emoji": "👥🏘️",
+    "id": "gl052"
+  },
+  "kullë": {
+    "word": "kullë",
+    "definition": "Ndërtesë e fortë prej guri, me mure të trasha, e ndërtuar për banim dhe mbrojtje.",
+    "variations": [
+      "kullë",
+      "kulla",
+      "kullat"
+    ],
+    "emoji": "🗼🪨",
+    "id": "gl053"
+  },
+  "kulturë": {
+    "word": "kulturë",
+    "definition": "Mënyra e jetesës së një populli, me gjuhën, zakonet, veshjet, ushqimin dhe vlerat e tij.",
+    "variations": [
+      "kultura",
+      "kulturore",
+      "kulturor",
+      "kulturat"
+    ],
+    "emoji": "🎭🌐",
+    "id": "gl054"
+  },
+  "kulturor": {
+    "word": "kulturor",
+    "definition": "Që lidhet me kulturën, traditat, artin dhe mënyrën e jetesës së një populli.",
+    "variations": [
+      "kulturor",
+      "kulturore",
+      "kulturore-historike"
+    ],
+    "emoji": "🎭📚",
+    "id": "gl055"
+  },
+  "kuzhinë": {
+    "word": "kuzhinë",
+    "definition": "Vendi ku përgatitet ushqimi; gjithashtu edhe lloji i gatimeve të një vendi.",
+    "variations": [
+      "kuzhinë",
+      "kuzhina",
+      "kuzhinës"
+    ],
+    "emoji": "🍲👩‍🍳",
+    "id": "gl056"
+  },
+  "lashtësi": {
+    "word": "lashtësi",
+    "definition": "Kohë shumë e vjetër ose gjëra që vijnë nga kohët e hershme.",
+    "variations": [
+      "lashtësi",
+      "lashtësia",
+      "lashta"
+    ],
+    "emoji": "🏺⌛",
+    "id": "gl057"
+  },
+  "llojllojshmëri": {
+    "word": "llojllojshmëri",
+    "definition": "Prania e shumë dallimeve ose shumë formave të ndryshme në një vend apo grup.",
+    "variations": [
+      "llojllojshmëria",
+      "shumëllojshmëri"
+    ],
+    "emoji": "🌈🧩",
+    "id": "gl058"
+  },
+  "matriarkat": {
+    "word": "matriarkat",
+    "definition": "Mënyrë organizimi ku gratë kanë rolin kryesor në drejtimin e familjes ose shoqërisë.",
+    "variations": [
+      "matriarkat",
+      "matriarkati"
+    ],
+    "emoji": "👩🏛️",
+    "id": "gl059"
+  },
+  "memorial": {
+    "word": "memorial",
+    "definition": "Vend ose objekt që kujton njerëz ose ngjarje të rëndësishme.",
+    "variations": [
+      "memorial",
+      "memoriali",
+      "memoriale"
+    ],
+    "emoji": "🕯️🏛️",
+    "id": "gl060"
+  },
+  "mesjetë": {
+    "word": "mesjetë",
+    "definition": "Periudhë historike shumë kohë më parë, pas lashtësisë.",
+    "variations": [
+      "mesjetë",
+      "mesjetare",
+      "mesjetës"
+    ],
+    "emoji": "🏰⏳",
+    "id": "gl061"
+  },
+  "mirëkuptim": {
+    "word": "mirëkuptim",
+    "definition": "Aftësia për ta kuptuar dhe pranuar tjetrin me qetësi e respekt.",
+    "variations": [
+      "mirëkuptimi"
+    ],
+    "emoji": "💞🤝",
+    "id": "gl062"
+  },
+  "mirëqenie": {
+    "word": "mirëqenie",
+    "definition": "Gjendje e mirë e jetesës, kur familja ose njeriu ka siguri, kujdes dhe qetësi.",
+    "variations": [
+      "mirëqenie",
+      "mirëqenien"
+    ],
+    "emoji": "🌟🏡",
+    "id": "gl063"
+  },
+  "mjek": {
+    "word": "mjek",
+    "definition": "Njeri i përgatitur për të kujdesur për shëndetin dhe për të mjekuar sëmundjet.",
+    "variations": [
+      "mjek",
+      "mjeku",
+      "mjekët"
+    ],
+    "emoji": "🩺👨‍⚕️",
+    "id": "gl064"
+  },
+  "monedhë": {
+    "word": "monedhë",
+    "definition": "Pjesë metali ose para që përdoret për pagesë.",
+    "variations": [
+      "monedhë",
+      "monedha",
+      "monedhat"
+    ],
+    "emoji": "🪙💰",
+    "id": "gl065"
+  },
+  "monument": {
+    "word": "monument",
+    "definition": "Ndërtesë ose vepër me vlerë historike a kulturore që ruhet nga e kaluara.",
+    "variations": [
+      "monument",
+      "monumenti",
+      "monumente",
+      "monumentet"
+    ],
+    "emoji": "🏛️🗿",
+    "id": "gl066"
+  },
+  "motiv": {
+    "word": "motiv",
+    "definition": "Vizatim ose shenjë zbukuruese që përsëritet në rroba, punime ose objekte të ndryshme.",
+    "variations": [
+      "motiv",
+      "motivet",
+      "motiveve"
+    ],
+    "emoji": "🔷🎨",
+    "id": "gl067"
+  },
+  "muze": {
+    "word": "muze",
+    "definition": "Vend ku ruhen dhe shfaqen sende me vlerë historike, kulturore ose shkencore.",
+    "variations": [
+      "muze",
+      "muzeu",
+      "muzeume",
+      "muzeun"
+    ],
+    "emoji": "🏛️🖼️",
+    "id": "gl068"
+  },
+  "ndryshim": {
+    "word": "ndryshim",
+    "definition": "Gjendje kur diçka nuk mbetet më si më parë, por bëhet ndryshe.",
+    "variations": [
+      "ndryshim",
+      "ndryshime",
+      "ndryshimi",
+      "ndryshimet"
+    ],
+    "emoji": "🔄✨",
+    "id": "gl069"
+  },
+  "objekt": {
+    "word": "objekt",
+    "definition": "Send ose gjë e caktuar që mund të shihet, përdoret ose studiohet.",
+    "variations": [
+      "objekt",
+      "objekte",
+      "objektet"
+    ],
+    "emoji": "📦🔎",
+    "id": "gl070"
+  },
+  "opinga": {
+    "word": "opinga",
+    "definition": "Mbathje tradicionale prej lëkure.",
+    "variations": [
+      "opinga",
+      "opingat"
+    ],
+    "emoji": "👞🪡",
+    "id": "gl071"
+  },
+  "paragjykim": {
+    "word": "paragjykim",
+    "definition": "Mendim i padrejtë për dikë pa e njohur mirë.",
+    "variations": [
+      "paragjykimi",
+      "paragjykoj",
+      "paragjykuar"
+    ],
+    "emoji": "🚫⚖️",
+    "id": "gl072"
+  },
+  "parahistori": {
+    "word": "parahistori",
+    "definition": "Koha shumë e hershme para se njerëzit të shkruanin historinë.",
+    "variations": [
+      "parahistori",
+      "parahistoria"
+    ],
+    "emoji": "🦴⏳",
+    "id": "gl073"
+  },
+  "parmendë": {
+    "word": "parmendë",
+    "definition": "Mjet i vjetër pune që përdorej për lërimin e tokës.",
+    "variations": [
+      "parmendë",
+      "parmenda",
+      "parmendë"
+    ],
+    "emoji": "🌱🐎",
+    "id": "gl074"
+  },
+  "patriarkat": {
+    "word": "patriarkat",
+    "definition": "Mënyrë organizimi ku burrat kanë rolin kryesor në drejtimin e familjes ose shoqërisë.",
+    "variations": [
+      "patriarkat",
+      "patriarkati"
+    ],
+    "emoji": "👨🏛️",
+    "id": "gl075"
+  },
+  "përgjegjësi": {
+    "word": "përgjegjësi",
+    "definition": "Detyrë për t’u kujdesur për veprimet e tua dhe për t’i kryer gjërat si duhet.",
+    "variations": [
+      "përgjegjësi",
+      "përgjegjësia",
+      "përgjegjësinë"
+    ],
+    "emoji": "✅🧠",
+    "id": "gl076"
+  },
+  "përkushtim": {
+    "word": "përkushtim",
+    "definition": "Punë e bërë me shumë kujdes, seriozitet dhe dëshirë.",
+    "variations": [
+      "përkushtim",
+      "përkushtimi"
+    ],
+    "emoji": "🎯💪",
+    "id": "gl077"
+  },
+  "përmendore": {
+    "word": "përmendore",
+    "definition": "Vepër e ngritur për të kujtuar një person ose një ngjarje të rëndësishme.",
+    "variations": [
+      "përmendore",
+      "përmendorja",
+      "përmendoreve",
+      "përmendoret"
+    ],
+    "emoji": "🗽🕯️",
+    "id": "gl078"
+  },
+  "personalitet": {
+    "word": "personalitet",
+    "definition": "Mënyra si mendon, sillet dhe paraqitet një njeri.",
+    "variations": [
+      "personalitet",
+      "personaliteti",
+      "personalitetin"
+    ],
+    "emoji": "🙂🌟",
+    "id": "gl079"
+  },
+  "përvojë": {
+    "word": "përvojë",
+    "definition": "Njohuri që fitohen duke jetuar, mësuar ose provuar gjëra të ndryshme.",
+    "variations": [
+      "përvojë",
+      "përvoja",
+      "përvojën",
+      "përvoja"
+    ],
+    "emoji": "📘🧭",
+    "id": "gl080"
+  },
+  "plis": {
+    "word": "plis",
+    "definition": "Kapelë e bardhë tradicionale shqiptare.",
+    "variations": [
+      "plis",
+      "plisi",
+      "plisat"
+    ],
+    "emoji": "🤍🧢",
+    "id": "gl081"
+  },
+  "premtim": {
+    "word": "premtim",
+    "definition": "Fjalë që ia jep dikujt se do ta bësh patjetër një gjë.",
+    "variations": [
+      "premtim",
+      "premtime",
+      "premtimin",
+      "premtimet"
+    ],
+    "emoji": "🤝🗣️",
+    "id": "gl082"
+  },
+  "profesion": {
+    "word": "profesion",
+    "definition": "Punë që një njeri e mëson dhe e ushtron me dije e përgatitje.",
+    "variations": [
+      "profesion",
+      "profesione",
+      "profesionet"
+    ],
+    "emoji": "💼🛠️",
+    "id": "gl083"
+  },
+  "punishte": {
+    "word": "punishte",
+    "definition": "Vend i vogël ku punohet me dorë ose me mjete për të prodhuar diçka.",
+    "variations": [
+      "punishte",
+      "punishtja",
+      "punishte të vogla"
+    ],
+    "emoji": "🔨🏭",
+    "id": "gl084"
+  },
+  "qerpiç": {
+    "word": "qerpiç",
+    "definition": "Tullë e bërë prej dheut, që përdorej për ndërtimin e shtëpive.",
+    "variations": [
+      "qerpiç",
+      "qerpiçësh",
+      "qerpiçi"
+    ],
+    "emoji": "🧱🏠",
+    "id": "gl085"
+  },
+  "qerre": {
+    "word": "qerre",
+    "definition": "Mjet i thjeshtë transporti me rrota, që tërhiqet zakonisht nga kuajt.",
+    "variations": [
+      "qerre",
+      "qerre me kuaj",
+      "qerret"
+    ],
+    "emoji": "🐎🛒",
+    "id": "gl086"
+  },
+  "qytet": {
+    "word": "qytet",
+    "definition": "Vendbanim i madh me shumë shtëpi, rrugë, shkolla, dyqane dhe institucione.",
+    "variations": [
+      "qytet",
+      "qyteti",
+      "qytete",
+      "qytetet"
+    ],
+    "emoji": "🏙️🚦",
+    "id": "gl087"
+  },
+  "qytetërim": {
+    "word": "qytetërim",
+    "definition": "Mënyra e zhvilluar e jetesës së një populli, me kulturë, rregulla dhe ndërtime.",
+    "variations": [
+      "qytetërim",
+      "qytetërimi",
+      "qytetërime"
+    ],
+    "emoji": "🏙️📜",
+    "id": "gl088"
+  },
+  "religjion": {
+    "word": "religjion",
+    "definition": "Besim ose fe që ndjekin njerëzit.",
+    "variations": [
+      "religjion",
+      "religjioni"
+    ],
+    "emoji": "🙏⛪🕌",
+    "id": "gl089"
+  },
+  "respekt": {
+    "word": "respekt",
+    "definition": "Sjellje e mirë dhe vlerësim ndaj të tjerëve.",
+    "variations": [
+      "respekti",
+      "respektoj",
+      "respektuar"
+    ],
+    "emoji": "🙏🤝",
+    "id": "gl090"
+  },
+  "revani": {
+    "word": "revani",
+    "definition": "Ëmbëlsirë e pjekur që zakonisht bëhet me miell, vezë e gjalpë dhe i hidhet sherbet.",
+    "variations": [
+      "revani",
+      "revania"
+    ],
+    "emoji": "🍰🍯",
+    "id": "gl091"
+  },
+  "shajak": {
+    "word": "shajak",
+    "definition": "Material i trashë i punuar nga leshi, që përdoret për rroba.",
+    "variations": [
+      "shajak",
+      "shajaku"
+    ],
+    "emoji": "🧶🧥",
+    "id": "gl092"
+  },
+  "shkencë": {
+    "word": "shkencë",
+    "definition": "Mënyrë e rregullt për të mësuar dhe kuptuar botën përmes studimit dhe provave.",
+    "variations": [
+      "shkencë",
+      "shkenca",
+      "shkencës"
+    ],
+    "emoji": "🔬📘",
+    "id": "gl093"
+  },
+  "shoqëri": {
+    "word": "shoqëri",
+    "definition": "Njerëzit që jetojnë dhe bashkëpunojnë me njëri-tjetrin në një vend.",
+    "variations": [
+      "shoqëri",
+      "shoqëria",
+      "shoqërisë"
+    ],
+    "emoji": "👥🌍",
+    "id": "gl094"
+  },
+  "simbol": {
+    "word": "simbol",
+    "definition": "Shenjë ose gjë që paraqet një ide, vend ose ngjarje.",
+    "variations": [
+      "simbol",
+      "simboli",
+      "simbole",
+      "simbolet"
+    ],
+    "emoji": "🔰⭐",
+    "id": "gl095"
+  },
+  "sinqeritet": {
+    "word": "sinqeritet",
+    "definition": "Të folurit dhe të vepruarit me të vërtetë, pa mashtrim.",
+    "variations": [
+      "sinqeriteti",
+      "sinqertë"
+    ],
+    "emoji": "💛🫶",
+    "id": "gl096"
+  },
+  "skulpturë": {
+    "word": "skulpturë",
+    "definition": "Vepër arti e bërë duke formuar gur, dru, metal ose materiale të tjera.",
+    "variations": [
+      "skulpturë",
+      "skulptura",
+      "skulpturën"
+    ],
+    "emoji": "🗿🎨",
+    "id": "gl097"
+  },
+  "sofër": {
+    "word": "sofër",
+    "definition": "Tryezë ose shtrim ku vendosen ushqimet për të ngrënë së bashku.",
+    "variations": [
+      "sofër",
+      "sofra",
+      "sofër me ushqime"
+    ],
+    "emoji": "🍽️🏠",
+    "id": "gl098"
+  },
+  "specialitet": {
+    "word": "specialitet",
+    "definition": "Ushqim ose gatim i veçantë për të cilin njihet një vend ose një kuzhinë.",
+    "variations": [
+      "specialitet",
+      "specialitete",
+      "specialitetet"
+    ],
+    "emoji": "🍛⭐",
+    "id": "gl099"
+  },
+  "stetoskop": {
+    "word": "stetoskop",
+    "definition": "Mjet që përdor mjeku për të dëgjuar zemrën dhe frymëmarrjen e pacientit.",
+    "variations": [
+      "stetoskop",
+      "stetoskopi"
+    ],
+    "emoji": "🩺❤️",
+    "id": "gl100"
+  },
+  "stoli": {
+    "word": "stoli",
+    "definition": "Send zbukurues që vishet ose mbahet për bukuri.",
+    "variations": [
+      "stoli",
+      "stolitë"
+    ],
+    "emoji": "💍✨",
+    "id": "gl101"
+  },
+  "strehim": {
+    "word": "strehim",
+    "definition": "Vend ose mundësi ku njeriu banon dhe mbrohet.",
+    "variations": [
+      "strehim",
+      "strehimi"
+    ],
+    "emoji": "🏠🛏️",
+    "id": "gl102"
+  },
+  "teknologji": {
+    "word": "teknologji",
+    "definition": "Përdorimi i mjeteve, makinave dhe njohurive për ta bërë punën më të lehtë dhe më të mirë.",
+    "variations": [
+      "teknologji",
+      "teknologjia"
+    ],
+    "emoji": "💻⚙️",
+    "id": "gl103"
+  },
+  "tempull": {
+    "word": "tempull",
+    "definition": "Ndërtesë e shenjtë ku njerëzit luteshin ose kryenin rite fetare.",
+    "variations": [
+      "tempull",
+      "tempuj",
+      "tempullin"
+    ],
+    "emoji": "⛪🏛️",
+    "id": "gl104"
+  },
+  "thesar": {
+    "word": "thesar",
+    "definition": "Send ose grup sendesh me shumë vlerë, si monedha, stoli apo objekte të rralla.",
+    "variations": [
+      "thesar",
+      "thesare",
+      "thesaret"
+    ],
+    "emoji": "💎🪙",
+    "id": "gl105"
+  },
+  "tolerancë": {
+    "word": "tolerancë",
+    "definition": "Pranimi dhe respektimi i mendimeve, dallimeve dhe mënyrave të jetesës së të tjerëve.",
+    "variations": [
+      "toleranca",
+      "tolerant",
+      "tolerante"
+    ],
+    "emoji": "🤝🌍",
+    "id": "gl106"
+  },
+  "traditë": {
+    "word": "traditë",
+    "definition": "Zakon ose mënyrë jetese që ruhet dhe përsëritet nga brezi në brez.",
+    "variations": [
+      "traditë",
+      "tradita"
+    ],
+    "emoji": "📜👵",
+    "id": "gl107"
+  },
+  "traktor": {
+    "word": "traktor",
+    "definition": "Makinë bujqësore që përdoret për punimin e tokës.",
+    "variations": [
+      "traktor",
+      "traktorë",
+      "traktori"
+    ],
+    "emoji": "🚜🌾",
+    "id": "gl108"
+  },
+  "trashëgimi": {
+    "word": "trashëgimi",
+    "definition": "Gjërat me vlerë nga e kaluara që ruhen dhe kalohen te brezat e rinj.",
+    "variations": [
+      "trashëgimi",
+      "trashëgimia"
+    ],
+    "emoji": "🏺📜",
+    "id": "gl109"
+  },
+  "tregtar": {
+    "word": "tregtar",
+    "definition": "Njeri që shet dhe blen mallra.",
+    "variations": [
+      "tregtar",
+      "tregtarë",
+      "tregtare"
+    ],
+    "emoji": "🛍️💵",
+    "id": "gl110"
+  },
+  "tregti": {
+    "word": "tregti",
+    "definition": "Blerja dhe shitja e mallrave.",
+    "variations": [
+      "tregti",
+      "tregtare",
+      "tregtisë"
+    ],
+    "emoji": "🛒💱",
+    "id": "gl111"
+  },
+  "turshi": {
+    "word": "turshi",
+    "definition": "Perime të ruajtura në ujë me kripë ose uthull që hahen si ushqim shoqërues.",
+    "variations": [
+      "turshi",
+      "turshitë"
+    ],
+    "emoji": "🥒🫙",
+    "id": "gl112"
+  },
+  "ujësjellës": {
+    "word": "ujësjellës",
+    "definition": "Sistem që sjell ujë te shtëpitë dhe ndërtesat.",
+    "variations": [
+      "ujësjellës",
+      "ujësjellësit"
+    ],
+    "emoji": "💧🚰",
+    "id": "gl113"
+  },
+  "UNESCO": {
+    "word": "UNESCO",
+    "definition": "Organizatë ndërkombëtare që ndihmon në mbrojtjen e kulturës, arsimit dhe trashëgimisë.",
+    "variations": [
+      "UNESCO",
+      "UNESCO-ja"
+    ],
+    "emoji": "🌍🏛️",
+    "id": "gl114"
+  },
+  "urbanizim": {
+    "word": "urbanizim",
+    "definition": "Procesi kur fshatrat ndryshojnë dhe bëhen më të zhvilluara, duke u kthyer në qyteza ose qytete.",
+    "variations": [
+      "urbanizim",
+      "urbanizimi"
+    ],
+    "emoji": "🏙️🚧",
+    "id": "gl115"
+  },
+  "ushqim tradicional": {
+    "word": "ushqim tradicional",
+    "definition": "Ushqim që përgatitet sipas zakoneve të vjetra të një vendi ose familjeje.",
+    "variations": [
+      "ushqim tradicional",
+      "ushqime tradicionale",
+      "ushqimit tradicional"
+    ],
+    "emoji": "🥘🏡",
+    "id": "gl116"
+  },
+  "vendbanim": {
+    "word": "vendbanim",
+    "definition": "Vend ku jetojnë ose kanë jetuar njerëzit.",
+    "variations": [
+      "vendbanim",
+      "vendbanime",
+      "vendbanimet"
+    ],
+    "emoji": "🏘️📍",
+    "id": "gl117"
+  },
+  "vendim": {
+    "word": "vendim",
+    "definition": "Zgjedhje që bën pasi mendon për një çështje.",
+    "variations": [
+      "vendim",
+      "vendime",
+      "vendimi",
+      "vendimet"
+    ],
+    "emoji": "🤔✔️",
+    "id": "gl118"
+  },
+  "vendimmarrje": {
+    "word": "vendimmarrje",
+    "definition": "Procesi i zgjedhjes ose marrjes së një vendimi.",
+    "variations": [
+      "vendimmarrje",
+      "vendimmarrja"
+    ],
+    "emoji": "🗳️🤔",
+    "id": "gl119"
+  },
+  "veshje tradicionale": {
+    "word": "veshje tradicionale",
+    "definition": "Rroba të vjetra popullore që tregojnë kulturën dhe traditën e një vendi.",
+    "variations": [
+      "veshje tradicionale",
+      "veshja tradicionale",
+      "veshjet tradicionale"
+    ],
+    "emoji": "👘🇽🇰",
+    "id": "gl120"
+  },
+  "vetëpërmbajtje": {
+    "word": "vetëpërmbajtje",
+    "definition": "Aftësia për të kontrolluar veten, sidomos kur je i mërzitur ose i zemëruar.",
+    "variations": [
+      "vetëpërmbajtja"
+    ],
+    "emoji": "🧘🛑",
+    "id": "gl121"
+  },
+  "vlera njerëzore": {
+    "word": "vlera njerëzore",
+    "definition": "Cilësi të mira që e bëjnë njeriun të sillet drejt dhe mirë me të tjerët.",
+    "variations": [
+      "vlerë njerëzore",
+      "vlerat njerëzore",
+      "vlerë",
+      "vlera"
+    ],
+    "emoji": "❤️✨",
+    "id": "gl122"
+  },
+  "vlera ushqimore": {
+    "word": "vlera ushqimore",
+    "definition": "Dobitë që i jep ushqimi trupit, si energji dhe lëndë të nevojshme për rritje e shëndet.",
+    "variations": [
+      "vlera ushqimore",
+      "vlerat ushqimore"
+    ],
+    "emoji": "🥦💪",
+    "id": "gl123"
+  },
+  "xhami": {
+    "word": "xhami",
+    "definition": "Objekt fetar ku falen myslimanët.",
+    "variations": [
+      "xhami",
+      "xhamia",
+      "xhamitë"
+    ],
+    "emoji": "🕌🙏",
+    "id": "gl124"
+  },
+  "xhubletë": {
+    "word": "xhubletë",
+    "definition": "Veshje tradicionale shqiptare për gra, me formë të valëzuar.",
+    "variations": [
+      "xhubletë",
+      "xhubleta",
+      "xhubletës"
+    ],
+    "emoji": "👗✨",
+    "id": "gl125"
+  },
+  "zakon": {
+    "word": "zakon",
+    "definition": "Mënyrë veprimi që bëhet shpesh dhe pranohet nga një grup njerëzish.",
+    "variations": [
+      "zakoni",
+      "zakone",
+      "zakonet"
+    ],
+    "emoji": "🔁👥",
+    "id": "gl126"
+  },
+  "zanat": {
+    "word": "zanat",
+    "definition": "Punë praktike që bëhet me dorë ose me mjete të posaçme dhe kërkon mjeshtëri.",
+    "variations": [
+      "zanat",
+      "zanate",
+      "zanatet"
+    ],
+    "emoji": "🔨🧰",
+    "id": "gl127"
+  },
+  "zdrukthëtari": {
+    "word": "zdrukthëtari",
+    "definition": "Profesion ose zanat që merret me përpunimin e drurit.",
+    "variations": [
+      "zdrukthëtari",
+      "zdrukthëtar",
+      "zdrukthëtarët"
+    ],
+    "emoji": "🪵🪚",
+    "id": "gl128"
+  },
+  "zejtar": {
+    "word": "zejtar",
+    "definition": "Njeri që bën punë me dorë dhe prodhon ose rregullon sende të ndryshme.",
+    "variations": [
+      "zejtar",
+      "zejtarët",
+      "zejtar",
+      "zejtare"
+    ],
+    "emoji": "🛠️👨‍🏭",
+    "id": "gl129"
+  },
+  "zgjidhje": {
+    "word": "zgjidhje",
+    "definition": "Mënyra se si përfundon ose rregullohet një problem.",
+    "variations": [
+      "zgjidhja",
+      "zgjidhjeve",
+      "zgjidh"
+    ],
+    "emoji": "🧠✅",
+    "id": "gl130"
+  },
+  "zhvillim teknologjik": {
+    "word": "zhvillim teknologjik",
+    "definition": "Përparimi i mjeteve, makinave dhe pajisjeve që e bëjnë jetën dhe punën më të lehtë.",
+    "variations": [
+      "zhvillim teknologjik",
+      "zhvillimi i teknologjisë",
+      "teknologjik"
+    ],
+    "emoji": "💻⚙️📡",
+    "id": "gl131"
+  }
+}

@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="sq"><head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Shoqëria dhe mjedisi</title>
+  <meta name="title-id" content="pg031_sec004">
+  <meta name="page-section-id" content="47">
+  <link href="./content/tailwind_output.css" rel="stylesheet">
+  <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+  <link href="./assets/fonts.css" rel="stylesheet">
+  <link rel="stylesheet" href="./book-design/components.css?v=9f3d745a858de581" data-book-style="true">
+  <style>
+    /* This href is the focused view of exercise 3, not a full source page. */
+    #content.book.venn-page { font-family: BookPoppins, Arial, sans-serif; padding: 38px 56px 128px; }
+    #content.book.venn-page .exercise { max-width: 810px; margin: 0 auto; }
+    #content.book.venn-page .prompt { font: 400 19px/1.5 BookPoppins, Arial, sans-serif; margin: 0 0 24px; }
+    #content.book.venn-page .labels { display: grid; grid-template-columns: 1fr 1fr 1fr; align-items: start; text-align: center; font: 400 19px/1.25 BookPoppins, Arial, sans-serif; }
+    #content.book.venn-page .diagram { position: relative; width: 100%; aspect-ratio: 800 / 365; }
+    #content.book.venn-page .diagram svg { display: block; width: 100%; height: 100%; overflow: visible; }
+    #content.book.venn-page .answer { position: absolute; top: 36%; height: 29%; }
+    #content.book.venn-page .answer.one { left: 10%; width: 26%; }
+    #content.book.venn-page .answer.two { left: 41%; width: 18%; }
+    #content.book.venn-page .answer.three { left: 64%; width: 26%; }
+    #content.book.venn-page .answer label { display: none; }
+    #content.book.venn-page .answer textarea { display: block; width: 100%; height: 100%; min-height: 0; resize: none; padding: 7px; background: rgba(255,255,255,.92); border: 1px solid #9b93a0; border-radius: 2px; font: 400 16px/1.4 BookPoppins, Arial, sans-serif; }
+    @media (max-width: 700px) {
+      #content.book.venn-page { padding: 24px 20px 120px; }
+      #content.book.venn-page .prompt { font-size: 18px; margin-bottom: 16px; }
+      #content.book.venn-page .labels { font-size: 12px; }
+      #content.book.venn-page .diagram { aspect-ratio: auto; display: flex; flex-direction: column; gap: 12px; }
+      #content.book.venn-page .diagram svg { height: auto; margin-bottom: 4px; }
+      #content.book.venn-page .answer, #content.book.venn-page .answer.one, #content.book.venn-page .answer.two, #content.book.venn-page .answer.three { position: static; width: 100%; height: auto; }
+      #content.book.venn-page .answer label { display: block; font: 400 16px/1.4 BookPoppins, Arial, sans-serif; margin-bottom: 4px; }
+      #content.book.venn-page .answer textarea { height: 88px; min-height: 88px; resize: vertical; }
+    }
+  </style>
+</head>
+<body class="min-h-screen flex items-center justify-center">
+  <main class="w-full">
+    <h1 class="sr-only" id="page-heading">Shoqëria dhe mjedisi</h1>
+    <div id="content" class="container mx-auto opacity-0 book venn-page" data-family="comparison-diagram">
+      <h2 class="sr-only" id="section-heading">Objekte bujqësore</h2>
+      <section data-section-type="other" data-section-id="pg031_sec004" class="b-page">
+        <div class="exercise">
+          <p class="prompt"><span data-id="pg031_n0021">3.</span> <span data-id="pg031_n0022">Krahaso:</span></p>
+          <div class="labels" aria-hidden="true">
+            <div data-id="pg031_n0024">Objekte<br>bujqësore</div>
+            <div data-id="pg031_n0025">Të përbashkëtat</div>
+            <div data-id="pg031_n0026">Objekte<br>blegtorale</div>
+          </div>
+          <div class="diagram">
+            <svg viewBox="0 0 800 365" role="img" aria-label="Dy ovale të mbivendosura për krahasim">
+              <ellipse cx="250" cy="182.5" rx="249" ry="181.5" fill="none" stroke="#30313a" stroke-width="2"/>
+              <ellipse cx="550" cy="182.5" rx="249" ry="181.5" fill="none" stroke="#30313a" stroke-width="2"/>
+            </svg>
+            <div class="answer one"><label for="item-1">Objekte bujqësore</label><textarea id="item-1" data-activity-item="item-1" aria-label="Objekte bujqësore"></textarea></div>
+            <div class="answer two"><label for="item-2">Të përbashkëtat</label><textarea id="item-2" data-activity-item="item-2" aria-label="Të përbashkëtat"></textarea></div>
+            <div class="answer three"><label for="item-3">Objekte blegtorale</label><textarea id="item-3" data-activity-item="item-3" aria-label="Objekte blegtorale"></textarea></div>
+          </div>
+        </div>
+      </section>
+    </div>
+  </main>
+  <div class="relative z-50" id="interface-container"></div>
+  <div class="relative z-50" id="nav-container"></div>
+  <script src="./assets/offline-preloader.js?v=9f3d745a858de581"></script>
+  <script src="./assets/scorm.js"></script>
+  <script src="./assets/base.bundle.local.js"></script>
+  <script src="./book-design/responses.js?v=9f3d745a858de581" data-book-responses="true"></script>
+</body></html>

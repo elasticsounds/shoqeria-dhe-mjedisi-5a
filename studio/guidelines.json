@@ -1,0 +1,156 @@
+{
+  "title": "Shoqëria dhe mjedisi — Grade 5 editable design and repair guidelines",
+  "palette": [
+    {
+      "name": "Cover deep purple",
+      "color": "#704383"
+    },
+    {
+      "name": "Cover lavender strip",
+      "color": "#af8bc0"
+    },
+    {
+      "name": "Lesson and icon purple",
+      "color": "#9b73b7"
+    },
+    {
+      "name": "Purple outline",
+      "color": "#7950aa"
+    },
+    {
+      "name": "Pale glossary lilac",
+      "color": "#cdb9dc"
+    },
+    {
+      "name": "Contents and worksheet orange",
+      "color": "#ffb149"
+    },
+    {
+      "name": "Research cream",
+      "color": "#fff9ea"
+    },
+    {
+      "name": "Discussion green",
+      "color": "#9acd8c"
+    },
+    {
+      "name": "Landscape meadow green",
+      "color": "#8bc34e"
+    },
+    {
+      "name": "Landscape turquoise",
+      "color": "#93dfe5"
+    },
+    {
+      "name": "Reflection blue",
+      "color": "#91cfdb"
+    },
+    {
+      "name": "Notebook ruling cyan",
+      "color": "#35c4dd"
+    },
+    {
+      "name": "Notebook margin pink",
+      "color": "#ff80b9"
+    },
+    {
+      "name": "Notebook paper",
+      "color": "#f4f8f8"
+    },
+    {
+      "name": "Body charcoal",
+      "color": "#30313a"
+    },
+    {
+      "name": "Paper and reversed text",
+      "color": "#ffffff"
+    }
+  ],
+  "headingFont": "Use Poppins-Bold for measured titles and PatrickHand-Regular for handwritten rubric headings. Available: Poppins 400, 600 and 700. PatrickHand is unavailable. Do not substitute Poppins semibold and call it a faithful match.",
+  "bodyFont": "Use Amiri-Regular for narrative and explanatory reading, and Poppins-Regular for questions, instructions and tables, following each source block. Amiri 400/700 and Poppins 400/600/700 are available. Preserve the separate ImransSchool-Regular diary lettering on page 8; that font is unavailable.",
+  "typography": "Direct measurements from supplied pages 1–8: cover title Poppins-Bold 54 pt, subtitle Poppins-Medium 16 pt and workbook footer Poppins-Medium 14 pt; contents pages use Poppins 13 pt throughout, with bold and italic spans; legend title PatrickHand 32 pt and labels 20 pt; preface title Poppins-Bold 14 pt, body Amiri 12 pt with 18 pt baseline spacing; page 8 title Poppins-Bold 18 pt, keyword label Amiri-Bold 14 pt, keywords and introduction Amiri 12 pt, reflection prompts Poppins 12 pt, diary ImransSchool 20 pt with 26 pt baseline spacing. Scale desktop type by page width/639.449, without a second point-to-pixel conversion: at 1000 px page width, 12/13/18/54 pt become approximately 18.77/20.33/28.15/84.45 px. Preserve source regular, bold, italic, indents and paragraph boundaries. Later-page font measurements are supplied audit evidence, not directly inspected here. Poppins-Medium, Poppins italic/bold-italic, Amiri italic/bold-italic, PatrickHand, ImransSchool and MinionPro are absent from the font inventory. Obtain licensed matching files; otherwise record substitutions explicitly. Atkinson Hyperlegible may serve a separately identified accessible reading mode, not the source-fidelity master. Merriweather is not an equivalent Amiri replacement.",
+  "layout": "Build one editable composition per source page, with linked section anchors rather than unrelated title-only screens. Keep text, photographs, illustration assets, frames, rules, folios and controls on separate named layers/components. Preserve each page family's geometry: the cover's framed photograph, joined contents rails, ruled notebook pages, radial legend, illustrated preface, alternating photo/text lessons, rubric panels and worksheet diagrams. The supplied page 8 image confirms that rounded reflection and keyword shapes exist, while contents bands are square; do not impose one generic rounded-card system. Reconstruct full-page desktop and PDF compositions from section fragments, retaining href navigation. A separately opened activity may have a compact responsive layout; it must not be mistaken for a full source page or padded into a largely empty portrait screen.",
+  "pageSize": "All 50 supplied page records measure 639.449 × 866.220 PDF points: portrait, width/height 0.738201 and height/width approximately 1.354635. The supplied inventory contains one size group, source pages 1–50; no different-size group is reported. This is inventory evidence, not an independent examination of every PDF page box. At desktop widths of 1000, 1040 and 1200 px, complete source-page wrappers should be approximately 1354.6, 1408.8 and 1625.6 px high. Measure the page wrapper, not the browser viewport, screenshot or individual section. Preserve source coordinates and proportions in the desktop master and PDF; do not compress pages to fit a viewport or stretch photographs. On phones, reflow live text and controls into readable sections, retaining source order, image aspect ratios and diagram relationships rather than shrinking the entire page. The supplied images include production marks; confirm MediaBox, CropBox and TrimBox before changing trim or bleed.",
+  "spacing": "Use source coordinates as the desktop/PDF spacing system, not uniform card padding. Contents page 2 has text at x=71.7 pt, page-number starts at x=504 pt, regular row spacing 20 pt and larger section breaks. Page 3 uses x=100 pt and page-number starts at x=536.6 pt. Preface paragraphs have first-line indents and compact justified setting; its ribbons remain integrated with the lower landscape. Preserve local line spacing rather than applying one global leading value. Overlay editable fields on source writing regions where practical; use expansion or a separate focused editor for long responses. Reserve space for reader chrome and scroll clearance so text, illustrations and focused controls remain unobscured.",
+  "artwork": "Use original extracted PDF artwork wherever available. Directly inspected pages show the cover's hands-and-globe photograph, translucent lavender left strip, rounded upper-right photo corner, purple right margin, publisher logo and ecological emblem; the eight illustrated legend badges; the sun/cloud/meadow decoration; and page 8's detailed red-ring notebook. Preserve their crops, transparent edges, backing tiles, sparkles and relative scale. Do not replace source characters with emoji, invent missing illustrations or redraw unavailable artwork from descriptions. Keep photographs unrounded unless the particular source crop is rounded or oval. Preserve artwork-integrated labels with editable text overlays when assets permit. The palette hex values above are visual estimates from supplied images 1–8, not exact sampled PDF fills; verify them against original assets before production. They do not replace additional local colors in later artwork.",
+  "activities": "Preserve Albanian wording, ë/ç, numbering, response counts and the distinction between oral discussion, research, writing, drawing, coloring, comparison and group projects. Retain source-linked response functionality while reducing unnecessary form spacing. Provide one shared response state when an activity is available in both page and focused views. Do not convert every discussion or project instruction into mandatory written assessment. Drawing prompts require an evidenced usable drawing or attachment workflow, not just a textarea. Page 11 requires 13 frequency rows with three choices and five directly colorable stars. Preserve complete overlapping Venn boundaries on pages 23, 24 and 31; associate answers with the three regions. Preserve page 28's supplied 10×11 word-search grid, ten-word list and Albanian digraph cells. Preserve page 37's six clues, stepped crossword and colored column; do not invent solutions or infer an answer key. Companion files qz001.html–qz011.html require their own source/specification: thematic support from the PDF does not validate distractors, placement, feedback or scoring. Test selection, keyboard access, accessible names, persistence and any documented LMS behavior; zero detected controls in a static probe is uncertainty, not proof of failure.",
+  "repairPlan": "1. Establish the evidence and mapping baseline. Preserve a copy of the PDF, ADT and learner-response data. Record page-to-href mappings, artwork assets, typography and control identifiers. Images and detailed measurements were directly supplied for pages 1–8; for pages 9–50, obtain source images and current ADT captures before confirming the supplied audit's visual findings. Review uncertain mappings pg001_sec001.html, pg002_sec001.html, pg006_sec001.html, pg024_sec004.html, pg028_sec001.html, pg030_sec005.html, pg037_sec004.html and pg049_sec002.html. Page 6's metadata title is not printed instructional content. Page 4 has no supplied ADT section; do not classify that as a visual defect.\n2. Repair shared page geometry first. Create the 639.449×866.220 pt master and proportional desktop wrapper. Reassemble split sections under their source-page parent while retaining href anchors and focused activity views. Evidence includes the supplied audit's page 7 box of 1000×1911 and page 29 box of 1000×2807, versus about 1000×1355 for a complete proportional page. Verify wrappers before editing: a landscape viewport or partial-section box alone is not a page-proportion defect. Never fix excess height by clipping text or scaling controls below usability.\n3. Repair shared fonts, colors and components. Load available Poppins and Amiri weights explicitly; inventory missing faces and request them. Apply the measured roles above, then verify later-page roles against the PDF. Restore handwritten rubric headings, sans-serif prompts, serif narrative, source italics and bold glossary terms. Replace global card styles with family-specific bands, open frames, illustrated tabs and ribbons. Confirm estimated palette values from assets. Retain legitimate local differences, including the page 12 title-weight exception reported by the audit.\n4. Repair shared content and reader behavior. Compare visible text against the PDF, preserving meaning and punctuation unless an explicit editorial correction is approved. Fix source-confirmed detached endings in shoqëri and përgjegjësi on page 2. For audit-reported changes, verify then restore page 14's 'cili objekt' and page 36's 'vendeve fqinje'. Inspect accessible names and hidden headings before removing extraction repeats; repeated strings are generally not proven visible duplicates. Move reader navigation outside content or provide equivalent safe clearance, and test top, middle, bottom and keyboard-focused positions.\n5. Restore the cover, page 1, pg001_sec001.html. The directly supplied source confirms the tall two-column header, visible 5a marker, author list, two-line title, subtitle and framed photograph. Use the measured 54 pt title, not the audit-reported undersized 42 px rendering. Restore the photograph's lavender overlay, right purple margin and rounded upper-right corner. Match publisher/workbook/emblem proportions and remove an added emblem background only by recovering the source asset or correct transparency. At 1040 px width, verify approximately 1409 px full-page height and unobscured photograph.\n6. Restore contents pages 2–3, pg002_sec001.html and pg003_sec001.html. Reconnect the orange bands to the continuous right rail on page 2 and left rail on page 3. Preserve page 3's long lower rail and intentional blank area. Remove added dotted leaders; restore the measured text/page-number columns and shared 13 pt sizing. Keep bold bands, italic dikur/sot and the red Provoje veten entry on page 3. Verify every supplied title/page pair, including toolbar-obscured entries, without extrapolating unseen destination pages.\n7. Preserve distinct introductory families. Page 4 remains a pale ruled writing page with cyan lines and a pink margin rule; its only extracted text is folio 4. Do not add exercises from its OCR flag. For page 5, pg005_sec001.html, restore the four-line PatrickHand title inside the irregular double-outline circle and the eight surrounding illustrated badges, not a top title plus grid. For page 6, pg006_sec001.html, preserve the complete decorative scene at source scale without adding a visible title. For page 7, pg007_sec001.html, restore justified indented text, original italics, three continuous pointed ribbons, author credit and integrated turquoise/meadow artwork; do not detach a simplified landscape below the text.\n8. Restore illustrated lesson framing. Begin with directly inspected page 8, pg008_sec001.html: match the lavender title band, overlapping Amiri keyword badge, regular Poppins reflection prompts, introduction and full-size ring notebook; retain the measured diary text and source folio. Then verify the audit leads for the lesson family on pages 12, 15, 19, 22, 25, 29, 32, 35, 38, 41, 44, 47 and 50. Restore each source's title/keyword relationship, icon scale and compact discussion placement while keeping working response controls. Do not apply a centered title, uniform photo crop or one generic image/text grid to every lesson.\n9. Repair photograph and narrative compositions individually. After source comparison, address the audit's alternating monument layout and lost thought icon on page 12; oversized Ulpiana image on page 15; relocated artifact heading, amphora paragraph and italic captions on page 16; unequal source city-photo columns on page 19; housing alignment/crop on pages 25–26; image/text pairing and black strip above the plough photograph on page 29; oval clothing scales and caption alignment on page 32; profession-photo column on page 38; police/medical/meeting scene arrangement on page 42; and page 50's large family photograph with overlapping elliptical speech bubble. Preserve all original image subjects and captions. Restore paragraph breaks identified in the audit only after checking their source positions.\n10. Repair rubric-continuation families on pages 9, 13, 17, 20, 23, 27, 30, 33, 36, 39, 42, 45 and 48. Restore the source-specific question-mark, speech-bubble, book/magnifier, dictionary and research-character artwork; do not replace missing illustrations with emoji. Reduce excessive per-prompt card spacing without discarding source-linked responses. Keep bold glossary headwords and separate definitions. For page 13, verify the source sequence of questions, discussion and further knowledge rather than following section-number order. For page 39, restore explanation → reminder → questions → discussion → further knowledge; keep the reminder's unboxed italic treatment. Page 48's advice strip retains white handwritten text. Confirm every reordered section remains reachable by its existing href.\n11. Restore worksheet framing and response geometry. Apply source-specific Provoje veten banners, block illustrations, orange side bands, purple accents and folios to pages 10–11, 14, 18, 21, 24, 28, 31, 34, 37, 40, 43, 46 and 49 where the PDF actually shows them. Recombine title-only fragments with their exercises. Remove unsupported nested cards, inset borders and tinted headers after source comparison. Keep page 10's eight prompts associated with butterfly compartments and central name/birth-date card. For page 11, restore square blue table rules and source column proportions; consolidate duplicate star targets into five directly operable stars. Preserve the seven writing opportunities beside page 34's costume photograph and the documented worksheet response counts.\n12. Repair diagram and multimodal activity integrity. Verify and restore both complete ellipse outlines on page 23, pg023_sec001.html; page 24, pg024_sec003.html; and page 31, pg031_sec004.html. Place region controls in meaningful spatial association, with an accessible equivalent sharing the same state. For page 46, pg046_sec002.html, restore relative bubble sizes and associate responses with the five source shapes. Verify actual drawing support on pages 14 and 21. For page 28, pg028_sec002.html, preserve every grid cell and test word selection; review the extra textarea's purpose rather than treating it as word-search functionality. For page 37, pg037_sec003.html–pg037_sec004.html, test cell entry, any whole-word fields, shared answers and access to the colored-column result; do not supply guessed answers.\n13. Resolve genuine duplication and preserve project intent. The audit reports visibly repeated food lists and a cropped parents' illustration on page 35: confirm, restore the full asset and remove only redundant visible copies, not accessible equivalents. Review pg009_sec001.html/pg009_sec002.html and pg044_sec001.html/pg044_sec002.html for repeated diary/form capture; retain one shared activity state and persistent labels, including Plotëso:. Verify potentially redundant fields on pages 17, 30, 42 and 48 before consolidation. Keep page 40's five project steps and three topics together with its photograph. Keep page 49's groups-of-six research/poster task and source character; do not redefine it as a compulsory essay merely because a textarea exists.\n14. Validate companion activities separately. Request authoritative specifications for qz001–qz011, mapped respectively to pages 8, 13, 17, 22, 26, 30, 35, 39, 42, 48 and 50. Review topic/placement mismatches especially qz004, qz005 and qz007. Do not create missing options, keys or feedback. Retain existing data and mark unresolved configurations for review. Test each evidenced activity by mouse, touch and keyboard, including selection state, focus, feedback, saved response and documented LMS reporting; reconcile the reported three-control inventory with zero-control probes through real interaction tests.\n15. Run acceptance checks. Desktop: at 1000 px page width, complete wrappers must be 1354.6 px high within 2 px; compare source landmarks, font metrics, crops, reading order and all response regions at matched scale. No content may be hidden by chrome, clipped or pushed into another source page. Phone: test 320, 390 and 430 px widths with readable live text, approximately 16 px minimum body size, usable 44 px touch targets, visible labels and no document-wide horizontal overflow; allow labeled local scrolling/zoom for dense tables and grids. PDF: export source pages 1–50 at 639.449×866.220 pt within 0.1 pt, retaining page order, folios, source whitespace and artwork proportions; inspect every page for overflow and unintended cropping. Compare blank and filled activity states, verify response persistence, and deliver unresolved font, asset, mapping and companion-evidence issues explicitly rather than approving them by appearance alone.",
+  "rules": [
+    "Treat the PDF as the content and appearance authority.",
+    "Keep every source page family distinct.",
+    "Keep text and response controls editable.",
+    "Preserve Albanian characters and source wording.",
+    "Use source font roles, not one global font.",
+    "Flag missing fonts before substituting.",
+    "Preserve source crops and image aspect ratios.",
+    "Use original artwork instead of emoji replacements.",
+    "Do not add rounded cards without source evidence.",
+    "Keep source folios separate from reader counters.",
+    "Preserve drawing, coloring and diagram tasks.",
+    "Share response state across alternate activity views.",
+    "Do not delete text from extraction repeats alone.",
+    "Do not infer quiz keys from topical relevance.",
+    "Keep reader controls clear of learner content.",
+    "Verify uninspected pages before visual edits."
+  ],
+  "families": [
+    {
+      "name": "Cover — page 1",
+      "description": "Deep-purple and lavender split composition, large white Poppins title and grade marker, framed hands-and-globe photograph and publisher footer. Preserve its unique proportions and overlays."
+    },
+    {
+      "name": "Contents — pages 2–3",
+      "description": "Square orange bands joined to opposite-side continuous rails; aligned text/page-number columns without dotted leaders. Page 3 intentionally has extensive lower whitespace."
+    },
+    {
+      "name": "Ruled writing page — page 4",
+      "description": "Pale paper, cyan horizontal ruling and pink left margin. No printed exercise instruction is evidenced."
+    },
+    {
+      "name": "Icon legend — page 5",
+      "description": "Eight illustrated icon/label pairs around a handwritten central title in an irregular double-outline circle, on notebook ruling. Source badges have their own rounded shapes."
+    },
+    {
+      "name": "Decorative scene — page 6",
+      "description": "Text-free sun, clouds, turquoise hill, meadow, flowers and three illustrated arrow panels. Do not turn metadata into visible instructional text."
+    },
+    {
+      "name": "Illustrated preface — page 7",
+      "description": "Indented Amiri prose, small Poppins title, three pointed horizontal ribbons and integrated landscape footer. Preserve the white-text final ribbon."
+    },
+    {
+      "name": "Diary reading and writing — pages 8–9",
+      "description": "Detailed red-ring notebook, handwritten diary lettering, lesson framing and source-linked questions/writing. Preserve notebook relationships and avoid duplicate diary response capture."
+    },
+    {
+      "name": "Illustrated informational lessons",
+      "description": "Pages 12, 15–16, 19, 22, 25–26, 29, 32, 35, 38, 41–42, 44, 47 and 50. Preserve individual photo/text arrangements, captions, oval crops, keywords and reflection framing; later-page details require source-image verification."
+    },
+    {
+      "name": "Rubric, discussion, research and glossary continuations",
+      "description": "Pages 13, 17, 20, 23, 27, 30, 33, 36, 39, 45 and 48, plus rubric blocks embedded elsewhere. Distinguish handwritten headings, sans-serif prompts, serif explanatory text, green discussion panels, cream research callouts and illustrated glossary ribbons."
+    },
+    {
+      "name": "Self-assessment and project worksheets",
+      "description": "Pages 10–11, 14, 18, 21, 24, 28, 31, 34, 37, 40, 43, 46 and 49. Preserve decorated orange framing and each task's native structure: butterfly profile, frequency table, stars, writing/drawing areas, Venn diagrams, word search, crossword, concept bubbles and group projects."
+    },
+    {
+      "name": "Companion ADT quizzes",
+      "description": "qz001.html–qz011.html are separately identified activities, not printed-page reproductions. Their provenance, options, configured answers and behavior require independent evidence."
+    }
+  ],
+  "uncertainties": [
+    "Source images and detailed typography were directly available only for pages 1–8. Visual findings for pages 9–50 come from supplied audits and need source-image confirmation.",
+    "No current ADT screenshots, DOM, scripts or interactive session were directly available here; reported runtime and layout findings are supplied evidence.",
+    "Palette hex values are image-based visual estimates. Exact PDF fills and asset color profiles remain unmeasured.",
+    "PatrickHand, ImransSchool, MinionPro, Poppins-Medium and the required italic faces are absent from the available-font inventory.",
+    "The inventory reports one page-size group across pages 1–50; PDF page boxes, trim and bleed were not independently verified.",
+    "Page 4 has no supplied ADT section. Its desktop appearance and functionality cannot be assessed.",
+    "Page 6 has no visible instructional text; the section's descriptive metadata should not be printed as a source heading.",
+    "Several section mappings remain marked uncertain. Audit-supported matches should be documented and checked before navigation is changed.",
+    "Most repeated extracted prompts are not proven visible duplicates; hidden labels and accessible-name behavior require inspection.",
+    "Companion quiz specifications and answer keys were not supplied. Textual support alone does not establish activity fidelity.",
+    "Drawing, word-search selection, crossword synchronization, response persistence and LMS reporting remain unverified.",
+    "Missing source artwork must be requested or explicitly recorded as unavailable, not invented."
+  ]
+}

@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="sq"><head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Shoqëria dhe mjedisi</title><meta name="title-id" content="pg020_sec002"><meta name="page-section-id" content="32">
+<link href="./content/tailwind_output.css" rel="stylesheet"><link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet"><link href="./assets/fonts.css" rel="stylesheet">
+<link rel="stylesheet" href="./book-design/components.css?v=9f3d745a858de581" data-book-style="true">
+<style>
+/* This is the focused activity from page 20, not a complete source-page canvas. */
+#content.book.pg20-discussion {padding-top:45px; font-family:BookPoppins,Arial,sans-serif}
+#content.book.pg20-discussion .discussion-panel {position:relative;background:#a0c88c;border-radius:18px 0 0 18px;padding:18px 25px 28px;color:#30313a}
+#content.book.pg20-discussion .discussion-art {position:absolute;width:76px;height:auto;left:26px;top:-27px}
+#content.book.pg20-discussion h1 {font:400 28px/1.25 'Comic Sans MS',cursive;color:#30313a;margin:0 0 21px 90px}
+#content.book.pg20-discussion .prompts {font:400 18.8px/1.42 BookPoppins,Arial,sans-serif;margin:0 0 22px;padding:0;list-style:none}
+#content.book.pg20-discussion .prompts li {font:inherit;margin:0}
+#content.book.pg20-discussion .comparison {display:grid;grid-template-columns:1fr 1fr;border:1.5px solid #30313a}
+#content.book.pg20-discussion .comparison-cell {min-width:0;display:flex;flex-direction:column}
+#content.book.pg20-discussion .comparison-cell+ .comparison-cell {border-left:1.5px solid #30313a}
+#content.book.pg20-discussion .comparison label {font:400 18.8px/1.4 BookPoppins,Arial,sans-serif;display:block;padding:4px 5px 0}
+#content.book.pg20-discussion .comparison textarea {display:block;width:100%;height:195px;min-height:195px;padding:6px;border:0;border-radius:0;background:transparent;resize:vertical;font:400 18px/1.4 BookPoppins,Arial,sans-serif}
+#content.book.pg20-discussion .notes {margin:18px 0 0;font:400 17px/1.5 BookPoppins,Arial,sans-serif}
+#content.book.pg20-discussion .notes summary {cursor:pointer;min-height:44px;padding:9px 0;color:#30313a}
+#content.book.pg20-discussion .notes label {display:block;margin:12px 0 4px;font:400 17px/1.5 BookPoppins,Arial,sans-serif}
+#content.book.pg20-discussion .notes textarea {width:100%;min-height:88px}
+@media(max-width:700px){#content.book.pg20-discussion{padding-top:42px}#content.book.pg20-discussion .discussion-panel{padding:18px 16px 20px;border-radius:14px}#content.book.pg20-discussion .discussion-art{left:16px;width:65px;top:-23px}#content.book.pg20-discussion h1{font-size:25px;margin-left:76px;margin-bottom:18px}#content.book.pg20-discussion .prompts{font-size:16px;line-height:1.5}#content.book.pg20-discussion .comparison{grid-template-columns:1fr}#content.book.pg20-discussion .comparison-cell+ .comparison-cell{border-left:0;border-top:1.5px solid #30313a}#content.book.pg20-discussion .comparison label{font-size:16px}#content.book.pg20-discussion .comparison textarea{height:150px;min-height:150px;font-size:16px}}
+</style></head>
+<body class="min-h-screen flex items-center justify-center"><main class="w-full">
+<div id="content" class="container opacity-0 book pg20-discussion" data-family="discussion"><section data-section-type="other" data-section-id="pg020_sec002" class="b-page">
+<div class="discussion-panel">
+<img class="discussion-art" src="studio/assets/pg020-discussion-art.png" alt="" aria-hidden="true">
+<h1 data-id="pg020_n0017">Diskuto</h1>
+<ul class="prompts"><li data-id="pg020_n0020">– A ka ndryshuar qyteti gjatë kohëve të ndryshme?</li><li data-id="pg020_n0022">– Përshkruaje zhvillimin e qytetit përgjatë historisë.</li></ul>
+<div class="comparison"><div class="comparison-cell"><label for="item-3" data-id="pg020_n0023">Më pëlqen qyteti <em>dikur</em>, sepse…</label><span class="sr-only" data-id="pg020_n0024"></span><textarea id="item-3" data-activity-item="item-3"></textarea></div><div class="comparison-cell"><label for="item-4" data-id="pg020_n0025">Më pëlqen qyteti <em>sot</em>, sepse…</label><span class="sr-only" data-id="pg020_n0026"></span><textarea id="item-4" data-activity-item="item-4"></textarea></div></div>
+</div>
+<details class="notes"><summary>Shënime për diskutimin (opsionale)</summary><label for="item-1">A ka ndryshuar qyteti gjatë kohëve të ndryshme?</label><textarea id="item-1" data-activity-item="item-1"></textarea><label for="item-2">Përshkruaje zhvillimin e qytetit përgjatë historisë.</label><textarea id="item-2" data-activity-item="item-2"></textarea></details>
+</section></div></main>
+<div class="relative z-50" id="interface-container"></div><div class="relative z-50" id="nav-container"></div>
+<script src="./assets/offline-preloader.js?v=9f3d745a858de581"></script><script src="./assets/scorm.js"></script><script src="./assets/base.bundle.local.js"></script><script src="./book-design/responses.js?v=9f3d745a858de581" data-book-responses="true"></script></body></html>

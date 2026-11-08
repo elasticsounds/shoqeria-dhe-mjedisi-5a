@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="sq"><head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Shoqëria dhe mjedisi</title>
+    <meta name="title-id" content="pg021_sec003">
+    <!-- Despite the name, this is the page's 1-based position in the reading
+         order, not a section id and not the printed page number. It drives the
+         "N of M" dock counter and is re-emitted on every package, so it tracks
+         the current order. Identity lives in title-id above. -->
+    <meta name="page-section-id" content="34">
+    <link href="./content/tailwind_output.css" rel="stylesheet">
+    <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+    <link href="./assets/fonts.css" rel="stylesheet">
+<link rel="stylesheet" href="./book-design/components.css?v=9f3d745a858de581" data-book-style="true"></head>
+
+<body class="min-h-screen flex items-center justify-center">
+    <main class="w-full">
+      <h1 class="sr-only" id="page-heading">Shoqëria dhe mjedisi</h1>
+      <div id="content" class="container mx-auto w-full max-w-5xl px-8 max-sm:px-5 opacity-0 book" data-family="response"><h2 class="sr-only" id="section-heading">Imagjino dhe shkruaj se si e paramendon qytetin në të ardhmen.</h2>
+  <section data-section-type="other" data-section-id="pg021_sec003" class="bg-white min-h-screen py-10 b-page">
+    <div class="rounded-[2rem] border-4 border-[#a66cc2] bg-[#fffdf8] p-6 shadow-sm max-sm:p-4">
+      <div class="mb-5 adt-body text-left text-neutral-900 leading-relaxed">
+        <span data-id="pg021_n0016" class="font-medium">2.</span>
+        <span aria-hidden="true"> </span>
+        <span data-id="pg021_n0017">Imagjino dhe shkruaj se si e paramendon qytetin në të ardhmen.</span>
+      </div>
+      <div class="rounded-[1.5rem] border-4 border-[#b184d1] bg-white p-4 max-sm:p-3 min-h-[24rem]">
+        <div data-id="pg021_n0018" class="sr-only"></div>
+        <label for="item-1" class="sr-only">Imagjino dhe shkruaj se si e paramendon qytetin në të ardhmen.</label>
+        <textarea id="item-1" data-activity-item="item-1" aria-label="Imagjino dhe shkruaj se si e paramendon qytetin në të ardhmen." class="w-full min-h-11 h-80 rounded-xl border-2 border-dashed border-[#c7a6dd] bg-[#fdfaff] p-4 adt-body text-neutral-900 outline-none transition focus:border-[#8f5fb4] focus:ring-4 focus:ring-[#eadcf5]" placeholder=""></textarea>
+      </div>
+    </div>
+  </section>
+</div>
+    </main>
+
+    <div class="relative z-50" id="interface-container"></div>
+    <div class="relative z-50" id="nav-container"></div>
+    <script src="./assets/offline-preloader.js?v=9f3d745a858de581"></script>
+    <script src="./assets/scorm.js"></script>
+    <script src="./assets/base.bundle.local.js"></script>
+
+
+
+<script src="./book-design/responses.js?v=9f3d745a858de581" data-book-responses="true"></script></body></html>

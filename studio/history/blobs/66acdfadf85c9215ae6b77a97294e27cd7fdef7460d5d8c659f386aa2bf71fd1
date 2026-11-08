@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+<html lang="sq"><head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Shoqëria dhe mjedisi</title>
+    <meta name="title-id" content="pg028_sec002">
+    <!-- Despite the name, this is the page's 1-based position in the reading
+         order, not a section id and not the printed page number. It drives the
+         "N of M" dock counter and is re-emitted on every package, so it tracks
+         the current order. Identity lives in title-id above. -->
+    <meta name="page-section-id" content="54">
+    <link href="./content/tailwind_output.css" rel="stylesheet">
+    <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+    <link href="./assets/fonts.css" rel="stylesheet">
+<link rel="stylesheet" href="./book-design/components.css?v=9f3d745a858de581" data-book-style="true"></head>
+
+<body class="min-h-screen flex items-center justify-center">
+    <main class="w-full">
+      <h1 class="sr-only" id="page-heading">Shoqëria dhe mjedisi</h1>
+      <div id="content" class="container mx-auto w-full max-w-5xl px-8 max-sm:px-4 py-8 bg-white opacity-0 book" data-family="wordsearch"><h2 class="sr-only" id="section-heading">Gjej fjalët që kanë të bëjnë me objektet e banimit të vendit tonë!</h2>
+  <section data-section-type="other" data-section-id="pg028_sec002" class="w-full b-page">
+    <div class="mx-auto max-w-4xl border border-amber-300 bg-amber-50/30 px-6 py-6 max-sm:px-3">
+      <div class="mb-4 adt-body font-semibold text-slate-900 leading-relaxed">
+        <span data-id="pg028_n0017">3.</span>
+        <span data-id="pg028_n0018">Gjej fjalët që kanë të bëjnë me objektet e banimit të vendit tonë!</span>
+      </div>
+
+      <p class="adt-body mb-4 text-slate-800 leading-relaxed">
+        <span data-id="pg028_n0019">Kullë guri, përdhese, qerpiç, çati, arkitekturë, tradicional, oda, kasolle, oxhak, moderne.</span>
+      </p>
+
+      <div class="w-full overflow-x-auto" tabindex="0" role="region" aria-label="Tabela e veprimtarisë">
+        <table class="mx-auto border-collapse border-2 border-slate-500 bg-white">
+          <tbody>
+            <tr>
+              <td class="h-14 min-h-11 min-w-[4.1rem] border border-slate-500 px-2 text-center align-middle adt-body text-slate-800 max-sm:min-w-[2.5rem] max-sm:px-1" data-id="pg028_n0023">O</td>
+              <td class="h-14 min-h-11 min-w-[4.1rem] border border-slate-500 px-2 text-center align-middle adt-body text-slate-800 max-sm:min-w-[2.5rem] max-sm:px-1" data-id="pg028_n0025">Xh</td>
+              <td class="h-14 min-h-11 min-w-[4.1rem] border border-slate-500 px-2 text-center align-middle adt-body text-slate-800 max-sm:min-w-[2.5rem] max-sm:px-1" data-id="pg028_n0027">A</td>
+              <td class="h-14 min-h-11 min-w-[4.1rem] border border-slate-500 px-2 text-center align-middle adt-body text-slate-800 max-sm:min-w-[2.5rem] max-sm:px-1" data-id="pg028_n0029">K</td>
+              <td class="h-14 min-h-11 min-w-[4.1rem] border border-slate-500 px-2 text-center align-middle adt-body text-slate-800 max-sm:min-w-[2.5rem] max-sm:px-1" data-id="pg028_n0031">U</td>
+              <td class="h-14 min-h-11 min-w-[4.1rem] border border-slate-500 px-2 text-center align-middle adt-body text-slate-800 max-sm:min-w-[2.5rem] max-sm:px-1" data-id="pg028_n0033">L</td>
+              <td class="h-14 min-h-11 min-w-[4.1rem] border border-slate-500 px-2 text-center align-middle adt-body text-slate-800 max-sm:min-w-[2.5rem] max-sm:px-1" data-id="pg028_n0035">Q</td>
+              <td class="h-14 min-h-11 min-w-[4.1rem] border border-slate-500 px-2 text-center align-middle adt-body text-slate-800 max-sm:min-w-[2.5rem] max-sm:px-1" data-id="pg028_n0037">O</td>
+              <td class="h-14 min-h-11 min-w-[4.1rem] border border-slate-500 px-2 text-center align-middle adt-body text-slate-800 max-sm:min-w-[2.5rem] max-sm:px-1" data-id="pg028_n0039">D</td>
+              <td class="h-14 min-h-11 min-w-[4.1rem] border border-slate-500 px-2 text-center align-middle adt-body text-slate-800 max-sm:min-w-[2.5rem] max-sm:px-1" data-id="pg028_n0041">A</td>
+              <td class="h-14 min-h-11 min-w-[4.1rem] border border-slate-500 px-2 text-center align-middle adt-body text-slate-800 max-sm:min-w-[2.5rem] max-sm:px-1" data-id="pg028_n0043">D</td>
+            </tr>
+            <tr>
+              <td class="h-14 min-h-11 min-w-[4.1rem] border border-slate-500 px-2 text-center align-middle adt-body text-slate-800 max-sm:min-w-[2.5rem] max-sm:px-1" data-id="pg028_n0046">C</td>
+              <td class="h-14 min-h-11 min-w-[4.1rem] border border-slate-500 px-2 text-center align-middle adt-body text-slate-800 max-sm:min-w-[2.5rem] max-sm:px-1" data-id="pg028_n0048">X</td>
+              <td class="h-14 min-h-11 min-w-[4.1rem] border border-slate-500 px-2 text-center align-middle adt-body text-slate-800 max-sm:min-w-[2.5rem] max-sm:px-1" data-id="pg028_n0050">V</td>
+              <td class="h-14 min-h-11 min-w-[4.1rem] border border-slate-500 px-2 text-center align-middle adt-body text-slate-800 max-sm:min-w-[2.5rem] max-sm:px-1" data-id="pg028_n0052">P</td>
+              <td class="h-14 min-h-11 min-w-[4.1rem] border border-slate-500 px-2 text-center align-middle adt-body text-slate-800 max-sm:min-w-[2.5rem] max-sm:px-1" data-id="pg028_n0054">K</td>
+              <td class="h-14 min-h-11 min-w-[4.1rem] border border-slate-500 px-2 text-center align-middle adt-body text-slate-800 max-sm:min-w-[2.5rem] max-sm:px-1" data-id="pg028_n0056">J</td>
+              <td class="h-14 min-h-11 min-w-[4.1rem] border border-slate-500 px-2 text-center align-middle adt-body text-slate-800 max-sm:min-w-[2.5rem] max-sm:px-1" data-id="pg028_n0058">E</td>
+              <td class="h-14 min-h-11 min-w-[4.1rem] border border-slate-500 px-2 text-center align-middle adt-body text-slate-800 max-sm:min-w-[2.5rem] max-sm:px-1" data-id="pg028_n0060">H</td>
+              <td class="h-14 min-h-11 min-w-[4.1rem] border border-slate-500 px-2 text-center align-middle adt-body text-slate-800 max-sm:min-w-[2.5rem] max-sm:px-1" data-id="pg028_n0062">G</td>
+              <td class="h-14 min-h-11 min-w-[4.1rem] border border-slate-500 px-2 text-center align-middle adt-body text-slate-800 max-sm:min-w-[2.5rem] max-sm:px-1" data-id="pg028_n0064">L</td>
+              <td class="h-14 min-h-11 min-w-[4.1rem] border border-slate-500 px-2 text-center align-middle adt-body text-slate-800 max-sm:min-w-[2.5rem] max-sm:px-1" data-id="pg028_n0066">Y</td>
+            </tr>
+            <tr>
+              <td class="h-14 min-h-11 min-w-[4.1rem] border border-slate-500 px-2 text-center align-middle adt-body text-slate-800 max-sm:min-w-[2.5rem] max-sm:px-1" data-id="pg028_n0069">K</td>
+              <td class="h-14 min-h-11 min-w-[4.1rem] border border-slate-500 px-2 text-center align-middle adt-body text-slate-800 max-sm:min-w-[2.5rem] max-sm:px-1" data-id="pg028_n0071">U</td>
+              <td class="h-14 min-h-11 min-w-[4.1rem] border border-slate-500 px-2 text-center align-middle adt-body text-slate-800 max-sm:min-w-[2.5rem] max-sm:px-1" data-id="pg028_n0073">Ll</td>
+              <td class="h-14 min-h-11 min-w-[4.1rem] border border-slate-500 px-2 text-center align-middle adt-body text-slate-800 max-sm:min-w-[2.5rem] max-sm:px-1" data-id="pg028_n0075">Ë</td>
+              <td class="h-14 min-h-11 min-w-[4.1rem] border border-slate-500 px-2 text-center align-middle adt-body text-slate-800 max-sm:min-w-[2.5rem] max-sm:px-1" data-id="pg028_n0077">G</td>
+              <td class="h-14 min-h-11 min-w-[4.1rem] border border-slate-500 px-2 text-center align-middle adt-body text-slate-800 max-sm:min-w-[2.5rem] max-sm:px-1" data-id="pg028_n0079">U</td>
+              <td class="h-14 min-h-11 min-w-[4.1rem] border border-slate-500 px-2 text-center align-middle adt-body text-slate-800 max-sm:min-w-[2.5rem] max-sm:px-1" data-id="pg028_n0081">R</td>
+              <td class="h-14 min-h-11 min-w-[4.1rem] border border-slate-500 px-2 text-center align-middle adt-body text-slate-800 max-sm:min-w-[2.5rem] max-sm:px-1" data-id="pg028_n0083">I</td>
+              <td class="h-14 min-h-11 min-w-[4.1rem] border border-slate-500 px-2 text-center align-middle adt-body text-slate-800 max-sm:min-w-[2.5rem] max-sm:px-1" data-id="pg028_n0085">P</td>
+              <td class="h-14 min-h-11 min-w-[4.1rem] border border-slate-500 px-2 text-center align-middle adt-body text-slate-800 max-sm:min-w-[2.5rem] max-sm:px-1" data-id="pg028_n0087">O</td>
+              <td class="h-14 min-h-11 min-w-[4.1rem] border border-slate-500 px-2 text-center align-middle adt-body text-slate-800 max-sm:min-w-[2.5rem] max-sm:px-1" data-id="pg028_n0089">E</td>
+            </tr>
+            <tr>
+              <td class="h-14 min-h-11 min-w-[4.1rem] border border-slate-500 px-2 text-center align-middle adt-body text-slate-800 max-sm:min-w-[2.5rem] max-sm:px-1" data-id="pg028_n0092">A</td>
+              <td class="h-14 min-h-11 min-w-[4.1rem] border border-slate-500 px-2 text-center align-middle adt-body text-slate-800 max-sm:min-w-[2.5rem] max-sm:px-1" data-id="pg028_n0094">D</td>
+              <td class="h-14 min-h-11 min-w-[4.1rem] border border-slate-500 px-2 text-center align-middle adt-body text-slate-800 max-sm:min-w-[2.5rem] max-sm:px-1" data-id="pg028_n0096">U</td>
+              <td class="h-14 min-h-11 min-w-[4.1rem] border border-slate-500 px-2 text-center align-middle adt-body text-slate-800 max-sm:min-w-[2.5rem] max-sm:px-1" data-id="pg028_n0098">R</td>
+              <td class="h-14 min-h-11 min-w-[4.1rem] border border-slate-500 px-2 text-center align-middle adt-body text-slate-800 max-sm:min-w-[2.5rem] max-sm:px-1" data-id="pg028_n0100">Y</td>
+              <td class="h-14 min-h-11 min-w-[4.1rem] border border-slate-500 px-2 text-center align-middle adt-body text-slate-800 max-sm:min-w-[2.5rem] max-sm:px-1" data-id="pg028_n0102">R</td>
+              <td class="h-14 min-h-11 min-w-[4.1rem] border border-slate-500 px-2 text-center align-middle adt-body text-slate-800 max-sm:min-w-[2.5rem] max-sm:px-1" data-id="pg028_n0104">P</td>
+              <td class="h-14 min-h-11 min-w-[4.1rem] border border-slate-500 px-2 text-center align-middle adt-body text-slate-800 max-sm:min-w-[2.5rem] max-sm:px-1" data-id="pg028_n0106">I</td>
+              <td class="h-14 min-h-11 min-w-[4.1rem] border border-slate-500 px-2 text-center align-middle adt-body text-slate-800 max-sm:min-w-[2.5rem] max-sm:px-1" data-id="pg028_n0108">Y</td>
+              <td class="h-14 min-h-11 min-w-[4.1rem] border border-slate-500 px-2 text-center align-middle adt-body text-slate-800 max-sm:min-w-[2.5rem] max-sm:px-1" data-id="pg028_n0110">E</td>
+              <td class="h-14 min-h-11 min-w-[4.1rem] border border-slate-500 px-2 text-center align-middle adt-body text-slate-800 max-sm:min-w-[2.5rem] max-sm:px-1" data-id="pg028_n0112">R</td>
+            </tr>
+            <tr>
+              <td class="h-14 min-h-11 min-w-[4.1rem] border border-slate-500 px-2 text-center align-middle adt-body text-slate-800 max-sm:min-w-[2.5rem] max-sm:px-1" data-id="pg028_n0115">S</td>
+              <td class="h-14 min-h-11 min-w-[4.1rem] border border-slate-500 px-2 text-center align-middle adt-body text-slate-800 max-sm:min-w-[2.5rem] max-sm:px-1" data-id="pg028_n0117">D</td>
+              <td class="h-14 min-h-11 min-w-[4.1rem] border border-slate-500 px-2 text-center align-middle adt-body text-slate-800 max-sm:min-w-[2.5rem] max-sm:px-1" data-id="pg028_n0119">S</td>
+              <td class="h-14 min-h-11 min-w-[4.1rem] border border-slate-500 px-2 text-center align-middle adt-body text-slate-800 max-sm:min-w-[2.5rem] max-sm:px-1" data-id="pg028_n0121">Dh</td>
+              <td class="h-14 min-h-11 min-w-[4.1rem] border border-slate-500 px-2 text-center align-middle adt-body text-slate-800 max-sm:min-w-[2.5rem] max-sm:px-1" data-id="pg028_n0123">A</td>
+              <td class="h-14 min-h-11 min-w-[4.1rem] border border-slate-500 px-2 text-center align-middle adt-body text-slate-800 max-sm:min-w-[2.5rem] max-sm:px-1" data-id="pg028_n0125">Z</td>
+              <td class="h-14 min-h-11 min-w-[4.1rem] border border-slate-500 px-2 text-center align-middle adt-body text-slate-800 max-sm:min-w-[2.5rem] max-sm:px-1" data-id="pg028_n0127">I</td>
+              <td class="h-14 min-h-11 min-w-[4.1rem] border border-slate-500 px-2 text-center align-middle adt-body text-slate-800 max-sm:min-w-[2.5rem] max-sm:px-1" data-id="pg028_n0129">X</td>
+              <td class="h-14 min-h-11 min-w-[4.1rem] border border-slate-500 px-2 text-center align-middle adt-body text-slate-800 max-sm:min-w-[2.5rem] max-sm:px-1" data-id="pg028_n0131">B</td>
+              <td class="h-14 min-h-11 min-w-[4.1rem] border border-slate-500 px-2 text-center align-middle adt-body text-slate-800 max-sm:min-w-[2.5rem] max-sm:px-1" data-id="pg028_n0133">N</td>
+              <td class="h-14 min-h-11 min-w-[4.1rem] border border-slate-500 px-2 text-center align-middle adt-body text-slate-800 max-sm:min-w-[2.5rem] max-sm:px-1" data-id="pg028_n0135">M</td>
+            </tr>
+            <tr>
+              <td class="h-14 min-h-11 min-w-[4.1rem] border border-slate-500 px-2 text-center align-middle adt-body text-slate-800 max-sm:min-w-[2.5rem] max-sm:px-1" data-id="pg028_n0138">O</td>
+              <td class="h-14 min-h-11 min-w-[4.1rem] border border-slate-500 px-2 text-center align-middle adt-body text-slate-800 max-sm:min-w-[2.5rem] max-sm:px-1" data-id="pg028_n0140">O</td>
+              <td class="h-14 min-h-11 min-w-[4.1rem] border border-slate-500 px-2 text-center align-middle adt-body text-slate-800 max-sm:min-w-[2.5rem] max-sm:px-1" data-id="pg028_n0142">R</td>
+              <td class="h-14 min-h-11 min-w-[4.1rem] border border-slate-500 px-2 text-center align-middle adt-body text-slate-800 max-sm:min-w-[2.5rem] max-sm:px-1" data-id="pg028_n0144">E</td>
+              <td class="h-14 min-h-11 min-w-[4.1rem] border border-slate-500 px-2 text-center align-middle adt-body text-slate-800 max-sm:min-w-[2.5rem] max-sm:px-1" data-id="pg028_n0146">D</td>
+              <td class="h-14 min-h-11 min-w-[4.1rem] border border-slate-500 px-2 text-center align-middle adt-body text-slate-800 max-sm:min-w-[2.5rem] max-sm:px-1" data-id="pg028_n0148">G</td>
+              <td class="h-14 min-h-11 min-w-[4.1rem] border border-slate-500 px-2 text-center align-middle adt-body text-slate-800 max-sm:min-w-[2.5rem] max-sm:px-1" data-id="pg028_n0150">Ç</td>
+              <td class="h-14 min-h-11 min-w-[4.1rem] border border-slate-500 px-2 text-center align-middle adt-body text-slate-800 max-sm:min-w-[2.5rem] max-sm:px-1" data-id="pg028_n0152">A</td>
+              <td class="h-14 min-h-11 min-w-[4.1rem] border border-slate-500 px-2 text-center align-middle adt-body text-slate-800 max-sm:min-w-[2.5rem] max-sm:px-1" data-id="pg028_n0154">T</td>
+              <td class="h-14 min-h-11 min-w-[4.1rem] border border-slate-500 px-2 text-center align-middle adt-body text-slate-800 max-sm:min-w-[2.5rem] max-sm:px-1" data-id="pg028_n0156">I</td>
+              <td class="h-14 min-h-11 min-w-[4.1rem] border border-slate-500 px-2 text-center align-middle adt-body text-slate-800 max-sm:min-w-[2.5rem] max-sm:px-1" data-id="pg028_n0158">H</td>
+            </tr>
+            <tr>
+              <td class="h-14 min-h-11 min-w-[4.1rem] border border-slate-500 px-2 text-center align-middle adt-body text-slate-800 max-sm:min-w-[2.5rem] max-sm:px-1" data-id="pg028_n0161">Ll</td>
+              <td class="h-14 min-h-11 min-w-[4.1rem] border border-slate-500 px-2 text-center align-middle adt-body text-slate-800 max-sm:min-w-[2.5rem] max-sm:px-1" data-id="pg028_n0163">B</td>
+              <td class="h-14 min-h-11 min-w-[4.1rem] border border-slate-500 px-2 text-center align-middle adt-body text-slate-800 max-sm:min-w-[2.5rem] max-sm:px-1" data-id="pg028_n0165">Zh</td>
+              <td class="h-14 min-h-11 min-w-[4.1rem] border border-slate-500 px-2 text-center align-middle adt-body text-slate-800 max-sm:min-w-[2.5rem] max-sm:px-1" data-id="pg028_n0167">S</td>
+              <td class="h-14 min-h-11 min-w-[4.1rem] border border-slate-500 px-2 text-center align-middle adt-body text-slate-800 max-sm:min-w-[2.5rem] max-sm:px-1" data-id="pg028_n0169">Sh</td>
+              <td class="h-14 min-h-11 min-w-[4.1rem] border border-slate-500 px-2 text-center align-middle adt-body text-slate-800 max-sm:min-w-[2.5rem] max-sm:px-1" data-id="pg028_n0171">T</td>
+              <td class="h-14 min-h-11 min-w-[4.1rem] border border-slate-500 px-2 text-center align-middle adt-body text-slate-800 max-sm:min-w-[2.5rem] max-sm:px-1" data-id="pg028_n0173">Ë</td>
+              <td class="h-14 min-h-11 min-w-[4.1rem] border border-slate-500 px-2 text-center align-middle adt-body text-slate-800 max-sm:min-w-[2.5rem] max-sm:px-1" data-id="pg028_n0175">P</td>
+              <td class="h-14 min-h-11 min-w-[4.1rem] border border-slate-500 px-2 text-center align-middle adt-body text-slate-800 max-sm:min-w-[2.5rem] max-sm:px-1" data-id="pg028_n0177">I</td>
+              <td class="h-14 min-h-11 min-w-[4.1rem] border border-slate-500 px-2 text-center align-middle adt-body text-slate-800 max-sm:min-w-[2.5rem] max-sm:px-1" data-id="pg028_n0179">K</td>
+              <td class="h-14 min-h-11 min-w-[4.1rem] border border-slate-500 px-2 text-center align-middle adt-body text-slate-800 max-sm:min-w-[2.5rem] max-sm:px-1" data-id="pg028_n0181">J</td>
+            </tr>
+            <tr>
+              <td class="h-14 min-h-11 min-w-[4.1rem] border border-slate-500 px-2 text-center align-middle adt-body text-slate-800 max-sm:min-w-[2.5rem] max-sm:px-1" data-id="pg028_n0184">E</td>
+              <td class="h-14 min-h-11 min-w-[4.1rem] border border-slate-500 px-2 text-center align-middle adt-body text-slate-800 max-sm:min-w-[2.5rem] max-sm:px-1" data-id="pg028_n0186">O</td>
+              <td class="h-14 min-h-11 min-w-[4.1rem] border border-slate-500 px-2 text-center align-middle adt-body text-slate-800 max-sm:min-w-[2.5rem] max-sm:px-1" data-id="pg028_n0188">M</td>
+              <td class="h-14 min-h-11 min-w-[4.1rem] border border-slate-500 px-2 text-center align-middle adt-body text-slate-800 max-sm:min-w-[2.5rem] max-sm:px-1" data-id="pg028_n0190">E</td>
+              <td class="h-14 min-h-11 min-w-[4.1rem] border border-slate-500 px-2 text-center align-middle adt-body text-slate-800 max-sm:min-w-[2.5rem] max-sm:px-1" data-id="pg028_n0192">M</td>
+              <td class="h-14 min-h-11 min-w-[4.1rem] border border-slate-500 px-2 text-center align-middle adt-body text-slate-800 max-sm:min-w-[2.5rem] max-sm:px-1" data-id="pg028_n0194">O</td>
+              <td class="h-14 min-h-11 min-w-[4.1rem] border border-slate-500 px-2 text-center align-middle adt-body text-slate-800 max-sm:min-w-[2.5rem] max-sm:px-1" data-id="pg028_n0196">D</td>
+              <td class="h-14 min-h-11 min-w-[4.1rem] border border-slate-500 px-2 text-center align-middle adt-body text-slate-800 max-sm:min-w-[2.5rem] max-sm:px-1" data-id="pg028_n0198">E</td>
+              <td class="h-14 min-h-11 min-w-[4.1rem] border border-slate-500 px-2 text-center align-middle adt-body text-slate-800 max-sm:min-w-[2.5rem] max-sm:px-1" data-id="pg028_n0200">R</td>
+              <td class="h-14 min-h-11 min-w-[4.1rem] border border-slate-500 px-2 text-center align-middle adt-body text-slate-800 max-sm:min-w-[2.5rem] max-sm:px-1" data-id="pg028_n0202">N</td>
+              <td class="h-14 min-h-11 min-w-[4.1rem] border border-slate-500 px-2 text-center align-middle adt-body text-slate-800 max-sm:min-w-[2.5rem] max-sm:px-1" data-id="pg028_n0204">E</td>
+            </tr>
+            <tr>
+              <td class="h-14 min-h-11 min-w-[4.1rem] border border-slate-500 px-2 text-center align-middle adt-body text-slate-800 max-sm:min-w-[2.5rem] max-sm:px-1" data-id="pg028_n0207">A</td>
+              <td class="h-14 min-h-11 min-w-[4.1rem] border border-slate-500 px-2 text-center align-middle adt-body text-slate-800 max-sm:min-w-[2.5rem] max-sm:px-1" data-id="pg028_n0209">R</td>
+              <td class="h-14 min-h-11 min-w-[4.1rem] border border-slate-500 px-2 text-center align-middle adt-body text-slate-800 max-sm:min-w-[2.5rem] max-sm:px-1" data-id="pg028_n0211">K</td>
+              <td class="h-14 min-h-11 min-w-[4.1rem] border border-slate-500 px-2 text-center align-middle adt-body text-slate-800 max-sm:min-w-[2.5rem] max-sm:px-1" data-id="pg028_n0213">I</td>
+              <td class="h-14 min-h-11 min-w-[4.1rem] border border-slate-500 px-2 text-center align-middle adt-body text-slate-800 max-sm:min-w-[2.5rem] max-sm:px-1" data-id="pg028_n0215">T</td>
+              <td class="h-14 min-h-11 min-w-[4.1rem] border border-slate-500 px-2 text-center align-middle adt-body text-slate-800 max-sm:min-w-[2.5rem] max-sm:px-1" data-id="pg028_n0217">E</td>
+              <td class="h-14 min-h-11 min-w-[4.1rem] border border-slate-500 px-2 text-center align-middle adt-body text-slate-800 max-sm:min-w-[2.5rem] max-sm:px-1" data-id="pg028_n0219">K</td>
+              <td class="h-14 min-h-11 min-w-[4.1rem] border border-slate-500 px-2 text-center align-middle adt-body text-slate-800 max-sm:min-w-[2.5rem] max-sm:px-1" data-id="pg028_n0221">T</td>
+              <td class="h-14 min-h-11 min-w-[4.1rem] border border-slate-500 px-2 text-center align-middle adt-body text-slate-800 max-sm:min-w-[2.5rem] max-sm:px-1" data-id="pg028_n0223">U</td>
+              <td class="h-14 min-h-11 min-w-[4.1rem] border border-slate-500 px-2 text-center align-middle adt-body text-slate-800 max-sm:min-w-[2.5rem] max-sm:px-1" data-id="pg028_n0225">R</td>
+              <td class="h-14 min-h-11 min-w-[4.1rem] border border-slate-500 px-2 text-center align-middle adt-body text-slate-800 max-sm:min-w-[2.5rem] max-sm:px-1" data-id="pg028_n0227">Ë</td>
+            </tr>
+            <tr>
+              <td class="h-14 min-h-11 min-w-[4.1rem] border border-slate-500 px-2 text-center align-middle adt-body text-slate-800 max-sm:min-w-[2.5rem] max-sm:px-1" data-id="pg028_n0230">T</td>
+              <td class="h-14 min-h-11 min-w-[4.1rem] border border-slate-500 px-2 text-center align-middle adt-body text-slate-800 max-sm:min-w-[2.5rem] max-sm:px-1" data-id="pg028_n0232">R</td>
+              <td class="h-14 min-h-11 min-w-[4.1rem] border border-slate-500 px-2 text-center align-middle adt-body text-slate-800 max-sm:min-w-[2.5rem] max-sm:px-1" data-id="pg028_n0234">A</td>
+              <td class="h-14 min-h-11 min-w-[4.1rem] border border-slate-500 px-2 text-center align-middle adt-body text-slate-800 max-sm:min-w-[2.5rem] max-sm:px-1" data-id="pg028_n0236">D</td>
+              <td class="h-14 min-h-11 min-w-[4.1rem] border border-slate-500 px-2 text-center align-middle adt-body text-slate-800 max-sm:min-w-[2.5rem] max-sm:px-1" data-id="pg028_n0238">I</td>
+              <td class="h-14 min-h-11 min-w-[4.1rem] border border-slate-500 px-2 text-center align-middle adt-body text-slate-800 max-sm:min-w-[2.5rem] max-sm:px-1" data-id="pg028_n0240">C</td>
+              <td class="h-14 min-h-11 min-w-[4.1rem] border border-slate-500 px-2 text-center align-middle adt-body text-slate-800 max-sm:min-w-[2.5rem] max-sm:px-1" data-id="pg028_n0242">I</td>
+              <td class="h-14 min-h-11 min-w-[4.1rem] border border-slate-500 px-2 text-center align-middle adt-body text-slate-800 max-sm:min-w-[2.5rem] max-sm:px-1" data-id="pg028_n0244">O</td>
+              <td class="h-14 min-h-11 min-w-[4.1rem] border border-slate-500 px-2 text-center align-middle adt-body text-slate-800 max-sm:min-w-[2.5rem] max-sm:px-1" data-id="pg028_n0246">N</td>
+              <td class="h-14 min-h-11 min-w-[4.1rem] border border-slate-500 px-2 text-center align-middle adt-body text-slate-800 max-sm:min-w-[2.5rem] max-sm:px-1" data-id="pg028_n0248">A</td>
+              <td class="h-14 min-h-11 min-w-[4.1rem] border border-slate-500 px-2 text-center align-middle adt-body text-slate-800 max-sm:min-w-[2.5rem] max-sm:px-1" data-id="pg028_n0250">L</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+
+      <div class="mt-5">
+        <label for="activity-item-1" class="sr-only">Gjej fjalët që kanë të bëjnë me objektet e banimit të vendit tonë!</label>
+        <textarea id="activity-item-1" data-activity-item="item-1" aria-label="Gjej fjalët që kanë të bëjnë me objektet e banimit të vendit tonë!" class="min-h-11 w-full rounded-xl border border-slate-400 bg-white px-4 py-3 adt-body text-slate-800 outline-none focus:border-amber-500 focus:ring-2 focus:ring-amber-200" placeholder=""></textarea>
+      </div>
+    </div>
+  </section>
+</div>
+    </main>
+
+    <div class="relative z-50" id="interface-container"></div>
+    <div class="relative z-50" id="nav-container"></div>
+    <script src="./assets/offline-preloader.js?v=9f3d745a858de581"></script>
+    <script src="./assets/scorm.js"></script>
+    <script src="./assets/base.bundle.local.js"></script>
+
+
+
+<script src="./book-design/responses.js?v=9f3d745a858de581" data-book-responses="true"></script><script src="./studio/assets/pg028-wordsearch.js"></script></body></html>

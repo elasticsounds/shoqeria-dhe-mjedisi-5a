@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="sq"><head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Shoqëria dhe mjedisi</title>
+    <meta name="title-id" content="pg047_sec001">
+    <!-- Despite the name, this is the page's 1-based position in the reading
+         order, not a section id and not the printed page number. It drives the
+         "N of M" dock counter and is re-emitted on every package, so it tracks
+         the current order. Identity lives in title-id above. -->
+    <meta name="page-section-id" content="93">
+    <link href="./content/tailwind_output.css" rel="stylesheet">
+    <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+    <link href="./assets/fonts.css" rel="stylesheet">
+<link rel="stylesheet" href="./book-design/components.css?v=9f3d745a858de581" data-book-style="true"></head>
+
+<body class="min-h-screen flex items-center justify-center">
+    <main class="w-full">
+      <div id="content" class="container mx-auto w-full max-w-5xl px-8 max-sm:px-5 py-8 bg-white opacity-0 book" data-family="illustrated-lesson">
+  <section data-section-type="text_and_images" data-section-id="pg047_sec001" class="w-full b-page">
+    <div class="w-screen relative left-1/2 right-1/2 -ml-[50vw] -mr-[50vw] bg-violet-500 b-banner">
+      <div class="mx-auto w-full max-w-5xl px-8 max-sm:px-5 py-16 max-sm:py-10">
+        <h1 data-id="pg047_n0002" class="adt-h1 font-bold text-white text-left">Llojllojshmëria etnike e kulturore</h1>
+      </div>
+    </div>
+
+    <div class="mt-6 rounded-[2rem] border-4 border-violet-400 bg-white overflow-hidden">
+      <div class="flex items-stretch max-lg:flex-col">
+        <div class="bg-violet-300 px-5 py-4 flex items-center">
+          <span data-id="pg047_n0004" class="adt-body font-bold text-white b-keyword-label">Fjalët kyçe:</span>
+        </div>
+        <div class="px-5 py-4 flex items-center">
+          <span data-id="pg047_n0005" class="adt-body text-neutral-800">diversitet etnik, diversitet kulturor.</span>
+        </div>
+      </div>
+    </div>
+
+    <div class="mt-10 rounded-[2rem] bg-sky-200 px-8 py-6 max-sm:px-5 shadow-sm b-panel-thought">
+      <h2 data-id="pg047_n0008" class="adt-h2 text-left font-medium text-neutral-900">Shpreh mendimin tënd</h2>
+      <div class="mt-5 adt-body text-neutral-900 space-y-4">
+        <p class="adt-body"><span data-id="pg047_n0009">- A e di çfarë do të thotë llojllojshmëri etnike e kulturore?</span></p>
+        <p class="adt-body"><span data-id="pg047_n0010">- Si i kupton këto thënie:</span></p>
+        <div class="pl-0 max-sm:pl-0">
+          <p class="adt-body italic text-neutral-900"><span data-id="pg047_n0012">“Shumëllojshmëria është kripa e jetës.”</span></p>
+          <p class="adt-body text-right pr-8 max-sm:pr-0"><span data-id="pg047_n0013">William Cooper</span></p>
+        </div>
+        <div>
+          <p class="adt-body italic text-neutral-900"><span data-id="pg047_n0015">Llojllojshmëria kulturore është diçka që duhet vlerësuar, e jo diçka që duhet pasur frikë.”</span></p>
+          <p class="adt-body text-right pr-8 max-sm:pr-0"><span data-id="pg047_n0016">Kofi Annan</span></p>
+        </div>
+      </div>
+    </div>
+
+    <div class="mt-12">
+      <p class="adt-body text-left text-neutral-900"><span data-id="pg047_n0017">- A mendon që në fotografitë e mëposhtme, ka diversitet etnik e kulturor? Pse?</span></p>
+      <label for="activity-item-1" class="sr-only">- A mendon që në fotografitë e mëposhtme, ka diversitet etnik e kulturor? Pse?</label>
+      <textarea id="activity-item-1" data-activity-item="item-1" aria-label="- A mendon që në fotografitë e mëposhtme, ka diversitet etnik e kulturor? Pse?" class="mt-4 w-full min-h-11 rounded-2xl border-2 border-sky-300 bg-sky-50 px-4 py-3 adt-body text-neutral-900 outline-none focus:border-violet-400 focus:ring-2 focus:ring-violet-200" placeholder=""></textarea>
+    </div>
+
+    <div class="mt-8 grid grid-cols-3 gap-2 max-lg:grid-cols-2 max-sm:grid-cols-1">
+      <img data-id="pg047_im002" src="images/pg047_im002.png" alt="Fëmijë duke buzëqeshur dhe luajtur jashtë së bashku" class="w-full h-auto rounded-md object-cover">
+      <img data-id="pg047_im004" src="images/pg047_im004.png" alt="Vajzë duke mbajtur një tullumbace blu jashtë" class="w-full h-auto rounded-md object-cover">
+      <img data-id="pg047_im007" src="images/pg047_im007.png" alt="Fëmijë të veshur me kostume tradicionale duke qëndruar së bashku" class="w-full h-auto rounded-md object-cover">
+      <img data-id="pg047_im003" src="images/pg047_im003.png" alt="Grup fëmijësh ulur në rreth duke punuar së bashku" class="w-full h-auto rounded-md object-cover">
+      <img data-id="pg047_im005" src="images/pg047_im005.png" alt="Fëmijë me tullumbace duke buzëqeshur së bashku" class="w-full h-auto rounded-md object-cover">
+      <img data-id="pg047_im006" src="images/pg047_im006.png" alt="Djalë që përdor karrocë me rrota, duke buzëqeshur jashtë me fëmijët e tjerë." class="w-full h-auto rounded-md object-cover">
+    </div>
+  </section>
+</div>
+    </main>
+
+    <div class="relative z-50" id="interface-container"></div>
+    <div class="relative z-50" id="nav-container"></div>
+    <script src="./assets/offline-preloader.js?v=9f3d745a858de581"></script>
+    <script src="./assets/scorm.js"></script>
+    <script src="./assets/base.bundle.local.js"></script>
+
+
+
+<script src="./book-design/responses.js?v=9f3d745a858de581" data-book-responses="true"></script></body></html>

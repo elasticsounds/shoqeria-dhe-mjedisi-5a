@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="sq"><head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Shoqëria dhe mjedisi</title>
+    <meta name="title-id" content="pg013_sec003">
+    <!-- Despite the name, this is the page's 1-based position in the reading
+         order, not a section id and not the printed page number. It drives the
+         "N of M" dock counter and is re-emitted on every package, so it tracks
+         the current order. Identity lives in title-id above. -->
+    <meta name="page-section-id" content="17">
+    <link href="./content/tailwind_output.css" rel="stylesheet">
+    <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+    <link href="./assets/fonts.css" rel="stylesheet">
+<link rel="stylesheet" href="./book-design/components.css?v=9f3d745a858de581" data-book-style="true"></head>
+
+<body class="min-h-screen flex items-center justify-center">
+    <main class="w-full">
+      <div id="content" class="container mx-auto w-full max-w-5xl px-8 max-sm:px-5 opacity-0 book" data-family="discussion">
+  <section data-section-type="other" data-section-id="pg013_sec003" class="py-8 b-page">
+    <div class="rounded-[2rem] bg-[#a8d08d] px-6 py-7 shadow-sm max-sm:px-4">
+      <div class="mb-6 flex items-start gap-4">
+        <div aria-hidden="true" class="flex h-16 w-16 items-center justify-center rounded-full bg-white shadow-sm ring-2 ring-[#8a63ad] b-rubric-wrapper"><img src="images/pg005_im008.png" alt="" aria-hidden="true" class="b-rubric-icon"></div>
+        <h1 class="adt-h3 font-semibold leading-tight text-[#2f2140]" data-id="pg013_n0035">Diskuto</h1>
+      </div>
+      <div class="mb-6">
+        <p class="adt-body mb-3 text-left leading-relaxed text-[#2f2140]"><span data-id="pg013_n0036">Çfarë mendon ti për këto monumente historike të rëndësishme të vendit tonë?</span></p>
+        <textarea id="item-1" data-activity-item="item-1" aria-label="Çfarë mendon ti për këto monumente historike të rëndësishme të vendit tonë?" class="min-h-11 w-full rounded-xl border-2 border-[#6d8f5a] bg-white/90 p-3 text-[#2f2140] outline-none focus:border-[#8a63ad] focus:ring-2 focus:ring-[#8a63ad]/30"></textarea>
+        <p class="adt-body mt-3 text-left text-[#2f2140]/60"><span data-id="pg013_n0037"></span></p>
+      </div>
+      <div>
+        <p class="adt-body mb-3 text-left leading-relaxed text-[#2f2140]"><span data-id="pg013_n0038">Cila është rëndësia kulturore e këtyre monumenteve?</span></p>
+        <textarea id="item-2" data-activity-item="item-2" aria-label="Cila është rëndësia kulturore e këtyre monumenteve?" class="min-h-11 w-full rounded-xl border-2 border-[#6d8f5a] bg-white/90 p-3 text-[#2f2140] outline-none focus:border-[#8a63ad] focus:ring-2 focus:ring-[#8a63ad]/30"></textarea>
+        <p class="adt-body mt-3 text-left text-[#2f2140]/60"><span data-id="pg013_n0039"></span></p>
+      </div>
+    </div>
+  </section>
+</div>
+    <section id="simple-main" data-section-type="activity_quiz" data-id="qz002" data-area-id="qz002" data-correct-answers="{&quot;qz002_o0&quot;:false,&quot;qz002_o1&quot;:false,&quot;qz002_o2&quot;:true}" data-option-explanations="{&quot;qz002_o0&quot;:&quot;qz002_o0_exp&quot;,&quot;qz002_o1&quot;:&quot;qz002_o1_exp&quot;,&quot;qz002_o2&quot;:&quot;qz002_o2_exp&quot;}" aria-labelledby="qz002-question-label" class="merged-quiz">
+      <h2 id="qz002-question-label" data-id="qz002_que">Pse janë të rëndësishme monumentet historike?</h2>
+      <fieldset><legend class="sr-only">Pse janë të rëndësishme monumentet historike?</legend>
+        <label class="quiz-choice" data-activity-item="qz002_o0" data-explanation="❌ Jo tamam. Pemët rriten në natyrë, ndërsa monumentet shërbejnë për të ruajtur kujtesën historike." data-explanation-id="qz002_o0_exp"><input type="radio" name="qz002" value="qz002_o0" data-activity-item="qz002_o0" aria-labelledby="qz002_o0-option-label"><span id="qz002_o0-option-label" data-id="qz002_o0">1) Rritin pemët</span></label>
+        <label class="quiz-choice" data-activity-item="qz002_o1" data-explanation="❌ Jo. Monumentet nuk e ndryshojnë motin; ato tregojnë dhe kujtojnë historinë dhe kulturën." data-explanation-id="qz002_o1_exp"><input type="radio" name="qz002" value="qz002_o1" data-activity-item="qz002_o1" aria-labelledby="qz002_o1-option-label"><span id="qz002_o1-option-label" data-id="qz002_o1">2) Ndryshojnë motin</span></label>
+        <label class="quiz-choice" data-activity-item="qz002_o2" data-explanation="✅ Saktë! Monumentet historike janë të rëndësishme sepse ruajnë dhe përcjellin ngjarjet e historisë nga një brez te tjetri." data-explanation-id="qz002_o2_exp"><input type="radio" name="qz002" value="qz002_o2" data-activity-item="qz002_o2" aria-labelledby="qz002_o2-option-label"><span id="qz002_o2-option-label" data-id="qz002_o2">3) Ruajnë historinë</span></label>
+      </fieldset><button type="button" id="qz002-submit">Kontrollo</button><p id="qz002-feedback" aria-live="polite"></p>
+    </section>
+    <script type="application/json" id="quiz-correct-answers">{"qz002_o0":false,"qz002_o1":false,"qz002_o2":true}</script>
+    <script type="application/json" id="quiz-explanations">{"qz002_o0":"qz002_o0_exp","qz002_o1":"qz002_o1_exp","qz002_o2":"qz002_o2_exp"}</script>
+    <style>.merged-quiz{max-width:760px;margin:20px auto 120px;padding:24px;font-family:BookPoppins,Arial,sans-serif}.merged-quiz h2{background:#704383;color:white;font-size:24px;line-height:1.3;padding:24px;text-align:center}.merged-quiz fieldset{border:0;padding:0;margin:26px 0}.quiz-choice{display:flex;align-items:center;gap:14px;margin:14px 0;padding:16px;border:2px solid #7950aa;border-radius:8px;min-height:54px;font-size:20px;cursor:pointer}.quiz-choice:has(input:checked){background:#f3e7fe}.quiz-choice input{width:20px;height:20px;accent-color:#7950aa}.merged-quiz button{background:#704383;color:white;padding:12px 22px;border-radius:6px;min-height:44px}.merged-quiz button:focus-visible,.quiz-choice:focus-within{outline:3px solid #2563eb;outline-offset:2px}.merged-quiz p{margin-top:16px;font-size:16px}@media(max-width:600px){.merged-quiz{margin:20px 20px 100px;padding:0}.merged-quiz h2{font-size:21px}.quiz-choice{font-size:18px}}</style>
+    <script>window.correctAnswers={qz002_o0:false,qz002_o1:false,qz002_o2:true};(function(){var section=document.getElementById('simple-main'),key='adt5a.responses.f7bf719411a7c7cf.qz002',inputs=section.querySelectorAll('input[name=qz002]'),feedback=document.getElementById('qz002-feedback');try{var saved=JSON.parse(localStorage.getItem(key)||'{}');inputs.forEach(function(input){if(saved[input.value]&&saved[input.value].checked)input.checked=true})}catch(e){}inputs.forEach(function(input){input.addEventListener('change',function(){var values={};inputs.forEach(function(i){values[i.value]={checked:i.checked}});try{localStorage.setItem(key,JSON.stringify(values))}catch(e){}feedback.textContent=''})});document.getElementById('qz002-submit').addEventListener('click',function(){var selected=section.querySelector('input:checked');feedback.textContent=selected?selected.closest('label').getAttribute('data-explanation'):'Zgjidh një përgjigje.'})})();</script>
+    </main>
+
+    <div class="relative z-50" id="interface-container"></div>
+    <div class="relative z-50" id="nav-container"></div>
+    <script src="./assets/offline-preloader.js?v=9f3d745a858de581"></script>
+    <script src="./assets/scorm.js"></script>
+    <script src="./assets/base.bundle.local.js"></script>
+
+
+
+<script src="./book-design/responses.js?v=9f3d745a858de581" data-book-responses="true"></script></body></html>

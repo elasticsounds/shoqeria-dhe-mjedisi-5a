@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="sq"><head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>Shoqëria dhe mjedisi</title><meta name="title-id" content="pg039_sec002"><meta name="page-section-id" content="59">
+<link href="./content/tailwind_output.css" rel="stylesheet"><link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet"><link href="./assets/fonts.css" rel="stylesheet"><link rel="stylesheet" href="./book-design/components.css?v=9f3d745a858de581" data-book-style="true">
+<style>
+#content.book.pg39{aspect-ratio:639.449/866.22;padding:8% 13% 120px;max-width:1000px;color:#30313a}
+#content.book.pg39 .discussion{position:relative;background:#9acd8c;border-radius:18px;padding:22px 24px;margin:0 0 28px}
+#content.book.pg39 .discussion img{width:78px;position:absolute;top:-14px;left:20px}
+#content.book.pg39 h1,#content.book.pg39 h2{font:400 28px/1.2 cursive;color:#30313a;margin:0 0 20px 100px}
+#content.book.pg39 .discussion p{font:400 18.77px/1.35 BookPoppins,Arial,sans-serif;margin:0 0 3px}
+#content.book.pg39 .discussion textarea{display:block;width:100%;height:44px;min-height:44px;padding:5px 8px;margin:2px 0 10px;font:16px/1.35 BookPoppins,Arial,sans-serif}
+#content.book.pg39 .reading{position:relative;border:3px solid #7950aa;border-right:0;border-radius:18px 0 0 18px;padding:22px 12px 14px;margin:0}
+#content.book.pg39 .reading img{width:95px;float:left;margin:-25px 14px 3px -15px}
+#content.book.pg39 .reading p{font:400 18.77px/1.2 BookAmiri,Georgia,serif;margin:0;text-align:left}
+#content.book.pg39 .reading p:first-of-type{text-indent:0}
+#content.book.pg39 .folio{font:400 18px/1.2 BookPoppins,Arial,sans-serif;text-align:right;margin:12px 0 0}
+@media(max-width:700px){#content.book.pg39{aspect-ratio:auto;padding:28px 20px 125px}#content.book.pg39 .discussion{padding:20px 15px}#content.book.pg39 .discussion img{width:65px;left:12px}#content.book.pg39 h1,#content.book.pg39 h2{font-size:25px;margin-left:72px}#content.book.pg39 .discussion p{font-size:16px;line-height:1.45}#content.book.pg39 .reading{padding:20px 14px;border-right:3px solid #7950aa;border-radius:16px}#content.book.pg39 .reading img{width:74px}#content.book.pg39 .reading p{font-size:18px;line-height:1.35}#content.book.pg39 .reading p:first-of-type{text-indent:0}}
+</style></head>
+<body class="min-h-screen flex items-center justify-center"><main class="w-full"><div id="content" class="container mx-auto w-full bg-white opacity-0 book pg39" data-family="response" data-response-owner="pg039_sec001">
+<section data-section-type="other" data-section-id="pg039_sec002" class="w-full b-page">
+<aside class="discussion" aria-labelledby="pg039_n0013"><img src="studio/assets/pg039_discussion_art.png" alt="" aria-hidden="true"><h1 id="pg039_n0013" data-id="pg039_n0013">Diskuto</h1>
+<p>- <span data-id="pg039_n0016">Cilat nga zanatet janë në zhdukje në Kosovë?</span></p><label for="item-1" class="sr-only">Cilat nga zanatet janë në zhdukje në Kosovë?</label><textarea id="item-1" data-activity-item="item-1" aria-label="Cilat nga zanatet janë në zhdukje në Kosovë?"></textarea>
+<p>- <span data-id="pg039_n0018">Cilat janë masat që po merren për vazhdimin e punës së tyre?</span></p><label for="item-2" class="sr-only">Cilat janë masat që po merren për vazhdimin e punës së tyre?</label><textarea id="item-2" data-activity-item="item-2" aria-label="Cilat janë masat që po merren për vazhdimin e punës së tyre?"></textarea>
+<p>- <span data-id="pg039_n0020">Analizo: cili nga zanatet mendon se duhet të vazhdojë?</span> <span data-id="pg039_n0021">Pse?</span></p><label for="item-3" class="sr-only">Analizo: cili nga zanatet mendon se duhet të vazhdojë? Pse?</label><textarea id="item-3" data-activity-item="item-3" aria-label="Analizo: cili nga zanatet mendon se duhet të vazhdojë? Pse?"></textarea></aside>
+<div class="reading" aria-labelledby="pg039_n0024"><img src="studio/assets/pg039_reading_art.png" alt="" aria-hidden="true"><h2 id="pg039_n0024" data-id="pg039_n0024">Thello dijet</h2>
+<p><span data-id="pg039_n0026">Profesioni është një punë që kryhet nga një person i përgatitur në mënyrë të veçantë, qoftë përmes arsimit, qoftë përmes kurseve trajnuese.</span> <span data-id="pg039_n0027">Njeriu zgjedh profesionin që ka dëshirë dhe mëson e specializohet për ta kryer atë punë.</span> <span data-id="pg039_n0028">Secili profesion ka rëndësinë e tij.</span></p>
+<p><span data-id="pg039_n0029">Puna në vendin tonë dikur është kryer me vështirësi për shkak të mungesës së mjeteve të punës.</span> <span data-id="pg039_n0030">Me zhvillimin e teknologjisë, sot, edhe te ne, si në të gjitha vendet e botës, puna kryhet me mjete bashkëkohore.</span> <span data-id="pg039_n0031">Çdo profesion që ka njeriu, duhet të bëhet me përkushtim dhe përgjegjësi.</span></p></div>
+<p class="folio">39</p></section></div></main>
+<div class="relative z-50" id="interface-container"></div><div class="relative z-50" id="nav-container"></div><script src="./assets/offline-preloader.js?v=9f3d745a858de581"></script><script src="./assets/scorm.js"></script><script src="./assets/base.bundle.local.js"></script><script src="./book-design/responses.js?v=9f3d745a858de581" data-book-responses="true"></script></body></html>

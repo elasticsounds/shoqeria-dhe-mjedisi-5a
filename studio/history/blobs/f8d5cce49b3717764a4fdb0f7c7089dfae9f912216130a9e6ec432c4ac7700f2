@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="sq">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Shoqëria dhe mjedisi</title>
+  <meta name="title-id" content="pg002_sec001">
+  <meta name="page-section-id" content="2">
+  <link href="./content/tailwind_output.css" rel="stylesheet">
+  <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+  <link href="./assets/fonts.css" rel="stylesheet">
+  <link rel="stylesheet" href="./book-design/components.css?v=9f3d745a858de581" data-book-style="true">
+  <style>
+    /* Page 2: positions are proportional to the 639.449 × 866.220 pt source. */
+    #content.book[data-family="contents-page-2"] { padding:0; max-width:1000px; container-type:inline-size; font-family:BookPoppins,Arial,sans-serif; color:#30313a; }
+    #content.book[data-family="contents-page-2"] > section.contents-page { position:relative; width:100%; aspect-ratio:639.449 / 866.220; padding:0; background:#fff; }
+    .contents-page .rail { position:absolute; left:87.62%; width:10.01%; top:1.81%; bottom:1.81%; background:#ffb149; }
+    .contents-page .band { position:absolute; left:8.99%; width:78.63%; height:3.46%; background:#ffb149; top:calc(var(--y) / 866.22 * 100%); }
+    #content.book .contents-page .toc-row { position:absolute; left:11.213%; top:calc(var(--y) / 866.22 * 100%); width:75%; margin:0; padding:0; font:400 2.0332cqw/3.1277cqw BookPoppins,Arial,sans-serif; color:#30313a; }
+    #content.book .contents-page h1.toc-row, #content.book .contents-page .toc-row.major { font-weight:700; }
+    .contents-page .toc-number { position:absolute; left:90.137%; top:0; }
+    .contents-page em { font-style:italic; }
+    @media (max-width:700px) {
+      #content.book[data-family="contents-page-2"] { padding:0 0 90px; }
+      #content.book[data-family="contents-page-2"] > section.contents-page { aspect-ratio:auto; padding:24px 20px 42px 16px; }
+      .contents-page .rail { left:auto; right:0; width:12px; top:0; bottom:0; }
+      .contents-page .band { display:none; }
+      #content.book .contents-page .toc-row { position:relative; inset:auto; width:auto; display:grid; grid-template-columns:minmax(0,1fr) 2.3em; gap:10px; margin:0; padding:4px 12px 4px 8px; font:400 16px/1.45 BookPoppins,Arial,sans-serif; }
+      #content.book .contents-page h1.toc-row, #content.book .contents-page .toc-row.major { font-size:16px; font-weight:700; background:#ffb149; padding-top:10px; padding-bottom:10px; margin:14px -8px 10px 0; }
+      #content.book .contents-page h1.toc-row { display:block; margin-top:0; }
+      .contents-page .toc-number { position:static; text-align:left; }
+    }
+    @media print { #content.book[data-family="contents-page-2"] { padding:0; max-width:none; } }
+  </style>
+</head>
+<body class="min-h-screen flex items-center justify-center">
+<main class="w-full">
+  <div id="content" class="container opacity-0 book" data-family="contents-page-2">
+    <section data-section-type="table_of_contents" data-section-id="pg002_sec001" class="contents-page">
+      <div class="rail" aria-hidden="true"></div>
+      <div class="band" style="--y:67" aria-hidden="true"></div>
+      <div class="band" style="--y:107" aria-hidden="true"></div>
+      <div class="band" style="--y:187" aria-hidden="true"></div>
+      <div class="band" style="--y:447" aria-hidden="true"></div>
+      <div class="band" style="--y:607" aria-hidden="true"></div>
+      <h1 class="toc-row" style="--y:69.3" data-id="pg002_n0002">PËRMBAJTJA</h1>
+      <div class="toc-row major" style="--y:109.3"><span data-id="pg002_n0005">Parathënie</span><span class="toc-number" data-id="pg002_n0006">7</span></div>
+      <div class="toc-row" style="--y:149.3"><span data-id="pg002_n0008">“Jam në klasën e pestë”</span><span class="toc-number" data-id="pg002_n0009">8</span></div>
+      <div class="toc-row major" style="--y:189.3"><span data-id="pg002_n0011">Si kanë jetuar të parët tanë?</span><span class="toc-number" data-id="pg002_n0012">12</span></div>
+      <div class="toc-row" style="--y:229.3"><span data-id="pg002_n0015">Monumentet historike</span><span class="toc-number" data-id="pg002_n0016">12</span></div>
+      <div class="toc-row" style="--y:249.3"><span data-id="pg002_n0018">Vendbanimet arkeologjike</span><span class="toc-number" data-id="pg002_n0019">15</span></div>
+      <div class="toc-row" style="--y:269.3"><span data-id="pg002_n0021">Qyteti <em>dikur</em> dhe <em>sot</em></span><span class="toc-number" data-id="pg002_n0022">19</span></div>
+      <div class="toc-row" style="--y:289.3"><span data-id="pg002_n0024">Fshati <em>dikur</em> dhe <em>sot</em></span><span class="toc-number" data-id="pg002_n0025">22</span></div>
+      <div class="toc-row" style="--y:309.3"><span data-id="pg002_n0027">Objektet e banimit në vendin tonë</span><span class="toc-number" data-id="pg002_n0028">25</span></div>
+      <div class="toc-row" style="--y:329.3"><span data-id="pg002_n0030">Ndryshimi i objekteve dhe i mjeteve të punës gjatë kohës</span><span class="toc-number" data-id="pg002_n0031">29</span></div>
+      <div class="toc-row" style="--y:349.3"><span data-id="pg002_n0033">Veshjet tradicionale kosovare</span><span class="toc-number" data-id="pg002_n0034">32</span></div>
+      <div class="toc-row" style="--y:369.3"><span data-id="pg002_n0036">Kuzhina kosovare</span><span class="toc-number" data-id="pg002_n0037">35</span></div>
+      <div class="toc-row" style="--y:389.3"><span data-id="pg002_n0039">Profesionet tona</span><span class="toc-number" data-id="pg002_n0040">38</span></div>
+      <div class="toc-row" style="--y:409.3"><span data-id="pg002_n0042">Organizimi i jetës në familje dhe në shoqëri</span><span class="toc-number" data-id="pg002_n0043">41</span></div>
+      <div class="toc-row major" style="--y:449.3"><span data-id="pg002_n0045">Të ndryshëm, por të barabartë</span><span class="toc-number" data-id="pg002_n0046">44</span></div>
+      <div class="toc-row" style="--y:489.3"><span data-id="pg002_n0049">Kultura, gjuha, traditat dhe vlerat njerëzore</span><span class="toc-number" data-id="pg002_n0050">44</span></div>
+      <div class="toc-row" style="--y:509.3"><span data-id="pg002_n0052">Llojllojshmëria etnike e kulturore</span><span class="toc-number" data-id="pg002_n0053">47</span></div>
+      <div class="toc-row" style="--y:529.3"><span data-id="pg002_n0055">Bashkëpunojmë për të mirën e përbashkët</span><span class="toc-number" data-id="pg002_n0056">50</span></div>
+      <div class="toc-row" style="--y:549.3"><span data-id="pg002_n0058">Ne na bashkon toleranca</span><span class="toc-number" data-id="pg002_n0059">53</span></div>
+      <div class="toc-row" style="--y:569.3"><span data-id="pg002_n0061">Ndërmjetësimi mes bashkëmoshatarëve</span><span class="toc-number" data-id="pg002_n0062">56</span></div>
+      <div class="toc-row major" style="--y:609.3"><span data-id="pg002_n0064">E drejta e secilit garanton të drejtën e të gjithëve</span><span class="toc-number" data-id="pg002_n0065">61</span></div>
+      <div class="toc-row" style="--y:649.3"><span data-id="pg002_n0068">Të drejtat tona</span><span class="toc-number" data-id="pg002_n0069">61</span></div>
+      <div class="toc-row" style="--y:669.3"><span data-id="pg002_n0071">Fëmijët gëzojnë të drejta</span><span class="toc-number" data-id="pg002_n0072">64</span></div>
+      <div class="toc-row" style="--y:689.3"><span data-id="pg002_n0074">Institucionet që na mbrojnë</span><span class="toc-number" data-id="pg002_n0075">67</span></div>
+      <div class="toc-row" style="--y:709.3"><span data-id="pg002_n0077">Jam qytetar me të drejta dhe përgjegjësi</span><span class="toc-number" data-id="pg002_n0078">70</span></div>
+      <div class="toc-row" style="--y:729.3"><span data-id="pg002_n0080">Ta respektojmë njëri-tjetrin</span><span class="toc-number" data-id="pg002_n0081">73</span></div>
+      <div class="toc-row" style="--y:749.3"><span data-id="pg002_n0083">Të barabartë para ligjit</span><span class="toc-number" data-id="pg002_n0084">76</span></div>
+    </section>
+  </div>
+</main>
+<div class="relative z-50" id="interface-container"></div>
+<div class="relative z-50" id="nav-container"></div>
+<script src="./assets/offline-preloader.js?v=9f3d745a858de581"></script>
+<script src="./assets/scorm.js"></script>
+<script src="./assets/base.bundle.local.js"></script>
+<script src="./book-design/responses.js?v=9f3d745a858de581" data-book-responses="true"></script>
+</body>
+</html>

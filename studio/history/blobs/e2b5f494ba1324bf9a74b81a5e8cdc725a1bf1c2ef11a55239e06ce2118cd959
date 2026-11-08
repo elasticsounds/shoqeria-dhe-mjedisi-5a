@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="sq"><head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Shoqëria dhe mjedisi</title>
+<meta name="title-id" content="pg036_sec001">
+<meta name="page-section-id" content="55">
+<link href="./content/tailwind_output.css" rel="stylesheet">
+<link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+<link href="./assets/fonts.css" rel="stylesheet">
+<link rel="stylesheet" href="./book-design/components.css?v=9f3d745a858de581" data-book-style="true">
+<style>
+/* Page 36: the source frame expanded to accommodate the requested responses. */
+#content.book.page36{position:relative;max-width:1000px;width:100%;aspect-ratio:639.449/866.22;margin:0 auto;padding:0;background:#fff}
+#content.book.page36>section{position:relative;min-height:100%;padding:0;background:transparent}
+#content.book.page36 .edge{position:absolute;right:2.3%;top:1.8%;bottom:1.8%;width:2.25%;background:#ffb450}
+#content.book.page36 .question-frame{position:absolute;top:8.2%;left:8.6%;right:4.5%;border:3px solid #7950aa;border-right:0;border-radius:20px 0 0 20px;padding:18px 30px 24px 24px}
+#content.book.page36 .question-art{position:absolute;z-index:1;top:5.7%;left:7.8%;width:12.5%;height:auto}
+#content.book.page36 h1{margin:0 0 20px 11%;color:#514699;font:400 clamp(22px,2.8vw,28px)/1.3 "Comic Sans MS",cursive}
+#content.book.page36 .question-list{list-style:none;margin:0;padding:0;display:grid;gap:16px}
+#content.book.page36 .question-list li{margin:0;padding:0;font:400 clamp(16px,1.88vw,18.8px)/1.45 BookPoppins,Arial,sans-serif}
+#content.book.page36 .question-list label{display:block;font:inherit;color:#30313a}
+#content.book.page36 .question-list label:before{content:'– ';}
+#content.book.page36 .question-list :is(textarea,input){display:block;width:100%;margin-top:6px;border:1px solid #8e80a0;border-radius:4px;background:#fff;font:400 17px/1.4 BookPoppins,Arial,sans-serif}
+#content.book.page36 .question-list textarea{min-height:68px;resize:vertical}
+#content.book.page36 .folio{position:absolute;top:92.2%;left:11.5%;font:400 clamp(16px,1.88vw,18.8px)/1 BookPoppins,Arial,sans-serif}
+@media(max-width:700px){
+ #content.book.page36{aspect-ratio:auto;padding:0 0 110px}
+ #content.book.page36>section{min-height:0;padding:36px 18px 55px 20px}
+ #content.book.page36 .edge{right:0;top:0;bottom:0;width:9px}
+ #content.book.page36 .question-frame{position:relative;inset:auto;border-width:2px;padding:45px 18px 22px 16px;border-radius:16px 0 0 16px}
+ #content.book.page36 .question-art{top:15px;left:12px;width:77px}
+ #content.book.page36 h1{margin:0 0 22px 68px;font-size:24px}
+ #content.book.page36 .question-list{gap:18px}
+ #content.book.page36 .question-list li{font-size:16px;line-height:1.5}
+ #content.book.page36 .folio{position:static;display:block;margin:28px 0 0 12px;font-size:16px}
+}
+</style>
+</head>
+<body class="min-h-screen flex items-center justify-center">
+<main class="w-full">
+<div id="content" class="container opacity-0 book page36" data-family="reference">
+<section data-section-type="boxed_text" data-section-id="pg036_sec001" class="b-page">
+<div class="edge" aria-hidden="true"></div>
+<img class="question-art" src="./studio/assets/pg036_questions.png" alt="">
+<div class="question-frame">
+<h1 data-id="pg036_n0002">Pyetje për ty</h1>
+<ul class="question-list">
+<li><label for="item-1"><span data-id="pg036_n0005">Diskuto me nxënësit e tjerë për situatën e dhënë.</span> <span data-id="pg036_n0006">Si u organizua ditëlindja e Arit?</span></label><textarea id="item-1" data-activity-item="item-1" rows="2"></textarea></li>
+<li><label for="item-2"><span data-id="pg036_n0008">A keni edhe në familjen tënde mendime dhe shije të ndryshme për ushqimet?</span></label><textarea id="item-2" data-activity-item="item-2" rows="2"></textarea></li>
+<li><label for="item-3"><span data-id="pg036_n0010">A të pëlqeu vendimi që morën familja e Arit për përgatitjen e ushqimeve?</span> <span data-id="pg036_n0011">A do të veproje edhe ti njësoj?</span></label><textarea id="item-3" data-activity-item="item-3" rows="2"></textarea></li>
+<li><label for="item-4"><span data-id="pg036_n0013">Po ti, cilin prej ushqimeve do ta zgjidhje?</span></label><input id="item-4" data-activity-item="item-4" type="text"></li>
+</ul>
+</div>
+<!-- Preserve previously saved responses to removed activities without presenting them as new tasks. -->
+<div hidden aria-hidden="true"><textarea id="item-5" data-activity-item="item-5"></textarea><textarea id="item-6" data-activity-item="item-6"></textarea><textarea id="item-7" data-activity-item="item-7"></textarea></div>
+<span class="folio" aria-label="Faqja 36">36</span>
+</section>
+</div>
+</main>
+<div class="relative z-50" id="interface-container"></div>
+<div class="relative z-50" id="nav-container"></div>
+<script src="./assets/offline-preloader.js?v=9f3d745a858de581"></script>
+<script src="./assets/scorm.js"></script>
+<script src="./assets/base.bundle.local.js"></script>
+<script src="./book-design/responses.js?v=9f3d745a858de581" data-book-responses="true"></script>
+</body></html>

@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="sq"><head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Shoqëria dhe mjedisi</title>
+    <meta name="title-id" content="pg041_sec001">
+    <!-- Despite the name, this is the page's 1-based position in the reading
+         order, not a section id and not the printed page number. It drives the
+         "N of M" dock counter and is re-emitted on every package, so it tracks
+         the current order. Identity lives in title-id above. -->
+    <meta name="page-section-id" content="71">
+    <link href="./content/tailwind_output.css" rel="stylesheet">
+    <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+    <link href="./assets/fonts.css" rel="stylesheet">
+<link rel="stylesheet" href="./book-design/components.css?v=9f3d745a858de581" data-book-style="true"></head>
+
+<body class="min-h-screen flex items-center justify-center">
+    <main class="w-full">
+      <div id="content" class="container mx-auto w-full max-w-5xl px-8 max-sm:px-5 opacity-0 book" data-family="illustrated-lesson">
+  <section data-section-type="text_and_single_image" data-section-id="pg041_sec001" class="bg-white text-slate-800 pb-10 b-page">
+    <div class="-mx-8 max-sm:-mx-5 bg-[#a678b8] b-banner">
+      <div class="mx-auto w-full max-w-5xl px-8 max-sm:px-5 py-16 max-sm:py-10">
+        <h1 class="adt-h1 font-bold text-white text-left" data-id="pg041_n0002">Organizimi i jetës në familje dhe në shoqëri</h1>
+      </div>
+    </div>
+
+    <div class="relative mt-0 mb-10 max-sm:mb-8">
+      <div class="border-4 border-[#8b52a7] rounded-[2rem] bg-white p-5 pl-44 max-lg:pl-40 max-sm:pl-5 max-sm:pt-24 shadow-sm">
+        <div class="absolute left-0 top-0 -translate-y-1/4 max-sm:left-4 max-sm:translate-y-0 bg-[#a678b8] border-4 border-[#8b52a7] rounded-[1.8rem] px-5 py-6 max-sm:px-4 max-sm:py-5">
+          <span class="adt-body font-bold text-white b-keyword-label" data-id="pg041_n0004">Fjalët kyçe:</span>
+        </div>
+        <p class="adt-body leading-8 text-left text-slate-700">
+          <span data-id="pg041_n0005">familje, shoqëri, barazi, vendimmarrje.</span>
+        </p>
+      </div>
+    </div>
+
+    <p class="adt-body leading-8 text-left mb-6">
+      <span data-id="pg041_n0007">Situatë: Nëna ime është arkitekte në një kompani ndërtimi, ndërsa babai është avokat.</span> <span data-id="pg041_n0008">Në shtëpi, ata çdoherë i organizojnë dhe i ndajnë punët.</span> <span data-id="pg041_n0009">Në familjen tonë, tashmë është bërë traditë që të darkojmë së bashku.</span> <span data-id="pg041_n0010">Babai përgatit ushqimin, ndërsa nëna e përgatit tryezën.</span> <span data-id="pg041_n0011">Unë dhe vëllai u ndihmojmë, sepse prindërit çdoherë na thonë: “Ne duhet të gjithë të kontribuojmë për mirëqenien e familjes sonë dhe ta udhëheqim së bashku atë.”</span>
+    </p>
+
+    <p class="adt-body leading-8 text-left mb-10">
+      <span data-id="pg041_n0013">Teksa po hanim sot, ne po diskutonim edhe për gjërat që do të blinim, sepse tashmë kishim vendosur që do ta ndërronim pamjen e dhomës së ndenjjes.</span> <span data-id="pg041_n0014">Të gjithë i dhamë propozimet tona.</span> <span data-id="pg041_n0015">Diskutuam derisa arritëm në një vendim të përbashkët.</span>
+    </p>
+
+    <div class="mb-10">
+      <img data-id="pg041_im001" src="images/pg041_im001.png" alt="Një familje është ulur së bashku në tryezë gjatë darkës dhe po bisedon." class="w-full h-auto rounded-xl shadow-md">
+    </div>
+  </section>
+</div>
+    </main>
+
+    <div class="relative z-50" id="interface-container"></div>
+    <div class="relative z-50" id="nav-container"></div>
+    <script src="./assets/offline-preloader.js?v=9f3d745a858de581"></script>
+    <script src="./assets/scorm.js"></script>
+    <script src="./assets/base.bundle.local.js"></script>
+
+
+
+<script src="./book-design/responses.js?v=9f3d745a858de581" data-book-responses="true"></script></body></html>

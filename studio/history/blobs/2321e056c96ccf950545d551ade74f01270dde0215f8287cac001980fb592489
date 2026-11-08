@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="sq"><head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Shoqëria dhe mjedisi</title>
+  <meta name="title-id" content="pg024_sec003">
+  <meta name="page-section-id" content="43">
+  <link href="./content/tailwind_output.css" rel="stylesheet">
+  <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+  <link href="./assets/fonts.css" rel="stylesheet">
+  <link rel="stylesheet" href="./book-design/components.css?v=9f3d745a858de581" data-book-style="true">
+  <style>
+    #content.book.venn24 {font-family:BookPoppins,Arial,sans-serif; padding:42px 56px 128px;}
+    #content.book.venn24 .comparison {max-width:800px;margin:0 auto;}
+    #content.book.venn24 .instruction {font:400 19px/1.35 BookPoppins,Arial,sans-serif;margin:0 0 42px;}
+    #content.book.venn24 .diagram-labels {display:grid;grid-template-columns:1fr 1fr 1fr;align-items:end;gap:8px;margin-bottom:18px;font:400 19px/1.3 BookPoppins,Arial,sans-serif;}
+    #content.book.venn24 .diagram-labels div:nth-child(2) {text-align:center;}
+    #content.book.venn24 .diagram-labels div:nth-child(3) {text-align:right;}
+    #content.book.venn24 .venn {position:relative;}
+    #content.book.venn24 .venn svg {display:block;width:100%;height:auto;overflow:visible;}
+    #content.book.venn24 .fields {position:absolute;inset:0;}
+    #content.book.venn24 .field {position:absolute;top:28%;height:44%;}
+    #content.book.venn24 .field:nth-child(1) {left:7%;width:25%;}
+    #content.book.venn24 .field:nth-child(2) {left:40%;width:20%;}
+    #content.book.venn24 .field:nth-child(3) {right:7%;width:25%;}
+    #content.book.venn24 .field label {display:none;}
+    #content.book.venn24 .field textarea {display:block;width:100%;height:100%;min-height:0;resize:none;background:rgba(255,255,255,.85);border:1px solid #a49ca5;border-radius:3px;padding:8px;font:400 16px/1.4 BookPoppins,Arial,sans-serif;}
+    #content.book.venn24 .mobile-number {display:none;}
+    @media (max-width:700px) {
+      #content.book.venn24 {padding:24px 20px 120px;}
+      #content.book.venn24 .instruction {font-size:16px;line-height:1.5;margin-bottom:25px;}
+      #content.book.venn24 .diagram-labels {display:none;}
+      #content.book.venn24 .mobile-number {display:block;fill:#30313a;font:400 22px BookPoppins,Arial,sans-serif;text-anchor:middle;}
+      #content.book.venn24 .fields {position:static;display:grid;gap:16px;margin-top:22px;}
+      #content.book.venn24 .field,#content.book.venn24 .field:nth-child(n) {position:static;width:auto;height:auto;}
+      #content.book.venn24 .field label {display:block;font:400 16px/1.4 BookPoppins,Arial,sans-serif;margin-bottom:6px;}
+      #content.book.venn24 .field textarea {height:88px;min-height:88px;resize:vertical;}
+    }
+  </style>
+</head>
+<body class="min-h-screen flex items-center justify-center">
+  <main class="w-full">
+    <h1 class="sr-only" id="page-heading">Shoqëria dhe mjedisi</h1>
+    <div id="content" class="container opacity-0 book venn24" data-family="comparison-diagram">
+      <h2 class="sr-only" id="section-heading">Bashkë me mësuesin, hulumto në internet për fshatra të ndryshme në botë, përzgjidhe një dhe krahasoje atë me një fshat të Kosovës!</h2>
+      <section data-section-type="other" data-section-id="pg024_sec003" class="b-page">
+        <div class="comparison">
+          <p class="instruction"><span data-id="pg024_n0011">2.</span> <span data-id="pg024_n0012">Bashkë me mësuesin, hulumto në internet për fshatra të ndryshme në botë, përzgjidhe një dhe krahasoje atë me një fshat të Kosovës!</span></p>
+          <div class="diagram-labels" aria-hidden="true">
+            <div data-id="pg024_n0013">Fshati i një vendi tjetër</div>
+            <div data-id="pg024_n0014">Të përbashkëtat</div>
+            <div data-id="pg024_n0015">Fshati i Kosovës</div>
+          </div>
+          <div class="venn">
+            <svg data-id="pg024_im004" viewBox="0 0 704 323" role="img" aria-label="Diagram i Venit me dy elipsa që mbivendosen për krahasim">
+              <ellipse cx="221" cy="161.5" rx="220" ry="160.5" fill="none" stroke="#30313a" stroke-width="1.5"/>
+              <ellipse cx="483" cy="161.5" rx="220" ry="160.5" fill="none" stroke="#30313a" stroke-width="1.5"/>
+              <g aria-hidden="true" class="mobile-number"><text x="140" y="169">1</text><text x="352" y="169">2</text><text x="564" y="169">3</text></g>
+            </svg>
+            <div class="fields">
+              <div class="field"><label for="item-1">1. Fshati i një vendi tjetër</label><textarea id="item-1" data-activity-item="item-1" aria-label="Fshati i një vendi tjetër"></textarea></div>
+              <div class="field"><label for="item-2">2. Të përbashkëtat</label><textarea id="item-2" data-activity-item="item-2" aria-label="Të përbashkëtat"></textarea></div>
+              <div class="field"><label for="item-3">3. Fshati i Kosovës</label><textarea id="item-3" data-activity-item="item-3" aria-label="Fshati i Kosovës"></textarea></div>
+            </div>
+          </div>
+        </div>
+      </section>
+    </div>
+  </main>
+  <div class="relative z-50" id="interface-container"></div>
+  <div class="relative z-50" id="nav-container"></div>
+  <script src="./assets/offline-preloader.js?v=9f3d745a858de581"></script>
+  <script src="./assets/scorm.js"></script>
+  <script src="./assets/base.bundle.local.js"></script>
+  <script src="./book-design/responses.js?v=9f3d745a858de581" data-book-responses="true"></script>
+</body></html>

@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="sq"><head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Shoqëria dhe mjedisi</title>
+    <meta name="title-id" content="pg021_sec002">
+    <!-- Despite the name, this is the page's 1-based position in the reading
+         order, not a section id and not the printed page number. It drives the
+         "N of M" dock counter and is re-emitted on every package, so it tracks
+         the current order. Identity lives in title-id above. -->
+    <meta name="page-section-id" content="35">
+    <link href="./content/tailwind_output.css" rel="stylesheet">
+    <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+    <link href="./assets/fonts.css" rel="stylesheet">
+<link rel="stylesheet" href="./book-design/components.css?v=9f3d745a858de581" data-book-style="true"></head>
+
+<body class="min-h-screen flex items-center justify-center">
+    <main class="w-full">
+      <h1 class="sr-only" id="page-heading">Shoqëria dhe mjedisi</h1>
+      <div id="content" class="container mx-auto w-full max-w-5xl px-8 max-sm:px-3 opacity-0 book" data-family="response"><h2 class="sr-only" id="section-heading">Shkruaj dhe vizato si kanë qenë:</h2>
+  <section data-section-type="other" data-section-id="pg021_sec002" class="bg-white py-8 b-page p21-exercise">
+    <p class="p21-prompt"><span data-id="pg021_n0004">1.</span> <span data-id="pg021_n0005">Shkruaj dhe vizato si kanë qenë:</span></p>
+    <div class="p21-columns">
+      <div class="p21-cell" data-drawing-container="dikur">
+        <div class="p21-label" id="p21-old-label" data-id="pg021_n0009">rrugët <em>dikur</em></div>
+        <label for="item-1" class="sr-only">Shkruaj për rrugët dikur</label>
+        <textarea id="item-1" data-activity-item="item-1" aria-label="rrugët dikur"></textarea>
+        <canvas width="600" height="340" aria-label="Vizatim për rrugët dikur">Vizato me miun ose ngarko një figurë.</canvas>
+        <div class="p21-tools"><label for="p21-old-upload">Ngarko figurë</label><input id="p21-old-upload" type="file" accept="image/png,image/jpeg" aria-label="Ngarko figurë për rrugët dikur"><button type="button" data-clear-drawing>Fshi vizatimin</button></div>
+        <p class="p21-status" role="status" aria-live="polite"></p>
+      </div>
+      <div class="p21-cell" data-drawing-container="sot">
+        <div class="p21-label" id="p21-now-label" data-id="pg021_n0011">rrugët <em>sot</em></div>
+        <label for="item-2" class="sr-only">Shkruaj për rrugët sot</label>
+        <textarea id="item-2" data-activity-item="item-2" aria-label="rrugët sot"></textarea>
+        <canvas width="600" height="340" aria-label="Vizatim për rrugët sot">Vizato me miun ose ngarko një figurë.</canvas>
+        <div class="p21-tools"><label for="p21-now-upload">Ngarko figurë</label><input id="p21-now-upload" type="file" accept="image/png,image/jpeg" aria-label="Ngarko figurë për rrugët sot"><button type="button" data-clear-drawing>Fshi vizatimin</button></div>
+        <p class="p21-status" role="status" aria-live="polite"></p>
+      </div>
+    </div>
+    <p class="p21-help">Shkruaj në hapësirat sipër. Vizato me miun ose me gisht, ose ngarko një figurë PNG/JPG. Vizatimet ruhen në këtë pajisje.</p>
+  </section>
+</div>
+    </main>
+
+    <div class="relative z-50" id="interface-container"></div>
+    <div class="relative z-50" id="nav-container"></div>
+    <script src="./assets/offline-preloader.js?v=9f3d745a858de581"></script>
+    <script src="./assets/scorm.js"></script>
+    <script src="./assets/base.bundle.local.js"></script>
+
+
+
+<script src="./book-design/responses.js?v=9f3d745a858de581" data-book-responses="true"></script></body></html>

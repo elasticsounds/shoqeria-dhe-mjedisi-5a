@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="sq"><head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Shoqëria dhe mjedisi</title>
+    <meta name="title-id" content="pg033_sec003">
+    <!-- Despite the name, this is the page's 1-based position in the reading
+         order, not a section id and not the printed page number. It drives the
+         "N of M" dock counter and is re-emitted on every package, so it tracks
+         the current order. Identity lives in title-id above. -->
+    <meta name="page-section-id" content="55">
+    <link href="./content/tailwind_output.css" rel="stylesheet">
+    <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+    <link href="./assets/fonts.css" rel="stylesheet">
+<link rel="stylesheet" href="./book-design/components.css?v=9f3d745a858de581" data-book-style="true"></head>
+
+<body class="min-h-screen flex items-center justify-center">
+    <main class="w-full">
+      <div id="content" class="container opacity-0 book" data-family="reference"><section data-section-type="boxed_text" data-section-id="pg033_sec003" class="mx-auto w-full max-w-5xl px-10 max-lg:px-8 max-sm:px-4 py-8 max-sm:py-5 b-page"><div class="rounded-[1.8rem] border-[3px] border-purple-600 bg-white shadow-[0_6px_18px_rgba(124,58,237,0.06)] max-sm:rounded-[1.5rem] b-panel-reading"><div class="px-10 pt-7 pb-7 max-lg:px-8 max-lg:pt-6 max-sm:px-5 max-sm:pt-4 max-sm:pb-5"><div class="flex items-start gap-5 max-sm:gap-4 max-sm:flex-col"><div class="h-[7.8rem] w-[7.8rem] shrink-0 rounded-[1.4rem] bg-purple-300/80 max-lg:h-[7rem] max-lg:w-[7rem] max-sm:h-[5.6rem] max-sm:w-[5.6rem] b-rubric-wrapper" aria-hidden="true"><img src="images/pg005_im003.png" alt="" aria-hidden="true" class="b-rubric-icon"></div><div class="flex-1 min-w-0 pt-2 max-sm:pt-0"><h1 class="adt-h2 text-left font-semibold text-gray-800 mb-4 max-sm:mb-3" data-id="pg033_n0023">Thello dijet</h1><p class="adt-body text-left leading-[1.9] text-gray-800"><span data-id="pg033_n0025">Veshja tradicionale është një nga tiparet që e dallon një komb nga kombet e tjera.</span> <span data-id="pg033_n0026">Veshjet tradicionale ekzistojnë që nga periudha ilire.</span> <span data-id="pg033_n0027">Simbolet dhe motivet themelore me të cilat janë disenjuar këto veshje u ngjajnë veshjeve ilire.</span> <span data-id="pg033_n0028">Materialet që përdoren për krijimin e këtyre rrobave janë të thurura.</span> <span data-id="pg033_n0029">Kryesisht, këto rroba kanë tri ngjyra kryesore: të bardhë, të zezë dhe të kuqe (e cila është më simbolikja).</span> <span data-id="pg033_n0030">Veshjet tradicionale në Kosovë dallohen sipas krahinave, si: veshja e Dukagjinit, e Hasit, e Llapit, e Rugovës, e Opojës, e Karadakut e të tjera.</span> <span data-id="pg033_n0031">Në ditët e sotme, në Kosovë veshjet tradicionale përdoren në jetën artistike e kulturore dhe në festa të ndryshme familjare.</span> <span data-id="pg033_n0032">Ato ruhen edhe në muze si dëshmi kulturore për vendin tonë.</span></p></div></div></div></div></section></div>
+    </main>
+
+    <div class="relative z-50" id="interface-container"></div>
+    <div class="relative z-50" id="nav-container"></div>
+    <script src="./assets/offline-preloader.js?v=9f3d745a858de581"></script>
+    <script src="./assets/scorm.js"></script>
+    <script src="./assets/base.bundle.local.js"></script>
+
+
+
+<script src="./book-design/responses.js?v=9f3d745a858de581" data-book-responses="true"></script></body></html>

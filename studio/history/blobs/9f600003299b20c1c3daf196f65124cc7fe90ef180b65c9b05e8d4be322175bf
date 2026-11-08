@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="sq"><head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Shoqëria dhe mjedisi</title>
+    <meta name="title-id" content="pg018_sec003">
+    <!-- Despite the name, this is the page's 1-based position in the reading
+         order, not a section id and not the printed page number. It drives the
+         "N of M" dock counter and is re-emitted on every package, so it tracks
+         the current order. Identity lives in title-id above. -->
+    <meta name="page-section-id" content="23">
+    <link href="./content/tailwind_output.css" rel="stylesheet">
+    <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+    <link href="./assets/fonts.css" rel="stylesheet">
+<link rel="stylesheet" href="./book-design/components.css?v=9f3d745a858de581" data-book-style="true"></head>
+
+<body class="min-h-screen flex items-center justify-center">
+    <main class="w-full">
+      <h1 class="sr-only" id="page-heading">Shoqëria dhe mjedisi</h1>
+      <div id="content" class="container mx-auto w-full max-w-5xl px-8 max-sm:px-4 opacity-0 book" data-family="response"><h2 class="sr-only" id="section-heading">3. Hulumto dhe listo emrat e disa vendbanimeve arkeologjike të vendit tonë.</h2>
+  <section role="region" data-section-type="other" data-section-id="pg018_sec003" class="py-8 max-sm:py-6 b-page">
+    <div class="mx-auto w-full max-w-4xl">
+      <div class="mb-5">
+        <span data-id="pg018_n0024" class="adt-body block text-left text-slate-900">3. Hulumto dhe listo emrat e disa vendbanimeve arkeologjike të vendit tonë.</span>
+      </div>
+
+      <div class="border-4 border-purple-700 bg-white">
+        <div class="grid grid-cols-[4rem_minmax(0,1fr)] items-center gap-4 border-b-2 border-purple-500 px-4 py-4 max-sm:grid-cols-[3rem_minmax(0,1fr)] max-sm:gap-3 max-sm:px-3 max-sm:py-3">
+          <span data-id="pg018_n0025" class="adt-body text-left text-slate-900">1.</span>
+          <div>
+            <label for="item-1" class="sr-only">1. ___</label>
+            <input id="item-1" data-activity-item="item-1" type="text" aria-label="1. ___" class="min-h-11 w-full rounded-none border-2 border-purple-300 bg-white px-3 py-2 text-slate-900 outline-none focus:border-purple-600">
+          </div>
+        </div>
+
+        <div class="grid grid-cols-[4rem_minmax(0,1fr)] items-center gap-4 border-b-2 border-purple-500 px-4 py-4 max-sm:grid-cols-[3rem_minmax(0,1fr)] max-sm:gap-3 max-sm:px-3 max-sm:py-3">
+          <span data-id="pg018_n0026" class="adt-body text-left text-slate-900">2.</span>
+          <div>
+            <label for="item-2" class="sr-only">2. ___</label>
+            <input id="item-2" data-activity-item="item-2" type="text" aria-label="2. ___" class="min-h-11 w-full rounded-none border-2 border-purple-300 bg-white px-3 py-2 text-slate-900 outline-none focus:border-purple-600">
+          </div>
+        </div>
+
+        <div class="grid grid-cols-[4rem_minmax(0,1fr)] items-center gap-4 px-4 py-4 max-sm:grid-cols-[3rem_minmax(0,1fr)] max-sm:gap-3 max-sm:px-3 max-sm:py-3">
+          <span data-id="pg018_n0027" class="adt-body text-left text-slate-900">3.</span>
+          <div>
+            <label for="item-3" class="sr-only">3. ___</label>
+            <input id="item-3" data-activity-item="item-3" type="text" aria-label="3. ___" class="min-h-11 w-full rounded-none border-2 border-purple-300 bg-white px-3 py-2 text-slate-900 outline-none focus:border-purple-600">
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+</div>
+    </main>
+
+    <div class="relative z-50" id="interface-container"></div>
+    <div class="relative z-50" id="nav-container"></div>
+    <script src="./assets/offline-preloader.js?v=9f3d745a858de581"></script>
+    <script src="./assets/scorm.js"></script>
+    <script src="./assets/base.bundle.local.js"></script>
+
+
+
+<script src="./book-design/responses.js?v=9f3d745a858de581" data-book-responses="true"></script></body></html>

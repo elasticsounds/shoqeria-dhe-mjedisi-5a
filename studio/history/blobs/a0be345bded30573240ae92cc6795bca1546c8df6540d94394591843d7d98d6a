@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="sq"><head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Shoqëria dhe mjedisi</title>
+    <meta name="title-id" content="pg049_sec003">
+    <!-- Despite the name, this is the page's 1-based position in the reading
+         order, not a section id and not the printed page number. It drives the
+         "N of M" dock counter and is re-emitted on every package, so it tracks
+         the current order. Identity lives in title-id above. -->
+    <meta name="page-section-id" content="79">
+    <link href="./content/tailwind_output.css" rel="stylesheet">
+    <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+    <link href="./assets/fonts.css" rel="stylesheet">
+<link rel="stylesheet" href="./book-design/components.css?v=9f3d745a858de581" data-book-style="true"></head>
+
+<body class="min-h-screen flex items-center justify-center">
+    <main class="w-full">
+      <h1 class="sr-only" id="page-heading">Shoqëria dhe mjedisi</h1>
+      <div id="content" class="container mx-auto w-full max-w-5xl px-8 max-sm:px-4 py-8 opacity-0 book" data-family="illustrated-lesson"><h2 class="sr-only" id="section-heading">Përshkruaje fotografinë e dhënë dhe emërtoje atë.</h2>
+  <section data-section-type="text_and_single_image" data-section-id="pg049_sec003" class="w-full bg-white b-page">
+    <div class="rounded-[2rem] border border-amber-200 bg-gradient-to-br from-amber-50/70 via-white to-white shadow-md px-10 py-10 max-lg:px-8 max-lg:py-8 max-sm:px-5 max-sm:py-6">
+      <div class="grid grid-cols-[1.15fr_0.85fr] max-lg:grid-cols-1 gap-10 max-lg:gap-8 items-start">
+        <div class="min-w-0">
+          <div class="mb-8 adt-body text-slate-900 leading-relaxed max-sm:mb-6">
+            <span data-id="pg049_n0012" class="font-semibold mr-2">2.</span><span data-id="pg049_n0013">Përshkruaje fotografinë e dhënë dhe emërtoje atë.</span>
+          </div>
+
+          <div class="space-y-5 max-sm:space-y-4">
+            <div>
+              <div data-id="pg049_n0014" class="sr-only"></div>
+              <label for="item-1" class="sr-only">Përshkruaje fotografinë e dhënë dhe emërtoje atë. rreshti 1</label>
+              <input id="item-1" data-activity-item="item-1" type="text" aria-label="Përshkruaje fotografinë e dhënë dhe emërtoje atë. rreshti 1" class="w-full min-h-11 bg-transparent border-0 border-b-2 border-slate-500 rounded-none px-1 py-3 adt-body text-slate-900 outline-none focus:border-amber-500 focus:ring-0">
+            </div>
+            <div>
+              <div data-id="pg049_n0015" class="sr-only"></div>
+              <label for="item-2" class="sr-only">Përshkruaje fotografinë e dhënë dhe emërtoje atë. rreshti 2</label>
+              <input id="item-2" data-activity-item="item-2" type="text" aria-label="Përshkruaje fotografinë e dhënë dhe emërtoje atë. rreshti 2" class="w-full min-h-11 bg-transparent border-0 border-b-2 border-slate-500 rounded-none px-1 py-3 adt-body text-slate-900 outline-none focus:border-amber-500 focus:ring-0">
+            </div>
+            <div>
+              <div data-id="pg049_n0016" class="sr-only"></div>
+              <label for="item-3" class="sr-only">Përshkruaje fotografinë e dhënë dhe emërtoje atë. rreshti 3</label>
+              <input id="item-3" data-activity-item="item-3" type="text" aria-label="Përshkruaje fotografinë e dhënë dhe emërtoje atë. rreshti 3" class="w-full min-h-11 bg-transparent border-0 border-b-2 border-slate-500 rounded-none px-1 py-3 adt-body text-slate-900 outline-none focus:border-amber-500 focus:ring-0">
+            </div>
+            <div>
+              <div data-id="pg049_n0017" class="sr-only"></div>
+              <label for="item-4" class="sr-only">Përshkruaje fotografinë e dhënë dhe emërtoje atë. rreshti 4</label>
+              <input id="item-4" data-activity-item="item-4" type="text" aria-label="Përshkruaje fotografinë e dhënë dhe emërtoje atë. rreshti 4" class="w-full min-h-11 bg-transparent border-0 border-b-2 border-slate-500 rounded-none px-1 py-3 adt-body text-slate-900 outline-none focus:border-amber-500 focus:ring-0">
+            </div>
+            <div>
+              <div data-id="pg049_n0018" class="sr-only"></div>
+              <label for="item-5" class="sr-only">Përshkruaje fotografinë e dhënë dhe emërtoje atë. rreshti 5</label>
+              <input id="item-5" data-activity-item="item-5" type="text" aria-label="Përshkruaje fotografinë e dhënë dhe emërtoje atë. rreshti 5" class="w-full min-h-11 bg-transparent border-0 border-b-2 border-slate-500 rounded-none px-1 py-3 adt-body text-slate-900 outline-none focus:border-amber-500 focus:ring-0">
+            </div>
+          </div>
+        </div>
+
+        <div class="self-end max-lg:self-auto pt-6 max-lg:pt-0">
+          <div class="max-w-md ml-auto max-lg:mx-auto">
+            <img data-id="pg049_im004" src="images/pg049_im004.png" alt="Ilustrim me duar me ngjyra të ndryshme që mbështesin globin." class="w-full h-auto object-contain">
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+</div>
+    </main>
+
+    <div class="relative z-50" id="interface-container"></div>
+    <div class="relative z-50" id="nav-container"></div>
+    <script src="./assets/offline-preloader.js?v=9f3d745a858de581"></script>
+    <script src="./assets/scorm.js"></script>
+    <script src="./assets/base.bundle.local.js"></script>
+
+
+
+<script src="./book-design/responses.js?v=9f3d745a858de581" data-book-responses="true"></script></body></html>

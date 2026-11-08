@@ -1,0 +1,22 @@
+{
+  "passed": true,
+  "failures": [],
+  "checks": [
+    "All 107 section identities, positions, control identities/order, data bindings, grading payloads and original script order preserved",
+    "All original non-cache runtime scripts and existing image bytes match the source ZIP",
+    "Reading-order manifest byte-identical",
+    "Every cached page and language dictionary agrees with disk",
+    "All page script/style/image references exist",
+    "SCORM 1.2 XML retained; new packaged resources registered"
+  ],
+  "root": "ZIP root; content/pages.json",
+  "sections": 107,
+  "controls": 362,
+  "languages": [
+    "sq"
+  ],
+  "readAloudEnabled": false,
+  "narrationMappings": {},
+  "serviceWorker": "No service-worker file or registration found in this supplied bundle. Offline behavior uses assets/offline-preloader.js.",
+  "scorm": "SCORM 1.2; assets/scorm.js and imsmanifest.xml preserved. Live LMS conformance not certified."
+}

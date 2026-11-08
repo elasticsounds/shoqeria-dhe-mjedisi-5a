@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="sq"><head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Shoqëria dhe mjedisi</title>
+    <meta name="title-id" content="pg019_sec001">
+    <!-- Despite the name, this is the page's 1-based position in the reading
+         order, not a section id and not the printed page number. It drives the
+         "N of M" dock counter and is re-emitted on every package, so it tracks
+         the current order. Identity lives in title-id above. -->
+    <meta name="page-section-id" content="25">
+    <link href="./content/tailwind_output.css" rel="stylesheet">
+    <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+    <link href="./assets/fonts.css" rel="stylesheet">
+<link rel="stylesheet" href="./book-design/components.css?v=9f3d745a858de581" data-book-style="true"></head>
+
+<body class="min-h-screen flex items-center justify-center">
+    <main class="w-full">
+      <div id="content" class="container mx-auto w-full max-w-5xl px-8 max-sm:px-5 py-8 bg-white opacity-0 book" data-family="photo-comparison">
+  <section data-section-type="text_and_images" data-section-id="pg019_sec001" class="w-full b-page">
+    <div class="-mx-8 max-sm:-mx-5 bg-purple-500 b-banner">
+      <div class="mx-auto w-full max-w-5xl px-8 max-sm:px-5 py-16 max-sm:py-10">
+        <h1 class="adt-h2 font-bold text-white text-left" data-id="pg019_n0002">Qyteti dikur dhe sot</h1>
+      </div>
+    </div>
+
+    <aside class="mt-6 rounded-3xl border-4 border-purple-400 bg-white overflow-hidden b-keywords">
+      <div class="flex max-lg:flex-col items-stretch">
+        <div class="bg-purple-300 px-6 py-5 flex items-center">
+          <div class="adt-body font-bold text-white b-keyword-label" data-id="pg019_n0004">Fjalët kyçe:</div>
+        </div>
+        <div class="px-6 py-5 flex-1">
+          <p class="adt-body text-gray-800"><span data-id="pg019_n0005">qytet, zhvillim teknologjik, arkitekturë, kalldrëm, autostradë.</span></p>
+        </div>
+      </div>
+    </aside>
+
+    <aside class="mt-6 rounded-3xl bg-sky-200 p-6 max-sm:p-4 b-panel-thought">
+      <div class="flex gap-4 items-start max-lg:flex-col">
+        <div class="shrink-0 w-16 h-16 rounded-full bg-white border-2 border-sky-300 flex items-center justify-center b-rubric-wrapper" aria-hidden="true"><img src="images/pg005_im002.png" alt="" aria-hidden="true" class="b-rubric-icon"></div>
+        <div class="flex-1">
+          <h3 class="adt-h3 font-semibold text-gray-900 text-left mb-3" data-id="pg019_n0008">Shpreh mendimin tënd</h3>
+          <ul class="space-y-3 text-gray-900">
+            <li>
+              <p class="adt-body"><span data-id="pg019_n0011">Krahaso si ka qenë qyteti dikur e si është sot.</span></p>
+              <label for="item-1" class="sr-only">Krahaso si ka qenë qyteti dikur e si është sot.</label>
+              <textarea id="item-1" data-activity-item="item-1" aria-label="Krahaso si ka qenë qyteti dikur e si është sot." class="mt-2 w-full min-h-11 rounded-2xl border-2 border-sky-400 bg-white px-4 py-3 adt-body text-gray-900 outline-none focus:ring-2 focus:ring-sky-500"></textarea>
+            </li>
+            <li>
+              <p class="adt-body"><span data-id="pg019_n0013">Analizo fotografitë me informacionet e dhëna për qytetin e Prishtinës dikur dhe sot.</span></p>
+              <label for="item-2" class="sr-only">Analizo fotografitë me informacionet e dhëna për qytetin e Prishtinës dikur dhe sot.</label>
+              <textarea id="item-2" data-activity-item="item-2" aria-label="Analizo fotografitë me informacionet e dhëna për qytetin e Prishtinës dikur dhe sot." class="mt-2 w-full min-h-11 rounded-2xl border-2 border-sky-400 bg-white px-4 py-3 adt-body text-gray-900 outline-none focus:ring-2 focus:ring-sky-500"></textarea>
+            </li>
+            <li>
+              <p class="adt-body"><span data-id="pg019_n0015">Si kanë qenë shtëpitë, komunikacioni, mënyra e jetesës dhe rritja e popullsisë dikur?</span></p>
+              <label for="item-3" class="sr-only">Si kanë qenë shtëpitë, komunikacioni, mënyra e jetesës dhe rritja e popullsisë dikur?</label>
+              <textarea id="item-3" data-activity-item="item-3" aria-label="Si kanë qenë shtëpitë, komunikacioni, mënyra e jetesës dhe rritja e popullsisë dikur?" class="mt-2 w-full min-h-11 rounded-2xl border-2 border-sky-400 bg-white px-4 py-3 adt-body text-gray-900 outline-none focus:ring-2 focus:ring-sky-500"></textarea>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </aside>
+
+    <div class="mt-6 flex gap-4 items-start max-lg:flex-col">
+      <div class="w-[26%] max-lg:w-full shrink-0">
+        <img src="images/pg019_im004.png" alt="Pamje e vjetër e Prishtinës me rrugë të ngushta dhe shtëpi të ulëta" data-id="pg019_im004" class="w-full h-auto rounded-sm shadow-sm">
+      </div>
+      <p class="adt-body text-gray-900 leading-relaxed flex-1">
+        <span data-id="pg019_n0018">Prishtina dikur përbëhej nga shtëpi të ulëta, me rrugë të ngushta me gurë, që quhen kalldrëm.</span>
+        <span data-id="pg019_n0019">Gjithashtu, kishte më pak makina që qarkullonin dhe kishte më shumë pjesë të qytetit të gjelbëruara.</span>
+        <span data-id="pg019_n0020">Njerëzit punonin si zejtarë dhe tregtarë nëpër dyqane.</span>
+        <span data-id="pg019_n0021">Kishte edhe kisha, xhami dhe vende të tjera të lutjes, ndërsa institucione dhe shkolla kishte pak dhe të gjitha ishin shtetërore.</span>
+      </p>
+    </div>
+
+    <div class="mt-4 flex gap-4 items-start max-lg:flex-col">
+      <div class="w-[26%] max-lg:w-full shrink-0">
+        <img src="images/pg019_im005.png" alt="Ndërtesa shumëkatëshe dhe rrugë më të zhvilluara në Prishtinë" data-id="pg019_im005" class="w-full h-auto rounded-sm shadow-sm">
+      </div>
+      <p class="adt-body text-gray-900 leading-relaxed flex-1">
+        <span data-id="pg019_n0024">Më pas, filloi të shfaqet nevoja për ndërtimin e fabrikave dhe zhvillimin e qytetit dhe kështu filloi edhe ndryshimi i qytetit të Prishtinës, njësoj si i qyteteve të tjera.</span>
+        <span data-id="pg019_n0025">U ndërtuan banesa shumëkatëshe, u zgjeruan dhe u asfaltuan rrugët, u rrit numri i automjeteve në qytet, u ndërtuan fabrika dhe qendra të ndryshme tregtare, si dhe u shtua numri i institucioneve, i shkollave dhe i çerdheve për fëmijë.</span>
+      </p>
+    </div>
+
+    <div class="mt-4 flex gap-4 items-start max-lg:flex-col">
+      <p class="adt-body text-gray-900 leading-relaxed flex-1">
+        <span data-id="pg019_n0028">Në ditët e sotme, qyteti karakterizohet nga shtëpi e ndërtesa shumëkatëshe, rrugë gjarpërore në çdo pjesë të qytetit, si dhe me autostrada, që lidhin vendbanimet e ndryshme.</span>
+        <span data-id="pg019_n0029">Po ashtu, edhe institucione ka më shumë.</span>
+        <span data-id="pg019_n0030">Ka shumë më shumë edhe shkolla, kopshte për fëmijë, biznese e qendra tregtare.</span>
+      </p>
+      <div class="w-[54%] max-lg:w-full shrink-0">
+        <img src="images/pg019_im006.png" alt="Pamje e sotme e Prishtinës me ndërtesa të larta dhe qendra urbane" data-id="pg019_im006" class="w-full h-auto rounded-sm shadow-sm">
+      </div>
+    </div>
+
+    <div class="mt-8">
+      <p class="adt-body text-gray-900 mb-3"><span data-id="pg019_n0032">Analizo fotografitë dhe diskuto për ndryshimet që ka pësuar qyteti i Pejës.</span></p>
+      <label for="item-4" class="sr-only">Analizo fotografitë dhe diskuto për ndryshimet që ka pësuar qyteti i Pejës.</label>
+      <textarea id="item-4" data-activity-item="item-4" aria-label="Analizo fotografitë dhe diskuto për ndryshimet që ka pësuar qyteti i Pejës." class="mb-5 w-full min-h-11 rounded-2xl border-2 border-purple-300 bg-white px-4 py-3 adt-body text-gray-900 outline-none focus:ring-2 focus:ring-purple-500"></textarea>
+      <div class="grid grid-cols-3 gap-4 max-sm:grid-cols-2">
+        <img src="images/pg019_im007.png" alt="Fotografi e vjetër e Pejës me shtëpi pranë ujit" data-id="pg019_im007" class="w-full h-44 object-cover rounded-sm shadow-sm max-sm:h-32">
+        <img src="images/pg019_im009.png" alt="Fotografi e vjetër bardhë e zi e një zone të Pejës" data-id="pg019_im009" class="w-full h-44 object-cover rounded-sm shadow-sm max-sm:h-32">
+        <img src="images/pg019_im010.png" alt="Fotografi e vjetër e një rruge me kalldrëm në Pejë" data-id="pg019_im010" class="w-full h-44 object-cover rounded-sm shadow-sm max-sm:h-32">
+        <img src="images/pg019_im001.png" alt="Pamje e hershme urbane e Pejës" data-id="pg019_im001" class="w-full h-44 object-cover rounded-sm shadow-sm max-sm:h-32">
+        <img src="images/pg019_im002.png" alt="Pamje më e re e qytetit të Pejës me ndërtesa dhe automjete" data-id="pg019_im002" class="w-full h-44 object-cover rounded-sm shadow-sm max-sm:h-32">
+        <img src="images/pg019_im008.png" alt="Pamje e sotme e sheshit të qytetit të Pejës" data-id="pg019_im008" class="w-full h-44 object-cover rounded-sm shadow-sm max-sm:h-32">
+      </div>
+    </div>
+  </section>
+</div>
+    </main>
+
+    <div class="relative z-50" id="interface-container"></div>
+    <div class="relative z-50" id="nav-container"></div>
+    <script src="./assets/offline-preloader.js?v=9f3d745a858de581"></script>
+    <script src="./assets/scorm.js"></script>
+    <script src="./assets/base.bundle.local.js"></script>
+
+
+
+<script src="./book-design/responses.js?v=9f3d745a858de581" data-book-responses="true"></script></body></html>

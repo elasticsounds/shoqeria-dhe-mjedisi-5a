@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="sq"><head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Shoqëria dhe mjedisi</title><meta name="title-id" content="pg014_sec001"><meta name="page-section-id" content="19">
+<link href="./content/tailwind_output.css" rel="stylesheet"><link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet"><link href="./assets/fonts.css" rel="stylesheet"><link rel="stylesheet" href="./book-design/components.css?v=9f3d745a858de581" data-book-style="true">
+<style>
+#content.book.page14{padding:0;max-width:1000px;container-type:inline-size;font-family:BookPoppins,Arial,sans-serif;color:#292a33}
+#content.book.page14>section{position:relative;width:100%;height:auto;aspect-ratio:639.449/866.22;min-height:0;overflow:visible;background:#fff}
+.page14 .side{position:absolute;left:2.35%;top:1.73%;bottom:1.73%;width:7.8%;background:#ffb149}
+.page14 .accent{position:absolute;right:2.3%;top:1.73%;height:13.4%;width:2.1%;background:#9b73b7}
+.page14 .heading-frame{position:absolute;left:10.15%;top:8.2%;width:35.2%;height:5.1%;border:2px solid #ffae49;background:#fff9ea}
+.page14 .fold{position:absolute;left:10.15%;top:12.1%;width:3.45%;height:1.2%;border-bottom:2px solid #ffae49;transform:skewY(-28deg);transform-origin:bottom left}
+#content.book.page14 .rubric{position:absolute;left:6.8%;top:6.9%;width:7%;height:auto;z-index:1}
+#content.book.page14 h1{position:absolute;left:14.25%;top:9.35%;margin:0;font:700 2.502cqw/1.2 BookPoppins,Arial,sans-serif;color:#292a33}
+.page14 .q{position:absolute;left:12.87%;width:72%;margin:0}
+.page14 .q1{top:15.85%}.page14 .q2{top:28.08%}.page14 .q3{top:38.05%}
+#content.book.page14 .q p{margin:0;font:400 1.877cqw/2 BookPoppins,Arial,sans-serif;color:#292a33}
+#content.book.page14 .q3 p{line-height:1.58}
+.page14 .answer-lines{width:92.7%}
+#content.book.page14 .answer-lines textarea{display:block;width:100%;height:3.75cqw;min-height:0;resize:none;border:0;border-bottom:1px solid #30313a;border-radius:0;padding:0 2px;background:transparent;font:400 1.65cqw/1.3 BookPoppins,Arial,sans-serif;overflow:auto}
+.page14 .tools{position:absolute;left:12.87%;top:42.3%;display:flex;align-items:center;gap:5px;z-index:2}
+#content.book.page14 .tools button{border:1px solid #9b5d16;background:#fff9ea;border-radius:3px;padding:3px 9px;min-height:32px;font:400 13px/1.2 BookPoppins,Arial,sans-serif;color:#292a33;cursor:pointer}
+#content.book.page14 .tools button[aria-pressed=true]{background:#ffdfa8;border-color:#aa671b}
+.page14 .drawing-box{position:absolute;left:12.87%;top:45.55%;width:71.7%;height:38.1%;border:1px solid #ffae49;background:#fff}
+#content.book.page14 .drawing-box canvas{display:block;width:100%;height:100%;touch-action:none;cursor:crosshair}
+#content.book.page14 .drawing-box textarea{display:block;width:100%;height:100%;min-height:0;resize:none;border:0;border-radius:0;background:transparent;padding:12px;font:400 1.877cqw/1.5 BookPoppins,Arial,sans-serif}
+#content.book.page14 .drawing-box [hidden],#content.book.page14 [hidden]{display:none!important}
+#content.book.page14 .folio{position:absolute;left:11.15%;top:90.8%;font:400 1.877cqw/1 BookPoppins,Arial,sans-serif}
+.page14 .visually-hidden{position:absolute!important;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;border:0}
+@media(max-width:700px){
+ #content.book.page14{padding:0;overflow:visible}
+ #content.book.page14>section{aspect-ratio:auto;height:auto;min-height:0;padding:32px 18px 100px 48px}
+ .page14 .side{left:0;top:0;bottom:0;width:24px}.page14 .accent{right:0;top:0;width:10px;height:110px}
+ .page14 .heading-frame{position:relative;left:auto;top:auto;width:auto;height:auto;min-height:57px;margin:0 0 28px 10px}
+ .page14 .fold{left:34px;top:77px;width:18px;height:9px}
+ #content.book.page14 .rubric{left:30px;top:23px;width:55px}
+ #content.book.page14 h1{left:92px;top:47px;font-size:20px}
+ .page14 .q{position:static;width:auto;margin:0 0 26px}
+ #content.book.page14 .q p{font-size:16px;line-height:1.6}
+ .page14 .desktop-break{display:none}
+ .page14 .answer-lines{width:100%}
+ #content.book.page14 .answer-lines textarea{height:44px;min-height:44px;font-size:16px}
+ .page14 .tools{position:static;flex-wrap:wrap;margin:0 0 10px;gap:6px}
+ #content.book.page14 .tools button{font-size:14px;min-height:44px;padding:8px}
+ .page14 .drawing-box{position:relative;left:auto;top:auto;width:100%;height:auto;aspect-ratio:458/330}
+ #content.book.page14 .drawing-box textarea{position:absolute;inset:0;font-size:16px}
+ #content.book.page14 .folio{left:34px;top:auto;bottom:48px;font-size:16px}
+}
+</style></head>
+<body class="min-h-screen flex items-center justify-center"><main class="w-full">
+<div id="content" class="mx-auto w-full bg-white opacity-0 book page14" data-family="response">
+<section data-section-type="other" data-section-id="pg014_sec001" role="region" aria-labelledby="page14-title">
+<div class="side" aria-hidden="true"></div><div class="accent" aria-hidden="true"></div><div class="heading-frame" aria-hidden="true"></div><div class="fold" aria-hidden="true"></div>
+<img class="rubric" src="studio/assets/pg014_rubric.png" alt=""><h1 id="page14-title" data-id="pg014_n0002">Provoje veten</h1>
+<div class="q q1"><p><span data-id="pg014_n0004">1.</span> <span data-id="pg014_n0005">Identifikoji monumentet arkeologjike në rrethinën ku ti jeton dhe krahasoji<br class="desktop-break"> ato me lokalitetet arkeologjike që tashmë ke mësuar.</span></p>
+<div class="answer-lines"><label class="visually-hidden" for="item-1">Pyetja 1, rreshti i parë</label><textarea id="item-1" data-activity-item="item-1" rows="1"></textarea><label class="visually-hidden" for="item-2">Pyetja 1, rreshti i dytë</label><textarea id="item-2" data-activity-item="item-2" rows="1"></textarea></div></div>
+<div class="q q2"><p><span data-id="pg014_n0008">2.</span> <span data-id="pg014_n0009">Analizo rëndësinë e monumenteve historike.</span></p>
+<div class="answer-lines"><label class="visually-hidden" for="item-3">Pyetja 2, rreshti i parë</label><textarea id="item-3" data-activity-item="item-3" rows="1"></textarea><label class="visually-hidden" for="item-4">Pyetja 2, rreshti i dytë</label><textarea id="item-4" data-activity-item="item-4" rows="1"></textarea></div></div>
+<div class="q q3"><p><span data-id="pg014_n0012">3.</span> <span data-id="pg014_n0013">Analizo: cili objekt i rëndësishëm i kësaj kohe mendon që do të jetë monument historik pas shumë vjetësh?</span> <span data-id="pg014_n0014">Vizato dhe shkruaj për të.</span></p></div>
+<div class="tools" aria-label="Mjetet për pyetjen 3"><button type="button" data-draw-mode="draw" aria-pressed="true">Vizato</button><button type="button" data-draw-mode="write" aria-pressed="false">Shkruaj</button><button type="button" data-draw-upload>Ngarko vizatim</button><button type="button" data-draw-clear>Pastro vizatimin</button><input type="file" accept="image/png,image/jpeg" data-draw-file hidden aria-label="Ngarko vizatim"></div>
+<div class="drawing-box"><canvas data-draw-canvas width="916" height="660" role="img" aria-label="Hapësirë për vizatim. Vizato me tregues ose ngarko një figurë me butonin Ngarko vizatim."></canvas><label class="visually-hidden" for="item-5">Pyetja 3, shkruaj për objektin</label><textarea id="item-5" data-activity-item="item-5" hidden></textarea></div>
+<p class="visually-hidden" role="status" data-draw-status></p><div class="folio">14</div>
+</section></div></main>
+<div class="relative z-50" id="interface-container"></div><div class="relative z-50" id="nav-container"></div>
+<script src="./assets/offline-preloader.js?v=9f3d745a858de581"></script><script src="./assets/scorm.js"></script><script src="./assets/base.bundle.local.js"></script><script src="./book-design/responses.js?v=9f3d745a858de581" data-book-responses="true"></script>
+<script>
+(function(){
+ const key='adt5a.drawing.pg014_sec001'; let active=null;
+ function init(){const root=document.querySelector('#content.page14'); if(!root || root.dataset.drawingReady) return; const canvas=root.querySelector('[data-draw-canvas]'); if(!canvas)return; root.dataset.drawingReady='1'; const ctx=canvas.getContext('2d'); ctx.strokeStyle='#292a33';ctx.lineWidth=3;ctx.lineCap='round';ctx.lineJoin='round';
+  try{const saved=localStorage.getItem(key);if(saved){const image=new Image();image.onload=()=>ctx.drawImage(image,0,0,canvas.width,canvas.height);image.src=saved;}}catch(e){root.querySelector('[data-draw-status]').textContent='Vizatimi nuk mund të rikthehet në këtë shfletues.';}
+  function point(e){const r=canvas.getBoundingClientRect();return [(e.clientX-r.left)*canvas.width/r.width,(e.clientY-r.top)*canvas.height/r.height]}
+  function save(){try{localStorage.setItem(key,canvas.toDataURL('image/png'));root.querySelector('[data-draw-status]').textContent='Vizatimi u ruajt në këtë pajisje.';}catch(e){root.querySelector('[data-draw-status]').textContent='Vizatimi nuk mund të ruhet në këtë pajisje.';}}
+  canvas.addEventListener('pointerdown',e=>{e.preventDefault();active=e.pointerId;canvas.setPointerCapture(e.pointerId);const p=point(e);ctx.beginPath();ctx.moveTo(p[0],p[1]);ctx.lineTo(p[0]+0.01,p[1]+0.01);ctx.stroke();});
+  canvas.addEventListener('pointermove',e=>{if(active!==e.pointerId)return;const p=point(e);ctx.lineTo(p[0],p[1]);ctx.stroke();});
+  function end(e){if(active===e.pointerId){active=null;save();}}canvas.addEventListener('pointerup',end);canvas.addEventListener('pointercancel',end);
+  root.querySelectorAll('[data-draw-mode]').forEach(button=>button.addEventListener('click',()=>{const writing=button.dataset.drawMode==='write';canvas.hidden=writing;root.querySelector('#item-5').hidden=!writing;root.querySelectorAll('[data-draw-mode]').forEach(b=>b.setAttribute('aria-pressed',String(b===button)));if(writing)root.querySelector('#item-5').focus();}));
+  root.querySelector('[data-draw-clear]').addEventListener('click',()=>{if(confirm('Të pastrohet vizatimi?')){ctx.clearRect(0,0,canvas.width,canvas.height);save();}});
+  const file=root.querySelector('[data-draw-file]');root.querySelector('[data-draw-upload]').addEventListener('click',()=>file.click());file.addEventListener('change',()=>{const f=file.files[0];if(!f)return;if(!/^image\/(png|jpeg)$/.test(f.type)){root.querySelector('[data-draw-status]').textContent='Zgjidh një figurë PNG ose JPEG.';return;}const url=URL.createObjectURL(f);const image=new Image();image.onload=()=>{ctx.clearRect(0,0,canvas.width,canvas.height);const scale=Math.min(canvas.width/image.width,canvas.height/image.height);ctx.drawImage(image,0,0,image.width*scale,image.height*scale);URL.revokeObjectURL(url);root.querySelector('[data-draw-mode="draw"]').click();save();};image.onerror=()=>{URL.revokeObjectURL(url);root.querySelector('[data-draw-status]').textContent='Figura nuk mund të hapet.';};image.src=url;file.value='';});
+ }
+ new MutationObserver(init).observe(document.documentElement,{childList:true,subtree:true});init();
+})();
+</script></body></html>

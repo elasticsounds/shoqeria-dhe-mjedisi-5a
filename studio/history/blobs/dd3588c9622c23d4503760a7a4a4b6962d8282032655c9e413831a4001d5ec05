@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="sq"><head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Shoqëria dhe mjedisi</title>
+    <meta name="title-id" content="pg042_sec002">
+    <!-- Despite the name, this is the page's 1-based position in the reading
+         order, not a section id and not the printed page number. It drives the
+         "N of M" dock counter and is re-emitted on every package, so it tracks
+         the current order. Identity lives in title-id above. -->
+    <meta name="page-section-id" content="78">
+    <link href="./content/tailwind_output.css" rel="stylesheet">
+    <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+    <link href="./assets/fonts.css" rel="stylesheet">
+<link rel="stylesheet" href="./book-design/components.css?v=9f3d745a858de581" data-book-style="true"></head>
+
+<body class="min-h-screen flex items-center justify-center">
+    <main class="w-full">
+      <div id="content" class="container mx-auto opacity-0 book" data-family="response">
+  <section data-section-type="other" data-section-id="pg042_sec002" class="mx-auto w-full max-w-5xl px-8 max-sm:px-5 py-8 b-page">
+    <div class="rounded-[2rem] border-4 border-violet-500 bg-white shadow-[0_10px_30px_rgba(139,92,246,0.10)] overflow-hidden">
+      <div class="h-1 bg-violet-500 b-rubric-wrapper" aria-hidden="true"><img src="images/pg005_im006.png" alt="" aria-hidden="true" class="b-rubric-icon"></div>
+      <div class="p-8 max-sm:p-5">
+        <h1 data-id="pg042_n0004" class="adt-h2 text-left font-semibold text-violet-700 mb-6">Pyetje për ty</h1>
+
+        <div class="rounded-[1.75rem] border-2 border-violet-400 p-6 max-sm:p-4 bg-white">
+          <div class="space-y-6">
+            <div>
+              <p class="adt-body text-left text-slate-900 mb-3 flex gap-2 items-start">
+                <span aria-hidden="true">–</span>
+                <span data-id="pg042_n0006">Çfarë tregojnë fotografitë e dhëna?</span>
+              </p>
+              <label for="item-1" class="sr-only">Çfarë tregojnë fotografitë e dhëna?</label>
+              <textarea id="item-1" data-activity-item="item-1" aria-label="Çfarë tregojnë fotografitë e dhëna?" class="w-full min-h-24 max-sm:min-h-28 rounded-xl border-2 border-violet-300 bg-violet-50/40 px-4 py-3 text-slate-900 outline-none focus:border-violet-500 focus:ring-2 focus:ring-violet-200"></textarea>
+            </div>
+
+            <div>
+              <p class="adt-body text-left text-slate-900 mb-3 flex gap-2 items-start">
+                <span aria-hidden="true">–</span>
+                <span data-id="pg042_n0007">A mund të kryhen të gjitha punët njësoj nga burrat dhe gratë?</span>
+              </p>
+              <label for="item-2" class="sr-only">A mund të kryhen të gjitha punët njësoj nga burrat dhe gratë?</label>
+              <textarea id="item-2" data-activity-item="item-2" aria-label="A mund të kryhen të gjitha punët njësoj nga burrat dhe gratë?" class="w-full min-h-24 max-sm:min-h-28 rounded-xl border-2 border-sky-300 bg-sky-50/40 px-4 py-3 text-slate-900 outline-none focus:border-sky-500 focus:ring-2 focus:ring-sky-200"></textarea>
+            </div>
+
+            <div class="space-y-4 pt-1">
+              <div>
+                <p class="adt-body text-left text-slate-500 mb-2">
+                  <span data-id="pg042_n0008"></span>
+                </p>
+                <label for="item-3" class="sr-only">Rreshti i parë i përgjigjes</label>
+                <input id="item-3" type="text" data-activity-item="item-3" aria-label="Rreshti i parë i përgjigjes" class="w-full min-h-11 rounded-none border-0 border-b-2 border-slate-400 bg-transparent px-0 py-2 text-slate-900 outline-none focus:border-violet-500 focus:ring-0">
+              </div>
+              <div>
+                <p class="adt-body text-left text-slate-500 mb-2">
+                  <span data-id="pg042_n0009"></span>
+                </p>
+                <label for="item-4" class="sr-only">Rreshti i dytë i përgjigjes</label>
+                <input id="item-4" type="text" data-activity-item="item-4" aria-label="Rreshti i dytë i përgjigjes" class="w-full min-h-11 rounded-none border-0 border-b-2 border-slate-400 bg-transparent px-0 py-2 text-slate-900 outline-none focus:border-violet-500 focus:ring-0">
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+</div>
+    </main>
+
+    <div class="relative z-50" id="interface-container"></div>
+    <div class="relative z-50" id="nav-container"></div>
+    <script src="./assets/offline-preloader.js?v=9f3d745a858de581"></script>
+    <script src="./assets/scorm.js"></script>
+    <script src="./assets/base.bundle.local.js"></script>
+
+
+
+<script src="./book-design/responses.js?v=9f3d745a858de581" data-book-responses="true"></script></body></html>

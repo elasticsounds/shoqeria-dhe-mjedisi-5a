@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="sq"><head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Shoqëria dhe mjedisi</title><meta name="title-id" content="pg037_sec004"><meta name="page-section-id" content="78">
+<link href="./content/tailwind_output.css" rel="stylesheet"><link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet"><link href="./assets/fonts.css" rel="stylesheet"><link rel="stylesheet" href="./book-design/components.css?v=9f3d745a858de581" data-book-style="true">
+<style>
+#content.reflection37 {max-width:1000px;margin:auto;padding:0;}
+.reflection37 .reflection-sheet {position:relative;background:white;border-left:clamp(30px,9.8vw,98px) solid #ffb450;padding:38px 6% 70px 4%;color:#30313a;font-family:BookPoppins,Arial,sans-serif;}
+.reflection37 .reflection-context {margin:0 0 24px;display:flex;align-items:flex-start;gap:22px;flex-wrap:wrap;}
+.reflection37 .column37 {display:flex;flex-direction:column;flex:none;border-top:1px solid #30313a;}
+.reflection37 .column37 span {width:38px;height:38px;display:grid;place-items:center;background:#d2c2dc;border:1px solid #30313a;border-top:0;font-size:18px;text-transform:uppercase;}
+.reflection37 .context-text {max-width:540px;font-size:16px;line-height:1.5;}
+.reflection37 .context-text p {margin:0 0 12px;}
+.reflection37 a {display:inline-flex;align-items:center;min-height:44px;color:#67438a;text-decoration:underline;font-weight:600;}
+.reflection37 .prompt37 {font-size:clamp(16px,1.88vw,18.77px);line-height:1.35;margin:0 0 15px;}
+.reflection37 .line37 {display:block;width:100%;min-height:44px;margin:0 0 8px;padding:4px 3px;border:0;border-bottom:1px solid #686868;border-radius:0;background:transparent;font:16px BookPoppins,Arial,sans-serif;color:#30313a;}
+.reflection37 .line37:focus {outline:2px solid #7950aa;outline-offset:2px;}
+.reflection37 .save37 {font-size:13px;margin:12px 0 0;color:#555;}
+.reflection37 .folio37 {text-align:right;font-size:16px;margin-top:22px;}
+@media(max-width:600px){.reflection37 .reflection-sheet{border-left-width:24px;padding:24px 18px 90px}.reflection37 .reflection-context{gap:14px}.reflection37 .column37 span{width:36px;height:36px}.reflection37 .context-text{flex:1;min-width:180px}.reflection37 .prompt37{font-size:16px}}
+</style></head>
+<body class="min-h-screen flex items-center justify-center"><main class="w-full"><h1 class="sr-only" id="page-heading">Shoqëria dhe mjedisi</h1>
+<div id="content" class="container mx-auto opacity-0 book reflection37" data-family="response"><h2 class="sr-only" id="section-heading">Në kolonën me ngjyrë zbulove një fjalë.</h2>
+<section data-section-type="other" data-section-id="pg037_sec004" class="reflection-sheet b-page">
+<div class="reflection-context"><div id="column37" class="column37" aria-label="Shkronjat e kolonës me ngjyrë"><span></span><span></span><span></span><span></span><span></span><span></span></div><div class="context-text"><p>Shkronjat këtu vijnë nga kutitë me ngjyrë të fjalëkryqit. Fushat e fjalëve dhe kutitë plotësohen veçmas.</p><a href="./pg037_sec003.html#crossword-letters">Kthehu te fjalëkryqi dhe plotëso kutitë</a></div></div>
+<p class="prompt37"><span data-id="pg037_n0090">3.</span> <span data-id="pg037_n0091">Në kolonën me ngjyrë zbulove një fjalë.</span> <span data-id="pg037_n0092">Shkruaj për rëndësinë e asaj gjëje.</span></p>
+<span data-id="pg037_n0093"></span><label for="item-1" class="sr-only">Rreshti i parë për përgjigjen e ushtrimit 3</label><input id="item-1" data-activity-item="item-1" type="text" aria-label="Rreshti i parë për përgjigjen e ushtrimit 3" class="line37">
+<span data-id="pg037_n0094"></span><label for="item-2" class="sr-only">Rreshti i dytë për përgjigjen e ushtrimit 3</label><input id="item-2" data-activity-item="item-2" type="text" aria-label="Rreshti i dytë për përgjigjen e ushtrimit 3" class="line37">
+<p class="save37">Përgjigjet ruhen në këtë pajisje.</p><div class="folio37">37</div>
+</section></div></main><div class="relative z-50" id="interface-container"></div><div class="relative z-50" id="nav-container"></div>
+<script src="./assets/offline-preloader.js?v=9f3d745a858de581"></script><script src="./assets/scorm.js"></script><script src="./assets/base.bundle.local.js"></script><script src="./book-design/responses.js?v=9f3d745a858de581" data-book-responses="true"></script>
+<script>
+(function(){function showColumn(){var entries={};try{entries=JSON.parse(localStorage.getItem('adt5a.responses.f7bf719411a7c7cf.pg037_sec003')||'{}')||{};}catch(e){} var ids=['item-7','item-10','item-14','item-24','item-27','item-35'];var box=document.getElementById('column37');if(!box)return;box.querySelectorAll('span').forEach(function(cell,i){cell.textContent=entries[ids[i]]&&typeof entries[ids[i]].value==='string'?entries[ids[i]].value:'';cell.setAttribute('aria-label','Kutia '+(i+1)+': '+(cell.textContent||'bosh'));});}document.addEventListener('DOMContentLoaded',showColumn);window.addEventListener('pageshow',showColumn);window.addEventListener('storage',showColumn);})();
+</script></body></html>

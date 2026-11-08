@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="sq"><head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Shoqëria dhe mjedisi</title><meta name="title-id" content="pg038_sec001"><meta name="page-section-id" content="79">
+<link href="./content/tailwind_output.css" rel="stylesheet"><link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet"><link href="./assets/fonts.css" rel="stylesheet"><link rel="stylesheet" href="./book-design/components.css?v=9f3d745a858de581" data-book-style="true">
+<style>
+#content.book.page38{padding:0;container-type:inline-size;max-width:1000px}
+#content.book.page38>section{position:relative;width:100%;aspect-ratio:639.449/866.22;margin:0;padding:0;overflow:visible}
+#content.book.page38 .p38-banner{position:absolute;left:2.35%;top:1.73%;width:95.3%;height:12.8%;background:#9b73b7}
+#content.book.page38 .p38-banner h1{position:absolute;left:9.3%;top:48%;margin:0;color:#fff;font:700 2.815cqw/1.2 BookPoppins,Arial,sans-serif}
+#content.book.page38 .p38-keywords{position:absolute;left:11.2%;top:13.45%;width:73.6%;height:5.2%;border:0.3cqw solid #7950aa;border-radius:0 0 2cqw 2cqw;display:flex;align-items:center;background:#fff}
+#content.book.page38 .p38-keywords strong{height:100%;display:flex;align-items:center;white-space:nowrap;padding:0 1.1cqw;background:#9b73b7;color:#fff;border:0.3cqw solid #7950aa;border-radius:2cqw;margin:-0.3cqw 1.2cqw -0.3cqw -0.3cqw;font:700 2.19cqw/1 BookAmiri,Georgia,serif}
+#content.book.page38 .p38-keywords span{font:400 1.877cqw/1.3 BookAmiri,Georgia,serif}
+#content.book.page38 .p38-discussion{position:absolute;left:11.2%;top:19.6%;width:73.4%;height:10.75%;border-radius:2cqw;background:#91cfdb;color:#30313a;padding:1.05cqw 2cqw 1cqw 11.1cqw}
+#content.book.page38 .p38-discussion img{position:absolute;left:1.2cqw;top:1.2cqw;width:7cqw;height:auto}
+#content.book.page38 .p38-discussion h2{margin:0 0 1.1cqw;font:400 2.815cqw/1.2 'Comic Sans MS',cursive;color:#30313a}
+#content.book.page38 .p38-discussion ul{margin:0;padding:0;list-style:none}
+#content.book.page38 .p38-discussion li{font:400 1.877cqw/1.2 BookPoppins,Arial,sans-serif;color:#30313a;white-space:nowrap}
+#content.book.page38 .p38-discussion li:before{content:'- ';white-space:pre}
+#content.book.page38 .p38-open{position:absolute;right:0.8cqw;top:0.6cqw;min-width:44px;min-height:44px;border:1px solid #397684;border-radius:4px;background:#fff;color:#284d56;font:600 14px BookPoppins,Arial,sans-serif;cursor:pointer}
+#content.book.page38 .p38-intro,#content.book.page38 .p38-text{position:absolute;margin:0;color:#30313a;font:400 1.877cqw/2.502cqw BookAmiri,Georgia,serif}
+#content.book.page38 .p38-intro{left:11.15%;top:31.2%;width:74%}
+#content.book.page38 .p38-photo{position:absolute;left:11.2%;width:18.8%;height:auto;object-fit:contain}
+#content.book.page38 .p38-text{left:30.9%;width:54.4%}
+#content.book.page38 .ph1{top:35.9%} #content.book.page38 .tx1{top:35.7%}
+#content.book.page38 .ph2{top:46.4%} #content.book.page38 .tx2{top:47.3%}
+#content.book.page38 .ph3{top:56.7%} #content.book.page38 .tx3{top:56.4%}
+#content.book.page38 .ph4{top:64.7%} #content.book.page38 .tx4{top:64.4%}
+#content.book.page38 .ph5{top:73.5%} #content.book.page38 .ph6{top:81.9%} #content.book.page38 .tx5{top:73.3%}
+#content.book.page38 .p38-folio{position:absolute;left:11.2%;top:91.2%;font:400 1.877cqw/1.2 BookPoppins,Arial,sans-serif;color:#30313a}
+#content.book.page38 dialog{position:fixed;inset:0;margin:auto;z-index:1000;width:min(92vw,650px);max-height:85vh;overflow:auto;padding:24px;background:#fff;border:2px solid #7950aa;border-radius:8px;color:#30313a;box-shadow:0 8px 40px #0006}
+#content.book.page38 dialog::backdrop{background:#0008}
+#content.book.page38 dialog h2{font:600 22px/1.3 BookPoppins,Arial,sans-serif;margin:0 0 16px}
+#content.book.page38 dialog label{display:block;font:400 16px/1.4 BookPoppins,Arial,sans-serif;margin:12px 0 5px}
+#content.book.page38 dialog textarea{display:block;width:100%;min-height:88px}
+#content.book.page38 dialog button{background:#7950aa;color:white;border:0;border-radius:4px;padding:10px 20px;margin-top:16px;min-height:44px;font:600 16px BookPoppins,Arial,sans-serif;cursor:pointer}
+@media(max-width:640px){
+#content.book.page38{padding:0 0 90px} #content.book.page38>section{aspect-ratio:auto;display:flex;flex-direction:column;gap:14px;padding:0 20px 30px}
+#content.book.page38 .p38-banner,#content.book.page38 .p38-keywords,#content.book.page38 .p38-discussion,#content.book.page38 .p38-intro,#content.book.page38 .p38-photo,#content.book.page38 .p38-text,#content.book.page38 .p38-folio{position:static;width:auto;height:auto}
+#content.book.page38 .p38-banner{margin:0 -20px;padding:38px 20px 25px} #content.book.page38 .p38-banner h1{position:static;font-size:25px}
+#content.book.page38 .p38-keywords{margin-top:-20px;border-width:2px;border-radius:0 0 12px 12px;min-height:54px} #content.book.page38 .p38-keywords strong{font-size:18px;border-width:2px;border-radius:12px;padding:12px 9px;margin:-2px 10px -2px -2px} #content.book.page38 .p38-keywords span{font-size:16px}
+#content.book.page38 .p38-discussion{position:relative;border-radius:14px;padding:16px 12px 16px 70px} #content.book.page38 .p38-discussion img{left:9px;top:16px;width:50px} #content.book.page38 .p38-discussion h2{font-size:22px;margin:0 46px 12px 0} #content.book.page38 .p38-discussion li{font-size:16px;line-height:1.4;white-space:normal;margin-bottom:6px} #content.book.page38 .p38-open{right:8px;top:8px}
+#content.book.page38 .p38-intro,#content.book.page38 .p38-text{font:400 18px/1.45 BookAmiri,Georgia,serif} #content.book.page38 .p38-photo{width:min(100%,280px);align-self:flex-start} #content.book.page38 .p38-folio{font-size:16px;margin-top:5px}
+}
+</style></head>
+<body class="min-h-screen flex items-center justify-center"><main class="w-full"><div id="content" class="container mx-auto w-full opacity-0 book page38" data-family="illustrated-lesson">
+<section data-section-type="text_and_images" data-section-id="pg038_sec001" class="b-page">
+<header class="p38-banner"><h1 data-id="pg038_n0002">Profesionet tona</h1></header>
+<div class="p38-keywords"><strong data-id="pg038_n0004">Fjalët kyçe:</strong><span data-id="pg038_n0005">profesion, mjete, zanat, përkushtim.</span></div>
+<aside class="p38-discussion"><img src="images/pg005_im002.png" alt=""><h2 data-id="pg038_n0008">Shpreh mendimin tënd</h2><ul><li data-id="pg038_n0011">Cilat janë profesionet e prindërve të tu?</li><li data-id="pg038_n0013">Çfarë mjete të punës përdorin ata?</li><li data-id="pg038_n0015">Analizo fotografitë me informacionet e dhëna!</li></ul><button type="button" class="p38-open" aria-label="Shkruaj përgjigjet" onclick="document.getElementById('p38-responses').showModal()">✎</button></aside>
+<p class="p38-intro" data-id="pg038_n0017">Në një panair të profesioneve, ishin paraqitur me fotografi dhe përshkrim profesionet e ndryshme dhe mjetet e tyre.</p>
+<img class="p38-photo ph1" src="images/pg038_im002.png" alt="Vegla të vjetra zdrukthëtarie" data-id="pg038_im002"><p class="p38-text tx1"><span data-id="pg038_n0020">Zdrukthëtaria është profesion i vjetër.</span><br><span data-id="pg038_n0021">Zdrukthëtarët merreshin me punime druri dhe krijonin gjëra të ndryshme me vegla mjaft të thjeshta.</span></p>
+<img class="p38-photo ph2" src="images/pg038_im003.png" alt="Makineri moderne për përpunimin e drurit" data-id="pg038_im003"><p class="p38-text tx2"><span data-id="pg038_n0024">Sot, druri përpunohet nëpër fabrika me makineri moderne.</span> <span data-id="pg038_n0025">Për një kohë të shkurtër punohen vegla, dyer, dritare e mobilie për shtëpi e institucione të ndryshme.</span></p>
+<img class="p38-photo ph3" src="images/pg038_im004.png" alt="Rrush duke u përzier për prodhimin e verës" data-id="pg038_im004"><p class="p38-text tx3"><span data-id="pg038_n0028">Kosova njihet për vreshtat dhe kultivimin e rrushit të tryezës dhe atij të verës.</span> <span data-id="pg038_n0029">Prodhimi i verës është traditë e vjetër e vendit tonë.</span> <span data-id="pg038_n0030">I tërë rrushi për verë ndrydhej me këmbë ose me ndonjë shkop.</span></p>
+<img class="p38-photo ph4" src="images/pg038_im005.png" alt="Pajisje bashkëkohore për prodhimin e verës" data-id="pg038_im005"><p class="p38-text tx4"><span data-id="pg038_n0033">Në ditët e sotme, vera prodhohet në fabrika bashkëkohore.</span> <span data-id="pg038_n0034">Shtrydhja e rrushit bëhet me makina e, më pas, të gjitha procedurat deri te mbushja e shisheve shkojnë në linja të veçanta të fabrikës.</span></p>
+<img class="p38-photo ph5" src="images/pg038_im006.png" alt="Makina e shkrimit" data-id="pg038_im006"><img class="p38-photo ph6" src="images/pg038_im007.png" alt="Kompjuter për dërgimin dhe marrjen e lajmeve" data-id="pg038_im007"><p class="p38-text tx5"><span data-id="pg038_n0037">Profesioni i gazetarisë mundëson prodhimin dhe shpërndarjen e lajmeve.</span> <span data-id="pg038_n0038">Mjete pune të gazetarit në të kaluarën ishin: fletorja, lapsi dhe një makinë shkrimi.</span> <span data-id="pg038_n0039">Mbledhja e informacioneve ishte shumë e vështirë.</span> <span data-id="pg038_n0040">Me zhvillimin e teknologjisë, u shpikën mjete të ndryshme informacioni, si: telegrafi, radioja, televizori etj., të cilat mundësojnë që mbledhja e informacionit të bëhet më shpejt.</span> <span data-id="pg038_n0041">Sot, interneti ka mundësuar dërgimin dhe marrjen e menjëhershme të lajmeve në tërë botën.</span></p>
+<div class="p38-folio">38</div>
+<dialog id="p38-responses" aria-labelledby="p38-dialog-title"><h2 id="p38-dialog-title">Shpreh mendimin tënd</h2><label for="item-1">Cilat janë profesionet e prindërve të tu?</label><textarea id="item-1" data-activity-item="item-1" rows="2"></textarea><label for="item-2">Çfarë mjete të punës përdorin ata?</label><textarea id="item-2" data-activity-item="item-2" rows="2"></textarea><label for="item-3">Analizo fotografitë me informacionet e dhëna!</label><textarea id="item-3" data-activity-item="item-3" rows="2"></textarea><button type="button" onclick="document.getElementById('p38-responses').close()">Mbyll</button></dialog>
+</section></div></main>
+<div class="relative z-50" id="interface-container"></div><div class="relative z-50" id="nav-container"></div>
+<script src="./assets/offline-preloader.js?v=9f3d745a858de581"></script><script src="./assets/scorm.js"></script><script src="./assets/base.bundle.local.js"></script><script src="./book-design/responses.js?v=9f3d745a858de581" data-book-responses="true"></script></body></html>

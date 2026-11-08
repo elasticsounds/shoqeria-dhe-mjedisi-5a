@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="sq"><head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Shoqëria dhe mjedisi</title>
+    <meta name="title-id" content="pg014_sec001">
+    <!-- Despite the name, this is the page's 1-based position in the reading
+         order, not a section id and not the printed page number. It drives the
+         "N of M" dock counter and is re-emitted on every package, so it tracks
+         the current order. Identity lives in title-id above. -->
+    <meta name="page-section-id" content="19">
+    <link href="./content/tailwind_output.css" rel="stylesheet">
+    <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+    <link href="./assets/fonts.css" rel="stylesheet">
+<link rel="stylesheet" href="./book-design/components.css?v=9f3d745a858de581" data-book-style="true"></head>
+
+<body class="min-h-screen flex items-center justify-center">
+    <main class="w-full">
+      <div id="content" class="mx-auto w-full max-w-5xl bg-white opacity-0 book" data-family="response">
+  <section data-section-type="other" data-section-id="pg014_sec001" role="region" class="relative min-h-screen overflow-hidden bg-white b-page">
+    <div aria-hidden="true" class="absolute left-0 top-0 h-full w-24 bg-orange-300 max-sm:w-[4.5rem]"></div>
+
+    <div class="relative z-10 px-8 py-8 max-lg:px-6 max-sm:px-3">
+      <div class="mb-10 flex items-start max-sm:mb-8 max-sm:flex-col max-sm:items-start max-sm:gap-3">
+        <div aria-hidden="true" class="mt-3 flex h-24 w-24 shrink-0 items-center justify-center border-[4px] border-orange-300 bg-amber-50 shadow-sm max-sm:mt-0 max-sm:h-20 max-sm:w-20 b-rubric-wrapper"><img src="images/pg005_im007.png" alt="" aria-hidden="true" class="b-rubric-icon"></div>
+        <div class="-ml-px ml-0 mt-6 flex-1 border-[4px] border-orange-300 bg-gradient-to-r from-amber-50 via-orange-50 to-amber-50 px-10 py-6 max-sm:mt-0 max-sm:w-full max-sm:px-6 max-sm:py-4 b-practice-heading">
+          <h1 class="adt-h3 font-bold text-slate-900" data-id="pg014_n0002">Provoje veten</h1>
+        </div>
+      </div>
+
+      <div class="ml-32 pr-10 text-slate-900 max-lg:ml-24 max-lg:pr-4 max-sm:ml-16 max-sm:pr-1">
+        <div class="mb-10 max-sm:mb-8">
+          <p class="adt-body leading-loose">
+            <span data-id="pg014_n0004">1.</span>
+            <span aria-hidden="true"> </span>
+            <span data-id="pg014_n0005">Identifikoji monumentet arkeologjike në rrethinën ku ti jeton dhe krahasoji ato me lokalitetet arkeologjike që tashmë ke mësuar.</span>
+          </p>
+          <div class="mt-6 space-y-5 max-sm:mt-4 max-sm:space-y-4">
+            <div>
+              <label for="item-1" class="sr-only">Identifikoji monumentet arkeologjike në rrethinën ku ti jeton dhe krahasoji ato me lokalitetet arkeologjike që tashmë ke mësuar.</label>
+              <textarea id="item-1" data-activity-item="item-1" aria-label="Identifikoji monumentet arkeologjike në rrethinën ku ti jeton dhe krahasoji ato me lokalitetet arkeologjike që tashmë ke mësuar." class="min-h-11 h-12 w-full resize-none border-0 border-b border-slate-700 bg-transparent px-0 py-2 outline-none focus:border-orange-400 focus:ring-0"></textarea>
+              <div data-id="pg014_n0006" class="sr-only"></div>
+            </div>
+            <div>
+              <label for="item-2" class="sr-only">Identifikoji monumentet arkeologjike në rrethinën ku ti jeton dhe krahasoji ato me lokalitetet arkeologjike që tashmë ke mësuar.</label>
+              <textarea id="item-2" data-activity-item="item-2" aria-label="Identifikoji monumentet arkeologjike në rrethinën ku ti jeton dhe krahasoji ato me lokalitetet arkeologjike që tashmë ke mësuar." class="min-h-11 h-12 w-full resize-none border-0 border-b border-slate-700 bg-transparent px-0 py-2 outline-none focus:border-orange-400 focus:ring-0"></textarea>
+              <div data-id="pg014_n0007" class="sr-only"></div>
+            </div>
+          </div>
+        </div>
+
+        <div class="mb-10 max-sm:mb-8">
+          <p class="adt-body leading-loose">
+            <span data-id="pg014_n0008">2.</span>
+            <span aria-hidden="true"> </span>
+            <span data-id="pg014_n0009">Analizo rëndësinë e monumenteve historike.</span>
+          </p>
+          <div class="mt-6 space-y-5 max-sm:mt-4 max-sm:space-y-4">
+            <div>
+              <label for="item-3" class="sr-only">Analizo rëndësinë e monumenteve historike.</label>
+              <textarea id="item-3" data-activity-item="item-3" aria-label="Analizo rëndësinë e monumenteve historike." class="min-h-11 h-12 w-full resize-none border-0 border-b border-slate-700 bg-transparent px-0 py-2 outline-none focus:border-orange-400 focus:ring-0"></textarea>
+              <div data-id="pg014_n0010" class="sr-only"></div>
+            </div>
+            <div>
+              <label for="item-4" class="sr-only">Analizo rëndësinë e monumenteve historike.</label>
+              <textarea id="item-4" data-activity-item="item-4" aria-label="Analizo rëndësinë e monumenteve historike." class="min-h-11 h-12 w-full resize-none border-0 border-b border-slate-700 bg-transparent px-0 py-2 outline-none focus:border-orange-400 focus:ring-0"></textarea>
+              <div data-id="pg014_n0011" class="sr-only"></div>
+            </div>
+          </div>
+        </div>
+
+        <div>
+          <p class="adt-body leading-loose">
+            <span data-id="pg014_n0012">3.</span>
+            <span aria-hidden="true"> </span>
+            <span data-id="pg014_n0013">Analizo: cili objekti i rëndësishëm i kësaj kohe mendon që do të jetë monument historik pas shumë vjetësh?</span>
+            <span aria-hidden="true"> </span>
+            <span data-id="pg014_n0014">Vizato dhe shkruaj për të.</span>
+          </p>
+          <div class="mt-8 max-sm:mt-5">
+            <label for="item-5" class="sr-only">Analizo: cili objekti i rëndësishëm i kësaj kohe mendon që do të jetë monument historik pas shumë vjetësh? Vizato dhe shkruaj për të.</label>
+            <textarea id="item-5" data-activity-item="item-5" aria-label="Analizo: cili objekti i rëndësishëm i kësaj kohe mendon që do të jetë monument historik pas shumë vjetësh? Vizato dhe shkruaj për të." class="min-h-11 h-[40rem] w-full border-2 border-orange-300 bg-white px-4 py-4 outline-none focus:border-orange-400 focus:ring-0 max-lg:h-[30rem] max-sm:h-[22rem]"></textarea>
+            <div data-id="pg014_n0015" class="sr-only">Hapësirë për vizatim dhe shkrim.</div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+</div>
+    </main>
+
+    <div class="relative z-50" id="interface-container"></div>
+    <div class="relative z-50" id="nav-container"></div>
+    <script src="./assets/offline-preloader.js?v=9f3d745a858de581"></script>
+    <script src="./assets/scorm.js"></script>
+    <script src="./assets/base.bundle.local.js"></script>
+
+
+
+<script src="./book-design/responses.js?v=9f3d745a858de581" data-book-responses="true"></script></body></html>

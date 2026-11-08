@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="sq"><head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Shoqëria dhe mjedisi</title>
+    <meta name="title-id" content="pg025_sec001">
+    <!-- Despite the name, this is the page's 1-based position in the reading
+         order, not a section id and not the printed page number. It drives the
+         "N of M" dock counter and is re-emitted on every package, so it tracks
+         the current order. Identity lives in title-id above. -->
+    <meta name="page-section-id" content="39">
+    <link href="./content/tailwind_output.css" rel="stylesheet">
+    <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+    <link href="./assets/fonts.css" rel="stylesheet">
+<link rel="stylesheet" href="./book-design/components.css?v=9f3d745a858de581" data-book-style="true"></head>
+
+<body class="min-h-screen flex items-center justify-center">
+    <main class="w-full">
+      <div id="content" class="container opacity-0 book" data-family="illustrated-lesson"><section data-section-type="text_and_images" data-section-id="pg025_sec001" class="mx-auto w-full max-w-5xl px-8 max-lg:px-6 max-sm:px-4 py-8 bg-white text-slate-800 b-page">
+  <div class="-mx-8 max-lg:-mx-6 max-sm:-mx-4 bg-[#a274b3] b-banner">
+    <div class="mx-auto w-full max-w-5xl px-8 max-lg:px-6 max-sm:px-4 py-10 max-sm:py-8 flex items-center justify-center min-h-[170px] max-sm:min-h-[120px]">
+      <h1 class="adt-h1 font-bold text-white text-center" data-id="pg025_n0002">Objektet e banimit në vendin tonë</h1>
+    </div>
+  </div>
+
+  <div class="mt-6 px-4 max-sm:px-0">
+    <div class="border-[5px] border-[#9a5fc2] rounded-[2rem] bg-white overflow-hidden">
+      <div class="flex items-center max-sm:items-start max-sm:flex-col">
+        <div class="shrink-0 bg-[#b78ad8] text-white px-6 py-4 rounded-r-[1.75rem] max-sm:rounded-r-[1.75rem] max-sm:rounded-b-[1.75rem] max-sm:w-fit">
+          <span class="adt-body font-bold whitespace-nowrap b-keyword-label" data-id="pg025_n0004">Fjalët kyçe:</span>
+        </div>
+        <div class="px-6 py-4 max-sm:px-6 max-sm:pt-4 max-sm:pb-5">
+          <span class="adt-body" data-id="pg025_n0005">kasolle, kullë, shtëpi tradicionale, arkitekturë bashkëkohore.</span>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <aside class="mt-10 mx-4 max-sm:mx-0 bg-sky-300 rounded-[1.75rem] px-6 py-5 max-sm:px-4 max-sm:py-4 text-left b-panel-thought">
+    <div class="flex gap-5 max-sm:gap-3 items-start">
+      <div aria-hidden="true" class="shrink-0 mt-1 b-rubric-wrapper"><img src="images/pg005_im002.png" alt="" aria-hidden="true" class="b-rubric-icon"></div>
+      <div class="flex-1 min-w-0">
+        <h2 class="adt-h2 font-medium text-left mb-3" data-id="pg025_n0008">Shpreh mendimin tënd</h2>
+        <ul class="space-y-4">
+          <li class="adt-body text-left">
+            <span data-id="pg025_n0011">Si kanë qenë shtëpitë e banimit dikur në Kosovë?</span>
+            <label for="item-1" class="sr-only">Si kanë qenë shtëpitë e banimit dikur në Kosovë?</label>
+            <textarea id="item-1" data-activity-item="item-1" aria-label="Si kanë qenë shtëpitë e banimit dikur në Kosovë?" class="mt-2 w-full min-h-11 h-12 rounded-2xl border-2 border-sky-700 bg-white/95 px-4 py-3 outline-none focus:ring-2 focus:ring-sky-500"></textarea>
+          </li>
+          <li class="adt-body text-left">
+            <span data-id="pg025_n0013">Si janë sot?</span>
+            <label for="item-2" class="sr-only">Si janë sot?</label>
+            <textarea id="item-2" data-activity-item="item-2" aria-label="Si janë sot?" class="mt-2 w-full min-h-11 h-12 rounded-2xl border-2 border-sky-700 bg-white/95 px-4 py-3 outline-none focus:ring-2 focus:ring-sky-500"></textarea>
+          </li>
+          <li class="adt-body text-left">
+            <span data-id="pg025_n0015">Analizo fotografitë me informacionet e dhëna!</span>
+            <label for="item-3" class="sr-only">Analizo fotografitë me informacionet e dhëna!</label>
+            <textarea id="item-3" data-activity-item="item-3" aria-label="Analizo fotografitë me informacionet e dhëna!" class="mt-2 w-full min-h-11 h-12 rounded-2xl border-2 border-sky-700 bg-white/95 px-4 py-3 outline-none focus:ring-2 focus:ring-sky-500"></textarea>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </aside>
+
+  <div class="mt-10 px-4 max-sm:px-0 space-y-4">
+    <div class="flex gap-4 items-start max-sm:flex-col">
+      <div class="w-[34%] max-sm:w-full shrink-0">
+        <img data-id="pg025_im002" src="images/pg025_im002.png" alt="Kasolle" class="w-full h-auto shadow-sm">
+      </div>
+      <p class="adt-body text-left leading-relaxed flex-1 pt-1">
+        <span data-id="pg025_n0017">Kasolle është quajtur në të kaluarën ndërtesa e thjeshtë përdhese (shtëpi e thjeshtë), që ka shërbyer për banim.</span> <span data-id="pg025_n0018">Kasollja ka qenë e ndërtuar nga gardhi, e lyer brenda e jashtë me baltë të përzier me kashtë, kurse çatinë e kishte të mbuluar me tallë misri ose me kashtë.</span>
+      </p>
+    </div>
+
+    <div class="flex gap-4 items-start max-sm:flex-col">
+      <div class="w-[35%] max-sm:w-full shrink-0">
+        <img data-id="pg025_im003" src="images/pg025_im003.png" alt="Shtëpi përdhese tradicionale" class="w-full h-auto shadow-sm">
+      </div>
+      <p class="adt-body text-left leading-relaxed flex-1 pt-1">
+        <span data-id="pg025_n0020">Me kalimin e kohës u ndërtuan shtëpitë përdhese me arkitekturë të thjeshtë popullore.</span> <span data-id="pg025_n0021">Ato u ndërtuan me material të fortë prej qerpiçësh.</span> <span data-id="pg025_n0022">Shtëpia kishte zakonisht mbulojën e gjatë, që ishte vazhdimi i shtëpisë, i quajtur hajat.</span> <span data-id="pg025_n0023">Secila shtëpi kishte një dhomë më të madhe se të tjerat, që ishte dhoma e ndenjjes.</span>
+      </p>
+    </div>
+
+    <div class="flex gap-4 items-start max-sm:flex-col">
+      <div class="w-[29%] max-sm:w-full shrink-0">
+        <img data-id="pg025_im004" src="images/pg025_im004.png" alt="Shtëpi tradicionale me kate" class="w-full h-auto shadow-sm">
+      </div>
+      <p class="adt-body text-left leading-relaxed flex-1 pt-4 max-sm:pt-0">
+        <span data-id="pg025_n0025">Shtëpitë tradicionale me kate ishin, të njohura në Kosovë.</span> <span data-id="pg025_n0026">Ato ndërtoheshin nga familjet e mëdha.</span>
+      </p>
+    </div>
+  </div>
+</section></div>
+    </main>
+
+    <div class="relative z-50" id="interface-container"></div>
+    <div class="relative z-50" id="nav-container"></div>
+    <script src="./assets/offline-preloader.js?v=9f3d745a858de581"></script>
+    <script src="./assets/scorm.js"></script>
+    <script src="./assets/base.bundle.local.js"></script>
+
+
+
+<script src="./book-design/responses.js?v=9f3d745a858de581" data-book-responses="true"></script></body></html>

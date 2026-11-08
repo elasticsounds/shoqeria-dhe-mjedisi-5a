@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="sq"><head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Shoqëria dhe mjedisi</title>
+    <meta name="title-id" content="pg027_sec002">
+    <!-- Despite the name, this is the page's 1-based position in the reading
+         order, not a section id and not the printed page number. It drives the
+         "N of M" dock counter and is re-emitted on every package, so it tracks
+         the current order. Identity lives in title-id above. -->
+    <meta name="page-section-id" content="47">
+    <link href="./content/tailwind_output.css" rel="stylesheet">
+    <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+    <link href="./assets/fonts.css" rel="stylesheet">
+<link rel="stylesheet" href="./book-design/components.css?v=9f3d745a858de581" data-book-style="true"></head>
+
+<body class="min-h-screen flex items-center justify-center">
+    <main class="w-full">
+      <h1 class="sr-only" id="page-heading">Shoqëria dhe mjedisi</h1>
+      <div id="content" class="container opacity-0 book" data-family="reference"><h2 class="sr-only" id="section-heading">Bashkë me ndihmën e prindërve apo të mësuesit, hulumto në internet dhe gjej informacione për kullat!</h2>
+  <section data-section-type="boxed_text" data-section-id="pg027_sec002" class="mx-auto w-full max-w-5xl px-8 max-sm:px-5 b-page">
+    <aside class="rounded-[2rem] border-2 border-violet-500 bg-amber-100 px-6 py-5 shadow-sm max-lg:px-5 max-sm:px-4">
+      <p class="adt-body text-left text-stone-800"><span data-id="pg027_n0013">Bashkë me ndihmën e prindërve apo të mësuesit, hulumto në internet dhe gjej informacione për kullat!</span></p>
+    </aside>
+  </section>
+</div>
+    </main>
+
+    <div class="relative z-50" id="interface-container"></div>
+    <div class="relative z-50" id="nav-container"></div>
+    <script src="./assets/offline-preloader.js?v=9f3d745a858de581"></script>
+    <script src="./assets/scorm.js"></script>
+    <script src="./assets/base.bundle.local.js"></script>
+
+
+
+<script src="./book-design/responses.js?v=9f3d745a858de581" data-book-responses="true"></script></body></html>

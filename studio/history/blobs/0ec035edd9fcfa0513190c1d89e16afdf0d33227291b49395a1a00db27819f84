@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="sq"><head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Shoqëria dhe mjedisi</title><meta name="title-id" content="pg032_sec001"><meta name="page-section-id" content="66">
+<link href="./content/tailwind_output.css" rel="stylesheet"><link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet"><link href="./assets/fonts.css" rel="stylesheet"><link rel="stylesheet" href="./book-design/components.css?v=9f3d745a858de581" data-book-style="true">
+<style>
+/* Source page 32: 639.449 × 866.220 pt. Desktop positions use the source canvas. */
+#content.book.page32{padding:0;max-width:1000px;container-type:inline-size}
+#content.book.page32>section{position:relative;width:100%;aspect-ratio:639.449/866.22;background:white;overflow:visible}
+#content.book.page32 .p32-banner{position:absolute;left:2.34%;top:1.73%;width:93.2%;height:12.8%;background:#9870b3}
+#content.book.page32 .p32-banner h1{position:absolute;left:9.52%;top:49%;margin:0;color:white;font:700 2.815cqw/1.3 BookPoppins,Arial,sans-serif}
+#content.book.page32 .p32-keywords{position:absolute;left:10.8%;top:14.45%;width:73.9%;height:4.25%;border:0.3cqw solid #7950a0;border-top:0;border-radius:0 0 2cqw 2cqw;background:white;display:flex;align-items:center;padding-left:13.2%;font:400 1.877cqw/1.2 BookAmiri,serif}
+#content.book.page32 .p32-keywords strong{position:absolute;left:-0.3cqw;top:-0.95cqw;bottom:-0.3cqw;border:0.3cqw solid #7950a0;border-radius:2cqw;background:#9870b3;color:white;padding:0 1cqw;display:flex;align-items:center;font:700 2.19cqw/1 BookAmiri,serif;white-space:nowrap}
+#content.book.page32 .p32-thought{position:absolute;left:11.1%;top:20.9%;width:73.3%;height:10%;border-radius:2cqw;background:#91cfdb;color:#30313a}
+#content.book.page32 .p32-thought img{position:absolute;left:1.5%;top:8%;width:10%;height:auto}
+#content.book.page32 .p32-thought h2{position:absolute;left:15%;top:7%;margin:0;font:400 2.815cqw/1.2 'Comic Sans MS',cursive;color:#30313a}
+#content.book.page32 .p32-thought ul{position:absolute;left:15%;top:45%;padding:0;margin:0;list-style:none}
+#content.book.page32 .p32-thought li{font:400 1.877cqw/1.2 BookPoppins,Arial,sans-serif;color:#30313a;white-space:nowrap}
+#content.book.page32 .p32-thought li:before{content:'- ';white-space:pre}
+#content.book.page32 .p32-open{position:absolute;right:1.5%;top:7%;border:1px solid #416b76;border-radius:4px;padding:.4cqw .8cqw;background:#fff;color:#23444d;font:600 1.25cqw/1.2 BookPoppins,Arial,sans-serif;min-height:36px;cursor:pointer}
+#content.book.page32 .p32-photo,#content.book.page32 .p32-copy,#content.book.page32 .p32-figure,#content.book.page32 .p32-folio{position:absolute;margin:0}
+#content.book.page32 .p32-photo{height:auto;object-fit:contain}
+#content.book.page32 .p32-man{left:12.3%;top:34.7%;width:10.7%}
+#content.book.page32 .p32-dress{left:46.3%;top:37.6%;width:20.1%}
+#content.book.page32 p.p32-copy{font:400 1.877cqw/2.502cqw BookAmiri,Georgia,serif;color:#30313a;text-align:justify}
+#content.book.page32 .p32-men-copy{left:24.27%;top:34.4%;width:20.51%}
+#content.book.page32 .p32-dress-copy{left:67.9%;top:34.4%;width:16.3%}
+#content.book.page32 .p32-women-copy{left:27.3%;top:62.5%;width:39.2%}
+#content.book.page32 .p32-figure img{display:block;height:auto;object-fit:contain}
+#content.book.page32 .p32-figure figcaption{position:absolute;bottom:0;white-space:nowrap;font:italic 1.877cqw/1.3 BookAmiri,Georgia,serif;color:#30313a}
+#content.book.page32 .p32-duka{left:11.1%;top:66.3%;width:13.5%;height:20.7%}
+#content.book.page32 .p32-duka img{width:85%;margin-left:6%}
+#content.book.page32 .p32-hasi{left:70.5%;top:58.9%;width:13.5%;height:28.5%}
+#content.book.page32 .p32-hasi img{width:100%}
+#content.book.page32 .p32-hasi figcaption{left:5%}
+#content.book.page32 .p32-folio{left:11.2%;top:90.5%;font:400 1.877cqw/1.2 BookPoppins,Arial,sans-serif}
+#content.book.page32 dialog{position:fixed;inset:0;margin:auto;width:min(92vw,620px);max-height:85vh;overflow:auto;padding:24px;background:white;border:2px solid #7950a0;border-radius:10px;color:#30313a;font:400 16px/1.5 BookPoppins,Arial,sans-serif}
+#content.book.page32 dialog::backdrop{background:rgba(0,0,0,.45)}
+#content.book.page32 dialog h2{font:700 21px/1.3 BookPoppins,Arial,sans-serif;margin:0 0 12px}
+#content.book.page32 dialog label{display:block;margin:14px 0 4px;font:400 16px/1.4 BookPoppins,Arial,sans-serif}
+#content.book.page32 dialog textarea{display:block;width:100%;min-height:80px}
+#content.book.page32 dialog button{min-height:44px;margin-top:16px;padding:8px 20px;background:#7950a0;color:white;border:0;border-radius:4px;cursor:pointer;font:600 16px/1.3 BookPoppins,Arial,sans-serif}
+@media(max-width:700px){
+#content.book.page32{padding:0 0 100px}
+#content.book.page32>section{aspect-ratio:auto;display:flex;flex-direction:column;gap:18px}
+#content.book.page32 .p32-banner,#content.book.page32 .p32-keywords,#content.book.page32 .p32-thought,#content.book.page32 .p32-photo,#content.book.page32 .p32-copy,#content.book.page32 .p32-figure,#content.book.page32 .p32-folio{position:static;width:auto;height:auto;margin:0 20px}
+#content.book.page32 .p32-banner{margin:0;padding:30px 20px;background:#9870b3}
+#content.book.page32 .p32-banner h1{position:static;font-size:24px}
+#content.book.page32 .p32-keywords{display:block;padding:12px 14px;border:2px solid #7950a0;border-radius:0 0 14px 14px;font-size:17px;line-height:1.4;margin-top:-18px}
+#content.book.page32 .p32-keywords strong{position:static;display:inline-block;border:0;border-radius:6px;font-size:18px;padding:5px 8px;margin-right:5px}
+#content.book.page32 .p32-thought{padding:16px;border-radius:14px}
+#content.book.page32 .p32-thought img{position:static;float:left;width:52px;margin-right:12px}
+#content.book.page32 .p32-thought h2{position:static;font-size:23px}
+#content.book.page32 .p32-thought ul{position:static;clear:both;padding-top:10px}
+#content.book.page32 .p32-thought li{font-size:16px;line-height:1.5;white-space:normal;margin-bottom:5px}
+#content.book.page32 .p32-open{position:static;min-height:44px;margin-top:10px;padding:8px 12px;font-size:16px}
+#content.book.page32 .p32-photo{align-self:center;max-height:330px;max-width:75%;object-fit:contain}
+#content.book.page32 p.p32-copy{font:400 18px/1.5 BookAmiri,Georgia,serif;text-align:left}
+#content.book.page32 .p32-figure{align-self:center;max-width:65%;text-align:center}
+#content.book.page32 .p32-figure img{max-height:330px;width:auto;max-width:100%;margin:auto}
+#content.book.page32 .p32-figure figcaption{position:static;font-size:18px;margin-top:5px}
+#content.book.page32 .p32-folio{font-size:16px}
+}
+@media print{#content.book.page32 .p32-open,#content.book.page32 dialog{display:none}}
+</style></head>
+<body class="min-h-screen flex items-center justify-center"><main class="w-full">
+<div id="content" class="container mx-auto opacity-0 book page32" data-family="illustrated-lesson">
+<section data-section-type="text_and_images" data-section-id="pg032_sec001" class="b-page">
+<header class="p32-banner"><h1 data-id="pg032_n0002">Veshjet tradicionale kosovare</h1></header>
+<div class="p32-keywords"><strong data-id="pg032_n0004">Fjalët kyçe:</strong><span data-id="pg032_n0005">veshje tradicionale, trashëgimi kulturore, vlerë, traditë.</span></div>
+<aside class="p32-thought" aria-labelledby="p32-thought-title"><img src="images/pg005_im002.png" alt=""><h2 id="p32-thought-title" data-id="pg032_n0008">Shpreh mendimin tënd</h2><ul>
+<li data-id="pg032_n0011">A e di se populli ynë ka shumë veshje tradicionale?</li><li data-id="pg032_n0013">Në cilat raste vishen ato?</li><li data-id="pg032_n0015">Analizoji fotografitë me informacionet e dhëna!</li></ul>
+<button class="p32-open" type="button" onclick="document.getElementById('p32-responses').showModal()" aria-haspopup="dialog">Përgjigju</button></aside>
+<img class="p32-photo p32-man" src="images/pg032_im003.png" data-id="pg032_im003" alt="Veshje tradicionale burrash me tirq të bardhë të zbukuruar me gajtanë të zinj, brez në mes, mbulesë të bardhë të kokës dhe opinga.">
+<p class="p32-copy p32-men-copy"><span data-id="pg032_n0018">Veshjet tradicionale të burrave zakonisht përbëhen nga një këmishë e bardhë dhe tirqit të punuar prej shajaku.</span> <span data-id="pg032_n0019">Tirqit janë të zbukuruar me gajtanë me ngjyrë të zezë.</span> <span data-id="pg032_n0020">Rreth tirqve është e vendosur shoka.</span> <span data-id="pg032_n0021">Në kokë mbahet plisi, si simbol i shqiptarëve.</span> <span data-id="pg032_n0022">Në disa treva, si në Rugovë p.sh., koka lidhet edhe me shall.</span> <span data-id="pg032_n0023">Si mbathje janë përdorur opingat.</span></p>
+<img class="p32-photo p32-dress" src="images/pg032_im004.png" data-id="pg032_im004" alt="Xhubletë e zezë me fund të valëzuar, e zbukuruar me shirita dhe ornamente shumëngjyrëshe.">
+<p class="p32-copy p32-dress-copy"><span data-id="pg032_n0025">Xhubleta është veshje me skaj të valëzuar si zile, e cila mbahet nga dy shiritat mbi supe, vishet me një këmishë të bardhë prej liri me mëngë të gjata.</span> <span data-id="pg032_n0026">Në këmbë mbathen çorapë leshi dhe opinga.</span> <span data-id="pg032_n0027">Kjo veshje tradicionale shqiptare mbrohet nga UNESCO-ja.</span></p>
+<figure class="p32-figure p32-duka"><img src="images/pg032_im005.png" data-id="pg032_im005" alt="Veshje e Dukagjinit për gra, me fustan të bardhë, jelek të kuq, shall me thekë në bel, çorape të errëta dhe opinga."><figcaption data-id="pg032_n0037">Veshje e Dukagjinit</figcaption></figure>
+<p class="p32-copy p32-women-copy"><span data-id="pg032_n0030">Pothuajse të gjitha veshjet e grave janë të përbëra nga një këmishë e bardhë e gjatë, me mëngë të gjata, skajet e së cilës janë të qëndisura me ngjyra.</span> <span data-id="pg032_n0031">Sipër, gratë mbajnë një jelek të zbukuruar me fije të arta.</span> <span data-id="pg032_n0032">Dy pështjellakë janë gjithashtu karakteristikë e këtyre veshjeve.</span> <span data-id="pg032_n0033">Çorapët janë prej leshi dhe opingat prej lëkure.</span> <span data-id="pg032_n0034">Veshjet dallojnë sipas moshave; zakonisht veshjet e vajzave janë më të stolisura se ato të grave.</span></p>
+<figure class="p32-figure p32-hasi"><img src="images/pg032_im001.png" data-id="pg032_im001" alt="Veshje e Hasit për gra, me këmishë të çelët, jelek rozë dhe përparëse e fund të mbuluar me qëndisje e motive shumëngjyrëshe."><figcaption data-id="pg032_n0036">Veshje e Hasit</figcaption></figure>
+<div class="p32-folio">32</div>
+<dialog id="p32-responses" aria-labelledby="p32-dialog-title"><h2 id="p32-dialog-title">Shpreh mendimin tënd</h2><p>Përgjigjet ruhen automatikisht në këtë pajisje.</p>
+<label for="item-1">A e di se populli ynë ka shumë veshje tradicionale?</label><textarea id="item-1" data-activity-item="item-1"></textarea>
+<label for="item-2">Në cilat raste vishen ato?</label><textarea id="item-2" data-activity-item="item-2"></textarea>
+<label for="item-3">Analizoji fotografitë me informacionet e dhëna!</label><textarea id="item-3" data-activity-item="item-3"></textarea>
+<button type="button" onclick="document.getElementById('p32-responses').close()">Mbyll</button></dialog>
+</section></div></main>
+<div class="relative z-50" id="interface-container"></div><div class="relative z-50" id="nav-container"></div>
+<script src="./assets/offline-preloader.js?v=9f3d745a858de581"></script><script src="./assets/scorm.js"></script><script src="./assets/base.bundle.local.js"></script><script src="./book-design/responses.js?v=9f3d745a858de581" data-book-responses="true"></script></body></html>

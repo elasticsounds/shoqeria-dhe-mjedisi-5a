@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="sq"><head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Shoqëria dhe mjedisi</title>
+    <meta name="title-id" content="pg048_sec003">
+    <!-- Despite the name, this is the page's 1-based position in the reading
+         order, not a section id and not the printed page number. It drives the
+         "N of M" dock counter and is re-emitted on every package, so it tracks
+         the current order. Identity lives in title-id above. -->
+    <meta name="page-section-id" content="94">
+    <link href="./content/tailwind_output.css" rel="stylesheet">
+    <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+    <link href="./assets/fonts.css" rel="stylesheet">
+<link rel="stylesheet" href="./book-design/components.css?v=9f3d745a858de581" data-book-style="true"></head>
+
+<body class="min-h-screen flex items-center justify-center">
+    <main class="w-full">
+      <div id="content" class="container opacity-0 book" data-family="reference"><section data-section-type="boxed_text" data-section-id="pg048_sec003" class="mx-auto w-full max-w-5xl px-8 max-sm:px-5 py-8 b-page"><div class="overflow-hidden rounded-[2rem] border-4 border-purple-500 bg-white shadow-[0_8px_0_rgba(168,85,247,0.12)] b-panel-reading"><div class="flex items-start gap-5 p-8 max-lg:flex-col max-lg:gap-4 max-sm:p-5"><div aria-hidden="true" class="flex h-24 w-24 shrink-0 items-center justify-center rounded-[1.75rem] bg-purple-300 shadow-inner max-sm:h-20 max-sm:w-20 b-rubric-wrapper"><img src="images/pg005_im003.png" alt="" aria-hidden="true" class="b-rubric-icon"></div><div class="flex-1"><h1 data-id="pg048_n0029" class="adt-h2 mb-4 font-bold text-zinc-800">Thello dijet</h1><p class="adt-body mb-4 text-left leading-8 text-zinc-800"><span data-id="pg048_n0031">Llojllojshmëria etnike dhe kulturore nënkupton dallimet që kanë popujt ndërmjet vete në traditat e tyre, në stilin e tyre të jetës, në veshje, mbathje, ushqim, muzikë etj.</span> <span data-id="pg048_n0032">Llojllojshmëria etnike e kulturore përfshin kulturën, kombësinë, fenë, racën, gjuhën etj.</span> <span data-id="pg048_n0033">Të gjithë njerëzit janë të barabartë dhe njësoj të rëndësishëm, pa marrë parasysh kulturën, vendin e prejardhjes, gjuhët që flasin, racën a kombësinë, gjendjen shëndetësore, moshën etj., sepse rëndësia e njeriut matet me kontributin që jep për të mirën e përbashkët të shoqërisë ku jeton dhe njerëzimit në përgjithësi.</span> <span data-id="pg048_n0034">Jeta mes llojllojshmërisë etnike e kulturore nënkupton pranimin e njëri-tjetrit në shoqëri, bashkëpunimin, vendimmarrjen e përbashkët etj., të cilat janë kushte të domosdoshme për një shoqëri me vlera.</span></p><p class="adt-body text-left leading-8 text-zinc-800"><span data-id="pg048_n0036">Në Kosovë ka llojllojshmëri etnike e kulturore, sepse jetojnë popuj të ndryshëm, si: shqiptarë, serbë, turq, boshnjakë, romë, ashkalinj, egjiptianë etj.</span> <span data-id="pg048_n0037">Të gjithë popujt kanë të drejta të barabarta.</span></p></div></div></div></section></div>
+    </main>
+
+    <div class="relative z-50" id="interface-container"></div>
+    <div class="relative z-50" id="nav-container"></div>
+    <script src="./assets/offline-preloader.js?v=9f3d745a858de581"></script>
+    <script src="./assets/scorm.js"></script>
+    <script src="./assets/base.bundle.local.js"></script>
+
+
+
+<script src="./book-design/responses.js?v=9f3d745a858de581" data-book-responses="true"></script></body></html>

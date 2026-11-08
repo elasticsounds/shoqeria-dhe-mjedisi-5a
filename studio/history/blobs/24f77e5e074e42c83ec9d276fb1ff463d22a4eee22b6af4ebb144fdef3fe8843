@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="sq"><head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Shoqëria dhe mjedisi</title>
+<meta name="title-id" content="pg016_sec001">
+<meta name="page-section-id" content="21">
+<link href="./content/tailwind_output.css" rel="stylesheet">
+<link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+<link href="./assets/fonts.css" rel="stylesheet">
+<link rel="stylesheet" href="./book-design/components.css?v=9f3d745a858de581" data-book-style="true">
+<style>
+/* The desktop canvas follows the 639.449 × 866.220 pt source page. */
+#content.book.page16{padding:0;container-type:inline-size;max-width:1000px}
+#content.book.page16>section{position:relative;aspect-ratio:639.449 / 866.220;width:100%;overflow:visible;color:#30313a;font:400 1.8766cqw/1.25 BookAmiri,Georgia,serif}
+#content.book.page16 p,#content.book.page16 figcaption,#content.book.page16 h1{font-family:BookAmiri,Georgia,serif;font-size:1.8766cqw;line-height:1.25;color:inherit;margin:0}
+#content.book.page16 p{text-align:justify}
+#content.book.page16 .source-part{position:absolute}
+#content.book.page16 .goddess{left:11.47%;top:11.18cqw;width:26.4%}
+#content.book.page16 .goddess img,#content.book.page16 .amphora img{display:block;width:100%;border-radius:0}
+#content.book.page16 .intro{left:39.8%;top:11.9cqw;width:44.5%}
+#content.book.page16 .attribution{left:39.8%;top:30.65cqw;width:44.5%;font-style:italic}
+#content.book.page16 .amphora-text{left:11.21%;top:48.2cqw;width:46.8%}
+#content.book.page16 .amphora{left:58.75%;top:43.2cqw;width:26.7%}
+#content.book.page16 .lead{left:11.21%;top:67.7cqw;width:73.2%;text-align:left}
+#content.book.page16 .explanation{left:11.21%;top:72.05cqw;width:73.2%;font-style:italic}
+#content.book.page16 figure{margin:0}
+#content.book.page16 .artifact{position:absolute;text-align:center}
+#content.book.page16 .artifact img{width:100%;height:auto;display:block}
+#content.book.page16 .artifact figcaption{position:absolute;left:-10%;width:120%;font-style:italic;text-align:center;white-space:nowrap}
+#content.book.page16 .grave{left:15.4%;top:80.4cqw;width:25.2%}
+#content.book.page16 .temple{left:54.1%;top:80.0cqw;width:28.2%}
+#content.book.page16 .grave figcaption{top:18.3cqw}
+#content.book.page16 .temple figcaption{top:18.7cqw}
+#content.book.page16 .swords{left:15.5%;top:101.8cqw;width:25.4%}
+#content.book.page16 .coins{left:54.0%;top:101.5cqw;width:28.4%}
+#content.book.page16 .swords figcaption{top:16.4cqw}
+#content.book.page16 .coins figcaption{top:16.7cqw}
+#content.book.page16 h1.gallery-title{position:absolute;left:38.1%;top:98.7cqw;width:16%;font-weight:700;font-style:italic;text-align:center;white-space:nowrap}
+#content.book.page16 .folio{position:absolute;left:11.49%;top:123.4cqw;font:400 1.8766cqw/1.25 BookPoppins,Arial,sans-serif}
+body:has(#content.page16) main{padding-bottom:80px}
+@media(max-width:700px){
+ #content.book.page16{padding:22px 20px 0;container-type:normal}
+ #content.book.page16>section{aspect-ratio:auto;font:400 18px/1.5 BookAmiri,Georgia,serif}
+ #content.book.page16 p,#content.book.page16 figcaption,#content.book.page16 h1{font-size:18px;line-height:1.5}
+ #content.book.page16 p{text-align:left}
+ #content.book.page16 .source-part{position:static;width:auto}
+ #content.book.page16 .goddess{width:48%;max-width:210px;margin:0 auto 18px}
+ #content.book.page16 .intro p+p{margin-top:0}
+ #content.book.page16 .attribution{margin:16px 0 22px}
+ #content.book.page16 .amphora-text{margin-bottom:14px}
+ #content.book.page16 .amphora{width:48%;max-width:210px;margin:0 auto 22px}
+ #content.book.page16 .lead{margin-bottom:12px}
+ #content.book.page16 .explanation{margin-bottom:20px}
+ #content.book.page16 .gallery{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:12px 10px;align-items:start}
+ #content.book.page16 .artifact{position:static;width:auto;min-width:0}
+ #content.book.page16 .artifact figcaption{position:static;width:auto;white-space:normal}
+ #content.book.page16 h1.gallery-title{position:static;width:auto;grid-column:1/-1;white-space:normal}
+ #content.book.page16 .folio{position:static;margin-top:24px;font:400 16px/1.4 BookPoppins,Arial,sans-serif}
+}
+@media print{body:has(#content.page16) main{padding-bottom:0}#content.book.page16{width:639.449pt;max-width:none;padding:0}}
+</style>
+</head>
+<body class="min-h-screen flex items-center justify-center">
+<main class="w-full">
+<div id="content" class="container opacity-0 book page16" data-family="illustrated-lesson">
+<section data-section-type="text_and_images" data-section-id="pg016_sec001" class="b-page" aria-label="Objekte arkeologjike">
+ <div class="source-part goddess"><img data-id="pg016_im005" src="images/pg016_im005.png" alt="Figurinë arkeologjike e njohur si Hyjnesha në fron."></div>
+ <div class="source-part intro">
+  <p><span data-id="pg016_n0002">Në “Muzeun Kombëtar të Kosovës” panë shumë gjëra, por u ndalën te “Hyjnesha në fron” - figurinë antropomorfe nga argjila e pjekur.</span> <span data-id="pg016_n0003">Ajo paraqet figurën e një hyjnie femër, pra simbolizon kultin e idhullit të nënës.</span></p>
+  <p><span data-id="pg016_n0004">“Hyjnesha në fron” është një nga artefaktet më të çmueshme arkeologjike të Kosovës dhe, kështu, tashmë njihet edhe si simbol i qytetit të Prishtinës.</span></p>
+ </div>
+ <p class="source-part attribution"><span data-id="pg016_n0006">(Marrë nga “Guidë Arkeologjike e Kosovës”, Ministria e Kulturës, Rinisë dhe Sportit &amp; Instituti Arkeologjik i Kosovës)</span></p>
+ <p class="source-part amphora-text"><span data-id="pg016_n0008">Në “Muzeun Etnografik të Gjakovës” panë amforat.</span> <span data-id="pg016_n0009">Aty Artani mësoi se amforat janë enë dheu që janë nxjerrë nga toka.</span> <span data-id="pg016_n0010">Kjo që ata e panë është enë në të cilën njerëzit kanë ruajtur drithëra në tokë.</span></p>
+ <div class="source-part amphora"><img data-id="pg016_im006" src="images/pg016_im006.png" alt="Amforë e gjetur në muze"></div>
+ <p class="source-part lead"><span data-id="pg016_n0012">Pastaj, nëna u shpjegoi fëmijëve:</span></p>
+ <p class="source-part explanation"><span data-id="pg016_n0014">- Njerëzit që i kanë zbuluar këto objekte quhen arkeologë.</span> <span data-id="pg016_n0015">Ata gërmuan tokën dhe gjetën objekte, si: maja shigjete, gurë varri, tempuj, thesare të ndryshme (monedha, stoli e gjëra të tjera me vlerë), që përfaqësojnë kulturën materiale dhe shpirtërore të jetës së një populli.</span></p>
+ <div class="gallery">
+  <figure class="artifact grave"><img data-id="pg016_im003" src="images/pg016_im003.png" alt="Gur varri"><figcaption><span data-id="pg016_n0017">Gur varri</span></figcaption></figure>
+  <figure class="artifact temple"><img data-id="pg016_im004" src="images/pg016_im004.png" alt="Tempull"><figcaption><span data-id="pg016_n0021">Tempull</span></figcaption></figure>
+  <h1 class="gallery-title"><span data-id="pg016_n0019">Objekte arkeologjike</span></h1>
+  <figure class="artifact swords"><img data-id="pg016_im001" src="images/pg016_im001.png" alt="Gjetje arkeologjike me pjesë metalike dhe copa qeramike, të paraqitura së bashku."><figcaption><span data-id="pg016_n0023">Pjesë shpatash</span></figcaption></figure>
+  <figure class="artifact coins"><img data-id="pg016_im002" src="images/pg016_im002.png" alt="Monedha"><figcaption><span data-id="pg016_n0025">Monedha</span></figcaption></figure>
+ </div>
+ <div class="folio" aria-label="Faqja 16">16</div>
+</section>
+</div>
+</main>
+<div class="relative z-50" id="interface-container"></div>
+<div class="relative z-50" id="nav-container"></div>
+<script src="./assets/offline-preloader.js?v=9f3d745a858de581"></script>
+<script src="./assets/scorm.js"></script>
+<script src="./assets/base.bundle.local.js"></script>
+<script src="./book-design/responses.js?v=9f3d745a858de581" data-book-responses="true"></script>
+</body></html>

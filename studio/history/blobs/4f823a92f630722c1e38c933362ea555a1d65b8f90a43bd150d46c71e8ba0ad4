@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html lang="sq"><head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Shoqëria dhe mjedisi</title>
+    <meta name="title-id" content="pg043_sec001">
+    <!-- Despite the name, this is the page's 1-based position in the reading
+         order, not a section id and not the printed page number. It drives the
+         "N of M" dock counter and is re-emitted on every package, so it tracks
+         the current order. Identity lives in title-id above. -->
+    <meta name="page-section-id" content="70">
+    <link href="./content/tailwind_output.css" rel="stylesheet">
+    <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+    <link href="./assets/fonts.css" rel="stylesheet">
+<link rel="stylesheet" href="./book-design/components.css?v=9f3d745a858de581" data-book-style="true"></head>
+
+<body class="min-h-screen flex items-center justify-center">
+    <main class="w-full">
+      <div id="content" class="container opacity-0 book" data-family="response"><section data-section-type="other" data-section-id="pg043_sec001" class="mx-auto w-full max-w-5xl bg-white px-6 py-8 text-zinc-900 max-lg:px-5 max-sm:px-4 max-sm:py-6 b-page">
+  <div class="bg-white">
+    <div class="flex items-stretch max-sm:block">
+      <div aria-hidden="true" class="w-24 shrink-0 bg-amber-300 max-lg:w-20 max-sm:mb-3 max-sm:h-auto max-sm:w-14"></div>
+
+      <div class="flex-1 pl-12 pr-8 max-lg:pl-8 max-lg:pr-4 max-sm:pl-0 max-sm:pr-0">
+        <div class="mb-10 pt-2 max-sm:mb-8">
+          <div class="flex items-start gap-4 max-sm:flex-col max-sm:items-start max-sm:gap-3">
+            <div aria-hidden="true" class="flex h-20 w-20 shrink-0 items-center justify-center border-[3px] border-amber-400 bg-white shadow-sm max-sm:h-16 max-sm:w-16 b-rubric-wrapper"><img src="images/pg005_im007.png" alt="" aria-hidden="true" class="b-rubric-icon"></div>
+            <div class="mt-5 inline-flex min-h-16 items-center border-[3px] border-amber-400 bg-amber-50 px-6 py-3 max-sm:mt-0 max-sm:min-h-14 max-sm:px-4 b-practice-heading">
+              <h1 class="adt-h2 font-bold text-left" data-id="pg043_n0002">Provoje veten</h1>
+            </div>
+          </div>
+        </div>
+
+        <div class="space-y-10 max-sm:space-y-8">
+          <div>
+            <p class="adt-body mb-4 text-left leading-relaxed max-sm:mb-5">
+              <span data-id="pg043_n0004" class="mr-2 font-semibold">1.</span><span data-id="pg043_n0005">Përshkruaj një rast se si vini deri në një vendim të përbashkët në familjen tënde.</span>
+              <span data-id="pg043_n0006">Mundohu ta përmbledhësh këtë shkrim në tri pika kryesore.</span>
+            </p>
+
+            <div class="space-y-7 max-sm:space-y-6">
+              <div>
+                <p class="adt-body mb-3 text-left" data-id="pg043_n0007">Diskutimi:</p>
+                <div class="space-y-4 max-sm:space-y-3">
+                  <div class="flex items-center gap-3 max-sm:gap-2">
+                    <div aria-hidden="true" class="h-3 w-3 shrink-0 bg-amber-300"></div>
+                    <div class="flex-1 border-b border-zinc-500 pb-1">
+                      <div class="sr-only" data-id="pg043_n0008"></div>
+                      <label for="item-1" class="sr-only">Diskutimi: rreshti 1</label>
+                      <input id="item-1" data-activity-item="item-1" type="text" aria-label="Diskutimi: rreshti 1" class="min-h-11 w-full border-0 bg-transparent px-0 py-2 outline-none focus:ring-0">
+                    </div>
+                  </div>
+                  <div class="flex items-center gap-3 max-sm:gap-2">
+                    <div aria-hidden="true" class="h-3 w-3 shrink-0 bg-amber-300"></div>
+                    <div class="flex-1 border-b border-zinc-500 pb-1">
+                      <div class="sr-only" data-id="pg043_n0009"></div>
+                      <label for="item-2" class="sr-only">Diskutimi: rreshti 2</label>
+                      <input id="item-2" data-activity-item="item-2" type="text" aria-label="Diskutimi: rreshti 2" class="min-h-11 w-full border-0 bg-transparent px-0 py-2 outline-none focus:ring-0">
+                    </div>
+                  </div>
+                  <div class="flex items-center gap-3 max-sm:gap-2">
+                    <div aria-hidden="true" class="h-3 w-3 shrink-0 bg-amber-300"></div>
+                    <div class="flex-1 border-b border-zinc-500 pb-1">
+                      <div class="sr-only" data-id="pg043_n0010"></div>
+                      <label for="item-3" class="sr-only">Diskutimi: rreshti 3</label>
+                      <input id="item-3" data-activity-item="item-3" type="text" aria-label="Diskutimi: rreshti 3" class="min-h-11 w-full border-0 bg-transparent px-0 py-2 outline-none focus:ring-0">
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+              <div>
+                <p class="adt-body mb-3 text-left" data-id="pg043_n0011">Toleranca (respektimi i mendimeve të secilit/ës):</p>
+                <div class="space-y-4 max-sm:space-y-3">
+                  <div class="flex items-center gap-3 max-sm:gap-2">
+                    <div aria-hidden="true" class="h-3 w-3 shrink-0 bg-amber-300"></div>
+                    <div class="flex-1 border-b border-zinc-500 pb-1">
+                      <div class="sr-only" data-id="pg043_n0012"></div>
+                      <label for="item-4" class="sr-only">Toleranca (respektimi i mendimeve të secilit/ës): rreshti 1</label>
+                      <input id="item-4" data-activity-item="item-4" type="text" aria-label="Toleranca (respektimi i mendimeve të secilit/ës): rreshti 1" class="min-h-11 w-full border-0 bg-transparent px-0 py-2 outline-none focus:ring-0">
+                    </div>
+                  </div>
+                  <div class="flex items-center gap-3 max-sm:gap-2">
+                    <div aria-hidden="true" class="h-3 w-3 shrink-0 bg-amber-300"></div>
+                    <div class="flex-1 border-b border-zinc-500 pb-1">
+                      <div class="sr-only" data-id="pg043_n0013"></div>
+                      <label for="item-5" class="sr-only">Toleranca (respektimi i mendimeve të secilit/ës): rreshti 2</label>
+                      <input id="item-5" data-activity-item="item-5" type="text" aria-label="Toleranca (respektimi i mendimeve të secilit/ës): rreshti 2" class="min-h-11 w-full border-0 bg-transparent px-0 py-2 outline-none focus:ring-0">
+                    </div>
+                  </div>
+                  <div class="flex items-center gap-3 max-sm:gap-2">
+                    <div aria-hidden="true" class="h-3 w-3 shrink-0 bg-amber-300"></div>
+                    <div class="flex-1 border-b border-zinc-500 pb-1">
+                      <div class="sr-only" data-id="pg043_n0014"></div>
+                      <label for="item-6" class="sr-only">Toleranca (respektimi i mendimeve të secilit/ës): rreshti 3</label>
+                      <input id="item-6" data-activity-item="item-6" type="text" aria-label="Toleranca (respektimi i mendimeve të secilit/ës): rreshti 3" class="min-h-11 w-full border-0 bg-transparent px-0 py-2 outline-none focus:ring-0">
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+              <div>
+                <p class="adt-body mb-3 text-left" data-id="pg043_n0015">Vendimmarrja e përbashkët:</p>
+                <div class="space-y-4 max-sm:space-y-3">
+                  <div class="flex items-center gap-3 max-sm:gap-2">
+                    <div aria-hidden="true" class="h-3 w-3 shrink-0 bg-amber-300"></div>
+                    <div class="flex-1 border-b border-zinc-500 pb-1">
+                      <div class="sr-only" data-id="pg043_n0016"></div>
+                      <label for="item-7" class="sr-only">Vendimmarrja e përbashkët: rreshti 1</label>
+                      <input id="item-7" data-activity-item="item-7" type="text" aria-label="Vendimmarrja e përbashkët: rreshti 1" class="min-h-11 w-full border-0 bg-transparent px-0 py-2 outline-none focus:ring-0">
+                    </div>
+                  </div>
+                  <div class="flex items-center gap-3 max-sm:gap-2">
+                    <div aria-hidden="true" class="h-3 w-3 shrink-0 bg-amber-300"></div>
+                    <div class="flex-1 border-b border-zinc-500 pb-1">
+                      <div class="sr-only" data-id="pg043_n0017"></div>
+                      <label for="item-8" class="sr-only">Vendimmarrja e përbashkët: rreshti 2</label>
+                      <input id="item-8" data-activity-item="item-8" type="text" aria-label="Vendimmarrja e përbashkët: rreshti 2" class="min-h-11 w-full border-0 bg-transparent px-0 py-2 outline-none focus:ring-0">
+                    </div>
+                  </div>
+                  <div class="flex items-center gap-3 max-sm:gap-2">
+                    <div aria-hidden="true" class="h-3 w-3 shrink-0 bg-amber-300"></div>
+                    <div class="flex-1 border-b border-zinc-500 pb-1">
+                      <div class="sr-only" data-id="pg043_n0018"></div>
+                      <label for="item-9" class="sr-only">Vendimmarrja e përbashkët: rreshti 3</label>
+                      <input id="item-9" data-activity-item="item-9" type="text" aria-label="Vendimmarrja e përbashkët: rreshti 3" class="min-h-11 w-full border-0 bg-transparent px-0 py-2 outline-none focus:ring-0">
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div>
+            <p class="adt-body mb-3 text-left leading-relaxed">
+              <span data-id="pg043_n0019" class="mr-2 font-semibold">2.</span><span data-id="pg043_n0020">Me ndihmën e prindërve, krahaso mënyrën se si janë marrë vendimet dikur dhe sot.</span>
+              <span data-id="pg043_n0021">Analizoji përgjegjësitë sot dhe dikur.</span>
+            </p>
+            <label for="item-10" class="sr-only">Me ndihmën e prindërve, krahaso mënyrën se si janë marrë vendimet dikur dhe sot. Analizoji përgjegjësitë sot dhe dikur.</label>
+            <textarea id="item-10" data-activity-item="item-10" aria-label="Me ndihmën e prindërve, krahaso mënyrën se si janë marrë vendimet dikur dhe sot. Analizoji përgjegjësitë sot dhe dikur." class="min-h-11 h-40 w-full border-0 border-b border-zinc-500 bg-transparent px-0 py-3 outline-none focus:ring-0"></textarea>
+          </div>
+
+          <div>
+            <p class="adt-body mb-4 text-left leading-relaxed">
+              <span data-id="pg043_n0022" class="mr-2 font-semibold">3.</span><span data-id="pg043_n0023">Analizo se pse punët dhe përgjegjësitë duhen ndarë çdoherë, në mënyrë që jeta në familje dhe në shoqëri të funksionojë.</span>
+            </p>
+            <div class="space-y-4 max-sm:space-y-3">
+              <div class="border-b border-zinc-500 pb-1">
+                <div class="sr-only" data-id="pg043_n0024"></div>
+                <label for="item-11" class="sr-only">Analizo se pse punët dhe përgjegjësitë duhen ndarë çdoherë, në mënyrë që jeta në familje dhe në shoqëri të funksionojë. rreshti 1</label>
+                <input id="item-11" data-activity-item="item-11" type="text" aria-label="Analizo se pse punët dhe përgjegjësitë duhen ndarë çdoherë, në mënyrë që jeta në familje dhe në shoqëri të funksionojë. rreshti 1" class="min-h-11 w-full border-0 bg-transparent px-0 py-2 outline-none focus:ring-0">
+              </div>
+              <div class="border-b border-zinc-500 pb-1">
+                <div class="sr-only" data-id="pg043_n0025"></div>
+                <label for="item-12" class="sr-only">Analizo se pse punët dhe përgjegjësitë duhen ndarë çdoherë, në mënyrë që jeta në familje dhe në shoqëri të funksionojë. rreshti 2</label>
+                <input id="item-12" data-activity-item="item-12" type="text" aria-label="Analizo se pse punët dhe përgjegjësitë duhen ndarë çdoherë, në mënyrë që jeta në familje dhe në shoqëri të funksionojë. rreshti 2" class="min-h-11 w-full border-0 bg-transparent px-0 py-2 outline-none focus:ring-0">
+              </div>
+              <div class="border-b border-zinc-500 pb-1">
+                <div class="sr-only" data-id="pg043_n0026"></div>
+                <label for="item-13" class="sr-only">Analizo se pse punët dhe përgjegjësitë duhen ndarë çdoherë, në mënyrë që jeta në familje dhe në shoqëri të funksionojë. rreshti 3</label>
+                <input id="item-13" data-activity-item="item-13" type="text" aria-label="Analizo se pse punët dhe përgjegjësitë duhen ndarë çdoherë, në mënyrë që jeta në familje dhe në shoqëri të funksionojë. rreshti 3" class="min-h-11 w-full border-0 bg-transparent px-0 py-2 outline-none focus:ring-0">
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section></div>
+    </main>
+
+    <div class="relative z-50" id="interface-container"></div>
+    <div class="relative z-50" id="nav-container"></div>
+    <script src="./assets/offline-preloader.js?v=9f3d745a858de581"></script>
+    <script src="./assets/scorm.js"></script>
+    <script src="./assets/base.bundle.local.js"></script>
+
+
+
+<script src="./book-design/responses.js?v=9f3d745a858de581" data-book-responses="true"></script></body></html>

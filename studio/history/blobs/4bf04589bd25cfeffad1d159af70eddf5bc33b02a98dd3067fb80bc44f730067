@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="sq"><head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Shoqëria dhe mjedisi</title><meta name="title-id" content="pg020_sec001"><meta name="page-section-id" content="31">
+<link href="./content/tailwind_output.css" rel="stylesheet"><link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet"><link href="./assets/fonts.css" rel="stylesheet"><link rel="stylesheet" href="./book-design/components.css?v=9f3d745a858de581" data-book-style="true">
+<style>
+#content.book.page20{width:100%;max-width:1000px;margin:0 auto;padding:0 0 120px;color:#30313a;font-family:BookPoppins,Arial,sans-serif;container-type:inline-size}
+#content.book.page20 .sheet{position:relative;width:100%;aspect-ratio:639.449 / 866.22;background:white;font-family:BookPoppins,Arial,sans-serif}
+#content.book.page20 .rail{position:absolute;left:95.35%;top:1.8%;bottom:1.8%;width:2.2%;background:#ffb450}
+#content.book.page20 .questions{position:absolute;left:8.55%;top:8.2%;width:86.8%;height:16.7%;border:0.32cqw solid #7950a0;border-right:0;border-radius:0 0 0 1.9cqw;padding:1.1cqw 2.2cqw}
+#content.book.page20 .qicon{position:absolute;width:14%;left:-1.1%;top:-16%;height:auto}
+#content.book.page20 h1,#content.book.page20 h2{font:400 2.82cqw/1.2 'Comic Sans MS',cursive;color:#39367f;margin:0}
+#content.book.page20 .questions h1{margin-left:11.5%;margin-bottom:2.1cqw}
+#content.book.page20 .questions ul{margin:0;padding:0;list-style:none}
+#content.book.page20 .questions li,#content.book.page20 .discussion p{font:400 1.877cqw/1.34 BookPoppins,Arial,sans-serif;margin:0;color:#30313a}
+#content.book.page20 .questions li{padding-left:1em;text-indent:-1em}
+#content.book.page20 .research{position:absolute;left:40.7%;top:25.9%;width:54.65%;height:9.95%;border:0.16cqw solid #7950a0;border-right:0;border-radius:1.8cqw 0 0 1.8cqw;background:#fff3d3;display:flex;align-items:center;gap:1.1cqw;padding:1.1cqw 2.2cqw}
+#content.book.page20 .research img{width:15%;height:auto;flex:none}
+#content.book.page20 .research p{font:400 1.877cqw/1.33 BookAmiri,Georgia,serif;margin:0;text-align:justify}
+#content.book.page20 .discussion{position:absolute;left:8.7%;top:37%;width:86.65%;height:28.6%;background:#9acb8d;border-radius:1.8cqw 0 0 1.8cqw;padding:1.3cqw 2.5cqw}
+#content.book.page20 .discussion h2{color:#30313a;margin:0 0 2.3cqw 9.5%}
+#content.book.page20 .dicon{position:absolute;left:2.2%;top:-7%;width:9%;height:auto}
+#content.book.page20 .discussion .comparison{display:grid;grid-template-columns:1fr 1fr;border:1px solid #30313a;margin-top:2.1cqw;width:90%;height:57%}
+#content.book.page20 .comparison a{display:block;color:inherit;text-decoration:none;padding:.4cqw .5cqw;font:400 1.877cqw/1.34 BookPoppins,Arial,sans-serif}
+#content.book.page20 .comparison a:first-child{border-right:1px solid #30313a}
+#content.book.page20 .activity-link{position:absolute;bottom:1.1cqw;right:2cqw;color:#30313a;font:400 1.3cqw/1.2 BookPoppins,Arial,sans-serif;text-decoration:underline}
+#content.book.page20 .further{position:absolute;left:10%;top:67.1%;width:85.35%;height:22%;border:0.32cqw solid #7950a0;border-right:0;border-radius:1.9cqw 0 0 1.9cqw;padding:1.5cqw 1cqw}
+#content.book.page20 .further img{position:absolute;top:-.3cqw;left:-.3cqw;width:10%;height:auto}
+#content.book.page20 .further h2{margin-left:11%;color:#30313a;margin-bottom:2.5cqw}
+#content.book.page20 .further p{font:400 1.877cqw/1.34 BookAmiri,Georgia,serif;margin:0;text-align:justify;text-indent:8.7%;max-width:87%}
+#content.book.page20 .folio{position:absolute;left:11.5%;top:91.7%;font:400 1.877cqw/1 BookPoppins,Arial,sans-serif}
+#content.book.page20 .editor{margin:20px 8.5% 0;padding:0;font:400 16px/1.5 BookPoppins,Arial,sans-serif}
+#content.book.page20 .editor summary{cursor:pointer;color:#503579;border:1px solid #7950a0;border-radius:5px;padding:12px 16px;font-weight:600;min-height:44px}
+#content.book.page20 .editor label{display:block;margin:16px 0 5px;font:400 16px/1.5 BookPoppins,Arial,sans-serif}
+#content.book.page20 .editor textarea{display:block;width:100%;min-height:88px}
+@media(max-width:650px){
+#content.book.page20{padding:0 0 100px}
+#content.book.page20 .sheet{aspect-ratio:auto;padding:24px 18px 30px;border-right:9px solid #ffb450}
+#content.book.page20 .rail{display:none}
+#content.book.page20 .questions,#content.book.page20 .research,#content.book.page20 .discussion,#content.book.page20 .further{position:relative;left:auto;top:auto;width:auto;height:auto;margin:0 0 18px;border-radius:0 0 0 14px;padding:20px 16px}
+#content.book.page20 .questions{border-width:2px;padding-top:22px}
+#content.book.page20 .qicon{position:static;width:64px;float:left;margin:-15px 12px 0 -5px}
+#content.book.page20 h1,#content.book.page20 h2{font-size:24px;line-height:1.2}
+#content.book.page20 .questions h1{margin:0 0 20px 0;min-height:40px}
+#content.book.page20 .questions li,#content.book.page20 .discussion p,#content.book.page20 .comparison a{font-size:16px;line-height:1.5}
+#content.book.page20 .questions li{margin-bottom:5px}
+#content.book.page20 .research{border:1px solid #7950a0;border-right:0;border-radius:14px 0 0 14px;padding:16px;gap:12px}
+#content.book.page20 .research img{width:58px}
+#content.book.page20 .research p,#content.book.page20 .further p{font-size:17px;line-height:1.45;text-align:left}
+#content.book.page20 .discussion{padding:20px 16px 48px}
+#content.book.page20 .dicon{position:static;width:50px;float:left;margin:-25px 12px 0 0}
+#content.book.page20 .discussion h2{margin:0 0 20px}
+#content.book.page20 .discussion .comparison{width:100%;height:140px;margin-top:16px}
+#content.book.page20 .comparison a{padding:6px}
+#content.book.page20 .activity-link{font-size:14px;bottom:14px;right:16px}
+#content.book.page20 .further{border-width:2px}
+#content.book.page20 .further img{position:static;width:54px;float:left;margin:-22px 12px 8px -18px}
+#content.book.page20 .further h2{margin:0 0 20px}
+#content.book.page20 .further p{max-width:none;text-indent:0;clear:both}
+#content.book.page20 .folio{position:static;font-size:16px;margin-left:8px}
+#content.book.page20 .editor{margin:0 18px}
+}
+</style></head>
+<body class="min-h-screen flex items-center justify-center"><main class="w-full">
+<div id="content" class="container opacity-0 book page20" data-family="response"><section data-section-type="other" data-section-id="pg020_sec001">
+<div class="sheet"><div class="rail" aria-hidden="true"></div>
+<div class="questions"><img class="qicon" src="images/pg005_im006.png" alt=""><h1 data-id="pg020_n0003">Pyetje për ty</h1><ul>
+<li data-id="pg020_n0006">– Si ishte Prishtina <em>dikur</em> e si është <em>sot</em>?</li><li data-id="pg020_n0008">– Analizoji ndryshimet.</li><li data-id="pg020_n0010">– A ka pësuar ndryshime vendi ku ti jeton?</li><li data-id="pg020_n0012">– Çka do të ndryshoje ti në qytetet e sotme në mënyrë që të ruhet mjedisi i pastër?</li></ul></div>
+<aside class="research"><img src="studio/assets/pg020_mouse.png" alt=""><p data-id="pg020_n0014">Bashkë me ndihmën e prindërve apo të mësuesit, hulumto në internet dhe gjej informacione rreth ndryshimit të qyteteve të ndryshme të botës.</p></aside>
+<div class="discussion"><img class="dicon" src="images/pg005_im008.png" alt=""><h2>Diskuto</h2><p>– A ka ndryshuar qyteti gjatë kohëve të ndryshme?<br>– Përshkruaje zhvillimin e qytetit përgjatë historisë.</p><div class="comparison"><a href="pg020_sec002.html">Më pëlqen qyteti <em>dikur</em>, sepse…</a><a href="pg020_sec002.html">Më pëlqen qyteti <em>sot</em>, sepse…</a></div><a class="activity-link" href="pg020_sec002.html">Hap diskutimin dhe shkruaj përgjigjet</a></div>
+<div class="further"><img src="images/pg005_im003.png" alt=""><h2>Thello dijet</h2><p>Gjatë periudhave historike, për të pasur jetë më të mirë njeriu bëri shumë ndryshime në qytet. U ndryshuan rrugët, ndërtimi i shtëpive, mënyra e jetesës etj. U pajisën qytetet me ujësjellës dhe drita. Zhvillimi i teknologjisë mundësoi ndërtimin e fabrikave, dhe kështu u hapën vende pune në qytete. Shkollat dhe spitalet dikur ishin pak dhe pa shumë pajisje sot ka shumë më shumë dhe janë të pajisura me të gjitha mjetet teknologjike e bashkëkohore. Rrugët e thjeshta të dikurshme u shndërruan në rrugë ndërqytetëse shumë të gjera, që njihen si autostrada. Tregtia gjithnjë e më shumë po zhvillohet në qendra të mëdha tregtare.</p></div><div class="folio">20</div></div>
+<details class="editor"><summary>Shkruaj përgjigjet dhe shënimet e hulumtimit</summary>
+<label for="item-1">Si ishte Prishtina dikur e si është sot?</label><textarea id="item-1" data-activity-item="item-1"></textarea>
+<label for="item-2">Analizoji ndryshimet.</label><textarea id="item-2" data-activity-item="item-2"></textarea>
+<label for="item-3">A ka pësuar ndryshime vendi ku ti jeton?</label><textarea id="item-3" data-activity-item="item-3"></textarea>
+<label for="item-4">Çka do të ndryshoje ti në qytetet e sotme në mënyrë që të ruhet mjedisi i pastër?</label><textarea id="item-4" data-activity-item="item-4"></textarea>
+<label for="item-5">Bashkë me ndihmën e prindërve apo të mësuesit, hulumto në internet dhe gjej informacione rreth ndryshimit të qyteteve të ndryshme të botës.</label><textarea id="item-5" data-activity-item="item-5"></textarea></details>
+</section></div></main>
+<div class="relative z-50" id="interface-container"></div><div class="relative z-50" id="nav-container"></div>
+<script src="./assets/offline-preloader.js?v=9f3d745a858de581"></script><script src="./assets/scorm.js"></script><script src="./assets/base.bundle.local.js"></script><script src="./book-design/responses.js?v=9f3d745a858de581" data-book-responses="true"></script></body></html>

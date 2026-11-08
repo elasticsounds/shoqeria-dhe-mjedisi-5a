@@ -1,0 +1,71 @@
+/* Book-scoped persistence only. The original runtime remains responsible for grading. */
+(function () {
+  if (window.__adt5aResponses) return;
+  window.__adt5aResponses = true;
+  var prefix = 'adt5a.responses.f7bf719411a7c7cf.';
+  var restored = new WeakMap();
+  var restoring = false;
+  var pending = false;
+  function current() {
+    var root = document.querySelector('#content.book');
+    var meta = document.querySelector('meta[name="title-id"]');
+    if (!root || !meta) return null;
+    var section = root.querySelector('[data-section-id],[data-correct-answers]');
+    var id = section && (section.getAttribute('data-section-id') || section.getAttribute('data-id'));
+    if (id !== meta.content) return null;
+    return {root: root, id: root.getAttribute('data-response-section-id') || id, screen: id};
+  }
+  function controls(root) { return Array.from(root.querySelectorAll('input:not([type=hidden]),textarea,select')); }
+  function key(el, index) { return el.id || el.getAttribute('data-activity-item') || el.name + ':' + index; }
+  function save() {
+    if (restoring) return;
+    var page = current();
+    if (!page) return;
+    var values = {};
+    controls(page.root).forEach(function (el, index) {
+      if (['password', 'file'].includes(el.type)) return;
+      var quizLabel = el.closest('label[role=radio]');
+      values[key(el, index)] = el.type === 'radio' || el.type === 'checkbox' ? {checked: quizLabel ? quizLabel.getAttribute('aria-checked') === 'true' : el.checked} : {value: el.value};
+    });
+    try { localStorage.setItem(prefix + page.id, JSON.stringify(values)); } catch (_) {}
+  }
+  function restore() {
+    pending = false;
+    var page = current();
+    if (!page || getComputedStyle(page.root).opacity !== '1') return;
+    var quiz = page.root.querySelector('[data-correct-answers]');
+    if (quiz && !quiz.querySelector('label[role=radio]')) return;
+    if (restored.get(page.root) === page.screen + ':' + page.id) return;
+    var values;
+    try { values = JSON.parse(localStorage.getItem(prefix + page.id) || '{}'); } catch (_) { values = {}; }
+    restored.set(page.root, page.screen + ':' + page.id);
+    restoring = true;
+    var selectedQuizLabel;
+    controls(page.root).forEach(function (el, index) {
+      var entry = values[key(el, index)];
+      if (!entry) return;
+      if ('checked' in entry) {
+        if (quiz && entry.checked) selectedQuizLabel = el.closest('label[role=radio]');
+        else el.checked = entry.checked;
+      } else if (typeof entry.value === 'string') el.value = entry.value;
+    });
+    // Reuse the runtime's selection handler so its original feedback and answer keys are respected.
+    if (selectedQuizLabel) selectedQuizLabel.click();
+    restoring = false;
+    page.root.dataset.responsesReady = page.id;
+  }
+  function schedule() {
+    if (pending) return;
+    pending = true;
+    setTimeout(restore, 80);
+  }
+  document.addEventListener('input', function (event) { if (event.target.closest('#content.book')) save(); }, true);
+  document.addEventListener('change', function (event) { if (event.target.closest('#content.book')) save(); }, true);
+  document.addEventListener('click', function (event) {
+    if (event.target.closest('#content.book label[role=radio]')) setTimeout(save, 0);
+  }, true);
+  document.addEventListener('keydown', function (event) { if (event.target.closest('#content.book label[role=radio]')) setTimeout(save, 0); }, true);
+  window.addEventListener('pagehide', save);
+  new MutationObserver(schedule).observe(document.documentElement, {subtree:true,childList:true,attributes:true,attributeFilter:['class','content','data-section-id']});
+  schedule();
+})();

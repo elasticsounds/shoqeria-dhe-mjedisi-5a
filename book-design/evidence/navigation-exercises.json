@@ -1,0 +1,429 @@
+{
+  "walks": [
+    {
+      "width": 1280,
+      "forwardSections": 107,
+      "backTransitions": 106,
+      "periodicReloads": true
+    },
+    {
+      "width": 390,
+      "forwardSections": 107,
+      "backTransitions": 106,
+      "periodicReloads": true
+    }
+  ],
+  "contents": [
+    {
+      "width": 1280,
+      "label": "Parathënie",
+      "target": "pg007_sec001",
+      "passed": true
+    },
+    {
+      "width": 1280,
+      "label": "Qyteti dikur dhe sot",
+      "target": "pg019_sec001",
+      "passed": true
+    },
+    {
+      "width": 1280,
+      "label": "Llojllojshmëria etnike e kulturore",
+      "target": "pg047_sec001",
+      "passed": true
+    },
+    {
+      "width": 1280,
+      "label": "Bashkëpunojmë për të mirën e përbashkët",
+      "target": "pg050_sec001",
+      "passed": true
+    },
+    {
+      "width": 390,
+      "label": "Parathënie",
+      "target": "pg007_sec001",
+      "passed": true
+    },
+    {
+      "width": 390,
+      "label": "Qyteti dikur dhe sot",
+      "target": "pg019_sec001",
+      "passed": true
+    },
+    {
+      "width": 390,
+      "label": "Llojllojshmëria etnike e kulturore",
+      "target": "pg047_sec001",
+      "passed": true
+    },
+    {
+      "width": 390,
+      "label": "Bashkëpunojmë për të mirën e përbashkët",
+      "target": "pg050_sec001",
+      "passed": true
+    }
+  ],
+  "responses": [
+    {
+      "href": "pg010_sec001.html",
+      "selector": "#item-7",
+      "back": "ADT verification",
+      "reload": "ADT verification",
+      "passed": true
+    },
+    {
+      "href": "pg028_sec002.html",
+      "selector": "textarea",
+      "back": "Oxhak",
+      "reload": "Oxhak",
+      "passed": true
+    },
+    {
+      "href": "pg037_sec003.html",
+      "selector": "#item-38",
+      "back": "B",
+      "reload": "B",
+      "passed": true
+    },
+    {
+      "href": "pg011_sec001.html",
+      "selector": "#item-3",
+      "passed": true
+    },
+    {
+      "href": "pg011_sec002.html",
+      "selector": "#item-5",
+      "passed": true
+    },
+    {
+      "href": "pg045_sec002.html",
+      "selector": "input",
+      "passed": true
+    }
+  ],
+  "quizzes": [
+    {
+      "href": "qz001.html",
+      "options": [
+        {
+          "key": "qz001_o0",
+          "correct": false,
+          "checked": "true",
+          "invalid": "true",
+          "feedback": "❌ Jo. Teksti thotë se Ari po fillon klasën e pestë, por jo se po ndërronte shkollën."
+        },
+        {
+          "key": "qz001_o1",
+          "correct": true,
+          "checked": "true",
+          "invalid": "false",
+          "feedback": "✅ Saktë! Në tekst thuhet se prindërit pranuan, sepse Ari tani është më i rritur dhe më i përgjegjshëm."
+        },
+        {
+          "key": "qz001_o2",
+          "correct": false,
+          "checked": "true",
+          "invalid": "true",
+          "feedback": "❌ Jo. Ditari është shoku i tij i veçantë ku shkruan, por nuk ishte ai që ua kërkoi prindërve macen."
+        }
+      ],
+      "retryByReselection": true,
+      "savedAfterReload": true,
+      "submission": "Original automatic submission on option selection; no separate submit button"
+    },
+    {
+      "href": "qz002.html",
+      "options": [
+        {
+          "key": "qz002_o0",
+          "correct": false,
+          "checked": "true",
+          "invalid": "true",
+          "feedback": "❌ Jo tamam. Pemët rriten në natyrë, ndërsa monumentet shërbejnë për të ruajtur kujtesën historike."
+        },
+        {
+          "key": "qz002_o1",
+          "correct": false,
+          "checked": "true",
+          "invalid": "true",
+          "feedback": "❌ Jo. Monumentet nuk e ndryshojnë motin; ato tregojnë dhe kujtojnë historinë dhe kulturën."
+        },
+        {
+          "key": "qz002_o2",
+          "correct": true,
+          "checked": "true",
+          "invalid": "false",
+          "feedback": "✅ Saktë! Monumentet historike janë të rëndësishme sepse ruajnë dhe përcjellin ngjarjet e historisë nga një brez te tjetri."
+        }
+      ],
+      "retryByReselection": true,
+      "savedAfterReload": true,
+      "submission": "Original automatic submission on option selection; no separate submit button"
+    },
+    {
+      "href": "qz003.html",
+      "options": [
+        {
+          "key": "qz003_o0",
+          "correct": false,
+          "checked": "true",
+          "invalid": "true",
+          "feedback": "❌ Jo. Ura është një ndërtim për të kaluar, jo një objekt si amfora."
+        },
+        {
+          "key": "qz003_o1",
+          "correct": false,
+          "checked": "true",
+          "invalid": "true",
+          "feedback": "❌ Jo. Shpatat janë armë, ndërsa amforat janë enë."
+        },
+        {
+          "key": "qz003_o2",
+          "correct": true,
+          "checked": "true",
+          "invalid": "false",
+          "feedback": "✅ Saktë! Amforat janë enë dheu që janë përdorur për të ruajtur gjëra, si drithërat."
+        }
+      ],
+      "retryByReselection": true,
+      "savedAfterReload": true,
+      "submission": "Original automatic submission on option selection; no separate submit button"
+    },
+    {
+      "href": "qz004.html",
+      "options": [
+        {
+          "key": "qz004_o0",
+          "correct": false,
+          "checked": "true",
+          "invalid": "true",
+          "feedback": "❌ Ara është tokë ku punohet në fshat, jo rrugë."
+        },
+        {
+          "key": "qz004_o1",
+          "correct": true,
+          "checked": "true",
+          "invalid": "false",
+          "feedback": "✅ Saktë! Autostradat janë rrugë shumë të gjera që lidhin vendbanime të ndryshme."
+        },
+        {
+          "key": "qz004_o2",
+          "correct": false,
+          "checked": "true",
+          "invalid": "true",
+          "feedback": "❌ Kalldrëmi është rrugë me gurë, siç ka pasur qyteti dikur."
+        }
+      ],
+      "retryByReselection": true,
+      "savedAfterReload": true,
+      "submission": "Original automatic submission on option selection; no separate submit button"
+    },
+    {
+      "href": "qz005.html",
+      "options": [
+        {
+          "key": "qz005_o0",
+          "correct": false,
+          "checked": "true",
+          "invalid": "true",
+          "feedback": "❌ Jo tamam. Lundrimi nuk përmendet në tekst si puna kryesore e banorëve të fshatit."
+        },
+        {
+          "key": "qz005_o1",
+          "correct": true,
+          "checked": "true",
+          "invalid": "false",
+          "feedback": "✅ Saktë! Teksti tregon se njerëzit në fshat merren kryesisht me bujqësi dhe blegtori."
+        },
+        {
+          "key": "qz005_o2",
+          "correct": false,
+          "checked": "true",
+          "invalid": "true",
+          "feedback": "❌ Jo. Fluturimet nuk paraqiten si veprimtari kryesore e njerëzve që jetojnë në fshat."
+        }
+      ],
+      "retryByReselection": true,
+      "savedAfterReload": true,
+      "submission": "Original automatic submission on option selection; no separate submit button"
+    },
+    {
+      "href": "qz006.html",
+      "options": [
+        {
+          "key": "qz006_o0",
+          "correct": false,
+          "checked": "true",
+          "invalid": "true",
+          "feedback": "❌ Jo tamam. Teksti nuk thotë se puna u lehtësua sepse njerëzit punojnë më pak, por sepse përdoren mjete më të mira."
+        },
+        {
+          "key": "qz006_o1",
+          "correct": true,
+          "checked": "true",
+          "invalid": "false",
+          "feedback": "✅ Saktë! Teksti tregon se teknologjia dhe mjetet moderne e kanë lehtësuar punën e njerëzve."
+        },
+        {
+          "key": "qz006_o2",
+          "correct": false,
+          "checked": "true",
+          "invalid": "true",
+          "feedback": "❌ Jo. Madhësia e shtëpive nuk është arsyeja kryesore që puna është bërë më e lehtë."
+        }
+      ],
+      "retryByReselection": true,
+      "savedAfterReload": true,
+      "submission": "Original automatic submission on option selection; no separate submit button"
+    },
+    {
+      "href": "qz007.html",
+      "options": [
+        {
+          "key": "qz007_o0",
+          "correct": true,
+          "checked": "true",
+          "invalid": "false",
+          "feedback": "✅ Saktë! Teksti tregon se sot veshjet tradicionale përdoren në jetën artistike e kulturore dhe në festa të ndryshme familjare."
+        },
+        {
+          "key": "qz007_o1",
+          "correct": false,
+          "checked": "true",
+          "invalid": "true",
+          "feedback": "❌ Jo. Veshjet tradicionale nuk përdoren vetëm për sport, por si pjesë e kulturës dhe traditës."
+        },
+        {
+          "key": "qz007_o2",
+          "correct": false,
+          "checked": "true",
+          "invalid": "true",
+          "feedback": "❌ Jo tamam. Teksti nuk thotë se përdoren vetëm në shkollë, por në festa dhe veprimtari kulturore."
+        }
+      ],
+      "retryByReselection": true,
+      "savedAfterReload": true,
+      "submission": "Original automatic submission on option selection; no separate submit button"
+    },
+    {
+      "href": "qz008.html",
+      "options": [
+        {
+          "key": "qz008_o0",
+          "correct": true,
+          "checked": "true",
+          "invalid": "false",
+          "feedback": "✅ Saktë! Teksti tregon se sot puna kryhet me mjete bashkëkohore dhe teknologji moderne."
+        },
+        {
+          "key": "qz008_o1",
+          "correct": false,
+          "checked": "true",
+          "invalid": "true",
+          "feedback": "❌ Jo tamam. Dikur shumë punë bëheshin me dorë, por sot teknologjia e ka lehtësuar punën."
+        },
+        {
+          "key": "qz008_o2",
+          "correct": false,
+          "checked": "true",
+          "invalid": "true",
+          "feedback": "❌ Jo. Teksti thotë se mungesa e mjeteve e bënte punën më të vështirë dikur."
+        }
+      ],
+      "retryByReselection": true,
+      "savedAfterReload": true,
+      "submission": "Original automatic submission on option selection; no separate submit button"
+    },
+    {
+      "href": "qz009.html",
+      "options": [
+        {
+          "key": "qz009_o0",
+          "correct": false,
+          "checked": "true",
+          "invalid": "true",
+          "feedback": "❌ Jo saktë. Teksti shpjegon se sot organizimi nuk bëhet vetëm nga burrat, por nga të gjithë së bashku."
+        },
+        {
+          "key": "qz009_o1",
+          "correct": false,
+          "checked": "true",
+          "invalid": "true",
+          "feedback": "❌ Jo saktë. Teksti thotë se vendimet dhe përgjegjësitë ndahen mes anëtarëve të familjes."
+        },
+        {
+          "key": "qz009_o2",
+          "correct": true,
+          "checked": "true",
+          "invalid": "false",
+          "feedback": "✅ Saktë! Teksti tregon se sot jeta në familje organizohet së bashku dhe me vendime të përbashkëta."
+        }
+      ],
+      "retryByReselection": true,
+      "savedAfterReload": true,
+      "submission": "Original automatic submission on option selection; no separate submit button"
+    },
+    {
+      "href": "qz010.html",
+      "options": [
+        {
+          "key": "qz010_o0",
+          "correct": false,
+          "checked": "true",
+          "invalid": "true",
+          "feedback": "❌ Jo. Mësimi thotë se të gjitha kulturat duhen respektuar dhe vlerësuar."
+        },
+        {
+          "key": "qz010_o1",
+          "correct": false,
+          "checked": "true",
+          "invalid": "true",
+          "feedback": "❌ Jo. Teksti shpjegon se njerëzit mund të flasin gjuhë të ndryshme dhe prapë janë të barabartë."
+        },
+        {
+          "key": "qz010_o2",
+          "correct": true,
+          "checked": "true",
+          "invalid": "false",
+          "feedback": "✅ Saktë! Llojllojshmëria etnike dhe kulturore nënkupton që njerëzit mund të ndryshojnë në gjuhë, tradita, veshje, ushqim dhe mënyrën e jetesës."
+        }
+      ],
+      "retryByReselection": true,
+      "savedAfterReload": true,
+      "submission": "Original automatic submission on option selection; no separate submit button"
+    },
+    {
+      "href": "qz011.html",
+      "options": [
+        {
+          "key": "qz011_o0",
+          "correct": false,
+          "checked": "true",
+          "invalid": "true",
+          "feedback": "❌ Jo. Teksti nuk thotë se bashkëpunimi sjell grindje, por diçka të mirë për familjen."
+        },
+        {
+          "key": "qz011_o1",
+          "correct": false,
+          "checked": "true",
+          "invalid": "true",
+          "feedback": "❌ Jo. Vetmia nuk lidhet me bashkëpunimin në tekst; bashkëpunimi i afron njerëzit me njëri-tjetrin."
+        },
+        {
+          "key": "qz011_o2",
+          "correct": true,
+          "checked": "true",
+          "invalid": "false",
+          "feedback": "✅ Saktë! Teksti thotë se bashkëpunimi sjell dashuri dhe mirëkuptim në çdo familje."
+        }
+      ],
+      "retryByReselection": true,
+      "savedAfterReload": true,
+      "submission": "Original automatic submission on option selection; no separate submit button"
+    }
+  ],
+  "errors": [],
+  "failures": [],
+  "baseline": "Original Next/Back sample passed before exported-output walk",
+  "passed": true
+}

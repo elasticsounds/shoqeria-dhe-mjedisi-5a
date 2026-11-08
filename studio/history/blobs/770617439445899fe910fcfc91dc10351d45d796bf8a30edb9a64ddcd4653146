@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="sq"><head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Shoqëria dhe mjedisi</title><meta name="title-id" content="pg040_sec001"><meta name="page-section-id" content="83">
+<link href="./content/tailwind_output.css" rel="stylesheet"><link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet"><link href="./assets/fonts.css" rel="stylesheet"><link rel="stylesheet" href="./book-design/components.css?v=9f3d745a858de581" data-book-style="true">
+<style>
+#content.book[data-family="project"]{padding:0 0 120px;max-width:1000px;container-type:inline-size;font-family:BookPoppins,Arial,sans-serif}
+#content.book .project-page{position:relative;aspect-ratio:639.449/866.22;overflow:hidden;background:white;padding:0}
+#content.book .project-rail{position:absolute;left:2.36%;top:1.75%;width:7.8%;height:96.5%;background:#ffb149}
+#content.book .project-purple{position:absolute;right:2.3%;top:1.75%;width:2.1%;height:13.4%;background:#9b73b7}
+#content.book .project-heading{position:absolute;left:10.1%;top:8.2%;width:35.3%;height:5.3%;background:#fff9ed;border:.28cqw solid #ffad48;display:flex;align-items:center;padding-left:4.2cqw}
+#content.book .project-heading h1{font:700 2.502cqw/1.2 BookPoppins,Arial,sans-serif;margin:0;white-space:nowrap}
+#content.book .header-art{position:absolute;left:6.9%;top:6.8%;width:6.8%;z-index:2}
+#content.book .project-panel{position:absolute;left:13.4%;top:20.15%;width:71.1%;height:37.3%;background:#ffe4a0;border:.3cqw dashed #ffad48;padding:1.25cqw 1.45cqw 1cqw}
+#content.book .character-art{position:absolute;left:14.2%;top:14.3%;width:12.3%;z-index:2}
+#content.book .project-panel h2{font:400 2.815cqw/1.2 'Comic Sans MS',cursive;margin:0 0 3.25cqw 14.4cqw}
+#content.book .project-copy,#content.book .project-copy p{font:400 1.877cqw/3.6cqw BookPoppins,Arial,sans-serif;margin:0;color:#30313a}
+#content.book .project-copy p{padding:0}
+#content.book .project-copy .topic{padding-left:4cqw}
+#content.book .project-photo{position:absolute;left:13.4%;top:58.5%;width:71.1%;height:auto}
+#content.book .folio{position:absolute;left:11.2%;top:90.8%;font:400 1.877cqw/1 BookPoppins,Arial,sans-serif}
+#content.book .project-notes{margin:12px auto 0;width:min(90%,760px);font:400 17px/1.5 BookPoppins,Arial,sans-serif;border:1px solid #d08b33;background:#fff9ea;padding:12px 18px}
+#content.book .project-notes summary{cursor:pointer;min-height:44px;font-weight:600;padding:8px 0}
+#content.book .project-notes p{font:400 16px/1.5 BookPoppins,Arial,sans-serif;margin:0 0 12px}
+#content.book .project-notes label{display:block;margin:16px 0 4px;font-size:16px}
+#content.book .project-notes input,#content.book .project-notes textarea{width:100%}
+@media(max-width:700px){
+#content.book[data-family="project"]{padding:0 0 100px}
+#content.book .project-page{aspect-ratio:auto;overflow:visible;padding:26px 20px 30px 38px}
+#content.book .project-rail{left:0;top:0;width:14px;height:100%}
+#content.book .project-purple{right:0;top:0;width:10px;height:90px}
+#content.book .project-heading{position:relative;left:auto;top:auto;width:auto;height:auto;min-height:58px;margin:0 12px 34px 10px;padding:10px 8px 10px 46px;border:2px solid #ffad48}
+#content.book .project-heading h1{font-size:21px}
+#content.book .header-art{left:27px;top:18px;width:52px}
+#content.book .project-panel{position:relative;left:auto;top:auto;width:auto;height:auto;padding:20px 14px 16px;border:2px dashed #ffad48}
+#content.book .character-art{left:42px;top:84px;width:70px}
+#content.book .project-panel h2{font-size:24px;margin:0 0 24px 70px}
+#content.book .project-copy,#content.book .project-copy p{font-size:16px;line-height:1.65}
+#content.book .project-copy p{margin:0 0 8px}
+#content.book .project-copy .topic{padding-left:18px}
+#content.book .project-copy br.desktop-break{display:none}
+#content.book .project-photo{position:relative;left:auto;top:auto;width:100%;margin-top:12px}
+#content.book .folio{position:relative;left:auto;top:auto;display:block;font-size:16px;margin:12px 0 0}
+}
+</style></head>
+<body class="min-h-screen flex items-center justify-center"><main class="w-full">
+<div id="content" class="container mx-auto w-full opacity-0 book" data-family="project">
+<section class="project-page" data-section-type="text_and_single_image" data-section-id="pg040_sec001">
+<div class="project-rail" aria-hidden="true"></div><div class="project-purple" aria-hidden="true"></div>
+<div class="project-heading"><h1 data-id="pg040_n0002">Provoje veten</h1></div>
+<img class="header-art" src="studio/assets/pg040_header_detail.png" alt="">
+<div class="project-panel"><h2 data-id="pg040_n0005">Projekt</h2>
+<div class="project-copy">
+<p data-id="pg040_n0008">1. Ndahuni në grupe me nga 4-5 nxënës dhe zgjidhni temën për të cilën<br class="desktop-break"> do ta bëni projektin.</p>
+<p data-id="pg040_n0010">2. Hulumtoni dhe mblidhni materiale: shënime, video, dokumentare<br class="desktop-break"> dhe fotografi për:</p>
+<p class="topic" data-id="pg040_n0013">a) zanatet në zhdukje në Kosovë;</p>
+<p class="topic" data-id="pg040_n0015">b) profesionet <em>dikur</em> dhe <em>sot</em>;</p>
+<p class="topic" data-id="pg040_n0017">c) profesionin e së ardhmes.</p>
+<p data-id="pg040_n0019">3. Ndani apo caktoni detyrat brenda grupit dhe materialet që do t’i<br class="desktop-break"> grumbulloni.</p>
+<p data-id="pg040_n0021">4. Renditni materialet në formën që do t’i paraqitni.</p>
+<p data-id="pg040_n0023">5. Prezantojeni projektin para të tjerëve.</p>
+</div></div>
+<img class="character-art" src="studio/assets/pg040_project_character.png" alt="">
+<img class="project-photo" data-id="pg040_im003" src="images/pg040_im003.png" alt="Fëmijë duke punuar së bashku në një projekt artistik me letra me ngjyra dhe lapsa.">
+<span class="folio">40</span>
+</section>
+<details class="project-notes"><summary>Shënime për projektin (opsionale)</summary>
+<p>Shënimet ruhen në këtë pajisje.</p>
+<label for="item-1">1. Tema e projektit</label><input id="item-1" data-activity-item="item-1" type="text">
+<label for="item-2">a) zanatet në zhdukje në Kosovë</label><textarea id="item-2" data-activity-item="item-2"></textarea>
+<label for="item-3">b) profesionet dikur dhe sot</label><textarea id="item-3" data-activity-item="item-3"></textarea>
+<label for="item-4">c) profesionin e së ardhmes</label><textarea id="item-4" data-activity-item="item-4"></textarea>
+<label for="item-5">3. Detyrat dhe materialet</label><textarea id="item-5" data-activity-item="item-5"></textarea>
+<label for="item-6">4. Renditja e materialeve</label><textarea id="item-6" data-activity-item="item-6"></textarea>
+<label for="item-7">5. Prezantimi</label><textarea id="item-7" data-activity-item="item-7"></textarea>
+</details></div></main>
+<div class="relative z-50" id="interface-container"></div><div class="relative z-50" id="nav-container"></div>
+<script src="./assets/offline-preloader.js?v=9f3d745a858de581"></script><script src="./assets/scorm.js"></script><script src="./assets/base.bundle.local.js"></script><script src="./book-design/responses.js?v=9f3d745a858de581" data-book-responses="true"></script></body></html>

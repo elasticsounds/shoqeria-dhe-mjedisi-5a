@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="sq"><head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Shoqëria dhe mjedisi</title>
+    <meta name="title-id" content="pg020_sec002">
+    <!-- Despite the name, this is the page's 1-based position in the reading
+         order, not a section id and not the printed page number. It drives the
+         "N of M" dock counter and is re-emitted on every package, so it tracks
+         the current order. Identity lives in title-id above. -->
+    <meta name="page-section-id" content="27">
+    <link href="./content/tailwind_output.css" rel="stylesheet">
+    <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+    <link href="./assets/fonts.css" rel="stylesheet">
+<link rel="stylesheet" href="./book-design/components.css?v=9f3d745a858de581" data-book-style="true"></head>
+
+<body class="min-h-screen flex items-center justify-center">
+    <main class="w-full">
+      <div id="content" class="container opacity-0 book" data-family="discussion"><section data-section-type="other" data-section-id="pg020_sec002" class="mx-auto w-full max-w-5xl px-8 py-8 max-sm:px-5 b-page"><div class="rounded-[2rem] bg-[#a8cf8f] px-8 py-8 shadow-sm max-sm:px-5 max-sm:py-6"><div class="mb-6 flex items-start gap-4"><div aria-hidden="true" class="flex h-20 w-20 shrink-0 items-center justify-center rounded-full border-2 border-[#8db877] bg-white shadow-sm max-sm:h-16 max-sm:w-16 b-rubric-wrapper"><img src="images/pg005_im008.png" alt="" aria-hidden="true" class="b-rubric-icon"></div><h1 data-id="pg020_n0017" class="adt-h3 pt-2 text-left text-[#2f2a4a]">Diskuto</h1></div><div class="mb-8 space-y-6 text-[#1f2937]"><div><div class="flex items-start gap-3"><span aria-hidden="true" class="adt-body leading-none">–</span><span data-id="pg020_n0020" class="adt-body">A ka ndryshuar qyteti gjatë kohëve të ndryshme?</span></div><label for="item-1" class="sr-only">A ka ndryshuar qyteti gjatë kohëve të ndryshme?</label><textarea id="item-1" data-activity-item="item-1" aria-label="A ka ndryshuar qyteti gjatë kohëve të ndryshme?" class="mt-3 w-full min-h-24 rounded-[1.5rem] border-2 border-[#6b4c9a] bg-white/90 px-4 py-3 text-gray-800 outline-none focus:ring-4 focus:ring-[#cbb7e8]"></textarea></div><div><div class="flex items-start gap-3"><span aria-hidden="true" class="adt-body leading-none">–</span><span data-id="pg020_n0022" class="adt-body">Përshkruaje zhvillimin e qytetit përgjatë historisë.</span></div><label for="item-2" class="sr-only">Përshkruaje zhvillimin e qytetit përgjatë historisë.</label><textarea id="item-2" data-activity-item="item-2" aria-label="Përshkruaje zhvillimin e qytetit përgjatë historisë." class="mt-3 w-full min-h-24 rounded-[1.5rem] border-2 border-[#6b4c9a] bg-white/90 px-4 py-3 text-gray-800 outline-none focus:ring-4 focus:ring-[#cbb7e8]"></textarea></div></div><div class="overflow-hidden rounded-[1.75rem] border-2 border-[#4b5563] bg-[#acd292]"><div class="grid grid-cols-2 max-sm:grid-cols-1"><div class="border-r-2 border-[#4b5563] p-5 max-sm:border-r-0 max-sm:border-b-2 max-sm:p-4"><div class="mb-3 adt-body text-[#1f2937]"><span data-id="pg020_n0023">Më pëlqen qyteti dikur, sepse…</span></div><div class="sr-only"><span data-id="pg020_n0024"></span></div><label for="item-3" class="sr-only">Më pëlqen qyteti dikur, sepse…</label><textarea id="item-3" data-activity-item="item-3" aria-label="Më pëlqen qyteti dikur, sepse…" class="w-full min-h-64 rounded-[1.5rem] border-2 border-dashed border-[#6b4c9a] bg-white/50 px-4 py-3 text-gray-800 outline-none focus:ring-4 focus:ring-[#cbb7e8] max-sm:min-h-52"></textarea></div><div class="p-5 max-sm:p-4"><div class="mb-3 adt-body text-[#1f2937]"><span data-id="pg020_n0025">Më pëlqen qyteti sot, sepse…</span></div><div class="sr-only"><span data-id="pg020_n0026"></span></div><label for="item-4" class="sr-only">Më pëlqen qyteti sot, sepse…</label><textarea id="item-4" data-activity-item="item-4" aria-label="Më pëlqen qyteti sot, sepse…" class="w-full min-h-64 rounded-[1.5rem] border-2 border-dashed border-[#6b4c9a] bg-white/50 px-4 py-3 text-gray-800 outline-none focus:ring-4 focus:ring-[#cbb7e8] max-sm:min-h-52"></textarea></div></div></div></div></section></div>
+    </main>
+
+    <div class="relative z-50" id="interface-container"></div>
+    <div class="relative z-50" id="nav-container"></div>
+    <script src="./assets/offline-preloader.js?v=9f3d745a858de581"></script>
+    <script src="./assets/scorm.js"></script>
+    <script src="./assets/base.bundle.local.js"></script>
+
+
+
+<script src="./book-design/responses.js?v=9f3d745a858de581" data-book-responses="true"></script></body></html>

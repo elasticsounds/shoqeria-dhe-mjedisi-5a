@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="sq"><head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Shoqëria dhe mjedisi</title>
+<meta name="title-id" content="pg039_sec001"><meta name="page-section-id" content="58">
+<link href="./content/tailwind_output.css" rel="stylesheet"><link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet"><link href="./assets/fonts.css" rel="stylesheet">
+<link rel="stylesheet" href="./book-design/components.css?v=9f3d745a858de581" data-book-style="true">
+<style>
+#content.book.page39 { position:relative; width:100%; max-width:1000px; min-height:0; aspect-ratio:639.449 / 866.22; padding:8% 11.2% 12% 15.6%; }
+#content.book.page39 .medical { font:400 clamp(16px,1.875vw,18.77px)/1.34 BookAmiri,Georgia,serif; text-align:justify; margin:0 0 4.5%; }
+#content.book.page39 .questions { position:relative; border:2px solid #7950aa; border-right:0; border-radius:0 0 0 18px; margin:0 -11% 0 -3%; padding:15px 6% 22px 3%; }
+#content.book.page39 .questions-head { display:flex; align-items:center; gap:12px; margin:-30px 0 12px; }
+#content.book.page39 .questions-head img { width:75px; height:auto; }
+#content.book.page39 .questions h1 { font:400 28px/1.2 cursive; color:#574293; margin:0; }
+#content.book.page39 .question-row { margin:0 0 12px; }
+#content.book.page39 .questions p { font:400 18.77px/1.35 BookPoppins,Arial,sans-serif; margin:0 0 4px; }
+#content.book.page39 .questions textarea { display:block; width:100%; min-height:44px; height:44px; padding:8px; border:1px solid #aaa; border-radius:2px; }
+#content.book.page39 .writing { margin-top:12px; }
+#content.book.page39 .questions input { display:block; width:100%; min-height:44px; border:0; border-bottom:1px solid #555; border-radius:0; padding:6px 2px; }
+#content.book.page39 .folio { position:absolute; right:11.2%; bottom:7.5%; font:400 18.77px/1 BookPoppins,Arial,sans-serif; }
+@media(max-width:700px) {
+ #content.book.page39 { aspect-ratio:auto; min-height:0; padding:28px 20px 125px; }
+ #content.book.page39 .medical { font-size:18px; line-height:1.55; text-align:left; margin-bottom:35px; }
+ #content.book.page39 .questions { margin:0; padding:14px 14px 20px; border-right:2px solid #7950aa; }
+ #content.book.page39 .questions-head { margin:-29px 0 12px; }
+ #content.book.page39 .questions-head img { width:62px; }
+ #content.book.page39 .questions h1 { font-size:26px; }
+ #content.book.page39 .questions p { font-size:16px; line-height:1.5; }
+ #content.book.page39 .questions textarea { height:60px; }
+ #content.book.page39 .folio { position:static; text-align:right; margin-top:28px; font-size:16px; }
+}
+</style></head>
+<body class="min-h-screen flex items-center justify-center"><main class="w-full">
+<div id="content" class="container mx-auto w-full bg-white opacity-0 book page39" data-family="response" data-response-section-id="pg039_sec002">
+<section data-section-type="text_and_images" data-section-id="pg039_sec001">
+<p class="medical"><span data-id="pg039_n0002">Profesioni i mjekut është shumë i rëndësishëm.</span> <span data-id="pg039_n0003">Ai kujdeset për shëndetin e njerëzve.</span> <span data-id="pg039_n0004">Mjeku ndihmon në zbulimin dhe mjekimin e sëmundjeve.</span> <span data-id="pg039_n0005">Pas shkollimit, mjeku premton se do t’i ndihmojë pacientët gjatë gjithë jetës së tij.</span> <span data-id="pg039_n0006">Dikur, mjekët punonin edhe pa pajisje moderne – ata përdornin stetoskopin për t’i kontrolluar pacientët dhe për të zbuluar sëmundje.</span> <span data-id="pg039_n0007">Sot, ky profesion është përmirësuar shumë, sepse ka pajisje të reja dhe teknologji moderne.</span></p>
+<section class="questions" aria-labelledby="q39-heading">
+<div class="questions-head"><img src="images/pg005_im006.png" alt=""><h1 id="q39-heading" data-id="pg039_n0034">Pyetje për ty</h1></div>
+<div class="question-row"><p id="q39-label1" data-id="pg039_n0035">- Cilat profesione u panë në panair?</p><textarea id="item-1" data-activity-item="item-1" aria-labelledby="q39-label1"></textarea></div>
+<div class="question-row"><p id="q39-label2" data-id="pg039_n0036">- Pse ushtrimi i profesionit ishte më i vështirë <em>dikur</em>?</p><textarea id="item-2" data-activity-item="item-2" aria-labelledby="q39-label2"></textarea></div>
+<div class="question-row"><p id="q39-label3" data-id="pg039_n0037">- Çfarë e lehtësoi punën në secilin profesion?</p><textarea id="item-3" data-activity-item="item-3" aria-labelledby="q39-label3"></textarea></div>
+<div class="writing"><p><span data-id="pg039_n0038">Shkruaj për profesionin që dëshiron ta ushtrosh në të ardhmen!</span> <span data-id="pg039_n0039">Përmend përgjegjësitë dhe rëndësinë që ka ai prefesion!</span></p>
+<input id="item-4" data-activity-item="item-4" type="text" aria-label="Shkruaj përgjigjen në rreshtin e parë për profesionin që dëshiron ta ushtrosh në të ardhmen">
+<input id="item-5" data-activity-item="item-5" type="text" aria-label="Shkruaj përgjigjen në rreshtin e dytë për përgjegjësitë dhe rëndësinë e profesionit">
+<input id="item-6" data-activity-item="item-6" type="text" aria-label="Shkruaj përgjigjen në rreshtin e tretë për profesionin">
+</div></section>
+<div class="folio" aria-label="Faqja 39">39</div>
+</section></div></main>
+<div class="relative z-50" id="interface-container"></div><div class="relative z-50" id="nav-container"></div>
+<script src="./assets/offline-preloader.js?v=9f3d745a858de581"></script><script src="./assets/scorm.js"></script><script src="./assets/base.bundle.local.js"></script>
+<script src="./book-design/responses.js?v=9f3d745a858de581" data-book-responses="true"></script></body></html>

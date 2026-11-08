@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="sq"><head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Shoqëria dhe mjedisi</title>
+    <meta name="title-id" content="pg010_sec001">
+    <!-- Despite the name, this is the page's 1-based position in the reading
+         order, not a section id and not the printed page number. It drives the
+         "N of M" dock counter and is re-emitted on every package, so it tracks
+         the current order. Identity lives in title-id above. -->
+    <meta name="page-section-id" content="11">
+    <link href="./content/tailwind_output.css" rel="stylesheet">
+    <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+    <link href="./assets/fonts.css" rel="stylesheet">
+<link rel="stylesheet" href="./book-design/components.css?v=9f3d745a858de581" data-book-style="true"></head>
+
+<body class="min-h-screen flex items-center justify-center">
+    <main class="w-full">
+      <div id="content" class="container mx-auto w-full max-w-5xl px-8 max-sm:px-5 py-8 opacity-0 book" data-family="identity-diagram">
+  <section data-section-type="other" data-section-id="pg010_sec001" class="w-full b-page">
+    <div class="mb-6 flex items-center gap-4 rounded-r-3xl border-4 border-amber-300 bg-gradient-to-r from-amber-100 to-yellow-50 px-5 py-4 shadow-sm b-practice-heading">
+      <div aria-hidden="true" class="flex h-16 w-16 items-center justify-center rounded-2xl border-4 border-amber-300 bg-white b-rubric-wrapper"><img src="images/pg005_im007.png" alt="" aria-hidden="true" class="b-rubric-icon"></div>
+      <h1 data-id="pg010_n0002" class="adt-h3 font-extrabold text-slate-800">Provoje veten</h1>
+    </div>
+
+    <div class="mb-6 adt-body text-slate-800">
+      <span data-id="pg010_n0004" class="font-semibold mr-2">1.</span><span data-id="pg010_n0005">Plotëso sipas kërkesave.</span>
+    </div>
+
+    <div class="relative mx-auto w-full max-w-4xl b-diagram-form">
+      <img data-id="pg010_im001" src="images/pg010_im001.png" alt="Flutur për t'u plotësuar me të dhëna personale" class="w-full h-auto">
+
+      <div class="absolute inset-0 z-10 b-diagram-fields">
+        <div class="absolute left-[10%] top-[18%] w-[23%] max-lg:left-[7%] max-lg:top-[16%] max-lg:w-[27%] max-sm:left-[4%] max-sm:top-[14%] max-sm:w-[34%] rounded-3xl border-2 border-slate-800 bg-white/95 p-3 shadow-md">
+          <label for="item-1" data-id="pg010_n0007" class="adt-body block text-center font-medium text-slate-800">Vendlindja</label>
+          <input id="item-1" data-activity-item="item-1" type="text" aria-label="Vendlindja" class="mt-2 min-h-11 w-full rounded-2xl border-2 border-amber-300 bg-amber-50 px-3 py-2 text-slate-800 outline-none focus:border-amber-500">
+        </div>
+
+        <div class="absolute right-[10%] top-[18%] w-[23%] max-lg:right-[7%] max-lg:top-[16%] max-lg:w-[27%] max-sm:right-[4%] max-sm:top-[14%] max-sm:w-[34%] rounded-3xl border-2 border-slate-800 bg-white/95 p-3 shadow-md">
+          <label for="item-2" data-id="pg010_n0008" class="adt-body block text-center font-medium text-slate-800">Lënda ime më e pëlqyer</label>
+          <input id="item-2" data-activity-item="item-2" type="text" aria-label="Lënda ime më e pëlqyer" class="mt-2 min-h-11 w-full rounded-2xl border-2 border-amber-300 bg-amber-50 px-3 py-2 text-slate-800 outline-none focus:border-amber-500">
+        </div>
+
+        <div class="absolute left-[12%] top-[47%] w-[20%] max-lg:left-[8%] max-lg:top-[46%] max-lg:w-[24%] max-sm:left-[5%] max-sm:top-[43%] max-sm:w-[30%] rounded-3xl border-2 border-slate-800 bg-white/95 p-3 shadow-md">
+          <label for="item-3" data-id="pg010_n0009" class="adt-body block text-center font-medium text-slate-800">Familja ime</label>
+          <input id="item-3" data-activity-item="item-3" type="text" aria-label="Familja ime" class="mt-2 min-h-11 w-full rounded-2xl border-2 border-amber-300 bg-amber-50 px-3 py-2 text-slate-800 outline-none focus:border-amber-500">
+        </div>
+
+        <div class="absolute right-[11%] top-[47%] w-[22%] max-lg:right-[7%] max-lg:top-[46%] max-lg:w-[26%] max-sm:right-[4%] max-sm:top-[43%] max-sm:w-[31%] rounded-3xl border-2 border-slate-800 bg-white/95 p-3 shadow-md">
+          <label for="item-4" data-id="pg010_n0010" class="adt-body block text-center font-medium text-slate-800">Ushqimi im më i pëlqyer</label>
+          <input id="item-4" data-activity-item="item-4" type="text" aria-label="Ushqimi im më i pëlqyer" class="mt-2 min-h-11 w-full rounded-2xl border-2 border-amber-300 bg-amber-50 px-3 py-2 text-slate-800 outline-none focus:border-amber-500">
+        </div>
+
+        <div class="absolute left-[8%] top-[70%] w-[24%] max-lg:left-[5%] max-lg:top-[70%] max-lg:w-[28%] max-sm:left-[3%] max-sm:top-[67%] max-sm:w-[34%] rounded-3xl border-2 border-slate-800 bg-white/95 p-3 shadow-md">
+          <label for="item-5" data-id="pg010_n0011" class="adt-body block text-center font-medium text-slate-800">Dëshira ime</label>
+          <textarea id="item-5" data-activity-item="item-5" aria-label="Dëshira ime" class="mt-2 min-h-11 w-full rounded-2xl border-2 border-amber-300 bg-amber-50 px-3 py-2 text-slate-800 outline-none focus:border-amber-500"></textarea>
+        </div>
+
+        <div class="absolute right-[8%] top-[70%] w-[27%] max-lg:right-[5%] max-lg:top-[70%] max-lg:w-[31%] max-sm:right-[3%] max-sm:top-[67%] max-sm:w-[36%] rounded-3xl border-2 border-slate-800 bg-white/95 p-3 shadow-md">
+          <label for="item-6" data-id="pg010_n0012" class="adt-body block text-center font-medium text-slate-800">Kafsha që më pëlqen më shumë</label>
+          <input id="item-6" data-activity-item="item-6" type="text" aria-label="Kafsha që më pëlqen më shumë" class="mt-2 min-h-11 w-full rounded-2xl border-2 border-amber-300 bg-amber-50 px-3 py-2 text-slate-800 outline-none focus:border-amber-500">
+        </div>
+
+        <div class="absolute left-1/2 top-[37%] w-[24%] -translate-x-1/2 max-lg:top-[36%] max-lg:w-[28%] max-sm:top-[34%] max-sm:w-[36%] rounded-2xl border-2 border-slate-800 bg-white/95 p-3 shadow-md">
+          <label for="item-7" data-id="pg010_n0013" class="adt-body block text-center font-medium text-slate-800">Emri</label>
+          <input id="item-7" data-activity-item="item-7" type="text" aria-label="Emri ___" class="mt-2 min-h-11 w-full rounded-2xl border-2 border-amber-300 bg-amber-50 px-3 py-2 text-slate-800 outline-none focus:border-amber-500">
+        </div>
+
+        <div class="absolute left-1/2 top-[45%] w-[24%] -translate-x-1/2 max-lg:top-[45%] max-lg:w-[28%] max-sm:top-[42%] max-sm:w-[36%] rounded-2xl border-2 border-slate-800 bg-white/95 p-3 shadow-md">
+          <label for="item-8" data-id="pg010_n0014" class="adt-body block text-center font-medium text-slate-800">Datëlindja</label>
+          <input id="item-8" data-activity-item="item-8" type="text" aria-label="Datëlindja ___" class="mt-2 min-h-11 w-full rounded-2xl border-2 border-amber-300 bg-amber-50 px-3 py-2 text-slate-800 outline-none focus:border-amber-500">
+        </div>
+      </div>
+    </div>
+  </section>
+</div>
+    </main>
+
+    <div class="relative z-50" id="interface-container"></div>
+    <div class="relative z-50" id="nav-container"></div>
+    <script src="./assets/offline-preloader.js?v=9f3d745a858de581"></script>
+    <script src="./assets/scorm.js"></script>
+    <script src="./assets/base.bundle.local.js"></script>
+
+
+
+<script src="./book-design/responses.js?v=9f3d745a858de581" data-book-responses="true"></script></body></html>

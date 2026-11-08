@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="sq"><head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Shoqëria dhe mjedisi</title><meta name="title-id" content="pg046_sec002"><meta name="page-section-id" content="96">
+<link href="./content/tailwind_output.css" rel="stylesheet"><link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet"><link href="./assets/fonts.css" rel="stylesheet"><link rel="stylesheet" href="./book-design/components.css?v=9f3d745a858de581" data-book-style="true">
+<style>
+@font-face{font-family:Page46Poppins;src:url('./book-design/fonts/Poppins-400.ttf') format('truetype');font-weight:400}
+#content.book{max-width:1000px;margin:0 auto;padding:0;color:#282932;font-family:Page46Poppins,Arial,sans-serif}
+#content .exercise46{padding:36px 8% 110px;background:#fff;box-shadow:none;border:0;min-height:0}
+#content .prompt46{font:400 18.77px/1.5 Page46Poppins,Arial,sans-serif;margin:0 0 22px}
+#content .diagram46{position:relative;width:min(100%,700px);aspect-ratio:426/350;margin:0 auto}
+#content .bubble46{position:absolute;display:block}
+#content .bubble46 img{display:block;width:100%;height:auto}
+#content .bubble46 .word46{position:absolute;top:17%;left:0;width:100%;text-align:center;font:400 18.77px/1.2 Page46Poppins,Arial,sans-serif;pointer-events:none}
+#content .bubble46 textarea,#content .bubble46 input{position:absolute;left:17%;top:35%;width:66%;height:39%;min-height:0;padding:4px;border:1px dashed #aaa;border-radius:4px;background:rgba(255,255,255,.88);color:#282932;font:400 16px/1.25 Page46Poppins,Arial,sans-serif;resize:none}
+#content .bubble46 textarea:focus,#content .bubble46 input:focus{outline:2px solid #7950aa;outline-offset:1px;border-color:#7950aa}
+#content .love46{left:2%;top:0;width:47%} #content .honesty46{right:2%;top:0;width:47%}
+#content .person46{left:34%;top:40%;width:30%} #content .person46 .word46{top:18%} #content .person46 input{top:49%;height:33%;left:15%;width:70%}
+#content .culture46{left:0;top:63%;width:47%} #content .language46{right:4%;top:63%;width:47%}
+@media(max-width:600px){#content .exercise46{padding:24px 18px 110px}#content .prompt46{font-size:16px;margin-bottom:20px}#content .diagram46{display:flex;flex-direction:column;gap:16px;aspect-ratio:auto;width:100%;max-width:390px}#content .bubble46{position:relative;inset:auto;width:100%}#content .person46{width:65%;align-self:center}#content .bubble46 .word46{font-size:16px}#content .bubble46 textarea{min-height:44px}#content .person46 input{min-height:44px;top:45%}}
+</style></head><body class="min-h-screen flex items-center justify-center"><main class="w-full"><h1 class="sr-only" id="page-heading">Shoqëria dhe mjedisi</h1><div id="content" class="container opacity-0 book" data-family="response"><h2 class="sr-only" id="section-heading">Shkruaj mendimin tënd për secilën fjalë të dhënë:</h2>
+<section data-section-type="other" data-section-id="pg046_sec002" class="b-page exercise46">
+<p class="prompt46"><span data-id="pg046_n0011">2.</span> <span data-id="pg046_n0012">Shkruaj mendimin tënd për secilën fjalë të dhënë:</span></p>
+<div class="diagram46">
+<div class="bubble46 love46"><img data-id="pg046_im004" src="images/pg046_im004.png" alt=""><span class="word46" data-id="pg046_n0014">DASHURIA</span><label class="sr-only" for="item-1">DASHURIA</label><textarea id="item-1" data-activity-item="item-1" aria-label="DASHURIA"></textarea></div>
+<div class="bubble46 honesty46"><img data-id="pg046_im005" src="images/pg046_im005.png" alt=""><span class="word46" data-id="pg046_n0016">SINQERITETI</span><label class="sr-only" for="item-2">SINQERITETI</label><textarea id="item-2" data-activity-item="item-2" aria-label="SINQERITETI"></textarea></div>
+<div class="bubble46 person46"><img data-id="pg046_im006" src="images/pg046_im006.png" alt=""><span class="word46" data-id="pg046_n0018">NJERIU</span><label class="sr-only" for="item-3">NJERIU</label><input id="item-3" data-activity-item="item-3" type="text" aria-label="NJERIU"></div>
+<div class="bubble46 culture46"><img data-id="pg046_im007" src="images/pg046_im007.png" alt=""><span class="word46" data-id="pg046_n0020">KULTURA</span><label class="sr-only" for="item-4">KULTURA</label><textarea id="item-4" data-activity-item="item-4" aria-label="KULTURA"></textarea></div>
+<div class="bubble46 language46"><img data-id="pg046_im008" src="images/pg046_im008.png" alt=""><span class="word46" data-id="pg046_n0022">GJUHA</span><label class="sr-only" for="item-5">GJUHA</label><textarea id="item-5" data-activity-item="item-5" aria-label="GJUHA"></textarea></div>
+</div></section></div></main><div class="relative z-50" id="interface-container"></div><div class="relative z-50" id="nav-container"></div>
+<script src="./assets/offline-preloader.js?v=9f3d745a858de581"></script><script src="./assets/scorm.js"></script><script src="./assets/base.bundle.local.js"></script><script src="./book-design/responses.js?v=9f3d745a858de581" data-book-responses="true"></script></body></html>

@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="sq"><head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Shoqëria dhe mjedisi</title>
+    <meta name="title-id" content="pg050_sec001">
+    <!-- Despite the name, this is the page's 1-based position in the reading
+         order, not a section id and not the printed page number. It drives the
+         "N of M" dock counter and is re-emitted on every package, so it tracks
+         the current order. Identity lives in title-id above. -->
+    <meta name="page-section-id" content="82">
+    <link href="./content/tailwind_output.css" rel="stylesheet">
+    <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+    <link href="./assets/fonts.css" rel="stylesheet">
+<link rel="stylesheet" href="./book-design/components.css?v=9f3d745a858de581" data-book-style="true"></head>
+
+<body class="min-h-screen flex items-center justify-center">
+    <main class="w-full">
+      <div id="content" class="container mx-auto w-full max-w-5xl px-8 max-sm:px-5 py-8 bg-white opacity-0 book" data-family="illustrated-lesson">
+  <section data-section-type="text_and_single_image" data-section-id="pg050_sec001" class="w-full b-page">
+    <div class="-mx-8 max-sm:-mx-5 bg-purple-500 b-banner">
+      <div class="mx-auto w-full max-w-5xl px-8 max-sm:px-5 py-10 max-sm:py-8">
+        <h1 class="adt-h1 font-bold text-white text-left" data-id="pg050_n0002">Bashkëpunojmë për të mirën e përbashkët</h1>
+      </div>
+    </div>
+
+    <div class="mt-6 rounded-[2rem] border-4 border-purple-500 bg-white overflow-hidden">
+      <div class="flex items-stretch max-lg:flex-col">
+        <div class="bg-purple-300 px-5 py-4 flex items-center shrink-0 rounded-r-[1.5rem] max-lg:rounded-r-[1.5rem] max-lg:rounded-b-[1.5rem] max-lg:w-fit max-lg:min-w-[14rem]">
+          <span class="adt-body font-semibold text-white b-keyword-label" data-id="pg050_n0004">Fjalët kyçe:</span>
+        </div>
+        <div class="flex-1 px-5 py-4 max-lg:pt-5">
+          <p class="adt-body text-gray-800 text-left"><span data-id="pg050_n0005">mirëkuptim, bashkëpunim, vetëpërmbajtje, kompromis, zgjidhje.</span></p>
+        </div>
+      </div>
+    </div>
+
+    <aside class="mt-10 rounded-[2rem] bg-sky-300 px-6 py-5 text-left max-sm:px-5 max-sm:py-6 b-panel-thought">
+      <div class="flex items-start gap-5 max-sm:flex-col max-sm:items-start max-sm:gap-3">
+        <div aria-hidden="true" class="shrink-0 w-24 h-20 rounded-full bg-white border-2 border-slate-500 relative mt-1 shadow-sm max-sm:mt-0 max-sm:w-20 max-sm:h-16 max-sm:ml-2 b-rubric-wrapper"><img src="images/pg005_im002.png" alt="" aria-hidden="true" class="b-rubric-icon"></div>
+        <div class="flex-1 min-w-0 w-full max-sm:pt-6">
+          <h2 class="adt-h2 font-medium text-gray-900" data-id="pg050_n0008">Shpreh mendimin tënd</h2>
+          <p class="adt-body text-gray-900 mt-2"><span data-id="pg050_n0009">- Çfarë sheh në figurën e mëposhtme?</span></p>
+          <label for="activity-item-1" class="sr-only">- Çfarë sheh në figurën e mëposhtme?</label>
+          <textarea id="activity-item-1" data-activity-item="item-1" aria-label="- Çfarë sheh në figurën e mëposhtme?" class="mt-4 w-full min-h-32 max-sm:min-h-28 rounded-2xl border-2 border-sky-500 bg-white px-4 py-3 text-gray-900 outline-none focus:ring-2 focus:ring-sky-400"></textarea>
+        </div>
+      </div>
+    </aside>
+
+    <div class="mt-10 grid grid-cols-[1.15fr_0.85fr] gap-6 items-start max-lg:grid-cols-1">
+      <div>
+        <img src="images/pg050_im001.png" alt="Një familje e buzëqeshur së bashku në shtëpi" data-id="pg050_im001" class="w-full h-auto rounded-md shadow-sm">
+      </div>
+      <div class="relative z-10 rounded-[999px] border-2 border-black bg-white px-10 py-12 max-lg:max-w-[36rem] max-lg:mx-auto max-sm:px-6 max-sm:py-8 max-sm:rounded-[2rem]">
+        <p class="adt-body text-gray-800 text-left leading-relaxed"><span data-id="pg050_n0012">Ne jemi një familje e lumtur, sepse çdoherë bashkëpunojmë dhe jemi të drejtë ndaj njëri-tjetrit.</span> <span data-id="pg050_n0013">Bashkëpunimi sjell dashuri dhe mirëkuptim në çdo familje.</span></p>
+      </div>
+    </div>
+
+    <aside class="mt-10 rounded-[2rem] border-4 border-purple-500 bg-white px-6 py-5 max-sm:px-5">
+      <div class="flex items-start gap-4 max-sm:flex-col max-sm:gap-3">
+        <div aria-hidden="true" class="shrink-0 flex items-center justify-center w-16 h-16 rounded-full bg-purple-100 border-2 border-purple-400 text-purple-600 font-bold b-rubric-wrapper"><img src="images/pg005_im006.png" alt="" aria-hidden="true" class="b-rubric-icon"></div>
+        <div class="flex-1 min-w-0">
+          <h2 class="adt-h2 font-medium text-purple-700 text-left" data-id="pg050_n0016">Pyetje për ty</h2>
+          <div class="mt-4 space-y-5">
+            <div>
+              <p class="adt-body text-gray-900 text-left"><span data-id="pg050_n0019">A bashkëpunoni për t’i zgjidhur problemet?</span></p>
+              <label for="activity-item-2" class="sr-only">A bashkëpunoni për t’i zgjidhur problemet?</label>
+              <textarea id="activity-item-2" data-activity-item="item-2" aria-label="A bashkëpunoni për t’i zgjidhur problemet?" class="mt-2 w-full min-h-11 rounded-2xl border-2 border-purple-300 bg-purple-50 px-4 py-3 text-gray-900 outline-none focus:ring-2 focus:ring-purple-400"></textarea>
+            </div>
+            <div>
+              <p class="adt-body text-gray-900 text-left"><span data-id="pg050_n0021">Çfarë cilësi duhet të tregoni për të pasur sukses në bashkëpunimin tuaj?</span></p>
+              <label for="activity-item-3" class="sr-only">Çfarë cilësi duhet të tregoni për të pasur sukses në bashkëpunimin tuaj?</label>
+              <textarea id="activity-item-3" data-activity-item="item-3" aria-label="Çfarë cilësi duhet të tregoni për të pasur sukses në bashkëpunimin tuaj?" class="mt-2 w-full min-h-11 rounded-2xl border-2 border-purple-300 bg-purple-50 px-4 py-3 text-gray-900 outline-none focus:ring-2 focus:ring-purple-400"></textarea>
+            </div>
+            <div>
+              <p class="adt-body text-gray-900 text-left"><span data-id="pg050_n0023">A keni pasur ndonjë rast kur nuk keni arritur të bashkëpunoni? Nëse po, tregoni pse.</span></p>
+              <label for="activity-item-4" class="sr-only">A keni pasur ndonjë rast kur nuk keni arritur të bashkëpunoni? Nëse po, tregoni pse.</label>
+              <textarea id="activity-item-4" data-activity-item="item-4" aria-label="A keni pasur ndonjë rast kur nuk keni arritur të bashkëpunoni? Nëse po, tregoni pse." class="mt-2 w-full min-h-11 rounded-2xl border-2 border-purple-300 bg-purple-50 px-4 py-3 text-gray-900 outline-none focus:ring-2 focus:ring-purple-400"></textarea>
+            </div>
+          </div>
+        </div>
+      </div>
+    </aside>
+  </section>
+</div>
+    </main>
+
+    <div class="relative z-50" id="interface-container"></div>
+    <div class="relative z-50" id="nav-container"></div>
+    <script src="./assets/offline-preloader.js?v=9f3d745a858de581"></script>
+    <script src="./assets/scorm.js"></script>
+    <script src="./assets/base.bundle.local.js"></script>
+
+
+
+<script src="./book-design/responses.js?v=9f3d745a858de581" data-book-responses="true"></script></body></html>

@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="sq"><head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Shoqëria dhe mjedisi</title>
+    <meta name="title-id" content="pg024_sec003">
+    <!-- Despite the name, this is the page's 1-based position in the reading
+         order, not a section id and not the printed page number. It drives the
+         "N of M" dock counter and is re-emitted on every package, so it tracks
+         the current order. Identity lives in title-id above. -->
+    <meta name="page-section-id" content="40">
+    <link href="./content/tailwind_output.css" rel="stylesheet">
+    <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+    <link href="./assets/fonts.css" rel="stylesheet">
+<link rel="stylesheet" href="./book-design/components.css?v=9f3d745a858de581" data-book-style="true"></head>
+
+<body class="min-h-screen flex items-center justify-center">
+    <main class="w-full">
+      <h1 class="sr-only" id="page-heading">Shoqëria dhe mjedisi</h1>
+      <div id="content" class="container mx-auto w-full max-w-5xl px-8 max-sm:px-4 opacity-0 book" data-family="comparison-diagram"><h2 class="sr-only" id="section-heading">Bashkë me mësuesin, hulumto në internet për fshatra të ndryshme në botë, përzgjidhe një dhe krahasoje atë me një fshat të Kosovës!</h2>
+  <section data-section-type="other" data-section-id="pg024_sec003" class="py-8 max-sm:py-5 bg-white b-page">
+    <div class="rounded-[2rem] border-4 border-orange-200 bg-gradient-to-br from-orange-50 to-amber-50 p-8 max-lg:p-6 max-sm:p-4 shadow-sm">
+      <div class="mb-8 adt-body text-gray-900 leading-relaxed">
+        <span data-id="pg024_n0011" class="font-semibold mr-2">2.</span><span data-id="pg024_n0012">Bashkë me mësuesin, hulumto në internet për fshatra të ndryshme në botë, përzgjidhe një dhe krahasoje atë me një fshat të Kosovës!</span>
+      </div>
+
+      <div class="grid grid-cols-3 gap-4 mb-4 max-sm:gap-2">
+        <div data-id="pg024_n0013" class="adt-body font-semibold text-gray-800 text-left">Fshati i një vendi tjetër</div>
+        <div data-id="pg024_n0014" class="adt-body font-semibold text-gray-800 text-center">Të përbashkëtat</div>
+        <div data-id="pg024_n0015" class="adt-body font-semibold text-gray-800 text-right">Fshati i Kosovës</div>
+      </div>
+
+      <img data-id="pg024_im004" src="images/pg024_im004.png" alt="Diagram i Venit me dy rrathë që mbivendosen për krahasim" class="w-full h-auto rounded-2xl border border-gray-200 bg-white mb-6 max-sm:mb-5">
+
+      <div class="grid grid-cols-3 gap-6 max-lg:grid-cols-1 max-lg:gap-5">
+        <div class="flex flex-col">
+          <label for="item-1" class="sr-only">Fshati i një vendi tjetër</label>
+          <textarea id="item-1" data-activity-item="item-1" aria-label="Fshati i një vendi tjetër" class="w-full min-h-44 max-lg:min-h-32 max-sm:min-h-28 rounded-2xl border-2 border-orange-300 bg-white/95 p-4 adt-body text-gray-900 shadow-sm focus:outline-none focus:ring-4 focus:ring-orange-200"></textarea>
+        </div>
+        <div class="flex flex-col">
+          <label for="item-2" class="sr-only">Të përbashkëtat</label>
+          <textarea id="item-2" data-activity-item="item-2" aria-label="Të përbashkëtat" class="w-full min-h-44 max-lg:min-h-32 max-sm:min-h-28 rounded-2xl border-2 border-amber-300 bg-white/95 p-4 adt-body text-gray-900 shadow-sm focus:outline-none focus:ring-4 focus:ring-amber-200"></textarea>
+        </div>
+        <div class="flex flex-col">
+          <label for="item-3" class="sr-only">Fshati i Kosovës</label>
+          <textarea id="item-3" data-activity-item="item-3" aria-label="Fshati i Kosovës" class="w-full min-h-44 max-lg:min-h-32 max-sm:min-h-28 rounded-2xl border-2 border-orange-300 bg-white/95 p-4 adt-body text-gray-900 shadow-sm focus:outline-none focus:ring-4 focus:ring-orange-200"></textarea>
+        </div>
+      </div>
+    </div>
+  </section>
+</div>
+    </main>
+
+    <div class="relative z-50" id="interface-container"></div>
+    <div class="relative z-50" id="nav-container"></div>
+    <script src="./assets/offline-preloader.js?v=9f3d745a858de581"></script>
+    <script src="./assets/scorm.js"></script>
+    <script src="./assets/base.bundle.local.js"></script>
+
+
+
+<script src="./book-design/responses.js?v=9f3d745a858de581" data-book-responses="true"></script></body></html>
