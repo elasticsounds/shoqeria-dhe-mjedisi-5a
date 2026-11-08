@@ -1912,10 +1912,24 @@
     }
   ],
   "notes": [
+    "This evidence records an earlier build. Its savedResponses results and persisted-response description are historical; see currentRepair for the current behavior and checks.",
     "640 CSS pixels models 200% browser-zoom reflow of a 1280px desktop layout; 320px adds a narrow reflow check.",
     "axe-core checks were scoped to book content. Original reader UI and live assistive-technology use need human validation.",
     "No source audio mappings exist and read-aloud is disabled; no recording was silently left stale or generated.",
     "Original scripts are byte-identical except the synchronized offline cache. A separately versioned, book-scoped localStorage adapter adds saved responses while delegating quiz grading to the original runtime.",
     "No private book content was uploaded or published. Preview listens on 127.0.0.1 only."
-  ]
+  ],
+  "currentRepair": {
+    "date": "2026-11-08",
+    "navigationManifestEntries": 81,
+    "activityResponses": "cleared on each page visit; not persisted",
+    "page14FallbackNext": "pg015_sec001.html",
+    "staticAudit": {
+      "allTargetsExist": true,
+      "pageIdsAndOrderMatch": true,
+      "brokenLocalReferences": 0,
+      "embeddedCacheSynchronized": true
+    },
+    "liveBrowserWalkthrough": "not rerun; local file URL blocked by browser security policy"
+  }
 }

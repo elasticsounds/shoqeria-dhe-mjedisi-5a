@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="sq"><head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Shoqëria dhe mjedisi</title>
+  <meta name="title-id" content="pg027_sec003">
+  <meta name="page-section-id" content="36">
+  <link href="./content/tailwind_output.css" rel="stylesheet">
+  <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+  <link href="./assets/fonts.css" rel="stylesheet">
+  <link rel="stylesheet" href="./book-design/components.css?v=9f3d745a858de581" data-book-style="true">
+  <style>
+    /* Focused view of the printed discussion; Patrick Hand is unavailable. */
+    #content.book.pg027-discussion { padding: 36px 56px 140px; }
+    #content.book.pg027-discussion .discussion-panel { background: #9acb8d; border: 0; border-radius: 20px 0 0 20px; padding: 0 28px 24px; color: #30313a; }
+    #content.book.pg027-discussion .discussion-heading { display: flex; align-items: center; gap: 6px; margin: -5px 0 4px -18px; }
+    #content.book.pg027-discussion .discussion-heading img { width: 108px; height: 92px; object-fit: contain; flex: none; }
+    #content.book.pg027-discussion h1 { font: 400 28px/1.25 BookPoppins, Arial, sans-serif; margin: 0; }
+    #content.book.pg027-discussion .prompts { list-style: none; margin: 0; padding: 0; }
+    #content.book.pg027-discussion .prompts li { position: relative; padding-left: 17px; font: 400 19px/1.35 BookPoppins, Arial, sans-serif; }
+    #content.book.pg027-discussion .prompts li::before { content: '–'; position: absolute; left: 0; }
+    #content.book.pg027-discussion .project-topic { display: block; }
+    #content.book.pg027-discussion .notes { margin-top: 20px; font: 400 16px/1.5 BookPoppins, Arial, sans-serif; }
+    #content.book.pg027-discussion .notes summary { cursor: pointer; min-height: 44px; padding: 10px 14px; background: #f4f8f2; border: 1px solid #56855a; border-radius: 4px; color: #203d25; }
+    #content.book.pg027-discussion .notes-info { margin: 14px 0; font: 400 16px/1.5 BookPoppins, Arial, sans-serif; }
+    #content.book.pg027-discussion .note-field { margin: 0 0 16px; }
+    #content.book.pg027-discussion .note-field label { display: block; margin-bottom: 5px; font: 400 16px/1.5 BookPoppins, Arial, sans-serif; }
+    #content.book.pg027-discussion .note-field textarea { display: block; width: 100%; }
+    @media (max-width: 700px) {
+      #content.book.pg027-discussion { padding: 24px 16px 140px; }
+      #content.book.pg027-discussion .discussion-panel { padding: 0 16px 20px; border-radius: 16px 0 0 16px; }
+      #content.book.pg027-discussion .discussion-heading { margin-left: -12px; }
+      #content.book.pg027-discussion .discussion-heading img { width: 83px; height: 76px; }
+      #content.book.pg027-discussion h1 { font-size: 24px; }
+      #content.book.pg027-discussion .prompts li { font-size: 16px; line-height: 1.5; }
+    }
+  </style>
+</head>
+<body class="min-h-screen flex items-center justify-center">
+  <main class="w-full">
+    <div id="content" class="container opacity-0 book pg027-discussion" data-family="reference">
+      <section data-section-type="boxed_text" data-section-id="pg027_sec003" class="b-page">
+        <div class="discussion-panel">
+          <div class="discussion-heading">
+            <img src="images/pg005_im008.png" alt="" aria-hidden="true">
+            <h1 data-id="pg027_n0015">Diskuto</h1>
+          </div>
+          <ul class="prompts">
+            <li id="prompt-1" data-id="pg027_n0018">Si ishin ndërtuar kullat?</li>
+            <li id="prompt-2" data-id="pg027_n0020">Analizoji ndërtimet <em>dikur</em> dhe <em>sot</em>!</li>
+            <li id="prompt-3" data-id="pg027_n0022">Cili ishte funksioni i kullës?</li>
+            <li id="prompt-4" data-id="pg027_n0024">Çfarë rëndësie kanë kullat në ditët e sotme?</li>
+            <li id="prompt-5"><span data-id="pg027_n0026">Projekt në grup:</span><span class="project-topic" data-id="pg027_n0027">Tema “Ruajmë traditën e shtëpive të vjetra, përmirësojmë jetesën në to”.</span></li>
+          </ul>
+        </div>
+        <details class="notes">
+          <summary>Shënime opsionale – hap për të shkruar</summary>
+          <p class="notes-info">Përgjigjet ruhen automatikisht në këtë pajisje.</p>
+          <div class="note-field"><label for="item-1">1. Si ishin ndërtuar kullat?</label><textarea id="item-1" data-activity-item="item-1"></textarea></div>
+          <div class="note-field"><label for="item-2">2. Analizoji ndërtimet dikur dhe sot!</label><textarea id="item-2" data-activity-item="item-2"></textarea></div>
+          <div class="note-field"><label for="item-3">3. Cili ishte funksioni i kullës?</label><textarea id="item-3" data-activity-item="item-3"></textarea></div>
+          <div class="note-field"><label for="item-4">4. Çfarë rëndësie kanë kullat në ditët e sotme?</label><textarea id="item-4" data-activity-item="item-4"></textarea></div>
+          <div class="note-field"><label for="item-5">5. Projekt në grup: Tema “Ruajmë traditën e shtëpive të vjetra, përmirësojmë jetesën në to”.</label><textarea id="item-5" data-activity-item="item-5"></textarea></div>
+        </details>
+      </section>
+    </div>
+  </main>
+  <div class="relative z-50" id="interface-container"></div>
+  <div class="relative z-50" id="nav-container"></div>
+  <script src="./assets/offline-preloader.js?v=9f3d745a858de581"></script>
+  <script src="./assets/scorm.js"></script>
+  <script src="./assets/base.bundle.local.js"></script>
+  <script src="./book-design/responses.js?v=9f3d745a858de581" data-book-responses="true"></script>
+</body></html>

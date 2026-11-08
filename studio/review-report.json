@@ -2,12 +2,12 @@
   "format": 1,
   "app": "ADT Studio Agent",
   "status": "needs-review",
-  "generatedAt": "2026-11-08T11:52:20.679Z",
+  "generatedAt": "2026-11-08T15:18:43.250Z",
   "source": {
     "pdfSHA256": "f7bf719411a7c7cf1ff0d5b62a614dfffbbfda975b0052ba7ece451d2eb9ee0e",
     "adtSHA256": "3bc6ebdadbc3298d95d6317af78348365b6a0b213075da1ad8abf4f71e0c9a97"
   },
-  "revision": "a5c56340f681e6d50983",
+  "revision": "b15ca53a1d3fbf36db6e",
   "guidelineRevision": 2,
   "guidelines": {
     "title": "Shoqëria dhe mjedisi — Grade 5 editable design and repair guidelines",
@@ -189,7 +189,7 @@
       "images": 0,
       "isQuiz": false,
       "sourcePage": 2,
-      "mappingConfidence": 0.6,
+      "mappingConfidence": 0.7,
       "mappingStatus": "uncertain",
       "issues": [],
       "mappingReason": "Text overlap and reading-order evidence."
@@ -245,10 +245,10 @@
       "title": "Parathënie",
       "language": "sq",
       "controls": 0,
-      "images": 3,
+      "images": 1,
       "isQuiz": false,
       "sourcePage": 7,
-      "mappingConfidence": 0.97,
+      "mappingConfidence": 0.99,
       "mappingStatus": "mapped",
       "issues": [],
       "mappingReason": "Text overlap and reading-order evidence."
@@ -289,7 +289,7 @@
       "title": "Pyetje për ty",
       "language": "sq",
       "controls": 1,
-      "images": 2,
+      "images": 3,
       "isQuiz": false,
       "sourcePage": 9,
       "mappingConfidence": 0.97,
@@ -364,10 +364,10 @@
       "title": "Si kanë jetuar të parët tanë?",
       "language": "sq",
       "controls": 0,
-      "images": 4,
+      "images": 5,
       "isQuiz": false,
       "sourcePage": 12,
-      "mappingConfidence": 0.99,
+      "mappingConfidence": 0.98,
       "mappingStatus": "mapped",
       "issues": [],
       "mappingReason": "Text overlap and reading-order evidence."
@@ -376,16 +376,16 @@
       "section_id": "qz002_new2",
       "href": "qz002_new2.html",
       "page_number": 13,
-      "title": "New page for PDF page 13",
+      "title": "Pyetje për ty",
       "language": "sq",
-      "controls": 0,
-      "images": 0,
+      "controls": 2,
+      "images": 4,
       "isQuiz": true,
       "sourcePage": 13,
       "mappingConfidence": 1,
       "mappingStatus": "mapped",
       "issues": [],
-      "mappingReason": "Added manually for this PDF page."
+      "mappingReason": "Companion activity; adjacent source page is a hint."
     },
     {
       "section_id": "qz002",
@@ -395,7 +395,7 @@
       "controls": 3,
       "images": 0,
       "isQuiz": true,
-      "sourcePage": 13,
+      "sourcePage": 12,
       "mappingConfidence": 0.35,
       "mappingStatus": "companion",
       "issues": [],
@@ -407,12 +407,12 @@
       "page_number": 14,
       "title": "Provoje veten",
       "language": "sq",
-      "controls": 5,
+      "controls": 6,
       "images": 1,
       "isQuiz": false,
       "sourcePage": 14,
-      "mappingConfidence": 0.86,
-      "mappingStatus": "mapped",
+      "mappingConfidence": 0.63,
+      "mappingStatus": "uncertain",
       "issues": [],
       "mappingReason": "Text overlap and reading-order evidence."
     },
@@ -426,7 +426,7 @@
       "images": 3,
       "isQuiz": false,
       "sourcePage": 15,
-      "mappingConfidence": 0.98,
+      "mappingConfidence": 0.95,
       "mappingStatus": "mapped",
       "issues": [],
       "mappingReason": "Text overlap and reading-order evidence."
@@ -450,16 +450,16 @@
       "section_id": "qz003_new2",
       "href": "qz003_new2.html",
       "page_number": 17,
-      "title": "New page for PDF page 17",
+      "title": "Pyetje për ty",
       "language": "sq",
-      "controls": 0,
-      "images": 0,
+      "controls": 1,
+      "images": 5,
       "isQuiz": true,
       "sourcePage": 17,
       "mappingConfidence": 1,
       "mappingStatus": "mapped",
       "issues": [],
-      "mappingReason": "Added manually for this PDF page."
+      "mappingReason": "Companion activity; adjacent source page is a hint."
     },
     {
       "section_id": "qz003",
@@ -469,7 +469,7 @@
       "controls": 3,
       "images": 0,
       "isQuiz": true,
-      "sourcePage": 17,
+      "sourcePage": 16,
       "mappingConfidence": 0.35,
       "mappingStatus": "companion",
       "issues": [],
@@ -500,7 +500,7 @@
       "images": 0,
       "isQuiz": false,
       "sourcePage": 18,
-      "mappingConfidence": 0.95,
+      "mappingConfidence": 1,
       "mappingStatus": "mapped",
       "issues": [],
       "mappingReason": "Text overlap and reading-order evidence."
@@ -545,7 +545,7 @@
       "images": 10,
       "isQuiz": false,
       "sourcePage": 19,
-      "mappingConfidence": 0.99,
+      "mappingConfidence": 0.9,
       "mappingStatus": "mapped",
       "issues": [],
       "mappingReason": "Text overlap and reading-order evidence."
@@ -560,7 +560,7 @@
       "images": 4,
       "isQuiz": false,
       "sourcePage": 22,
-      "mappingConfidence": 0.96,
+      "mappingConfidence": 0.91,
       "mappingStatus": "mapped",
       "issues": [],
       "mappingReason": "Text overlap and reading-order evidence."
@@ -600,7 +600,7 @@
       "page_number": 24,
       "title": "Provoje veten",
       "language": "sq",
-      "controls": 0,
+      "controls": 12,
       "images": 1,
       "isQuiz": false,
       "sourcePage": 24,
@@ -619,7 +619,7 @@
       "images": 4,
       "isQuiz": false,
       "sourcePage": 25,
-      "mappingConfidence": 0.99,
+      "mappingConfidence": 0.94,
       "mappingStatus": "mapped",
       "issues": [],
       "mappingReason": "Text overlap and reading-order evidence."
@@ -628,7 +628,7 @@
       "section_id": "pg026_sec001",
       "href": "pg026_sec001.html",
       "page_number": 26,
-      "title": "Një shtëpi moderne",
+      "title": "pg026_sec001",
       "language": "sq",
       "controls": 0,
       "images": 4,
@@ -663,7 +663,7 @@
       "images": 1,
       "isQuiz": false,
       "sourcePage": 27,
-      "mappingConfidence": 0.89,
+      "mappingConfidence": 0.77,
       "mappingStatus": "mapped",
       "issues": [],
       "mappingReason": "Text overlap and reading-order evidence."
@@ -675,10 +675,10 @@
       "title": "Bashkë me ndihmën e prindërve apo të mësuesit, hulumto në internet dhe gjej informacione për kullat!",
       "language": "sq",
       "controls": 0,
-      "images": 0,
+      "images": 2,
       "isQuiz": false,
       "sourcePage": 27,
-      "mappingConfidence": 0.92,
+      "mappingConfidence": 0.97,
       "mappingStatus": "mapped",
       "issues": [],
       "mappingReason": "Text overlap and reading-order evidence."
@@ -693,7 +693,7 @@
       "images": 1,
       "isQuiz": false,
       "sourcePage": 27,
-      "mappingConfidence": 0.96,
+      "mappingConfidence": 0.76,
       "mappingStatus": "mapped",
       "issues": [],
       "mappingReason": "Text overlap and reading-order evidence."
@@ -705,10 +705,10 @@
       "title": "Thello dijet",
       "language": "sq",
       "controls": 0,
-      "images": 1,
+      "images": 2,
       "isQuiz": false,
       "sourcePage": 27,
-      "mappingConfidence": 0.96,
+      "mappingConfidence": 0.98,
       "mappingStatus": "mapped",
       "issues": [],
       "mappingReason": "Text overlap and reading-order evidence."
@@ -723,7 +723,7 @@
       "images": 0,
       "isQuiz": false,
       "sourcePage": 28,
-      "mappingConfidence": 0.62,
+      "mappingConfidence": 0.63,
       "mappingStatus": "uncertain",
       "issues": [],
       "mappingReason": "Text overlap and reading-order evidence."
@@ -732,13 +732,13 @@
       "section_id": "pg029_sec001",
       "href": "pg029_sec001.html",
       "page_number": 29,
-      "title": "Ndryshimi i objekteve dhe i mjeteve të punës gjatë kohës",
+      "title": "Ndryshimi i objekteve dhe i mjeteve të punësgjatë kohës",
       "language": "sq",
       "controls": 3,
       "images": 10,
       "isQuiz": false,
       "sourcePage": 29,
-      "mappingConfidence": 0.98,
+      "mappingConfidence": 0.95,
       "mappingStatus": "mapped",
       "issues": [],
       "mappingReason": "Text overlap and reading-order evidence."
@@ -762,14 +762,14 @@
       "section_id": "pg030_sec002",
       "href": "pg030_sec002.html",
       "page_number": 30,
-      "title": "Bashkë me ndihmën e prindërve apo të mësuesit, hulumto në internet dhe gjej informacione për shpikje të rëndësishme që ndryshuan m",
+      "title": "pg030_sec002",
       "language": "sq",
       "controls": 1,
-      "images": 0,
+      "images": 1,
       "isQuiz": false,
       "sourcePage": 30,
-      "mappingConfidence": 0.94,
-      "mappingStatus": "mapped",
+      "mappingConfidence": 0.55,
+      "mappingStatus": "uncertain",
       "issues": [],
       "mappingReason": "Text overlap and reading-order evidence."
     },
@@ -795,7 +795,7 @@
       "title": "Thello dijet",
       "language": "sq",
       "controls": 0,
-      "images": 1,
+      "images": 2,
       "isQuiz": false,
       "sourcePage": 30,
       "mappingConfidence": 0.98,
@@ -854,7 +854,7 @@
       "title": "Objekte bujqësore",
       "language": "sq",
       "controls": 3,
-      "images": 1,
+      "images": 0,
       "isQuiz": false,
       "sourcePage": 31,
       "mappingConfidence": 1,
@@ -872,7 +872,7 @@
       "images": 5,
       "isQuiz": false,
       "sourcePage": 32,
-      "mappingConfidence": 0.97,
+      "mappingConfidence": 0.92,
       "mappingStatus": "mapped",
       "issues": [],
       "mappingReason": "Text overlap and reading-order evidence."
@@ -899,7 +899,7 @@
       "title": "Diskuto",
       "language": "sq",
       "controls": 3,
-      "images": 0,
+      "images": 1,
       "isQuiz": false,
       "sourcePage": 33,
       "mappingConfidence": 1,
@@ -914,7 +914,7 @@
       "title": "Thello dijet",
       "language": "sq",
       "controls": 0,
-      "images": 1,
+      "images": 2,
       "isQuiz": false,
       "sourcePage": 33,
       "mappingConfidence": 0.99,
@@ -929,10 +929,10 @@
       "title": "Provoje veten",
       "language": "sq",
       "controls": 10,
-      "images": 1,
+      "images": 2,
       "isQuiz": false,
       "sourcePage": 34,
-      "mappingConfidence": 0.82,
+      "mappingConfidence": 0.88,
       "mappingStatus": "mapped",
       "issues": [],
       "mappingReason": "Text overlap and reading-order evidence."
@@ -944,10 +944,10 @@
       "title": "Kuzhina kosovare",
       "language": "sq",
       "controls": 1,
-      "images": 2,
+      "images": 3,
       "isQuiz": false,
       "sourcePage": 35,
-      "mappingConfidence": 0.98,
+      "mappingConfidence": 0.96,
       "mappingStatus": "mapped",
       "issues": [],
       "mappingReason": "Text overlap and reading-order evidence."
@@ -973,10 +973,10 @@
       "title": "Pyetje për ty",
       "language": "sq",
       "controls": 7,
-      "images": 0,
+      "images": 5,
       "isQuiz": false,
       "sourcePage": 36,
-      "mappingConfidence": 0.96,
+      "mappingConfidence": 0.92,
       "mappingStatus": "mapped",
       "issues": [],
       "mappingReason": "Text overlap and reading-order evidence."
@@ -987,7 +987,7 @@
       "page_number": 37,
       "title": "Provoje veten",
       "language": "sq",
-      "controls": 0,
+      "controls": 3,
       "images": 1,
       "isQuiz": false,
       "sourcePage": 37,
@@ -1006,7 +1006,7 @@
       "images": 7,
       "isQuiz": false,
       "sourcePage": 38,
-      "mappingConfidence": 0.98,
+      "mappingConfidence": 0.97,
       "mappingStatus": "mapped",
       "issues": [],
       "mappingReason": "Text overlap and reading-order evidence."
@@ -1056,21 +1056,6 @@
       "mappingReason": "Text overlap and reading-order evidence."
     },
     {
-      "section_id": "pg040_sec001_new2",
-      "href": "pg040_sec001_new2.html",
-      "page_number": 40,
-      "title": "New page for PDF page 40",
-      "language": "sq",
-      "controls": 0,
-      "images": 0,
-      "isQuiz": false,
-      "sourcePage": 40,
-      "mappingConfidence": 1,
-      "mappingStatus": "mapped",
-      "issues": [],
-      "mappingReason": "Added manually for this PDF page."
-    },
-    {
       "section_id": "pg041_sec001",
       "href": "pg041_sec001.html",
       "page_number": 41,
@@ -1095,7 +1080,7 @@
       "images": 1,
       "isQuiz": false,
       "sourcePage": 41,
-      "mappingConfidence": 0.96,
+      "mappingConfidence": 0.83,
       "mappingStatus": "mapped",
       "issues": [],
       "mappingReason": "Text overlap and reading-order evidence."
@@ -1125,8 +1110,8 @@
       "images": 1,
       "isQuiz": false,
       "sourcePage": 42,
-      "mappingConfidence": 0.79,
-      "mappingStatus": "mapped",
+      "mappingConfidence": 0.52,
+      "mappingStatus": "uncertain",
       "issues": [],
       "mappingReason": "Text overlap and reading-order evidence."
     },
@@ -1140,7 +1125,7 @@
       "images": 1,
       "isQuiz": false,
       "sourcePage": 42,
-      "mappingConfidence": 0.95,
+      "mappingConfidence": 0.97,
       "mappingStatus": "mapped",
       "issues": [],
       "mappingReason": "Text overlap and reading-order evidence."
@@ -1181,7 +1166,7 @@
       "title": "Të ndryshëm, por të barabartë",
       "language": "sq",
       "controls": 3,
-      "images": 2,
+      "images": 3,
       "isQuiz": false,
       "sourcePage": 44,
       "mappingConfidence": 1,
@@ -1196,7 +1181,7 @@
       "title": "Pyetje për ty",
       "language": "sq",
       "controls": 7,
-      "images": 2,
+      "images": 3,
       "isQuiz": false,
       "sourcePage": 45,
       "mappingConfidence": 0.97,
@@ -1225,8 +1210,8 @@
       "page_number": 46,
       "title": "Provoje veten",
       "language": "sq",
-      "controls": 3,
-      "images": 0,
+      "controls": 8,
+      "images": 1,
       "isQuiz": false,
       "sourcePage": 46,
       "mappingConfidence": 1,
@@ -1241,7 +1226,7 @@
       "title": "Llojllojshmëria etnike e kulturore",
       "language": "sq",
       "controls": 1,
-      "images": 6,
+      "images": 7,
       "isQuiz": false,
       "sourcePage": 47,
       "mappingConfidence": 1,
@@ -1345,7 +1330,7 @@
       "title": "Ndahuni në klasë në grupe me nga gjashtë nxënës.",
       "language": "sq",
       "controls": 1,
-      "images": 0,
+      "images": 1,
       "isQuiz": false,
       "sourcePage": 49,
       "mappingConfidence": 1,
@@ -1991,6 +1976,25 @@
       "retiredAt": "2026-11-08T11:36:50.510Z",
       "previousRevision": "67748c020d7fcb944cd6",
       "reason": "Removed manually from the New ADT reader."
+    },
+    {
+      "section_id": "pg040_sec001_new2",
+      "href": "pg040_sec001_new2.html",
+      "page_number": 40,
+      "title": "New page for PDF page 40",
+      "text": "New page for PDF page 40Regenerate this page to build its content from the source PDF.",
+      "language": "sq",
+      "controls": 0,
+      "images": 0,
+      "isQuiz": false,
+      "sourcePage": 40,
+      "mappingConfidence": 1,
+      "mappingStatus": "mapped",
+      "issues": [],
+      "mappingReason": "Insufficient text evidence; visual review needed.",
+      "retiredAt": "2026-11-08T14:46:23.286Z",
+      "previousRevision": "133a9b4daeb2dc37bb0a",
+      "reason": "Removed manually from the New ADT reader."
     }
   ],
   "sourcePages": [
@@ -2238,7 +2242,9 @@
       ],
       "needsOCR": false,
       "sectionHrefs": [
-        "pg012_sec001.html"
+        "pg012_sec001.html",
+        "qz002_new2.html",
+        "qz002.html"
       ]
     },
     {
@@ -2259,10 +2265,7 @@
         "#8c64b4"
       ],
       "needsOCR": false,
-      "sectionHrefs": [
-        "qz002_new2.html",
-        "qz002.html"
-      ]
+      "sectionHrefs": []
     },
     {
       "page": 14,
@@ -2327,7 +2330,9 @@
       ],
       "needsOCR": false,
       "sectionHrefs": [
-        "pg016_sec001.html"
+        "pg016_sec001.html",
+        "qz003_new2.html",
+        "qz003.html"
       ]
     },
     {
@@ -2349,10 +2354,7 @@
         "#78a078"
       ],
       "needsOCR": false,
-      "sectionHrefs": [
-        "qz003_new2.html",
-        "qz003.html"
-      ]
+      "sectionHrefs": []
     },
     {
       "page": 18,
@@ -2882,8 +2884,7 @@
       ],
       "needsOCR": false,
       "sectionHrefs": [
-        "pg040_sec001.html",
-        "pg040_sec001_new2.html"
+        "pg040_sec001.html"
       ]
     },
     {
@@ -3145,11 +3146,15 @@
         ]
       },
       "humanReviewed": true,
-      "reviewedRevision": "0cd81ac2e231d0ffbeb0"
+      "reviewedRevision": "b15ca53a1d3fbf36db6e",
+      "reviewedVersionId": "91519198-f1dd-40ee-ad84-2b00d2420164",
+      "reviewedPageSHA256": "22c04ac9aee7cbde40b8d00dcdef44c27267f03a218fa2c318684621414b0c47"
     },
     "pg001_sec001.html": {
       "humanReviewed": true,
-      "reviewedRevision": "5bfa38bcdbc719968cc0"
+      "reviewedRevision": "b15ca53a1d3fbf36db6e",
+      "reviewedVersionId": null,
+      "reviewedPageSHA256": "c10b4ff2220a09963f331beaa31ec72312d5a702db3bf535546626e458ae23dc"
     },
     "pg002_sec001.html": {
       "decision": "review",
@@ -3176,11 +3181,15 @@
         ]
       },
       "humanReviewed": true,
-      "reviewedRevision": "a5c56340f681e6d50983"
+      "reviewedRevision": "b15ca53a1d3fbf36db6e",
+      "reviewedVersionId": "b3f10abe-0dc4-4a9d-ad4d-1f2f1fd57f4a",
+      "reviewedPageSHA256": "dc2ca7d387ab8c2fe2517d1e071da0137068b91659088aaa89f1725975b25747"
     },
     "pg003_sec001.html": {
       "humanReviewed": true,
-      "reviewedRevision": "0cd81ac2e231d0ffbeb0"
+      "reviewedRevision": "b15ca53a1d3fbf36db6e",
+      "reviewedVersionId": null,
+      "reviewedPageSHA256": "004c77b2c2a9df37dfb933912c89f02889baa4a1cd3f133d53b3a8603ccf73ee"
     },
     "pg007_sec001.html": {
       "decision": "review",
@@ -3193,11 +3202,15 @@
       "candidateVersion": "8a12ebc6-a358-43de-a64d-36b3a8b6f778",
       "critique": null,
       "humanReviewed": true,
-      "reviewedRevision": "0cd81ac2e231d0ffbeb0"
+      "reviewedRevision": "b15ca53a1d3fbf36db6e",
+      "reviewedVersionId": "8a12ebc6-a358-43de-a64d-36b3a8b6f778",
+      "reviewedPageSHA256": "546fd403c945edadbe9a506e9221142872becb717a4a1fefd3837df2fc295db5"
     },
     "pg006_sec001.html": {
       "humanReviewed": true,
-      "reviewedRevision": "0cd81ac2e231d0ffbeb0"
+      "reviewedRevision": "b15ca53a1d3fbf36db6e",
+      "reviewedVersionId": null,
+      "reviewedPageSHA256": "6ff2539ec9f0c3d7c2d19b25f71b2b045876390103f4ac03a184a0cf797204de"
     },
     "pg008_sec001.html": {
       "decision": "review",
@@ -3223,7 +3236,9 @@
         ]
       },
       "humanReviewed": true,
-      "reviewedRevision": "0cd81ac2e231d0ffbeb0"
+      "reviewedRevision": "b15ca53a1d3fbf36db6e",
+      "reviewedVersionId": "a021bc63-c874-480e-96d6-42de6591f8df",
+      "reviewedPageSHA256": "81831068658b44132e18dd6f576f22d82d7b7f43e14af0b88ff2deb3524e9415"
     },
     "qz001.html": {
       "decision": "review",
@@ -3252,7 +3267,9 @@
         ]
       },
       "humanReviewed": true,
-      "reviewedRevision": "a5c56340f681e6d50983"
+      "reviewedRevision": "b15ca53a1d3fbf36db6e",
+      "reviewedVersionId": "cc6072b2-0660-450d-ac77-aa4635864790",
+      "reviewedPageSHA256": "831c5b97c84741221dd6bd81fdd4e02d9ca63d36cafdc165bce8bf7a1d08c71f"
     },
     "pg009_sec001.html": {
       "decision": "review",
@@ -3265,7 +3282,9 @@
       "candidateVersion": "47c35358-f751-4d6b-98e6-930a3c9e2719",
       "critique": null,
       "humanReviewed": true,
-      "reviewedRevision": "0cd81ac2e231d0ffbeb0"
+      "reviewedRevision": "b15ca53a1d3fbf36db6e",
+      "reviewedVersionId": "47c35358-f751-4d6b-98e6-930a3c9e2719",
+      "reviewedPageSHA256": "39ba8d9fa5a5837dfb7ec4747897e3e15b8e30849dec967f97a9ef9fc8443b12"
     },
     "pg009_sec002.html": {
       "decision": "review",
@@ -3278,7 +3297,9 @@
       "candidateVersion": "c29c9c4c-8d73-49e3-ba6d-caf53050f0b2",
       "critique": null,
       "humanReviewed": true,
-      "reviewedRevision": "0cd81ac2e231d0ffbeb0"
+      "reviewedRevision": "b15ca53a1d3fbf36db6e",
+      "reviewedVersionId": "c29c9c4c-8d73-49e3-ba6d-caf53050f0b2",
+      "reviewedPageSHA256": "54acd3d8c29844c88e1ddc450fec26aae3ec79df77ddc44c24bc16f1e2522d1d"
     },
     "pg010_sec001.html": {
       "decision": "review",
@@ -3291,7 +3312,9 @@
       "candidateVersion": "beb5e2bd-a4ac-441c-b0cf-1e72eeba0d03",
       "critique": null,
       "humanReviewed": true,
-      "reviewedRevision": "0cd81ac2e231d0ffbeb0"
+      "reviewedRevision": "b15ca53a1d3fbf36db6e",
+      "reviewedVersionId": "beb5e2bd-a4ac-441c-b0cf-1e72eeba0d03",
+      "reviewedPageSHA256": "d5931208e3856b82be5c268477a26abfbf5838b612ca979c931892047d1ad8f0"
     },
     "pg011_sec001.html": {
       "decision": "review",
@@ -3318,7 +3341,9 @@
         ]
       },
       "humanReviewed": true,
-      "reviewedRevision": "0cd81ac2e231d0ffbeb0"
+      "reviewedRevision": "b15ca53a1d3fbf36db6e",
+      "reviewedVersionId": "913c6be3-ec49-40f2-a96b-725c554e1f51",
+      "reviewedPageSHA256": "9bcc2b6f38cc64e150347436e16d120842bf5498bc671bce0b974e61e9d71585"
     },
     "pg011_sec002.html": {
       "decision": "review",
@@ -3343,7 +3368,9 @@
         ]
       },
       "humanReviewed": true,
-      "reviewedRevision": "0cd81ac2e231d0ffbeb0"
+      "reviewedRevision": "b15ca53a1d3fbf36db6e",
+      "reviewedVersionId": "e3c3b4aa-edd5-461b-b96f-b7c0840209d0",
+      "reviewedPageSHA256": "837fbdc506d97f056579a21215fefcf7fe797c6ef64b5cfe2b282be1d7fb840f"
     },
     "pg012_sec001.html": {
       "decision": "review",
@@ -3368,7 +3395,9 @@
         ]
       },
       "humanReviewed": true,
-      "reviewedRevision": "0cd81ac2e231d0ffbeb0"
+      "reviewedRevision": "b15ca53a1d3fbf36db6e",
+      "reviewedVersionId": "cdc688e5-5ba5-4a8a-ad73-ce99ce9d72f6",
+      "reviewedPageSHA256": "dad2ea03bda96943f9179f015b0211e2fe10c1f2cb488aac2870223c43aea0fb"
     },
     "qz002.html": {
       "decision": "review",
@@ -3393,7 +3422,9 @@
         ]
       },
       "humanReviewed": true,
-      "reviewedRevision": "5bfa38bcdbc719968cc0"
+      "reviewedRevision": "b15ca53a1d3fbf36db6e",
+      "reviewedVersionId": null,
+      "reviewedPageSHA256": "32159b166fd29b81f233407ab4b3e7ffca23225339986c7f61dbec6320325556"
     },
     "pg014_sec001.html": {
       "decision": "review",
@@ -3406,7 +3437,9 @@
       "candidateVersion": "3ab009ff-7d57-41a9-a472-c3da8b19b0a2",
       "critique": null,
       "humanReviewed": true,
-      "reviewedRevision": "5bfa38bcdbc719968cc0"
+      "reviewedRevision": "b15ca53a1d3fbf36db6e",
+      "reviewedVersionId": "3ab009ff-7d57-41a9-a472-c3da8b19b0a2",
+      "reviewedPageSHA256": "a06e5ba3c2d4c385a839738f24ac9aa653bfc03193303f6b823c1e0877dd6f11"
     },
     "pg015_sec001.html": {
       "decision": "review",
@@ -3432,7 +3465,9 @@
         ]
       },
       "humanReviewed": true,
-      "reviewedRevision": "5bfa38bcdbc719968cc0"
+      "reviewedRevision": "b15ca53a1d3fbf36db6e",
+      "reviewedVersionId": null,
+      "reviewedPageSHA256": "bebfd15c1b855026bbce77929db295407f4f006c1961e5f1aea8abfbfc32be1c"
     },
     "pg016_sec001.html": {
       "decision": "review",
@@ -3457,7 +3492,9 @@
         ]
       },
       "humanReviewed": true,
-      "reviewedRevision": "5bfa38bcdbc719968cc0"
+      "reviewedRevision": "b15ca53a1d3fbf36db6e",
+      "reviewedVersionId": null,
+      "reviewedPageSHA256": "55a25a5e81f33c728c2e6ffbe78afaea6af035c1f87c9e080b90c169bc6aac77"
     },
     "qz003.html": {
       "decision": "review",
@@ -3482,7 +3519,9 @@
         ]
       },
       "humanReviewed": true,
-      "reviewedRevision": "63e1b0591f8043e6592e"
+      "reviewedRevision": "b15ca53a1d3fbf36db6e",
+      "reviewedVersionId": null,
+      "reviewedPageSHA256": "7f3cc52483b7f012f44c8e606cd521252635b1fd65e508a14323469da6c37397"
     },
     "pg018_sec001.html": {
       "decision": "review",
@@ -3495,7 +3534,9 @@
       "candidateVersion": "5ac14df8-5cf9-405f-8eb0-2784cffcdff9",
       "critique": null,
       "humanReviewed": true,
-      "reviewedRevision": "63e1b0591f8043e6592e"
+      "reviewedRevision": "b15ca53a1d3fbf36db6e",
+      "reviewedVersionId": null,
+      "reviewedPageSHA256": "c8cdf50f7db942f34ba5b0ed518907ae7fa04510e7bffb63778a9c1a520284e1"
     },
     "pg018_sec002.html": {
       "decision": "review",
@@ -3508,7 +3549,9 @@
       "candidateVersion": "e9aaaa58-ac04-4cc9-ab73-a319c56befb2",
       "critique": null,
       "humanReviewed": true,
-      "reviewedRevision": "63e1b0591f8043e6592e"
+      "reviewedRevision": "b15ca53a1d3fbf36db6e",
+      "reviewedVersionId": null,
+      "reviewedPageSHA256": "e093f860f4cc56a87cd8e4da9db3bc415c5d8c093774139f5f660595fc4e1bb7"
     },
     "pg018_sec003.html": {
       "decision": "review",
@@ -3534,7 +3577,9 @@
         ]
       },
       "humanReviewed": true,
-      "reviewedRevision": "63e1b0591f8043e6592e"
+      "reviewedRevision": "b15ca53a1d3fbf36db6e",
+      "reviewedVersionId": null,
+      "reviewedPageSHA256": "e7a5db4a973fae67768680d9acccfbacca27044c00338f1eebc22c190dd7f9e9"
     },
     "pg018_sec004.html": {
       "decision": "review",
@@ -3547,7 +3592,9 @@
       "candidateVersion": "e9d925bd-c448-45cb-9529-7d5b619b3b3f",
       "critique": null,
       "humanReviewed": true,
-      "reviewedRevision": "63e1b0591f8043e6592e"
+      "reviewedRevision": "b15ca53a1d3fbf36db6e",
+      "reviewedVersionId": null,
+      "reviewedPageSHA256": "92cb5f8a804ed53120d704067655910aada91ee200dbe168c97c9bc5b692360b"
     },
     "pg019_sec001.html": {
       "decision": "review",
@@ -3573,7 +3620,9 @@
         ]
       },
       "humanReviewed": true,
-      "reviewedRevision": "63e1b0591f8043e6592e"
+      "reviewedRevision": "b15ca53a1d3fbf36db6e",
+      "reviewedVersionId": null,
+      "reviewedPageSHA256": "dfaba578970010172b8fdf8e1a28c26002787107e07316ca09d6aa2b56cb641b"
     },
     "pg022_sec001.html": {
       "decision": "review",
@@ -3586,7 +3635,9 @@
       "candidateVersion": "3321dd80-81fd-474e-98cb-ec8e931b5ed5",
       "critique": null,
       "humanReviewed": true,
-      "reviewedRevision": "b0abf10fbd54c293e87e"
+      "reviewedRevision": "b15ca53a1d3fbf36db6e",
+      "reviewedVersionId": null,
+      "reviewedPageSHA256": "7f328a149f43d60e06e77281c941d2d6937e678ef62d86ff2611e24e28380411"
     },
     "qz004.html": {
       "decision": "review",
@@ -3611,7 +3662,9 @@
         ]
       },
       "humanReviewed": true,
-      "reviewedRevision": "b0abf10fbd54c293e87e"
+      "reviewedRevision": "b15ca53a1d3fbf36db6e",
+      "reviewedVersionId": null,
+      "reviewedPageSHA256": "6a346a8dc688105b5e90c145bc516e95f708804ab1de406131c32913f1aa8611"
     },
     "pg023_sec001.html": {
       "decision": "review",
@@ -3624,7 +3677,9 @@
       "candidateVersion": "db3f5816-579e-40f5-9ed3-4afb64cb859a",
       "critique": null,
       "humanReviewed": true,
-      "reviewedRevision": "b0abf10fbd54c293e87e"
+      "reviewedRevision": "b15ca53a1d3fbf36db6e",
+      "reviewedVersionId": null,
+      "reviewedPageSHA256": "bfb190db569ab9a39cbbd0247459a681a29e3d25046fe6d2ff0d681875aa5e21"
     },
     "pg024_sec001.html": {
       "decision": "review",
@@ -3637,7 +3692,9 @@
       "candidateVersion": "3852ffaa-b4c7-4121-a585-4d6179c2c81a",
       "critique": null,
       "humanReviewed": true,
-      "reviewedRevision": "5452f884f29581537535"
+      "reviewedRevision": "b15ca53a1d3fbf36db6e",
+      "reviewedVersionId": null,
+      "reviewedPageSHA256": "f9acd24a45fe7689a5183a3d236d5b45324425d07e37e4d7cfea826595129740"
     },
     "pg025_sec001.html": {
       "decision": "review",
@@ -3650,7 +3707,9 @@
       "candidateVersion": "32aa3f54-a8e9-4f4d-885d-eeef94bbaa4f",
       "critique": null,
       "humanReviewed": true,
-      "reviewedRevision": "391a16eb6d0911b060af"
+      "reviewedRevision": "b15ca53a1d3fbf36db6e",
+      "reviewedVersionId": null,
+      "reviewedPageSHA256": "85d813c19c4371f0b5d70b3c249587550baac7ddcf2f5e6102d66c09afd67ee0"
     },
     "pg026_sec001.html": {
       "decision": "review",
@@ -3663,7 +3722,9 @@
       "candidateVersion": "2d956c6b-598c-4107-9639-e8a471c60a8e",
       "critique": null,
       "humanReviewed": true,
-      "reviewedRevision": "391a16eb6d0911b060af"
+      "reviewedRevision": "b15ca53a1d3fbf36db6e",
+      "reviewedVersionId": null,
+      "reviewedPageSHA256": "a5a96800348aaafce9ef97a2ae21d9b03e2c15e25a26629da4972282b0131440"
     },
     "qz005.html": {
       "decision": "review",
@@ -3688,7 +3749,9 @@
         ]
       },
       "humanReviewed": true,
-      "reviewedRevision": "391a16eb6d0911b060af"
+      "reviewedRevision": "b15ca53a1d3fbf36db6e",
+      "reviewedVersionId": null,
+      "reviewedPageSHA256": "b56b5d6882bdac3e7942ae70b8c46a33fce999087c52d77a84ac5c940ee4e387"
     },
     "pg027_sec001.html": {
       "decision": "review",
@@ -3701,7 +3764,9 @@
       "candidateVersion": "a0c30d31-1adb-470c-8e98-63d1dd1845a0",
       "critique": null,
       "humanReviewed": true,
-      "reviewedRevision": "391a16eb6d0911b060af"
+      "reviewedRevision": "b15ca53a1d3fbf36db6e",
+      "reviewedVersionId": null,
+      "reviewedPageSHA256": "17ed12176d69b34b2054e6871dcdcf0b9cfdce61bbb6560a4d5727f242a66d42"
     },
     "pg027_sec002.html": {
       "decision": "review",
@@ -3714,7 +3779,9 @@
       "candidateVersion": "26700e18-ebd5-4e26-b165-5f4a8c16cfea",
       "critique": null,
       "humanReviewed": true,
-      "reviewedRevision": "391a16eb6d0911b060af"
+      "reviewedRevision": "b15ca53a1d3fbf36db6e",
+      "reviewedVersionId": null,
+      "reviewedPageSHA256": "cf5822ca52c8ef76477b431f7b32659c8dfb8a66039eff8ab9f35ca4af751e36"
     },
     "pg027_sec003.html": {
       "decision": "review",
@@ -3727,7 +3794,9 @@
       "candidateVersion": "102b6d6b-e632-4b98-a88f-9e9a1b101b93",
       "critique": null,
       "humanReviewed": true,
-      "reviewedRevision": "391a16eb6d0911b060af"
+      "reviewedRevision": "b15ca53a1d3fbf36db6e",
+      "reviewedVersionId": null,
+      "reviewedPageSHA256": "bcd6d6f29e4c791371c78c6025992378d581171158bf2dafa401d63491a28a16"
     },
     "pg027_sec004.html": {
       "decision": "review",
@@ -3740,7 +3809,9 @@
       "candidateVersion": "5853f9e4-b122-4cdf-9f43-f2d312928748",
       "critique": null,
       "humanReviewed": true,
-      "reviewedRevision": "dde8a70c253e94192ad0"
+      "reviewedRevision": "b15ca53a1d3fbf36db6e",
+      "reviewedVersionId": "5853f9e4-b122-4cdf-9f43-f2d312928748",
+      "reviewedPageSHA256": "08393f425bfed2bdf37a38c46038b91d872e18b499c69a75c3ed7d3936df5418"
     },
     "pg028_sec001.html": {
       "decision": "review",
@@ -3753,7 +3824,9 @@
       "candidateVersion": "7fc30e6f-aa45-4ca9-b995-92921359e561",
       "critique": null,
       "humanReviewed": true,
-      "reviewedRevision": "dde8a70c253e94192ad0"
+      "reviewedRevision": "b15ca53a1d3fbf36db6e",
+      "reviewedVersionId": "7fc30e6f-aa45-4ca9-b995-92921359e561",
+      "reviewedPageSHA256": "9fa8c1baf0c6e81863e1c428e4c85f03da67e4379e5062ad9e63983a3d2f8e18"
     },
     "pg029_sec001.html": {
       "decision": "review",
@@ -3766,7 +3839,9 @@
       "candidateVersion": "8487cf7e-bad2-4241-a7c9-0d5af23238e5",
       "critique": null,
       "humanReviewed": true,
-      "reviewedRevision": "3e806d88ae3839b66812"
+      "reviewedRevision": "b15ca53a1d3fbf36db6e",
+      "reviewedVersionId": null,
+      "reviewedPageSHA256": "cc2a295bcf11cf6c343f1f5b63b6054b1d85e90afa5a171acf571073094fb6d1"
     },
     "pg030_sec001.html": {
       "decision": "review",
@@ -3779,7 +3854,9 @@
       "candidateVersion": null,
       "critique": null,
       "humanReviewed": true,
-      "reviewedRevision": "3e806d88ae3839b66812"
+      "reviewedRevision": "b15ca53a1d3fbf36db6e",
+      "reviewedVersionId": null,
+      "reviewedPageSHA256": "b8b76d83d892a3ce6c2d74145a4b08e628dd350c503074e7ef96261d98a244b2"
     },
     "pg030_sec002.html": {
       "decision": "review",
@@ -3792,7 +3869,9 @@
       "candidateVersion": "921a1ce8-b706-4e1c-b60b-39d83bec6188",
       "critique": null,
       "humanReviewed": true,
-      "reviewedRevision": "3e806d88ae3839b66812"
+      "reviewedRevision": "b15ca53a1d3fbf36db6e",
+      "reviewedVersionId": null,
+      "reviewedPageSHA256": "da203241c49d1ac7da4cacd50c3f794a45a9e195d96560fbfc25aa51bccf7757"
     },
     "pg030_sec003.html": {
       "decision": "review",
@@ -3805,7 +3884,9 @@
       "candidateVersion": null,
       "critique": null,
       "humanReviewed": true,
-      "reviewedRevision": "3e806d88ae3839b66812"
+      "reviewedRevision": "b15ca53a1d3fbf36db6e",
+      "reviewedVersionId": null,
+      "reviewedPageSHA256": "4548f8edb4519fe3052c8c3af8aaedc1fe7a9a9300920a1ba06f053a6578ed3f"
     },
     "pg030_sec004.html": {
       "decision": "review",
@@ -3818,7 +3899,9 @@
       "candidateVersion": "f4b0a463-be38-49a4-98ac-42aa7d628277",
       "critique": null,
       "humanReviewed": true,
-      "reviewedRevision": "e91a461a3e58c4a9d1f1"
+      "reviewedRevision": "b15ca53a1d3fbf36db6e",
+      "reviewedVersionId": "f4b0a463-be38-49a4-98ac-42aa7d628277",
+      "reviewedPageSHA256": "5bb237f7fc2ec95499c7147adbc2bd1f909998ee71dae9ff24ef5e7291caec6c"
     },
     "qz006.html": {
       "decision": "review",
@@ -3843,7 +3926,9 @@
         ]
       },
       "humanReviewed": true,
-      "reviewedRevision": "e91a461a3e58c4a9d1f1"
+      "reviewedRevision": "b15ca53a1d3fbf36db6e",
+      "reviewedVersionId": null,
+      "reviewedPageSHA256": "6078c8d0d8895029663339f469d50374e5a8cc02651309b42b16dedfad6fd5e2"
     },
     "pg031_sec002.html": {
       "decision": "review",
@@ -3856,7 +3941,9 @@
       "candidateVersion": "b3e9646f-9e53-4103-8a76-7de98c3cd196",
       "critique": null,
       "humanReviewed": true,
-      "reviewedRevision": "746cddcbd762cdb79e44"
+      "reviewedRevision": "b15ca53a1d3fbf36db6e",
+      "reviewedVersionId": null,
+      "reviewedPageSHA256": "cb3528251d09b005b016eb633c2f9ff5d2016c9f98f456deb52cdff63b886c52"
     },
     "pg031_sec003.html": {
       "decision": "review",
@@ -3869,7 +3956,9 @@
       "candidateVersion": "72575873-de6f-4e30-8c06-21e111aea876",
       "critique": null,
       "humanReviewed": true,
-      "reviewedRevision": "746cddcbd762cdb79e44"
+      "reviewedRevision": "b15ca53a1d3fbf36db6e",
+      "reviewedVersionId": null,
+      "reviewedPageSHA256": "6db79d8312f2cd062decd4787ff724b18d95c6821411448397e1f150c71ded1d"
     },
     "pg031_sec004.html": {
       "decision": "review",
@@ -3882,7 +3971,9 @@
       "candidateVersion": "bdd10f64-2f14-4b6e-90bb-140177b4be84",
       "critique": null,
       "humanReviewed": true,
-      "reviewedRevision": "746cddcbd762cdb79e44"
+      "reviewedRevision": "b15ca53a1d3fbf36db6e",
+      "reviewedVersionId": "bdd10f64-2f14-4b6e-90bb-140177b4be84",
+      "reviewedPageSHA256": "f98a4f1fde74f6d4dff69c4eabbbd14309d7620d541f3fdceba0c234ba33540b"
     },
     "pg032_sec001.html": {
       "decision": "review",
@@ -3895,7 +3986,9 @@
       "candidateVersion": "b2cf4aa0-48d3-4f09-83bd-d45d20adff2e",
       "critique": null,
       "humanReviewed": true,
-      "reviewedRevision": "746cddcbd762cdb79e44"
+      "reviewedRevision": "b15ca53a1d3fbf36db6e",
+      "reviewedVersionId": null,
+      "reviewedPageSHA256": "f527e9b5fe85cae45d62faa7ab325d9b9fbf97f04f3f7eadc8c241e20734d916"
     },
     "pg033_sec001.html": {
       "decision": "review",
@@ -3908,7 +4001,9 @@
       "candidateVersion": null,
       "critique": null,
       "humanReviewed": true,
-      "reviewedRevision": "746cddcbd762cdb79e44"
+      "reviewedRevision": "b15ca53a1d3fbf36db6e",
+      "reviewedVersionId": null,
+      "reviewedPageSHA256": "35ea8655911ad08268b97fef0f38b27ad1b860182a8cbffd560c030ad418a001"
     },
     "pg033_sec002.html": {
       "decision": "review",
@@ -3921,7 +4016,9 @@
       "candidateVersion": "268994fa-3bfb-4d47-890c-f38a9a98426c",
       "critique": null,
       "humanReviewed": true,
-      "reviewedRevision": "746cddcbd762cdb79e44"
+      "reviewedRevision": "b15ca53a1d3fbf36db6e",
+      "reviewedVersionId": null,
+      "reviewedPageSHA256": "1bf66fad2b0cb4c477fda53debde5446ab36acf2da605cbfdbc90385474a672f"
     },
     "pg033_sec003.html": {
       "decision": "review",
@@ -3934,7 +4031,9 @@
       "candidateVersion": "817d6515-6350-4538-8e00-b65e22eeb7b6",
       "critique": null,
       "humanReviewed": true,
-      "reviewedRevision": "372f6e26fa32e3fea81f"
+      "reviewedRevision": "b15ca53a1d3fbf36db6e",
+      "reviewedVersionId": "817d6515-6350-4538-8e00-b65e22eeb7b6",
+      "reviewedPageSHA256": "efd8f50b6939af3168e37afb120de74ad7df3e8a79b4044ee07523b5c559e6c3"
     },
     "pg034_sec001.html": {
       "decision": "review",
@@ -3959,7 +4058,9 @@
         ]
       },
       "humanReviewed": true,
-      "reviewedRevision": "372f6e26fa32e3fea81f"
+      "reviewedRevision": "b15ca53a1d3fbf36db6e",
+      "reviewedVersionId": null,
+      "reviewedPageSHA256": "0bfd336ffbeddf4c4521fbfb78df388e065abb128bdc89c8b12f826df9368f0f"
     },
     "pg035_sec001.html": {
       "decision": "review",
@@ -3972,7 +4073,9 @@
       "candidateVersion": "67a8d688-6d5d-4342-9b9c-da45b469153c",
       "critique": null,
       "humanReviewed": true,
-      "reviewedRevision": "372f6e26fa32e3fea81f"
+      "reviewedRevision": "b15ca53a1d3fbf36db6e",
+      "reviewedVersionId": null,
+      "reviewedPageSHA256": "c4402b25fbc8f909ae43333b6a58269337ecbdccf07ea08a4bed767e444e0de2"
     },
     "qz007.html": {
       "decision": "review",
@@ -3997,7 +4100,9 @@
         ]
       },
       "humanReviewed": true,
-      "reviewedRevision": "372f6e26fa32e3fea81f"
+      "reviewedRevision": "b15ca53a1d3fbf36db6e",
+      "reviewedVersionId": null,
+      "reviewedPageSHA256": "5899a156c5ecbe0f55db204d4f1bd7a8bb90896a02bb6d9a12a9e1150d760068"
     },
     "pg036_sec001.html": {
       "decision": "review",
@@ -4010,7 +4115,9 @@
       "candidateVersion": "3ead5405-f14e-45bf-92b5-76caf8811035",
       "critique": null,
       "humanReviewed": true,
-      "reviewedRevision": "372f6e26fa32e3fea81f"
+      "reviewedRevision": "b15ca53a1d3fbf36db6e",
+      "reviewedVersionId": "3ead5405-f14e-45bf-92b5-76caf8811035",
+      "reviewedPageSHA256": "7eb34f82121588f5b54ee259f5c0add5749a849ccebd8827a3886930ca30a00a"
     },
     "pg037_sec001.html": {
       "decision": "review",
@@ -4023,7 +4130,9 @@
       "candidateVersion": "f196d0ef-7035-4bf2-8a74-59fc47b5851e",
       "critique": null,
       "humanReviewed": true,
-      "reviewedRevision": "c1524934e22ac6920f41"
+      "reviewedRevision": "b15ca53a1d3fbf36db6e",
+      "reviewedVersionId": "f196d0ef-7035-4bf2-8a74-59fc47b5851e",
+      "reviewedPageSHA256": "a19d8b2a37b0301b290e49ec84614fc93ea46f9b630747789c5eb0645101409a"
     },
     "pg038_sec001.html": {
       "decision": "review",
@@ -4050,7 +4159,9 @@
         ]
       },
       "humanReviewed": true,
-      "reviewedRevision": "c1524934e22ac6920f41"
+      "reviewedRevision": "b15ca53a1d3fbf36db6e",
+      "reviewedVersionId": null,
+      "reviewedPageSHA256": "d319c2ae8642fa1e484928561dc19ca1d36a426f3406744c398c2d02bcf47e12"
     },
     "pg039_sec001.html": {
       "decision": "review",
@@ -4080,7 +4191,9 @@
         ]
       },
       "humanReviewed": true,
-      "reviewedRevision": "c1524934e22ac6920f41"
+      "reviewedRevision": "b15ca53a1d3fbf36db6e",
+      "reviewedVersionId": null,
+      "reviewedPageSHA256": "a535d885487120bddd3e5fcba5cd5084e3e99ccd858144ede517aeb43564029a"
     },
     "qz008.html": {
       "decision": "review",
@@ -4107,7 +4220,9 @@
         ]
       },
       "humanReviewed": true,
-      "reviewedRevision": "fcc647482e78f091a7b8"
+      "reviewedRevision": "b15ca53a1d3fbf36db6e",
+      "reviewedVersionId": null,
+      "reviewedPageSHA256": "bb3e2c1abaa81b3f7208aa01c1b2769d906016d132b19b27b2e28717eedbbe5c"
     },
     "pg040_sec001.html": {
       "decision": "review",
@@ -4139,7 +4254,9 @@
         ]
       },
       "humanReviewed": true,
-      "reviewedRevision": "1a6c71251c3f863ef4cc"
+      "reviewedRevision": "b15ca53a1d3fbf36db6e",
+      "reviewedVersionId": null,
+      "reviewedPageSHA256": "607b40d104a47257a400794183d1177546034cc38fbb6850e818e6fd26c4fc4c"
     },
     "pg041_sec001.html": {
       "decision": "review",
@@ -4165,7 +4282,9 @@
         ]
       },
       "humanReviewed": true,
-      "reviewedRevision": "1a6c71251c3f863ef4cc"
+      "reviewedRevision": "b15ca53a1d3fbf36db6e",
+      "reviewedVersionId": null,
+      "reviewedPageSHA256": "7b3a364b6e1351d36568284852233661cff04b38f7f5ac2f5685029640a9f134"
     },
     "pg041_sec002.html": {
       "decision": "review",
@@ -4193,7 +4312,9 @@
         ]
       },
       "humanReviewed": true,
-      "reviewedRevision": "1a6c71251c3f863ef4cc"
+      "reviewedRevision": "b15ca53a1d3fbf36db6e",
+      "reviewedVersionId": null,
+      "reviewedPageSHA256": "eb304329d1f0a2e7f1fdf258cc67c61f0be1c855eb7d72d7fe32b3896f9fb4a0"
     },
     "pg042_sec001.html": {
       "decision": "review",
@@ -4206,7 +4327,9 @@
       "candidateVersion": null,
       "critique": null,
       "humanReviewed": true,
-      "reviewedRevision": "1a6c71251c3f863ef4cc"
+      "reviewedRevision": "b15ca53a1d3fbf36db6e",
+      "reviewedVersionId": null,
+      "reviewedPageSHA256": "fc4482c893af3524e7466836b3491d5c0fcd9b35565b1c19077f82b3c006fa91"
     },
     "pg042_sec002.html": {
       "decision": "review",
@@ -4233,7 +4356,9 @@
         ]
       },
       "humanReviewed": true,
-      "reviewedRevision": "1a6c71251c3f863ef4cc"
+      "reviewedRevision": "b15ca53a1d3fbf36db6e",
+      "reviewedVersionId": null,
+      "reviewedPageSHA256": "63a19edb19a783fefa8213663138c74187f8e4b546417f8d2b9e3c49faad54dd"
     },
     "pg042_sec003.html": {
       "decision": "review",
@@ -4246,7 +4371,9 @@
       "candidateVersion": "aa2b1ee9-1bf4-4933-8839-94c401df25fc",
       "critique": null,
       "humanReviewed": true,
-      "reviewedRevision": "1a6c71251c3f863ef4cc"
+      "reviewedRevision": "b15ca53a1d3fbf36db6e",
+      "reviewedVersionId": null,
+      "reviewedPageSHA256": "c4c65e8a94cb9e2f328442a05ddfc50f089c2d470b664879c539f79d5ee0febd"
     },
     "qz009.html": {
       "decision": "review",
@@ -4271,7 +4398,9 @@
         ]
       },
       "humanReviewed": true,
-      "reviewedRevision": "1a6c71251c3f863ef4cc"
+      "reviewedRevision": "b15ca53a1d3fbf36db6e",
+      "reviewedVersionId": null,
+      "reviewedPageSHA256": "7b5bb54ea7cf2fb3cad1880adaf084d87edd782de2508c3b6012de7de4338cd4"
     },
     "pg043_sec001.html": {
       "decision": "review",
@@ -4284,7 +4413,9 @@
       "candidateVersion": "cb3e25e9-8a5e-45cd-880d-aa229b9e4e7d",
       "critique": null,
       "humanReviewed": true,
-      "reviewedRevision": "1a6c71251c3f863ef4cc"
+      "reviewedRevision": "b15ca53a1d3fbf36db6e",
+      "reviewedVersionId": null,
+      "reviewedPageSHA256": "52bf43025bcdaf4239c4d9b186727960383bda9849f41c745443ca7b0ea763f4"
     },
     "pg044_sec001.html": {
       "decision": "review",
@@ -4313,7 +4444,9 @@
         ]
       },
       "humanReviewed": true,
-      "reviewedRevision": "67748c020d7fcb944cd6"
+      "reviewedRevision": "b15ca53a1d3fbf36db6e",
+      "reviewedVersionId": null,
+      "reviewedPageSHA256": "fd2e4e2c32e1614e06facd373bf83a6eaba24136c4011a48575da790df8aadcd"
     },
     "pg045_sec001.html": {
       "decision": "review",
@@ -4339,7 +4472,9 @@
         ]
       },
       "humanReviewed": true,
-      "reviewedRevision": "67748c020d7fcb944cd6"
+      "reviewedRevision": "b15ca53a1d3fbf36db6e",
+      "reviewedVersionId": null,
+      "reviewedPageSHA256": "fca73f2c78a136cd16d7d4a502b8607f015be275ed4de8b61674f05d61f1b197"
     },
     "pg045_sec002.html": {
       "decision": "review",
@@ -4352,7 +4487,9 @@
       "candidateVersion": "acac4520-5da5-497a-97d6-c12dd2802447",
       "critique": null,
       "humanReviewed": true,
-      "reviewedRevision": "67748c020d7fcb944cd6"
+      "reviewedRevision": "b15ca53a1d3fbf36db6e",
+      "reviewedVersionId": null,
+      "reviewedPageSHA256": "d607b42d65b0a6cfcc97c896ee1daefb6802f5baa8a72e9328211a68a4767e6f"
     },
     "pg046_sec001.html": {
       "decision": "review",
@@ -4377,7 +4514,9 @@
         ]
       },
       "humanReviewed": true,
-      "reviewedRevision": "67748c020d7fcb944cd6"
+      "reviewedRevision": "b15ca53a1d3fbf36db6e",
+      "reviewedVersionId": null,
+      "reviewedPageSHA256": "5f08766b3430af0d223f2b0f8fce1ec5626bcb42b0971d57e2b900fc829df3c8"
     },
     "pg047_sec001.html": {
       "decision": "review",
@@ -4402,7 +4541,9 @@
         ]
       },
       "humanReviewed": true,
-      "reviewedRevision": "a5c56340f681e6d50983"
+      "reviewedRevision": "b15ca53a1d3fbf36db6e",
+      "reviewedVersionId": null,
+      "reviewedPageSHA256": "b1e986d25ab63f838b15f5bb0091c9b4702f1d56ccc198ad3b7cb42bc0e026e9"
     },
     "pg048_sec001.html": {
       "decision": "review",
@@ -4415,7 +4556,9 @@
       "candidateVersion": "b0ca7a24-7ddd-47ae-a05c-f11b70d308bf",
       "critique": null,
       "humanReviewed": true,
-      "reviewedRevision": "a5c56340f681e6d50983"
+      "reviewedRevision": "b15ca53a1d3fbf36db6e",
+      "reviewedVersionId": null,
+      "reviewedPageSHA256": "d1df0088f66560d8528ca99fcc038bc069a3f3e2c60c1372c37139f99afce303"
     },
     "pg048_sec002.html": {
       "decision": "review",
@@ -4443,7 +4586,9 @@
         ]
       },
       "humanReviewed": true,
-      "reviewedRevision": "a5c56340f681e6d50983"
+      "reviewedRevision": "b15ca53a1d3fbf36db6e",
+      "reviewedVersionId": null,
+      "reviewedPageSHA256": "777c404188f84475159ab8ac7f1fec9869dce2862c80b2915643bbbb722d34a2"
     },
     "pg048_sec003.html": {
       "decision": "review",
@@ -4473,7 +4618,9 @@
         ]
       },
       "humanReviewed": true,
-      "reviewedRevision": "a5c56340f681e6d50983"
+      "reviewedRevision": "b15ca53a1d3fbf36db6e",
+      "reviewedVersionId": null,
+      "reviewedPageSHA256": "6860506362b4931134aecfdaf3c06751be04411243ad4d8897f6494103be24a7"
     },
     "qz010.html": {
       "decision": "review",
@@ -4499,7 +4646,9 @@
         ]
       },
       "humanReviewed": true,
-      "reviewedRevision": "b0abf10fbd54c293e87e"
+      "reviewedRevision": "b15ca53a1d3fbf36db6e",
+      "reviewedVersionId": null,
+      "reviewedPageSHA256": "ec0d9a875a7f76adcfb40f79d0184a32379632431303e49c336db7fc1ca9fa55"
     },
     "pg049_sec002.html": {
       "decision": "review",
@@ -4524,7 +4673,9 @@
         ]
       },
       "humanReviewed": true,
-      "reviewedRevision": "83824e34e979e93b5dc1"
+      "reviewedRevision": "b15ca53a1d3fbf36db6e",
+      "reviewedVersionId": null,
+      "reviewedPageSHA256": "596007d7cf723fc2ea254053539902ffee3a51f398d2d1151b15748dbb8ab49b"
     },
     "pg049_sec003.html": {
       "decision": "review",
@@ -4552,7 +4703,9 @@
         ]
       },
       "humanReviewed": true,
-      "reviewedRevision": "83824e34e979e93b5dc1"
+      "reviewedRevision": "b15ca53a1d3fbf36db6e",
+      "reviewedVersionId": null,
+      "reviewedPageSHA256": "cdeb20c39b2270cb688410c53a3e1d2f89a1845f5e2c41fd47c4f6ef2e568e81"
     },
     "pg049_sec004.html": {
       "decision": "review",
@@ -4565,7 +4718,9 @@
       "candidateVersion": "19ef92ef-4a0c-4ed6-96a7-8ea0b4dfedfb",
       "critique": null,
       "humanReviewed": true,
-      "reviewedRevision": "83824e34e979e93b5dc1"
+      "reviewedRevision": "b15ca53a1d3fbf36db6e",
+      "reviewedVersionId": null,
+      "reviewedPageSHA256": "11bf5da8e1515a7604b5cf793df87148089120040fcd60b68c89c6f003b4f747"
     },
     "pg050_sec001.html": {
       "decision": "review",
@@ -4596,7 +4751,9 @@
         ]
       },
       "humanReviewed": true,
-      "reviewedRevision": "83824e34e979e93b5dc1"
+      "reviewedRevision": "b15ca53a1d3fbf36db6e",
+      "reviewedVersionId": null,
+      "reviewedPageSHA256": "546f282d77481599404382ac50f51ebe188e07e5b80344f8517f1276719b3bfe"
     },
     "qz011.html": {
       "decision": "review",
@@ -4621,7 +4778,9 @@
         ]
       },
       "humanReviewed": true,
-      "reviewedRevision": "83824e34e979e93b5dc1"
+      "reviewedRevision": "b15ca53a1d3fbf36db6e",
+      "reviewedVersionId": null,
+      "reviewedPageSHA256": "e4a09c103fa0b42bfeea581c969fc5d317e7878635b635ff3e2fdc03f5607bbc"
     },
     "qz002_new2.html": {
       "decision": "review",
@@ -4634,7 +4793,9 @@
       "candidateVersion": "cde5d14e-a1d3-40e4-99c6-54b1fb1abb8f",
       "critique": null,
       "humanReviewed": true,
-      "reviewedRevision": "5bfa38bcdbc719968cc0"
+      "reviewedRevision": "b15ca53a1d3fbf36db6e",
+      "reviewedVersionId": "cde5d14e-a1d3-40e4-99c6-54b1fb1abb8f",
+      "reviewedPageSHA256": "df18614bf6ebd47cc4f297ce3f578f2c7861cf52e8018e78573c4fd0f74a5379"
     },
     "qz003_new2.html": {
       "decision": "review",
@@ -4647,35 +4808,9 @@
       "candidateVersion": "12fa9255-bd32-4db2-97c9-27a806302aae",
       "critique": null,
       "humanReviewed": true,
-      "reviewedRevision": "63e1b0591f8043e6592e"
-    },
-    "pg040_sec001_new2.html": {
-      "decision": "review",
-      "summary": "Repair stopped at its per-page iteration limit.",
-      "issues": [
-        "Review the saved candidates before selecting a version or trying a focused new request."
-      ],
-      "revision": "1a6c71251c3f863ef4cc",
-      "at": "2026-11-08T11:02:07.252Z",
-      "candidateVersion": "5e98e146-cc21-46a9-a7c4-62ef27b2b08f",
-      "critique": {
-        "verdict": "improve",
-        "requestFulfillment": "unmet",
-        "requestEvidence": "The new page shows only steps 3–5, each with a tested, saveable input. However, the preceding ADT page still visibly presents steps 1–2 and topics a–c, so those items have not been removed from the worksheet experience.",
-        "sourceFidelity": 3,
-        "visualFidelity": 3,
-        "consistency": 2,
-        "responsiveUsability": 3,
-        "summary": "The new page closely reconstructs the source artwork and proportions, but the unwanted steps remain on the preceding page.",
-        "issues": [
-          "Remove steps 1–2 and topics a–c from the preceding ADT page’s visible worksheet flow while preserving existing learner data.",
-          "The fixed reader bar obscures the project photograph in both supplied candidate views; provide an unobstructed view.",
-          "The Projekt heading uses Comic Sans rather than the source’s handwritten lettering. Use a matching licensed font or explicitly record the substitution.",
-          "The new page shows only steps 3–5, each with a tested, saveable input. However, the preceding ADT page still visibly presents steps 1–2 and topics a–c, so those items have not been removed from the worksheet experience."
-        ]
-      },
-      "humanReviewed": true,
-      "reviewedRevision": "1a6c71251c3f863ef4cc"
+      "reviewedRevision": "b15ca53a1d3fbf36db6e",
+      "reviewedVersionId": "12fa9255-bd32-4db2-97c9-27a806302aae",
+      "reviewedPageSHA256": "1ebb8e258f0a8efe689e67d70d017ed08dcd61f3ec1c14336fdd4d81fe041506"
     }
   },
   "observations": [
@@ -6507,255 +6642,10 @@
     "passed": true,
     "errors": [],
     "warnings": [],
-    "pages": 82,
-    "checkedAt": "2026-11-08T11:52:20.587Z"
+    "pages": 81,
+    "checkedAt": "2026-11-08T15:18:43.158Z"
   },
-  "browserValidation": {
-    "revision": "a5c56340f681e6d50983",
-    "structure": {
-      "passed": true,
-      "errors": [],
-      "warnings": [],
-      "pages": 82,
-      "checkedAt": "2026-11-08T11:52:10.904Z"
-    },
-    "pages": [
-      {
-        "href": "pg001_sec001.html",
-        "views": [
-          {
-            "href": "pg001_sec001.html",
-            "width": 1200,
-            "revision": "a5c56340f681e6d50983",
-            "title": "Shoqëria dhe mjedisi",
-            "blank": false,
-            "height": 1461,
-            "contentBox": {
-              "x": 73,
-              "y": 0,
-              "width": 1040,
-              "height": 1381
-            },
-            "overflow": false,
-            "missingImages": [],
-            "controls": 0,
-            "samples": [
-              {
-                "text": "5",
-                "font": "BookPoppins, Arial, sans-serif",
-                "size": "150px",
-                "weight": "700",
-                "x": 197,
-                "y": 72,
-                "w": 98,
-                "h": 150
-              },
-              {
-                "text": "a",
-                "font": "BookPoppins, Arial, sans-serif",
-                "size": "76px",
-                "weight": "700",
-                "x": 302,
-                "y": 147,
-                "w": 52,
-                "h": 76
-              },
-              {
-                "text": "Shoqëriadhe mjedisi",
-                "font": "BookPoppins, Arial, sans-serif",
-                "size": "42px",
-                "weight": "700",
-                "x": 474,
-                "y": 111,
-                "w": 578,
-                "h": 97
-              },
-              {
-                "text": "Për klasën e pestë të arsimit fillor",
-                "font": "BookPoppins, Arial, sans-serif",
-                "size": "16px",
-                "weight": "400",
-                "x": 474,
-                "y": 222,
-                "w": 578,
-                "h": 24
-              }
-            ],
-            "runtimeErrors": [],
-            "missing": [],
-            "optionalResources": [
-              "audio_voices.json?v=1",
-              "timecode_voices.json?v=1"
-            ],
-            "previewNotes": [
-              "The preview guards cross-origin parent lookup in the known ADT SCORM adapter. Stored and exported scripts are unchanged. LMS integration requires its own test."
-            ],
-            "screenshot": "render-a6c4cdd6-b21c-4251-9997-cced71da9ddf.png",
-            "checkedAt": "2026-11-08T11:52:12.635Z",
-            "activities": {
-              "rows": [],
-              "passed": true,
-              "status": "passed"
-            },
-            "passed": true
-          },
-          {
-            "href": "pg001_sec001.html",
-            "width": 768,
-            "revision": "a5c56340f681e6d50983",
-            "title": "Shoqëria dhe mjedisi",
-            "blank": false,
-            "height": 1200,
-            "contentBox": {
-              "x": 0,
-              "y": 0,
-              "width": 753,
-              "height": 1120
-            },
-            "overflow": false,
-            "missingImages": [],
-            "controls": 0,
-            "samples": [
-              {
-                "text": "5",
-                "font": "BookPoppins, Arial, sans-serif",
-                "size": "150px",
-                "weight": "700",
-                "x": 74,
-                "y": 72,
-                "w": 98,
-                "h": 150
-              },
-              {
-                "text": "a",
-                "font": "BookPoppins, Arial, sans-serif",
-                "size": "76px",
-                "weight": "700",
-                "x": 180,
-                "y": 147,
-                "w": 52,
-                "h": 76
-              },
-              {
-                "text": "Shoqëriadhe mjedisi",
-                "font": "BookPoppins, Arial, sans-serif",
-                "size": "42px",
-                "weight": "700",
-                "x": 301,
-                "y": 111,
-                "w": 392,
-                "h": 97
-              },
-              {
-                "text": "Për klasën e pestë të arsimit fillor",
-                "font": "BookPoppins, Arial, sans-serif",
-                "size": "16px",
-                "weight": "400",
-                "x": 301,
-                "y": 222,
-                "w": 392,
-                "h": 24
-              }
-            ],
-            "runtimeErrors": [],
-            "missing": [],
-            "optionalResources": [
-              "audio_voices.json?v=1",
-              "timecode_voices.json?v=1"
-            ],
-            "previewNotes": [
-              "The preview guards cross-origin parent lookup in the known ADT SCORM adapter. Stored and exported scripts are unchanged. LMS integration requires its own test."
-            ],
-            "screenshot": "render-402b4c30-adf0-4619-aa13-c4ec36194859.png",
-            "checkedAt": "2026-11-08T11:52:13.891Z",
-            "passed": true
-          },
-          {
-            "href": "pg001_sec001.html",
-            "width": 390,
-            "revision": "a5c56340f681e6d50983",
-            "title": "Shoqëria dhe mjedisi",
-            "blank": false,
-            "height": 900,
-            "contentBox": {
-              "x": 0,
-              "y": 0,
-              "width": 375,
-              "height": 711
-            },
-            "overflow": false,
-            "missingImages": [],
-            "controls": 0,
-            "samples": [
-              {
-                "text": "5",
-                "font": "BookPoppins, Arial, sans-serif",
-                "size": "76px",
-                "weight": "700",
-                "x": 19,
-                "y": 77,
-                "w": 49,
-                "h": 76
-              },
-              {
-                "text": "a",
-                "font": "BookPoppins, Arial, sans-serif",
-                "size": "40px",
-                "weight": "700",
-                "x": 76,
-                "y": 95,
-                "w": 27,
-                "h": 40
-              },
-              {
-                "text": "Shoqëriadhe mjedisi",
-                "font": "BookPoppins, Arial, sans-serif",
-                "size": "27px",
-                "weight": "700",
-                "x": 124,
-                "y": 100,
-                "w": 225,
-                "h": 65
-              },
-              {
-                "text": "Për klasën e pestë të arsimit fillor",
-                "font": "BookPoppins, Arial, sans-serif",
-                "size": "13px",
-                "weight": "400",
-                "x": 124,
-                "y": 178,
-                "w": 225,
-                "h": 20
-              }
-            ],
-            "runtimeErrors": [],
-            "missing": [],
-            "optionalResources": [
-              "audio_voices.json?v=1",
-              "timecode_voices.json?v=1"
-            ],
-            "previewNotes": [
-              "The preview guards cross-origin parent lookup in the known ADT SCORM adapter. Stored and exported scripts are unchanged. LMS integration requires its own test."
-            ],
-            "screenshot": "render-cc98323b-748c-4401-bb11-653be90c161e.png",
-            "checkedAt": "2026-11-08T11:52:14.904Z",
-            "passed": true
-          }
-        ],
-        "accessibility": {
-          "violations": [],
-          "incomplete": [
-            {
-              "id": "color-contrast",
-              "nodes": 2
-            }
-          ]
-        }
-      }
-    ],
-    "status": "running",
-    "checkedAt": "2026-11-08T11:52:10.904Z"
-  },
+  "browserValidation": null,
   "usage": {
     "input": 50097039,
     "output": 894420,
@@ -13197,6 +13087,740 @@
       ],
       "action": "Manual page remove",
       "href": "pg046_sec002.html"
+    },
+    {
+      "at": "2026-11-08T14:07:33.310Z",
+      "revision": "6f2edae39ced5abe3652",
+      "changed": [
+        "assets/offline-preloader.js",
+        "pg002_sec001.html"
+      ],
+      "action": "Selected Target the runtime's actual navigation root so the reader dock appears below the page, and document the unavailable italic font substitution.",
+      "href": "pg002_sec001.html"
+    },
+    {
+      "at": "2026-11-08T14:34:46.414Z",
+      "revision": "d1edf038aaf7a82140a6",
+      "changed": [
+        "assets/offline-preloader.js",
+        "imsmanifest.xml",
+        "pg007_sec001.html",
+        "studio/assets/pg007_landscape_bottom.png"
+      ],
+      "action": "Selected Restore the source preface composition at the measured page aspect ratio with live prose, source-derived lower landscape, continuous ribbons, source italics, and a readable phone reflow; preserve all data IDs and navigation.",
+      "href": "pg007_sec001.html"
+    },
+    {
+      "at": "2026-11-08T14:35:14.708Z",
+      "revision": "631cc5a538e05b6452c3",
+      "changed": [
+        "assets/offline-preloader.js",
+        "imsmanifest.xml",
+        "pg010_sec001.html",
+        "studio/assets/pg010_heading_tab.png"
+      ],
+      "action": "Selected Reconstruct page 10 at source proportions, restore butterfly/response spatial associations and source framing, and retain all eight persistent response controls. The PatrickHand face is unavailable; use a clearly identified cursive fallback. Source heading tab extracted from page 10.",
+      "href": "pg010_sec001.html"
+    },
+    {
+      "at": "2026-11-08T14:35:31.104Z",
+      "revision": "4f6174a4fd9fbbfcad05",
+      "changed": [
+        "assets/offline-preloader.js",
+        "pg011_sec001.html"
+      ],
+      "action": "Selected Exercise 3 is already only in the following focused section, so retain it there and preserve all 39 table responses. Restore the source page 11 table's Poppins typography, equal square white cells, blue rules, red X and orange rail, with selectable X marks and a locally scrollable phone table.",
+      "href": "pg011_sec001.html"
+    },
+    {
+      "at": "2026-11-08T14:35:38.979Z",
+      "revision": "47b22db56c2cb7971f56",
+      "changed": [
+        "assets/offline-preloader.js",
+        "imsmanifest.xml",
+        "pg011_sec002.html",
+        "studio/assets/pg011-stars.png"
+      ],
+      "action": "Selected Replace the redundant detached visual selectors with five directly operable targets over the PDF-derived stars, retaining all original radio identifiers and saved rating values. Restore the square source frame and Poppins instruction in this focused section; the neighboring section is the distinct frequency-table activity, not a duplicate page.",
+      "href": "pg011_sec002.html"
+    },
+    {
+      "at": "2026-11-08T14:35:48.538Z",
+      "revision": "26294eef435376e8d287",
+      "changed": [
+        "assets/offline-preloader.js",
+        "imsmanifest.xml",
+        "pg012_sec001.html",
+        "studio/assets/pg012_thought.png"
+      ],
+      "action": "Selected Reconstruct the PDF page at its source proportions and positions, restore the source-derived thought illustration and folio, and reflow the four image/text pairs for phones. The recall is an oral prompt, not an evidenced graded activity.",
+      "href": "pg012_sec001.html"
+    },
+    {
+      "at": "2026-11-08T14:36:05.266Z",
+      "revision": "b847607a490949ad249a",
+      "changed": [
+        "assets/offline-preloader.js",
+        "imsmanifest.xml",
+        "qz002_new2.html",
+        "studio/assets/pg013_questions.png",
+        "studio/assets/pg013_research.png",
+        "studio/assets/pg013_discuss.png",
+        "studio/assets/pg013_deepen.png"
+      ],
+      "action": "Selected Replace the placeholder with the source page 13 composition, preserving the printed sequence, artwork, discussion writing lines and existing adjacent links.",
+      "href": "qz002_new2.html"
+    },
+    {
+      "at": "2026-11-08T14:36:14.389Z",
+      "revision": "aa3048efa29d7756c2c9",
+      "changed": [
+        "assets/offline-preloader.js",
+        "qz002.html"
+      ],
+      "action": "Selected The existing quiz grades immediately on option selection, with no submit button. Clarify that behavior and show the existing single-choice controls visually; preserve all configured answers and feedback.",
+      "href": "qz002.html"
+    },
+    {
+      "at": "2026-11-08T14:36:27.168Z",
+      "revision": "dfa8a6d2ea8d4da85956",
+      "changed": [
+        "assets/offline-preloader.js",
+        "imsmanifest.xml",
+        "pg014_sec001.html",
+        "studio/assets/pg014_practice_icon.png"
+      ],
+      "action": "Selected Rebuild page 14 using PDF-measured page proportions and exercise geometry; preserve all five response IDs while expanding each answer area and adding an operable drawing workspace for the printed draw-and-write task.",
+      "href": "pg014_sec001.html"
+    },
+    {
+      "at": "2026-11-08T14:36:38.923Z",
+      "revision": "ddaaf39cabd6fd98beb3",
+      "changed": [
+        "assets/offline-preloader.js",
+        "pg015_sec001.html"
+      ],
+      "action": "Selected Restore the source icon scale and bold situation label, and allow source-like line breaks in the narrow monument descriptions.",
+      "href": "pg015_sec001.html"
+    },
+    {
+      "at": "2026-11-08T14:36:51.783Z",
+      "revision": "2f0189b499e7abc60af1",
+      "changed": [
+        "assets/offline-preloader.js",
+        "qz003_new2.html"
+      ],
+      "action": "Selected Replace the page 17 placeholder with a proportional editable reconstruction of the source composition, using the book’s extracted artwork and one saved writing area; restore the reader runtime.",
+      "href": "qz003_new2.html"
+    },
+    {
+      "at": "2026-11-08T14:37:01.851Z",
+      "revision": "b7f816a5d10b39fe5f12",
+      "changed": [
+        "assets/offline-preloader.js",
+        "qz003.html"
+      ],
+      "action": "Selected Make the existing immediately graded answer choices visibly selectable and explain how to use them, without changing options, answer data, grading, or navigation. The open textbook question and this separate companion activity are not duplicate pages.",
+      "href": "qz003.html"
+    },
+    {
+      "at": "2026-11-08T14:37:12.579Z",
+      "revision": "d25bea1b894a83a444e4",
+      "changed": [
+        "book-design/responses.js",
+        "imsmanifest.xml",
+        "studio/assets/pg018_rubric.png"
+      ],
+      "action": "Selected Allow the reconstructed page 18 worksheet to share the existing focused-view response keys without deleting or overwriting their saved answers. Controls without these attributes retain existing behavior.",
+      "href": "pg018_sec001.html"
+    },
+    {
+      "at": "2026-11-08T14:37:20.222Z",
+      "revision": "193d6f0c217501d2c796",
+      "changed": [
+        "assets/offline-preloader.js",
+        "pg018_sec002.html"
+      ],
+      "action": "Selected Restore the source worksheet's compact square purple grid and Poppins typography in this focused activity; pair each prompt with its existing response on phones. Retain all response IDs and the persistence/runtime scripts. Neighboring page-18 sections contain different exercises, not duplicate pages.",
+      "href": "pg018_sec002.html"
+    },
+    {
+      "at": "2026-11-08T14:37:28.863Z",
+      "revision": "b43d550d7d0fb1fe78e6",
+      "changed": [
+        "assets/offline-preloader.js",
+        "pg018_sec003.html"
+      ],
+      "action": "Selected Match the PDF exercise's regular Poppins prompt and open, muted-purple three-row writing grid in its focused view. Preserve all three existing response identifiers and explain their local automatic persistence; neighboring sections are distinct exercises, not duplicate pages.",
+      "href": "pg018_sec003.html"
+    },
+    {
+      "at": "2026-11-08T14:37:38.017Z",
+      "revision": "321b0065c29be8650f1e",
+      "changed": [
+        "assets/offline-preloader.js",
+        "pg018_sec004.html"
+      ],
+      "action": "Selected Restore the source's regular Poppins instruction and separate square purple writing frame in the focused activity, retaining the response ID and persistence. The four page 18 sections contain different tasks, not duplicate pages.",
+      "href": "pg018_sec004.html"
+    },
+    {
+      "at": "2026-11-08T14:37:46.179Z",
+      "revision": "d342a6aaad1608083323",
+      "changed": [
+        "assets/offline-preloader.js",
+        "pg019_sec001.html"
+      ],
+      "action": "Selected Reconstruct the source page proportions and unequal photo layout; retain all four existing response IDs in a clearly opened, automatically saved response dialog, avoiding expanded duplicate on-page labels. Preserve source discussion as oral and add printed folio.",
+      "href": "pg019_sec001.html"
+    },
+    {
+      "at": "2026-11-08T14:37:58.291Z",
+      "revision": "ce3e0403a1847310da31",
+      "changed": [
+        "assets/offline-preloader.js",
+        "pg022_sec001.html"
+      ],
+      "action": "Selected Rebuild the source page at its measured proportions with its original photo/text composition and six optional response editors. Keep the existing response identifiers and persistence; compact buttons open the full writing fields without expanding the printed discussion panels.",
+      "href": "pg022_sec001.html"
+    },
+    {
+      "at": "2026-11-08T14:38:08.126Z",
+      "revision": "b168d946f61a86f02895",
+      "changed": [
+        "assets/offline-preloader.js",
+        "qz004.html"
+      ],
+      "action": "Selected The existing runtime evaluates each option on selection, so a separate submit button is not required. Add a brief interface instruction to make the automatic evaluation discoverable; preserve all options, answer data, feedback and navigation. The companion quiz is not printed on page 22 and remains subject to independent specification review.",
+      "href": "qz004.html"
+    },
+    {
+      "at": "2026-11-08T14:40:07.513Z",
+      "revision": "8468ad9222b5fc10b84e",
+      "changed": [
+        "assets/offline-preloader.js",
+        "imsmanifest.xml",
+        "pg025_sec001.html",
+        "studio/assets/pg025_thought.png"
+      ],
+      "action": "Selected Rebuild page 25 from the source canvas while preserving all three existing response IDs in an accessible, openable response dialog; discussion is ungraded. Restore source artwork, typographic roles, aligned housing rows and folio.",
+      "href": "pg025_sec001.html"
+    },
+    {
+      "at": "2026-11-08T14:40:16.416Z",
+      "revision": "e2c30627e7bf79f42a8a",
+      "changed": [
+        "assets/offline-preloader.js",
+        "pg026_sec001.html"
+      ],
+      "action": "Selected Reconstruct page 26 against the measured PDF canvas, retaining all four original images and narrative identifiers, restoring folio and source caption treatment, with responsive reflow and dock scroll clearance.",
+      "href": "pg026_sec001.html"
+    },
+    {
+      "at": "2026-11-08T14:40:36.857Z",
+      "revision": "d5894173fd5c479af662",
+      "changed": [
+        "assets/offline-preloader.js",
+        "imsmanifest.xml",
+        "pg027_sec001.html",
+        "studio/assets/pg027_question_marks.png"
+      ],
+      "action": "Selected Restore the source question-block layout and artwork while keeping all seven existing response IDs; the three non-ruled question responses remain available in an optional disclosure. This is a focused section, not a complete source-page canvas.",
+      "href": "pg027_sec001.html"
+    },
+    {
+      "at": "2026-11-08T14:40:57.080Z",
+      "revision": "2e43890180bf31a3968d",
+      "changed": [
+        "assets/offline-preloader.js",
+        "imsmanifest.xml",
+        "pg027_sec002.html",
+        "studio/assets/pg027_research_mouse.png",
+        "studio/assets/pg027_discussion_icon.png"
+      ],
+      "action": "Selected Restore the PDF-derived mouse and compact research callout in its overlap with the discussion. The discussion is shown as source context with a link to the existing response view; no second set of controls or response data is introduced. The hidden heading is an accessibility label, not a visible duplicate.",
+      "href": "pg027_sec002.html"
+    },
+    {
+      "at": "2026-11-08T14:41:09.046Z",
+      "revision": "223784b7f0abef0304ad",
+      "changed": [
+        "assets/offline-preloader.js",
+        "pg027_sec003.html"
+      ],
+      "action": "Selected Restore the source discussion's compact green panel, Poppins prompts and emphasis, while keeping all five existing response IDs and automatic local persistence in an explicitly optional, keyboard-operable notes area. The five page-27 sections contain different source blocks rather than duplicate pages; retain their navigation.",
+      "href": "pg027_sec003.html"
+    },
+    {
+      "at": "2026-11-08T14:41:18.467Z",
+      "revision": "ca02ae77f0cd6c3a2d4a",
+      "changed": [
+        "assets/offline-preloader.js",
+        "imsmanifest.xml",
+        "pg027_sec004.html",
+        "studio/assets/pg027_glossary_art.png",
+        "studio/assets/pg027_research_art.png"
+      ],
+      "action": "Selected Restore the source-page glossary directly after Thello dijet in the same focused page, preserving all prose identifiers and using page 27 artwork and source definitions. The neighboring question and discussion activities remain on their existing links.",
+      "href": "pg027_sec004.html"
+    },
+    {
+      "at": "2026-11-08T14:41:41.193Z",
+      "revision": "aae8f403dbd3803ea146",
+      "changed": [
+        "assets/offline-preloader.js",
+        "imsmanifest.xml",
+        "pg028_sec001.html",
+        "studio/assets/pg028_blocks.png",
+        "book-design/pg028.css",
+        "book-design/pg028.js"
+      ],
+      "action": "Selected Place the source word search on the complete worksheet while retaining the focused-view table and textarea; connect both views to the same selectable-letter state.",
+      "href": "pg028_sec001.html"
+    },
+    {
+      "at": "2026-11-08T14:41:57.583Z",
+      "revision": "eb9a4984d60e575e619a",
+      "changed": [
+        "assets/offline-preloader.js",
+        "imsmanifest.xml",
+        "pg029_sec001.html",
+        "studio/assets/pg029_plough_source.png"
+      ],
+      "action": "Selected Reconstruct the source page at its measured proportions, keep the three existing response fields in an operable disclosure, and use the source crop for the plough photograph.",
+      "href": "pg029_sec001.html"
+    },
+    {
+      "at": "2026-11-08T14:42:16.682Z",
+      "revision": "73fe6e4983530fce450f",
+      "changed": [
+        "assets/offline-preloader.js",
+        "imsmanifest.xml",
+        "pg030_sec002.html",
+        "studio/assets/pg030_research_art.png"
+      ],
+      "action": "Selected Restore the source research illustration and compact right-hand cream callout in the existing focused section; retain the existing optional response and its persistence rather than treating the research task as graded or deleting learner data.",
+      "href": "pg030_sec002.html"
+    },
+    {
+      "at": "2026-11-08T14:42:29.612Z",
+      "revision": "218e5ac8f6936b9cc39f",
+      "changed": [
+        "assets/offline-preloader.js",
+        "imsmanifest.xml",
+        "pg030_sec004.html",
+        "studio/assets/pg030_thelo_badge.png",
+        "studio/assets/pg030_fjalorthi_badge.png"
+      ],
+      "action": "Selected Restore the PDF's lower-page Thello dijet panel and add the requested Fjalorthi with source-derived badge crops and live source text. Keep this existing href as a focused section view; other page 30 sections and their responses remain untouched.",
+      "href": "pg030_sec004.html"
+    },
+    {
+      "at": "2026-11-08T14:42:42.715Z",
+      "revision": "496ddc4060637426b4f2",
+      "changed": [
+        "assets/offline-preloader.js",
+        "qz006.html"
+      ],
+      "action": "Selected Make the existing immediately graded answer controls recognizable and explain how to use them. Runtime interaction probes confirm selection and feedback; retain all existing options, keys, feedback and navigation.",
+      "href": "qz006.html"
+    },
+    {
+      "at": "2026-11-08T14:42:48.643Z",
+      "revision": "7ae8d546566b1597b534",
+      "changed": [
+        "assets/offline-preloader.js",
+        "pg031_sec002.html"
+      ],
+      "action": "Selected Match the source's plain two-column writing grid, Poppins prompt and column labels; retain both existing response IDs and automatic response persistence. The neighboring page-31 sections contain different tasks rather than duplicate exercises.",
+      "href": "pg031_sec002.html"
+    },
+    {
+      "at": "2026-11-08T14:42:56.488Z",
+      "revision": "87059a2a63ff7aa54e9d",
+      "changed": [
+        "assets/offline-preloader.js",
+        "pg031_sec003.html"
+      ],
+      "action": "Selected Match the source exercise 2 typography, two-line prompt and single rectangular purple writing region while retaining the existing response identity and persistence. This remains a focused activity, not a full page canvas.",
+      "href": "pg031_sec003.html"
+    },
+    {
+      "at": "2026-11-08T14:43:04.838Z",
+      "revision": "10ea40b8a962b86759f0",
+      "changed": [
+        "assets/offline-preloader.js",
+        "pg031_sec004.html"
+      ],
+      "action": "Selected Reorganize the focused comparison activity using the source's complete intersecting oval boundaries, labels above the diagram, Poppins prompts, and the original three persistent response controls associated with their regions. Reflow the same controls below the diagram on narrow screens.",
+      "href": "pg031_sec004.html"
+    },
+    {
+      "at": "2026-11-08T14:43:10.337Z",
+      "revision": "b32290861e8c2150ada8",
+      "changed": [
+        "assets/offline-preloader.js",
+        "pg032_sec001.html"
+      ],
+      "action": "Selected Restore the source-page proportions, clothing composition, folio and compact discussion while retaining all three saved response IDs in an optional accessible response dialog.",
+      "href": "pg032_sec001.html"
+    },
+    {
+      "at": "2026-11-08T14:43:23.385Z",
+      "revision": "18df4e099546cfe863ee",
+      "changed": [
+        "assets/offline-preloader.js",
+        "imsmanifest.xml",
+        "pg033_sec002.html",
+        "studio/assets/pg033_discussion_source.png"
+      ],
+      "action": "Selected Restore the compact source discussion panel with its PDF-derived artwork and Poppins prompts. Retain all three existing response IDs in an optional keyboard-operable writing area; the source task is oral discussion.",
+      "href": "pg033_sec002.html"
+    },
+    {
+      "at": "2026-11-08T14:43:30.533Z",
+      "revision": "337f0ab5e618428280c6",
+      "changed": [
+        "assets/offline-preloader.js",
+        "imsmanifest.xml",
+        "pg033_sec003.html",
+        "studio/assets/pg033_thello_badge.png",
+        "studio/assets/pg033_fjalorthi_badge.png"
+      ],
+      "action": "Selected Combine the source page's missing glossary with the focused Thello dijet view, recover both source badges, restore the open frame, source text edge and paragraph break, while leaving the separate discussion and question activities intact.",
+      "href": "pg033_sec003.html"
+    },
+    {
+      "at": "2026-11-08T14:43:53.433Z",
+      "revision": "c398c709d4168ec1c3a3",
+      "changed": [
+        "assets/offline-preloader.js",
+        "imsmanifest.xml",
+        "pg034_sec001.html",
+        "studio/assets/pg034_tab.png"
+      ],
+      "action": "Selected Reconstruct source page 34 at the measured portrait size and keep all ten existing response IDs, with the extra project notes available optionally rather than implying an online photo-leaflet editor. Restore the source tab artwork and seven writing lines; keep the offline comparison task intact.",
+      "href": "pg034_sec001.html"
+    },
+    {
+      "at": "2026-11-08T14:44:07.377Z",
+      "revision": "2908166c19a2df2001f6",
+      "changed": [
+        "assets/offline-preloader.js",
+        "imsmanifest.xml",
+        "pg035_sec001.html",
+        "studio/assets/pg035_grandparents.png",
+        "studio/assets/pg035_parents.png",
+        "studio/assets/pg035_thought.png"
+      ],
+      "action": "Selected Rebuild page 35 to the measured PDF proportions, restore the full source illustrations, retain accessible list text without visible duplicates, and retain the existing response as a compact expandable editor.",
+      "href": "pg035_sec001.html"
+    },
+    {
+      "at": "2026-11-08T14:44:23.975Z",
+      "revision": "eae17212dd04b1b9c191",
+      "changed": [
+        "assets/offline-preloader.js",
+        "qz007.html"
+      ],
+      "action": "Selected Make the existing instantly graded answer panels visibly selectable and explain how to apply an answer, without changing options, grading, or companion provenance.",
+      "href": "qz007.html"
+    },
+    {
+      "at": "2026-11-08T14:44:36.629Z",
+      "revision": "ed607b3bdadae1dfc4c8",
+      "changed": [
+        "assets/offline-preloader.js",
+        "imsmanifest.xml",
+        "pg036_sec001.html",
+        "studio/assets/pg036_questions.png",
+        "studio/assets/pg036_outing.png",
+        "studio/assets/pg036_discuss.png",
+        "studio/assets/pg036_reading.png",
+        "studio/assets/pg036_glossary.png"
+      ],
+      "action": "Selected Rebuild page 36 from the PDF with source-derived rubric artwork, proportional page geometry and accessible response editors for the two requested activities. Keep the remaining source content as reading; retain any previously saved discussion responses in a conditional notes disclosure. Correct source spelling and glossary emphasis.",
+      "href": "pg036_sec001.html"
+    },
+    {
+      "at": "2026-11-08T14:44:45.058Z",
+      "revision": "c3d0d15847c70d155438",
+      "changed": [
+        "assets/offline-preloader.js",
+        "imsmanifest.xml",
+        "pg037_sec001.html",
+        "studio/assets/pg037_header_icon.png"
+      ],
+      "action": "Selected Reconstruct the source page as an editable worksheet, restoring the source-derived heading illustration, orange margin, recipe spaces, six-clue stepped crossword and reflection while retaining the existing section identity and reader scripts. No crossword solution or grading key is inferred.",
+      "href": "pg037_sec001.html"
+    },
+    {
+      "at": "2026-11-08T14:44:53.119Z",
+      "revision": "133a9b4daeb2dc37bb0a",
+      "changed": [
+        "assets/offline-preloader.js",
+        "pg038_sec001.html"
+      ],
+      "action": "Selected Rebuild the source page's proportional lesson composition, retain the three existing response identifiers in an accessible focused editor, restore the printed folio, and preserve the six source photographs and all text.",
+      "href": "pg038_sec001.html"
+    },
+    {
+      "at": "2026-11-08T14:46:23.032Z",
+      "revision": "31e3e2ce028bcf5ad5ee",
+      "changed": [
+        "assets/offline-preloader.js",
+        "content/pages.json",
+        "content/toc.json",
+        "imsmanifest.xml",
+        "pg041_sec001.html",
+        "pg041_sec002.html",
+        "pg042_sec001.html",
+        "pg042_sec002.html",
+        "pg042_sec003.html",
+        "pg043_sec001.html",
+        "pg044_sec001.html",
+        "pg045_sec001.html",
+        "pg045_sec002.html",
+        "pg046_sec001.html",
+        "pg047_sec001.html",
+        "pg048_sec001.html",
+        "pg048_sec002.html",
+        "pg048_sec003.html",
+        "pg049_sec002.html",
+        "pg049_sec003.html",
+        "pg049_sec004.html",
+        "pg050_sec001.html",
+        "qz009.html",
+        "qz010.html",
+        "qz011.html",
+        "pg040_sec001_new2.html"
+      ],
+      "action": "Manual page remove",
+      "href": "pg040_sec001_new2.html"
+    },
+    {
+      "at": "2026-11-08T14:46:36.803Z",
+      "revision": "e75e6ecd74d8b1abc2fc",
+      "changed": [
+        "assets/offline-preloader.js",
+        "imsmanifest.xml",
+        "pg041_sec001.html",
+        "studio/assets/pg041_family_source.png"
+      ],
+      "action": "Selected Fix the source keyword frame, preserve the bold narrative lead-in when the runtime replaces translated text, and reserve a separate scroll viewport above the reader dock so it cannot cover the photo or text.",
+      "href": "pg041_sec001.html"
+    },
+    {
+      "at": "2026-11-08T14:46:44.021Z",
+      "revision": "56b55d133816ee2757f8",
+      "changed": [
+        "assets/offline-preloader.js",
+        "pg041_sec002.html"
+      ],
+      "action": "Selected Retain the four source-linked writing controls and automatic local persistence while restyling the focused question panel to match the source's single purple frame, overlapping artwork and sans-serif prompts; PatrickHand is unavailable, so use an explicitly substituted cursive face.",
+      "href": "pg041_sec002.html"
+    },
+    {
+      "at": "2026-11-08T14:47:10.814Z",
+      "revision": "6e076c19e4a50920538f",
+      "changed": [
+        "assets/offline-preloader.js",
+        "pg042_sec002.html"
+      ],
+      "action": "Selected Rebuild the focused response view with the source question-mark artwork, purple open frame, Poppins questions, and two writing regions. Preserve all four existing response IDs and saved data; place potentially redundant extra fields in an accessible disclosure rather than delete uncertain learner responses. Add a link to the separate photograph section and clarify browser-local autosave.",
+      "href": "pg042_sec002.html"
+    },
+    {
+      "at": "2026-11-08T14:47:19.904Z",
+      "revision": "e397d8d5bacb9b004d35",
+      "changed": [
+        "assets/offline-preloader.js",
+        "imsmanifest.xml",
+        "pg042_sec003.html",
+        "studio/assets/pg042-theletab.png"
+      ],
+      "action": "Selected Restore the source-specific open purple rubric and extracted illustrated tab, source paragraph break and measured body typography in the focused section. Preserve all IDs and navigation; PatrickHand is unavailable, so the heading uses a provisional cursive substitute.",
+      "href": "pg042_sec003.html"
+    },
+    {
+      "at": "2026-11-08T14:47:28.302Z",
+      "revision": "550f045336da04abc6ee",
+      "changed": [
+        "assets/offline-preloader.js",
+        "qz009.html"
+      ],
+      "action": "Selected Clarify that the existing selectable choices are interactive and graded immediately; retain all existing answer data, feedback and runtime behavior.",
+      "href": "qz009.html"
+    },
+    {
+      "at": "2026-11-08T14:47:38.338Z",
+      "revision": "320e3b5dee2b6791cdbb",
+      "changed": [
+        "assets/offline-preloader.js",
+        "pg043_sec001.html"
+      ],
+      "action": "Selected Remove shared wrapper padding so the worksheet occupies its 1000 × 1355 source-size canvas, and override shared form styling to keep single writing rules and usable phone controls.",
+      "href": "pg043_sec001.html"
+    },
+    {
+      "at": "2026-11-08T14:47:46.775Z",
+      "revision": "3f9edb9e799a76c6156c",
+      "changed": [
+        "assets/offline-preloader.js",
+        "imsmanifest.xml",
+        "pg044_sec001.html",
+        "studio/assets/pg044_communication_art.png",
+        "studio/assets/pg044_dialogue.png",
+        "studio/assets/pg044_thought.png",
+        "studio/assets/pg044_dialogue_mobile.png"
+      ],
+      "action": "Selected Keep the reader dock outside the scrollable lesson, restore the source thought artwork, and use a source-derived illustration crop for the phone reflow.",
+      "href": "pg044_sec001.html"
+    },
+    {
+      "at": "2026-11-08T14:47:53.537Z",
+      "revision": "8244574f49ba23e9330e",
+      "changed": [
+        "assets/offline-preloader.js",
+        "imsmanifest.xml",
+        "pg045_sec001.html",
+        "studio/assets/pg045_research_mouse.png"
+      ],
+      "action": "Selected Restore source-derived research artwork and source font roles, compact the seven retained response fields, and improve phone readability without treating hidden accessible labels as duplicate prompts.",
+      "href": "pg045_sec001.html"
+    },
+    {
+      "at": "2026-11-08T14:48:04.033Z",
+      "revision": "60a916e30408eed06b0b",
+      "changed": [
+        "assets/offline-preloader.js",
+        "pg045_sec002.html"
+      ],
+      "action": "Selected Override shared component specificity so the source-inspired local styling is actually applied.",
+      "href": "pg045_sec002.html"
+    },
+    {
+      "at": "2026-11-08T14:48:12.867Z",
+      "revision": "c574268d81cb99524076",
+      "changed": [
+        "assets/offline-preloader.js",
+        "imsmanifest.xml",
+        "pg046_sec001.html",
+        "studio/assets/pg046_blocks.png"
+      ],
+      "action": "Selected Reassemble the two distinct source exercises on the original proportional worksheet, retain their existing focused view and response identities, and restore source artwork and editable answer areas.",
+      "href": "pg046_sec001.html"
+    },
+    {
+      "at": "2026-11-08T14:48:21.138Z",
+      "revision": "d25ffc302426aaa9f5cb",
+      "changed": [
+        "assets/offline-preloader.js",
+        "imsmanifest.xml",
+        "pg047_sec001.html",
+        "studio/assets/pg047_thought.png"
+      ],
+      "action": "Selected Rebuild page 47 against the PDF with source art, proportional canvas and an optional existing response after the photos. The repeated question was an accessible label, not a duplicate exercise; the response identifier and persistence script remain unchanged.",
+      "href": "pg047_sec001.html"
+    },
+    {
+      "at": "2026-11-08T14:48:29.527Z",
+      "revision": "d0fd9d87189a267e5ac7",
+      "changed": [
+        "assets/offline-preloader.js",
+        "imsmanifest.xml",
+        "pg048_sec001.html",
+        "studio/assets/pg048_questions.png"
+      ],
+      "action": "Selected Ensure the focused view's heading and writing-field styling take precedence over the shared defaults.",
+      "href": "pg048_sec001.html"
+    },
+    {
+      "at": "2026-11-08T14:48:38.962Z",
+      "revision": "07e2eb59467399984afe",
+      "changed": [
+        "assets/offline-preloader.js",
+        "imsmanifest.xml",
+        "pg048_sec002.html",
+        "studio/assets/pg048_discussion.png"
+      ],
+      "action": "Selected Restore source discussion colors, source-derived speech bubbles and prompt typography in this focused activity; keep both labeled response fields and their identifiers, compact rather than deleting them. PatrickHand is unavailable and uses an explicitly identified cursive fallback.",
+      "href": "pg048_sec002.html"
+    },
+    {
+      "at": "2026-11-08T14:48:53.221Z",
+      "revision": "15bd9a31607e0ac85658",
+      "changed": [
+        "assets/offline-preloader.js",
+        "pg049_sec002.html"
+      ],
+      "action": "Selected Correct the focused exercise against PDF page 49: remove unsupported ornamental card and pencil visually, restore upright Poppins and three ruled editable responses while retaining IDs and persistence.",
+      "href": "pg049_sec002.html"
+    },
+    {
+      "at": "2026-11-08T14:48:59.318Z",
+      "revision": "afc8882e0bfc6325d3e4",
+      "changed": [
+        "assets/offline-preloader.js",
+        "pg049_sec003.html"
+      ],
+      "action": "Selected Restore the source exercise's regular Poppins prompt and five ruled response lines in its focused view, removing the unsupported card while retaining all controls and persistence identifiers.",
+      "href": "pg049_sec003.html"
+    },
+    {
+      "at": "2026-11-08T14:49:07.695Z",
+      "revision": "8823c99063ae30ac188b",
+      "changed": [
+        "assets/offline-preloader.js",
+        "imsmanifest.xml",
+        "pg049_sec004.html",
+        "studio/assets/pg049_research_character.png"
+      ],
+      "action": "Selected Restore the source project callout and character while retaining the existing response field as optional notes, rather than turning the group project into an essay.",
+      "href": "pg049_sec004.html"
+    },
+    {
+      "at": "2026-11-08T14:50:33.830Z",
+      "revision": "8a47020ae954f9cbda61",
+      "changed": [
+        "assets/offline-preloader.js",
+        "pg008_sec001.html"
+      ],
+      "action": "Selected Restore page 8 source-proportional composition, original type roles and folio; keep the existing source notebook and provide a readable live transcript on phones.",
+      "href": "pg008_sec001.html"
+    },
+    {
+      "at": "2026-11-08T15:01:48.109Z",
+      "revision": "d7de3c125b4fe1a1b74d",
+      "changed": [
+        "assets/offline-preloader.js",
+        "imsmanifest.xml",
+        "pg009_sec001.html",
+        "studio/assets/pg009_notebook_source.png"
+      ],
+      "action": "Selected Restore the page 9 source composition, move the existing diary response onto the original notebook art and provide a clear gap below the introductory text; keep the original response identifier.",
+      "href": "pg009_sec001.html"
+    },
+    {
+      "at": "2026-11-08T15:06:01.381Z",
+      "revision": "b15ca53a1d3fbf36db6e",
+      "changed": [
+        "assets/offline-preloader.js",
+        "imsmanifest.xml",
+        "pg009_sec002.html",
+        "pg016_sec001.html",
+        "pg024_sec001.html",
+        "qz001.html",
+        "studio/assets/pg009_notebook.png",
+        "studio/assets/pg024_header_blocks.png"
+      ],
+      "action": "Selected latest saved page versions",
+      "pages": [
+        "qz001.html",
+        "pg009_sec002.html",
+        "pg016_sec001.html",
+        "pg024_sec001.html"
+      ]
     }
   ],
   "limitations": [

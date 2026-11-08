@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="sq"><head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Shoqëria dhe mjedisi</title><meta name="title-id" content="pg025_sec001"><meta name="page-section-id" content="31">
+<link href="./content/tailwind_output.css" rel="stylesheet"><link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet"><link href="./assets/fonts.css" rel="stylesheet"><link rel="stylesheet" href="./book-design/components.css?v=9f3d745a858de581" data-book-style="true">
+<style>
+/* Page 25: PDF coordinates on the 639.449 × 866.220 canvas. */
+#content.book.page25{width:100%;max-width:1000px;padding:0;margin:0 auto;container-type:inline-size;aspect-ratio:639.449/866.220;position:relative;background:white;overflow:visible}
+#content.book.page25>section{position:relative;width:100%;height:100%;padding:0;margin:0}
+#content.book.page25 .p25-banner{position:absolute;left:4.7%;top:1.73%;width:93.8%;height:13.35%;background:#9972b3}
+#content.book.page25 .p25-banner h1{position:absolute;left:11.65%;top:48%;margin:0;text-align:left;color:white;font:700 2.815cqw/1.25 BookPoppins,Arial,sans-serif}
+#content.book.page25 .p25-keywords{position:absolute;left:15.5%;top:13.8%;width:73.35%;height:5.25%;border:0.28cqw solid #7950a0;border-radius:0 0 1.9cqw 1.9cqw;display:flex;align-items:center;background:white;font:400 1.877cqw/1.2 BookAmiri,serif}
+#content.book.page25 .p25-keywords .p25-label{align-self:stretch;display:flex;align-items:center;margin:-1.7cqw 1cqw -0.28cqw -0.28cqw;padding:0 1cqw;background:#9972b3;color:white;border:0.28cqw solid #7950a0;border-radius:1.9cqw;font:700 2.19cqw/1 BookAmiri,serif;white-space:nowrap}
+#content.book.page25 .p25-thought{position:absolute;left:15.5%;top:21.38%;width:73.35%;height:11.2%;border-radius:1.9cqw;background:#91cfdb;color:#30313a}
+#content.book.page25 .p25-thought img{position:absolute;left:1.4%;top:8%;width:9%;height:auto}
+#content.book.page25 .p25-thought h2{position:absolute;left:15.2%;top:6%;margin:0;font:400 2.815cqw/1.2 'Comic Sans MS',cursive;color:#30313a}
+#content.book.page25 .p25-thought ul{position:absolute;left:15.2%;top:39%;margin:0;padding:0;list-style:none;font:400 1.877cqw/1.2 BookPoppins,Arial,sans-serif}
+#content.book.page25 .p25-thought li{font:inherit;color:inherit;white-space:nowrap}
+#content.book.page25 .p25-thought li:before{content:'- '}
+#content.book.page25 .p25-open{position:absolute;right:1.5%;top:5%;padding:0.4em 0.7em;min-height:44px;border:1px solid #345a64;border-radius:5px;background:#fff;color:#21383f;font:600 14px/1.2 BookPoppins,Arial,sans-serif;cursor:pointer}
+#content.book.page25 .p25-picture{position:absolute;left:15.5%;height:auto;object-fit:contain}
+#content.book.page25 .p25-picture.one{top:35.55%;width:26.9%}
+#content.book.page25 .p25-picture.two{top:54.15%;width:27.2%}
+#content.book.page25 .p25-picture.three{top:74.1%;width:23.1%}
+#content.book.page25 p.p25-copy{position:absolute;left:43.44%;width:45.3%;margin:0;color:#30313a;text-align:justify;font:400 1.877cqw/1.167 BookAmiri,Georgia,serif}
+#content.book.page25 p.p25-copy.one{top:36.2%}#content.book.page25 p.p25-copy.two{top:54.85%}#content.book.page25 p.p25-copy.three{top:77.3%}
+#content.book.page25 .p25-folio{position:absolute;left:86.45%;top:90.5%;font:400 1.877cqw/1.3 BookPoppins,Arial,sans-serif}
+#content.book.page25 dialog{position:fixed;inset:0;margin:auto;width:min(90vw,650px);max-height:85vh;overflow:auto;padding:24px;border:2px solid #7950a0;border-radius:10px;background:#fff;color:#30313a;font:400 16px/1.5 BookPoppins,Arial,sans-serif;z-index:1000}
+#content.book.page25 dialog::backdrop{background:rgba(0,0,0,.48)}
+#content.book.page25 dialog h2{font:600 21px/1.3 BookPoppins,Arial,sans-serif;margin:0 0 12px}
+#content.book.page25 dialog label{display:block;font:400 16px/1.4 BookPoppins,Arial,sans-serif;margin:12px 0 4px}
+#content.book.page25 dialog textarea{display:block;width:100%;min-height:70px}
+#content.book.page25 dialog button{min-height:44px;margin-top:14px;padding:8px 20px;color:#fff;background:#7950a0;border:0;border-radius:4px;font:600 16px/1.2 BookPoppins,Arial,sans-serif;cursor:pointer}
+@media(max-width:640px){
+ #content.book.page25{aspect-ratio:auto;padding:0 20px 100px}
+ #content.book.page25>section{height:auto;display:flex;flex-direction:column;gap:18px}
+ #content.book.page25 .p25-banner{position:relative;left:auto;top:auto;width:calc(100% + 40px);height:auto;margin:0 -20px;padding:40px 20px 30px}
+ #content.book.page25 .p25-banner h1{position:static;font-size:24px}
+ #content.book.page25 .p25-keywords{position:relative;left:auto;top:auto;width:100%;height:auto;min-height:60px;margin-top:-25px;padding:5px 8px 5px 0;font-size:16px;border-width:2px;border-radius:0 0 12px 12px}
+ #content.book.page25 .p25-keywords .p25-label{align-self:stretch;margin:-10px 8px -7px -2px;padding:8px;font-size:17px;border-width:2px;border-radius:12px}
+ #content.book.page25 .p25-thought{position:relative;left:auto;top:auto;width:100%;height:auto;padding:18px 16px 18px 60px;border-radius:14px}
+ #content.book.page25 .p25-thought img{left:10px;top:16px;width:40px}
+ #content.book.page25 .p25-thought h2{position:static;font-size:23px;margin:0 0 12px}
+ #content.book.page25 .p25-thought ul{position:static;font-size:16px;line-height:1.45}
+ #content.book.page25 .p25-thought li{white-space:normal;margin:4px 0}
+ #content.book.page25 .p25-open{position:static;margin-top:12px}
+ #content.book.page25 .p25-picture.one,#content.book.page25 .p25-picture.two,#content.book.page25 .p25-picture.three{position:static;width:auto;max-width:80%;max-height:260px;align-self:flex-start}
+ #content.book.page25 p.p25-copy.one,#content.book.page25 p.p25-copy.two,#content.book.page25 p.p25-copy.three{position:static;width:auto;font-size:18px;line-height:1.4;text-align:left}
+ #content.book.page25 .p25-folio{position:static;align-self:flex-end;font-size:16px}
+}
+</style></head>
+<body class="min-h-screen flex items-center justify-center"><main class="w-full"><div id="content" class="container opacity-0 book page25" data-family="illustrated-lesson"><section data-section-type="text_and_images" data-section-id="pg025_sec001">
+<header class="p25-banner"><h1 data-id="pg025_n0002">Objektet e banimit në vendin tonë</h1></header>
+<div class="p25-keywords"><span class="p25-label" data-id="pg025_n0004">Fjalët kyçe:</span><span data-id="pg025_n0005">kasolle, kullë, shtëpi tradicionale, arkitekturë bashkëkohore.</span></div>
+<aside class="p25-thought"><img src="studio/assets/pg025_thought.png" alt=""><h2 data-id="pg025_n0008">Shpreh mendimin tënd</h2><ul><li data-id="pg025_n0011">Si kanë qenë shtëpitë e banimit <i>dikur</i> në Kosovë?</li><li data-id="pg025_n0013">Si janë <i>sot</i>?</li><li data-id="pg025_n0015">Analizo fotografitë me informacionet e dhëna!</li></ul><button type="button" class="p25-open" aria-haspopup="dialog" onclick="document.getElementById('p25-responses').showModal()">Shkruaj përgjigjet</button></aside>
+<img class="p25-picture one" data-id="pg025_im002" src="images/pg025_im002.png" alt="Kasolle">
+<p class="p25-copy one"><span data-id="pg025_n0017">Kasolle është quajtur në të kaluarën ndërtesa e thjeshtë përdhese (shtëpi e thjeshtë), që ka shërbyer për banim.</span> <span data-id="pg025_n0018">Kasollja ka qenë e ndërtuar nga gardhi, e lyer brenda e jashtë me baltë të përzier me kashtë, kurse çatinë e kishte të mbuluar me tallë misri ose me kashtë.</span></p>
+<img class="p25-picture two" data-id="pg025_im003" src="images/pg025_im003.png" alt="Shtëpi përdhese tradicionale">
+<p class="p25-copy two"><span data-id="pg025_n0020">Me kalimin e kohës u ndërtuan shtëpitë përdhese me arkitekturë të thjeshtë popullore.</span> <span data-id="pg025_n0021">Ato u ndërtuan me material të fortë prej qerpiçësh.</span> <span data-id="pg025_n0022">Shtëpia kishte zakonisht mbulojën e gjatë, që ishte vazhdimi i shtëpisë, i quajtur hajat.</span> <span data-id="pg025_n0023">Secila shtëpi kishte një dhomë më të madhe se të tjerat, që ishte dhoma e ndenjjes.</span></p>
+<img class="p25-picture three" data-id="pg025_im004" src="images/pg025_im004.png" alt="Shtëpi tradicionale me kate">
+<p class="p25-copy three"><span data-id="pg025_n0025">Shtëpitë tradicionale me kate ishin, të njohura në Kosovë.</span><br><span data-id="pg025_n0026">Ato ndërtoheshin nga familjet e mëdha.</span></p>
+<span class="p25-folio" aria-label="Faqja 25">25</span>
+<dialog id="p25-responses" aria-labelledby="p25-dialog-title"><h2 id="p25-dialog-title">Shpreh mendimin tënd</h2><label for="item-1">Si kanë qenë shtëpitë e banimit dikur në Kosovë?</label><textarea id="item-1" data-activity-item="item-1"></textarea><label for="item-2">Si janë sot?</label><textarea id="item-2" data-activity-item="item-2"></textarea><label for="item-3">Analizo fotografitë me informacionet e dhëna!</label><textarea id="item-3" data-activity-item="item-3"></textarea><form method="dialog"><button type="submit">Mbyll</button></form></dialog>
+</section></div></main>
+<div class="relative z-50" id="interface-container"></div><div class="relative z-50" id="nav-container"></div>
+<script src="./assets/offline-preloader.js?v=9f3d745a858de581"></script><script src="./assets/scorm.js"></script><script src="./assets/base.bundle.local.js"></script><script src="./book-design/responses.js?v=9f3d745a858de581" data-book-responses="true"></script></body></html>

@@ -12,7 +12,7 @@
     <link href="./content/tailwind_output.css" rel="stylesheet">
     <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
     <link href="./assets/fonts.css" rel="stylesheet">
-<link rel="stylesheet" href="./book-design/components.css?v=43160e6d82395931" data-book-style="true"></head>
+<link rel="stylesheet" href="./book-design/components.css?v=6979d7e1c4878fe2" data-book-style="true"></head>
 
 <body class="min-h-screen flex items-center justify-center">
     <main class="w-full">
@@ -63,6 +63,29 @@
         color: var(--quiz-selected-text);
         font-weight: 600;
     }
+    /* This companion quiz grades on selection; make the existing controls
+       and automatic submission discoverable without changing its answer data. */
+    #content.book #simple-main .quiz-instruction {
+        font: 400 16px/1.5 var(--book-heading);
+        color: #30313a;
+        margin: 0;
+    }
+    #content.book #simple-main .activity-option .option-text::before {
+        content: '';
+        display: inline-block;
+        width: 20px;
+        height: 20px;
+        margin-right: 12px;
+        vertical-align: -3px;
+        border: 2px solid #7950aa;
+        border-radius: 50%;
+        background: #fff;
+    }
+    #content.book #simple-main .activity-option[aria-checked="true"] .option-text::before,
+    #content.book #simple-main .activity-option.selected-option .option-text::before {
+        background: #7950aa;
+        box-shadow: inset 0 0 0 4px #fff;
+    }
     #simple-main [data-submit-target] button {
         background-color: var(--quiz-submit);
         color: var(--quiz-submit-text);
@@ -80,7 +103,8 @@
                     </h2>
                 </header>
                 <div class="quiz-body px-6 py-10 md:px-10">
-                <div class="mt-8 flex flex-col items-center gap-6" role="group" aria-labelledby="qz002-question-label">
+                <p id="qz002-instruction" class="quiz-instruction">Zgjidh një përgjigje. Përgjigjja kontrollohet automatikisht.</p>
+                <div class="mt-8 flex flex-col items-center gap-6" role="group" aria-labelledby="qz002-question-label" aria-describedby="qz002-instruction">
 
                     <label class="activity-option w-[34rem] max-w-full cursor-pointer rounded-2xl border-2 px-8 py-6 text-center adt-body font-medium transition-all duration-200" data-activity-item="qz002_o0" data-explanation="❌ Jo tamam. Pemët rriten në natyrë, ndërsa monumentet shërbejnë për të ruajtur kujtesën historike." data-explanation-id="qz002_o0_exp" tabindex="0">
                         <input type="radio" name="qz002" value="qz002_o0" data-activity-item="qz002_o0" class="sr-only" aria-labelledby="qz002_o0-option-label">
@@ -145,10 +169,10 @@
     </script>
     <div class="relative z-50" id="interface-container"></div>
     <div class="relative z-50" id="nav-container"></div>
-    <script src="./assets/offline-preloader.js?v=43160e6d82395931"></script>
+    <script src="./assets/offline-preloader.js?v=6979d7e1c4878fe2"></script>
     <script src="./assets/scorm.js"></script>
     <script src="./assets/base.bundle.local.js"></script>
 
 
 
-<script src="./book-design/responses.js?v=43160e6d82395931" data-book-responses="true"></script></body></html>
+<script src="./book-design/responses.js?v=6979d7e1c4878fe2" data-book-responses="true"></script></body></html>

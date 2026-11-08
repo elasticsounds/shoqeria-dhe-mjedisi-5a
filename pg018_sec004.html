@@ -12,29 +12,36 @@
     <link href="./content/tailwind_output.css" rel="stylesheet">
     <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
     <link href="./assets/fonts.css" rel="stylesheet">
-<link rel="stylesheet" href="./book-design/components.css?v=43160e6d82395931" data-book-style="true"></head>
+<link rel="stylesheet" href="./book-design/components.css?v=6979d7e1c4878fe2" data-book-style="true">
+<style>
+  /* Focused view of the fourth writing area on source page 18. */
+  #content.book .pg018-writing { width:100%; max-width:720px; margin:0 auto; }
+  #content.book .pg018-writing .pg018-prompt { margin:0 0 8px; font:400 18.77px/1.2 BookPoppins,Arial,sans-serif; color:#30313a; }
+  #content.book .pg018-writing textarea { display:block; width:100%; height:209px; min-height:120px; padding:10px; border:3px solid #5050a0; border-radius:0; background:#fff; resize:vertical; }
+  @media (max-width:700px) {
+    #content.book .pg018-writing .pg018-prompt { font-size:16px; line-height:1.4; margin-bottom:10px; }
+    #content.book .pg018-writing textarea { height:200px; }
+  }
+</style></head>
 
 <body class="min-h-screen flex items-center justify-center">
     <main class="w-full">
       <h1 class="sr-only" id="page-heading">Shoqëria dhe mjedisi</h1>
       <div id="content" class="container opacity-0 book" data-family="response"><h2 class="sr-only" id="section-heading">4. Shkruaj disa të dhëna për njërin nga vendbanimet që të pëlqeu më shumë.</h2>
-  <section data-section-type="other" data-section-id="pg018_sec004" class="mx-auto w-full max-w-5xl px-8 max-sm:px-5 py-8 b-page">
-    <div class="rounded-3xl border-4 border-violet-300 bg-white p-6 shadow-sm">
-      <p class="adt-body text-left font-medium text-slate-900 mb-4"><span data-id="pg018_n0029">4. Shkruaj disa të dhëna për njërin nga vendbanimet që të pëlqeu më shumë.</span></p>
-      <div data-id="pg018_n0030" class="sr-only"> </div>
-      <label for="item-1-response" class="sr-only">4. Shkruaj disa të dhëna për njërin nga vendbanimet që të pëlqeu më shumë.</label>
-      <textarea id="item-1-response" data-activity-item="item-1" aria-label="4. Shkruaj disa të dhëna për njërin nga vendbanimet që të pëlqeu më shumë." class="w-full min-h-11 h-72 max-sm:h-56 rounded-2xl border-4 border-violet-400 bg-violet-50/40 p-4 text-slate-900 outline-none focus:ring-4 focus:ring-violet-200"></textarea>
-    </div>
+  <section data-section-type="other" data-section-id="pg018_sec004" class="pg018-writing b-page">
+    <p class="pg018-prompt" id="pg018-prompt" data-id="pg018_n0029">4. Shkruaj disa të dhëna për njërin nga vendbanimet që të pëlqeu më shumë.</p>
+    <div data-id="pg018_n0030" class="sr-only"> </div>
+    <textarea id="item-1-response" data-activity-item="item-1" aria-labelledby="pg018-prompt"></textarea>
   </section>
 </div>
     </main>
 
     <div class="relative z-50" id="interface-container"></div>
     <div class="relative z-50" id="nav-container"></div>
-    <script src="./assets/offline-preloader.js?v=43160e6d82395931"></script>
+    <script src="./assets/offline-preloader.js?v=6979d7e1c4878fe2"></script>
     <script src="./assets/scorm.js"></script>
     <script src="./assets/base.bundle.local.js"></script>
 
 
 
-<script src="./book-design/responses.js?v=43160e6d82395931" data-book-responses="true"></script></body></html>
+<script src="./book-design/responses.js?v=6979d7e1c4878fe2" data-book-responses="true"></script></body></html>

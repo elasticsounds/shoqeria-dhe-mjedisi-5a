@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="sq"><head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Shoqëria dhe mjedisi</title>
+    <meta name="title-id" content="pg045_sec001">
+    <!-- Despite the name, this is the page's 1-based position in the reading
+         order, not a section id and not the printed page number. It drives the
+         "N of M" dock counter and is re-emitted on every package, so it tracks
+         the current order. Identity lives in title-id above. -->
+    <meta name="page-section-id" content="69">
+    <link href="./content/tailwind_output.css" rel="stylesheet">
+    <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+    <link href="./assets/fonts.css" rel="stylesheet">
+<link rel="stylesheet" href="./book-design/components.css?v=9f3d745a858de581" data-book-style="true"></head>
+
+<body class="min-h-screen flex items-center justify-center">
+    <main class="w-full">
+      <div id="content" class="container mx-auto w-full max-w-6xl px-8 max-sm:px-4 py-8 opacity-0 book" data-family="response">
+  <section data-section-type="other" data-section-id="pg045_sec001" class="space-y-8 b-page">
+    <div class="rounded-[2.25rem] border-[4px] border-violet-500 bg-white px-10 py-10 max-sm:px-5 max-sm:py-6">
+      <div class="mb-6 flex items-center gap-4 max-sm:gap-3">
+        <div aria-hidden="true" class="flex shrink-0 -mt-2 items-start gap-1 leading-none b-rubric-wrapper"><img src="images/pg005_im006.png" alt="" aria-hidden="true" class="b-rubric-icon"></div>
+        <h1 data-id="pg045_n0003" class="adt-h2 text-left text-violet-700">Pyetje për ty</h1>
+      </div>
+
+      <div class="space-y-8">
+        <div class="text-left">
+          <div class="mb-3 flex items-start gap-3 text-gray-900">
+            <span aria-hidden="true" class="adt-body shrink-0">–</span>
+            <p class="adt-body"><span data-id="pg045_n0007">Flisni për vlerat tradicionale të vendit tonë!</span></p>
+          </div>
+          <label for="item-1" class="sr-only">Flisni për vlerat tradicionale të vendit tonë!</label>
+          <textarea id="item-1" data-activity-item="item-1" aria-label="Flisni për vlerat tradicionale të vendit tonë!" class="w-full min-h-11 rounded-[1.5rem] border-2 border-violet-300 bg-violet-50 px-4 py-3 text-gray-900 outline-none focus:border-violet-500 focus:ring-2 focus:ring-violet-200"></textarea>
+        </div>
+
+        <div class="text-left">
+          <div class="mb-2 flex items-start gap-3 text-gray-900">
+            <span aria-hidden="true" class="adt-body shrink-0">–</span>
+            <p class="adt-body"><span data-id="pg045_n0009">A mendon se kjo fjali paraqet respekt ndaj të tjerëve (Arsyeto përgjigjen!):</span></p>
+          </div>
+          <p class="adt-body mb-3 pl-8 max-sm:pl-6 text-gray-900">
+            <span data-id="pg045_n0010">“Pranoji njerëzit (shoqen dhe shokun) ashtu siç janë, pa i paragjykuar për kulturën, gjuhën apo traditat e tyre!”</span>
+          </p>
+          <label for="item-2" class="sr-only">A mendon se kjo fjali paraqet respekt ndaj të tjerëve (Arsyeto përgjigjen!):</label>
+          <textarea id="item-2" data-activity-item="item-2" aria-label="A mendon se kjo fjali paraqet respekt ndaj të tjerëve (Arsyeto përgjigjen!):" class="w-full min-h-11 rounded-[1.5rem] border-2 border-violet-300 bg-violet-50 px-4 py-3 text-gray-900 outline-none focus:border-violet-500 focus:ring-2 focus:ring-violet-200"></textarea>
+        </div>
+
+        <div class="text-left">
+          <div class="mb-3 flex items-start gap-3 text-gray-900">
+            <span aria-hidden="true" class="adt-body shrink-0">–</span>
+            <p class="adt-body"><span data-id="pg045_n0012">Diskuto me mësuesin dhe prindërit rreth kulturave të ndryshme!</span></p>
+          </div>
+          <label for="item-3" class="sr-only">Diskuto me mësuesin dhe prindërit rreth kulturave të ndryshme!</label>
+          <textarea id="item-3" data-activity-item="item-3" aria-label="Diskuto me mësuesin dhe prindërit rreth kulturave të ndryshme!" class="w-full min-h-11 rounded-[1.5rem] border-2 border-violet-300 bg-violet-50 px-4 py-3 text-gray-900 outline-none focus:border-violet-500 focus:ring-2 focus:ring-violet-200"></textarea>
+        </div>
+      </div>
+    </div>
+
+    <aside class="ml-auto w-[44%] rounded-[1.75rem] border-2 border-violet-500 bg-amber-50 px-6 py-5 max-lg:w-[58%] max-sm:w-full max-sm:ml-0 max-sm:px-5">
+      <div class="flex items-start gap-4 max-sm:gap-3">
+        <div aria-hidden="true" class="shrink-0 pt-1 leading-none text-violet-500">
+          <div>✧</div>
+          <div class="mt-2">🐭</div>
+          <div class="mt-1">✧</div>
+        </div>
+        <div class="min-w-0 flex-1 space-y-4">
+          <p class="adt-body text-left text-amber-900">
+            <span data-id="pg045_n0014">Bashkë me ndihmën e prindërve apo të mësuesit, hulumto në internet dhe gjej informacione për veshjet dhe ushqimet në kulturat e ndryshme të botës.</span>
+          </p>
+          <label for="item-4" class="sr-only">Bashkë me ndihmën e prindërve apo të mësuesit, hulumto në internet dhe gjej informacione për veshjet dhe ushqimet në kulturat e ndryshme të botës.</label>
+          <textarea id="item-4" data-activity-item="item-4" aria-label="Bashkë me ndihmën e prindërve apo të mësuesit, hulumto në internet dhe gjej informacione për veshjet dhe ushqimet në kulturat e ndryshme të botës." class="w-full min-h-11 rounded-[1.25rem] border-2 border-amber-300 bg-white px-4 py-3 text-gray-900 outline-none focus:border-amber-500 focus:ring-2 focus:ring-amber-200"></textarea>
+        </div>
+      </div>
+    </aside>
+
+    <div class="rounded-[2rem] bg-[#a7cf8c] px-8 py-8 max-sm:px-5 max-sm:py-6">
+      <div class="mb-6 flex items-center gap-4 max-sm:gap-3">
+        <div aria-hidden="true" class="leading-none b-rubric-wrapper"><img src="images/pg005_im008.png" alt="" aria-hidden="true" class="b-rubric-icon"></div>
+        <h2 data-id="pg045_n0017" class="adt-h2 text-left text-gray-900">Diskuto</h2>
+      </div>
+      <div class="space-y-6">
+        <div class="text-left">
+          <div class="mb-3 flex items-start gap-3 text-gray-900">
+            <span aria-hidden="true" class="adt-body shrink-0">–</span>
+            <p class="adt-body"><span data-id="pg045_n0021">A dalluakan veshjet ndërmjet popujve të ndryshëm në botë?</span></p>
+          </div>
+          <label for="item-5" class="sr-only">A dalluakan veshjet ndërmjet popujve të ndryshëm në botë?</label>
+          <textarea id="item-5" data-activity-item="item-5" aria-label="A dalluakan veshjet ndërmjet popujve të ndryshëm në botë?" class="w-full min-h-11 rounded-[1.5rem] border-2 border-green-500 bg-white/85 px-4 py-3 text-gray-900 outline-none focus:border-green-700 focus:ring-2 focus:ring-green-200"></textarea>
+        </div>
+
+        <div class="text-left">
+          <div class="mb-3 flex items-start gap-3 text-gray-900">
+            <span aria-hidden="true" class="adt-body shrink-0">–</span>
+            <p class="adt-body"><span data-id="pg045_n0023">Po ushqimet?</span></p>
+          </div>
+          <label for="item-6" class="sr-only">Po ushqimet?</label>
+          <textarea id="item-6" data-activity-item="item-6" aria-label="Po ushqimet?" class="w-full min-h-11 rounded-[1.5rem] border-2 border-green-500 bg-white/85 px-4 py-3 text-gray-900 outline-none focus:border-green-700 focus:ring-2 focus:ring-green-200"></textarea>
+        </div>
+
+        <div class="text-left">
+          <div class="mb-3 flex items-start gap-3 text-gray-900">
+            <span aria-hidden="true" class="adt-body shrink-0">–</span>
+            <p class="adt-body"><span data-id="pg045_n0025">Analizo se pse ushqimet dhe veshjet janë pjesë e kulturës së secilit popull.</span></p>
+          </div>
+          <label for="item-7" class="sr-only">Analizo se pse ushqimet dhe veshjet janë pjesë e kulturës së secilit popull.</label>
+          <textarea id="item-7" data-activity-item="item-7" aria-label="Analizo se pse ushqimet dhe veshjet janë pjesë e kulturës së secilit popull." class="w-full min-h-11 rounded-[1.5rem] border-2 border-green-500 bg-white/85 px-4 py-3 text-gray-900 outline-none focus:border-green-700 focus:ring-2 focus:ring-green-200"></textarea>
+        </div>
+      </div>
+    </div>
+  </section>
+</div>
+    </main>
+
+    <div class="relative z-50" id="interface-container"></div>
+    <div class="relative z-50" id="nav-container"></div>
+    <script src="./assets/offline-preloader.js?v=9f3d745a858de581"></script>
+    <script src="./assets/scorm.js"></script>
+    <script src="./assets/base.bundle.local.js"></script>
+
+
+
+<script src="./book-design/responses.js?v=9f3d745a858de581" data-book-responses="true"></script></body></html>

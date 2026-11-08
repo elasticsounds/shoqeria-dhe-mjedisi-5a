@@ -12,7 +12,7 @@
     <link href="./content/tailwind_output.css" rel="stylesheet">
     <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
     <link href="./assets/fonts.css" rel="stylesheet">
-<link rel="stylesheet" href="./book-design/components.css?v=43160e6d82395931" data-book-style="true"></head>
+<link rel="stylesheet" href="./book-design/components.css?v=6979d7e1c4878fe2" data-book-style="true"></head>
 
 <body class="min-h-screen flex items-center justify-center">
     <main class="w-full">
@@ -32,6 +32,10 @@
     #simple-main .quiz-card { background-color: var(--quiz-body); box-shadow: 0 12px 34px rgba(0, 0, 0, 0.10); }
     #simple-main .quiz-header { background-color: var(--quiz-accent); }
     #simple-main .quiz-question { color: var(--quiz-header-text); }
+    #content.book #simple-main .quiz-instruction {
+        margin: 0;
+        font: 400 17px/1.5 var(--book-heading);
+    }
     #simple-main .activity-option {
         background-color: var(--quiz-option);
         border-color: var(--quiz-accent);
@@ -80,7 +84,8 @@
                     </h2>
                 </header>
                 <div class="quiz-body px-6 py-10 md:px-10">
-                <div class="mt-8 flex flex-col items-center gap-6" role="group" aria-labelledby="qz004-question-label">
+                <p id="qz004-instruction" class="quiz-instruction">Zgjidh një përgjigje për të parë vlerësimin.</p>
+                <div class="mt-4 flex flex-col items-center gap-6" role="group" aria-labelledby="qz004-question-label" aria-describedby="qz004-instruction">
 
                     <label class="activity-option w-[34rem] max-w-full cursor-pointer rounded-2xl border-2 px-8 py-6 text-center adt-body font-medium transition-all duration-200" data-activity-item="qz004_o0" data-explanation="❌ Ara është tokë ku punohet në fshat, jo rrugë." data-explanation-id="qz004_o0_exp" tabindex="0">
                         <input type="radio" name="qz004" value="qz004_o0" data-activity-item="qz004_o0" class="sr-only" aria-labelledby="qz004_o0-option-label">
@@ -145,10 +150,10 @@
     </script>
     <div class="relative z-50" id="interface-container"></div>
     <div class="relative z-50" id="nav-container"></div>
-    <script src="./assets/offline-preloader.js?v=43160e6d82395931"></script>
+    <script src="./assets/offline-preloader.js?v=6979d7e1c4878fe2"></script>
     <script src="./assets/scorm.js"></script>
     <script src="./assets/base.bundle.local.js"></script>
 
 
 
-<script src="./book-design/responses.js?v=43160e6d82395931" data-book-responses="true"></script></body></html>
+<script src="./book-design/responses.js?v=6979d7e1c4878fe2" data-book-responses="true"></script></body></html>

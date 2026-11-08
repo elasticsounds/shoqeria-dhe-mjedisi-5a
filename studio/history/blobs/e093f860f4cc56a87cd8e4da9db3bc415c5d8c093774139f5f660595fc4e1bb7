@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="sq"><head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Shoqëria dhe mjedisi</title>
+  <meta name="title-id" content="pg018_sec002">
+  <meta name="page-section-id" content="23">
+  <link href="./content/tailwind_output.css" rel="stylesheet">
+  <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+  <link href="./assets/fonts.css" rel="stylesheet">
+  <link rel="stylesheet" href="./book-design/components.css?v=9f3d745a858de581" data-book-style="true">
+  <style>
+    /* Focused view of the three-column worksheet on source page 18. */
+    #content.book.pg018-task { padding: 32px 20px 128px; }
+    #content.book.pg018-task .worksheet { width: 100%; max-width: 717px; margin: 0 auto; font-family: BookPoppins, Arial, sans-serif; color: #30313a; }
+    #content.book.pg018-task .worksheet h2 { margin: 0 0 8px; font: 400 18.8px/1.3 BookPoppins, Arial, sans-serif; }
+    #content.book.pg018-task .worksheet-grid { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); border: 2px solid #5050a0; }
+    #content.book.pg018-task .worksheet-cell { min-width: 0; display: flex; flex-direction: column; }
+    #content.book.pg018-task .worksheet-cell + .worksheet-cell { border-left: 2px solid #5050a0; }
+    #content.book.pg018-task .worksheet-cell label { display: block; height: 69px; padding: 7px 5px 4px; border-bottom: 2px solid #5050a0; font: 400 15.65px/1.2 BookPoppins, Arial, sans-serif; }
+    #content.book.pg018-task .worksheet-cell textarea { display: block; flex: 1; width: 100%; height: 140px; min-height: 140px; margin: 0; padding: 6px; border: 0; border-radius: 0; background: #fff; font: 400 16px/1.4 BookPoppins, Arial, sans-serif; resize: vertical; }
+    #content.book.pg018-task .worksheet-cell textarea:focus-visible { outline: 3px solid #075a70; outline-offset: -3px; }
+    @media (max-width: 700px) {
+      #content.book.pg018-task { padding: 24px 20px 128px; }
+      #content.book.pg018-task .worksheet h2 { font-size: 18px; margin-bottom: 10px; }
+      #content.book.pg018-task .worksheet-grid { grid-template-columns: minmax(0, 1fr); }
+      #content.book.pg018-task .worksheet-cell + .worksheet-cell { border-left: 0; border-top: 2px solid #5050a0; }
+      #content.book.pg018-task .worksheet-cell label { height: auto; min-height: 44px; padding: 9px; font-size: 16px; line-height: 1.4; }
+      #content.book.pg018-task .worksheet-cell textarea { height: 120px; min-height: 120px; padding: 9px; }
+    }
+  </style>
+</head>
+<body class="min-h-screen flex items-center justify-center">
+  <main class="w-full">
+    <h1 class="sr-only" id="page-heading">Shoqëria dhe mjedisi</h1>
+    <div id="content" class="container opacity-0 book pg018-task" data-family="response">
+      <section data-section-type="other" data-section-id="pg018_sec002" class="b-page worksheet" aria-labelledby="section-heading">
+        <h2 id="section-heading" data-id="pg018_n0010">2. Plotëso sipas kërkesave.</h2>
+        <div class="worksheet-grid">
+          <div class="worksheet-cell">
+            <label for="item-1" data-id="pg018_n0014">Cila është rëndësia e statu­jës “Hyjnesha në fron”?</label>
+            <textarea id="item-1" data-activity-item="item-1"></textarea>
+          </div>
+          <div class="worksheet-cell">
+            <label for="item-2" data-id="pg018_n0016">Pse mendon se iu dedikua idhullit të nënës?</label>
+            <textarea id="item-2" data-activity-item="item-2"></textarea>
+          </div>
+          <div class="worksheet-cell">
+            <label for="item-3" data-id="pg018_n0018">Pse mendon se janë të rëndësishme gjetjet arkeo­logjike në vendin tonë?</label>
+            <textarea id="item-3" data-activity-item="item-3"></textarea>
+          </div>
+        </div>
+      </section>
+    </div>
+  </main>
+  <div class="relative z-50" id="interface-container"></div>
+  <div class="relative z-50" id="nav-container"></div>
+  <script src="./assets/offline-preloader.js?v=9f3d745a858de581"></script>
+  <script src="./assets/scorm.js"></script>
+  <script src="./assets/base.bundle.local.js"></script>
+  <script src="./book-design/responses.js?v=9f3d745a858de581" data-book-responses="true"></script>
+</body></html>

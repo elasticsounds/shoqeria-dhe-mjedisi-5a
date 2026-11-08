@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="sq"><head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Shoqëria dhe mjedisi</title><meta name="title-id" content="pg024_sec001"><meta name="page-section-id" content="30">
+<link href="./content/tailwind_output.css" rel="stylesheet"><link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet"><link href="./assets/fonts.css" rel="stylesheet"><link rel="stylesheet" href="./book-design/components.css?v=9f3d745a858de581" data-book-style="true">
+<style>
+#content.book.p24{padding:0 0 100px;max-width:1000px;font-family:BookPoppins,Arial,sans-serif;color:#292a32}
+#content.book.p24 .sheet{position:relative;width:100%;aspect-ratio:639.449/866.22;container-type:inline-size;background:#fff;--u:calc(100cqw / 639.449);font:400 calc(12 * var(--u))/1.25 BookPoppins,Arial,sans-serif}
+#content.book.p24 .orange{position:absolute;left:calc(15 * var(--u));top:calc(15 * var(--u));width:calc(50 * var(--u));height:calc(836 * var(--u));background:#ffb450}
+#content.book.p24 .purple{position:absolute;left:calc(611 * var(--u));top:calc(15 * var(--u));width:calc(13 * var(--u));height:calc(116 * var(--u));background:#a078b4}
+#content.book.p24 .banner{position:absolute;left:calc(65 * var(--u));top:calc(70 * var(--u));width:calc(225 * var(--u));height:calc(45 * var(--u));border:calc(2 * var(--u)) solid #ffb450;background:#fff9ec;display:flex;align-items:center;padding-left:calc(25 * var(--u))}
+#content.book.p24 .banner h1{margin:0;font:700 calc(16 * var(--u))/1.2 BookPoppins,Arial,sans-serif;color:#292a32}
+#content.book.p24 .tab{position:absolute;left:calc(44 * var(--u));top:calc(60 * var(--u));width:calc(44 * var(--u));height:calc(44 * var(--u));z-index:1}
+#content.book.p24 .fold{position:absolute;left:calc(65 * var(--u));top:calc(104 * var(--u));width:calc(23 * var(--u));height:calc(11 * var(--u));border-left:calc(2 * var(--u)) solid #ffb450;border-bottom:calc(2 * var(--u)) solid #ffb450;background:linear-gradient(to bottom right,transparent 47%,#ffb450 48%,#ffb450 52%,transparent 53%)}
+#content.book.p24 .task{position:absolute;left:calc(82.3 * var(--u));width:calc(456 * var(--u))}
+#content.book.p24 .task1{top:calc(138 * var(--u))}#content.book.p24 .task2{top:calc(294 * var(--u))}#content.book.p24 .task3{top:calc(599 * var(--u))}
+#content.book.p24 .prompt,#content.book.p24 .prefix{margin:0;font:400 calc(12 * var(--u))/1.25 BookPoppins,Arial,sans-serif;color:#292a32}
+#content.book.p24 .rules{margin-top:calc(3 * var(--u))}
+#content.book.p24 .rules input{display:block;width:100%;height:calc(28 * var(--u));min-height:0;border:0;border-bottom:1px solid #555;border-radius:0;background:transparent;padding:0 2px;font:400 calc(11 * var(--u))/1.2 BookPoppins,Arial,sans-serif}
+#content.book.p24 .diagram{position:relative;height:calc(241 * var(--u));margin-top:calc(24 * var(--u))}
+#content.book.p24 .diagram-label{position:absolute;top:0;font:400 calc(12 * var(--u))/1.25 BookPoppins,Arial,sans-serif;white-space:nowrap}
+#content.book.p24 .d-left{left:0}#content.book.p24 .d-mid{left:calc(175 * var(--u))}#content.book.p24 .d-right{left:calc(337 * var(--u))}
+#content.book.p24 .venn{position:absolute;top:calc(29 * var(--u));left:calc(18 * var(--u));width:calc(410 * var(--u));height:calc(188 * var(--u));overflow:visible}
+#content.book.p24 .diagram textarea{position:absolute;top:calc(76 * var(--u));height:calc(95 * var(--u));min-height:0;border:0;border-radius:0;background:transparent;resize:none;padding:2px;font:400 calc(10 * var(--u))/1.25 BookPoppins,Arial,sans-serif}
+#content.book.p24 .diagram textarea:focus{background:#fff9eccc}#content.book.p24 .v-left{left:calc(32 * var(--u));width:calc(112 * var(--u))}#content.book.p24 .v-mid{left:calc(183 * var(--u));width:calc(80 * var(--u))}#content.book.p24 .v-right{left:calc(300 * var(--u));width:calc(112 * var(--u))}
+#content.book.p24 .start{display:flex;align-items:end;gap:calc(3 * var(--u))}#content.book.p24 .start .prefix{white-space:nowrap}
+#content.book.p24 .start textarea{width:calc(138 * var(--u));height:calc(18 * var(--u));min-height:0;border:0;border-bottom:1px solid #555;border-radius:0;background:transparent;resize:none;padding:0 2px;font:400 calc(11 * var(--u))/1.2 BookPoppins,Arial,sans-serif}
+#content.book.p24 .task3 .rules{margin-top:0}
+#content.book.p24 .folio{position:absolute;left:calc(71.3 * var(--u));top:calc(786 * var(--u));font:400 calc(12 * var(--u))/1.2 BookPoppins,Arial,sans-serif}
+@media(max-width:700px){
+#content.book.p24{padding:0 0 110px}#content.book.p24 .sheet{aspect-ratio:auto;padding:32px 20px 55px 42px;font:400 16px/1.45 BookPoppins,Arial,sans-serif}
+#content.book.p24 .orange{left:8px;top:0;width:20px;height:100%}#content.book.p24 .purple{left:auto;right:8px;top:0;width:8px;height:90px}
+#content.book.p24 .banner{position:relative;left:auto;top:auto;width:auto;height:58px;margin:0 0 30px 20px;padding-left:38px;border-width:2px}#content.book.p24 .banner h1{font-size:20px}
+#content.book.p24 .tab{left:34px;top:24px;width:50px;height:50px}#content.book.p24 .fold{display:none}
+#content.book.p24 .task{position:relative;left:auto;top:auto;width:auto;margin:0 0 32px}#content.book.p24 .prompt,#content.book.p24 .prefix{font-size:16px;line-height:1.5}
+#content.book.p24 .rules{margin-top:4px}#content.book.p24 .rules input{height:44px;font-size:16px}
+#content.book.p24 .diagram{height:auto;margin-top:16px;display:flex;flex-direction:column;gap:8px}
+#content.book.p24 .venn{position:relative;order:0;top:auto;left:auto;width:100%;height:auto;max-height:180px}
+#content.book.p24 .diagram-label{position:static;white-space:normal;font-size:16px;margin-top:8px}#content.book.p24 .d-left{order:1}#content.book.p24 .v-left{order:2}#content.book.p24 .d-mid{order:3}#content.book.p24 .v-mid{order:4}#content.book.p24 .d-right{order:5}#content.book.p24 .v-right{order:6}
+#content.book.p24 .diagram textarea{position:static;width:100%;height:76px;min-height:76px;border:1px solid #777;background:#fff;padding:8px;font-size:16px;resize:vertical}
+#content.book.p24 .start{display:block}#content.book.p24 .start .prefix{white-space:normal}#content.book.p24 .start textarea{width:100%;height:44px;min-height:44px;font-size:16px}
+#content.book.p24 .folio{position:relative;left:auto;top:auto;font-size:16px}
+}
+</style></head>
+<body class="min-h-screen flex items-center justify-center"><main class="w-full">
+<div id="content" class="container opacity-0 book p24" data-family="worksheet">
+<section class="sheet" data-section-type="other" data-section-id="pg024_sec001">
+<div class="orange" aria-hidden="true"></div><div class="purple" aria-hidden="true"></div>
+<div class="banner"><h1 data-id="pg024_n0002">Provoje veten</h1></div><div class="fold" aria-hidden="true"></div><img class="tab" src="studio/assets/pg024_header_blocks.png" alt="">
+<div class="task task1" id="ushtrimi-1"><p class="prompt"><span data-id="pg024_n0004">1.</span> <span data-id="pg024_n0005">Shkruaj për përparësitë dhe mangësitë e jetës në fshat!</span></p>
+<div class="rules"><input id="p24-2-1" data-response-section="pg024_sec002" data-response-key="item-1" aria-label="Shkruaj për jetën në fshat, rreshti 1"><input id="p24-2-2" data-response-section="pg024_sec002" data-response-key="item-2" aria-label="Shkruaj për jetën në fshat, rreshti 2"><input id="p24-2-3" data-response-section="pg024_sec002" data-response-key="item-3" aria-label="Shkruaj për jetën në fshat, rreshti 3"><input id="p24-2-4" data-response-section="pg024_sec002" data-response-key="item-4" aria-label="Shkruaj për jetën në fshat, rreshti 4"></div></div>
+<div class="task task2" id="ushtrimi-2"><p class="prompt"><span data-id="pg024_n0011">2.</span> <span data-id="pg024_n0012">Bashkë me mësuesin, hulumto në internet për fshatra të ndryshme në botë, përzgjidhe një dhe krahasoje atë me një fshat të Kosovës!</span></p>
+<div class="diagram"><label class="diagram-label d-left" for="p24-3-1" data-id="pg024_n0013">Fshati i një vendi tjetër</label><label class="diagram-label d-mid" for="p24-3-2" data-id="pg024_n0014">Të përbashkëtat</label><label class="diagram-label d-right" for="p24-3-3" data-id="pg024_n0015">Fshati i Kosovës</label>
+<svg class="venn" viewBox="0 0 410 188" aria-hidden="true"><ellipse cx="129" cy="94" rx="128.5" ry="93.5" fill="none" stroke="#292a32" stroke-width="1" /><ellipse cx="281" cy="94" rx="128.5" ry="93.5" fill="none" stroke="#292a32" stroke-width="1" /></svg>
+<textarea class="v-left" id="p24-3-1" data-response-section="pg024_sec003" data-response-key="item-1"></textarea><textarea class="v-mid" id="p24-3-2" data-response-section="pg024_sec003" data-response-key="item-2"></textarea><textarea class="v-right" id="p24-3-3" data-response-section="pg024_sec003" data-response-key="item-3"></textarea></div></div>
+<div class="task task3" id="ushtrimi-3"><p class="prompt"><span data-id="pg024_n0017">3.</span> <span data-id="pg024_n0018">Vazhdoje mendimin e dhënë më poshtë.</span></p><div class="start"><p class="prefix" data-id="pg024_n0019">Shumë njerëz sot parapëlqejnë jetën në fshat, sepse</p><textarea id="p24-4-1" data-response-section="pg024_sec004" data-response-key="item-1" aria-label="Shumë njerëz sot parapëlqejnë jetën në fshat, sepse"></textarea></div><div class="rules"><input id="p24-4-2" data-response-section="pg024_sec004" data-response-key="item-2" aria-label="Vazhdo mendimin në rreshtin e parë"><input id="p24-4-3" data-response-section="pg024_sec004" data-response-key="item-3" aria-label="Vazhdo mendimin në rreshtin e dytë"><input id="p24-4-4" data-response-section="pg024_sec004" data-response-key="item-4" aria-label="Vazhdo mendimin në rreshtin e tretë"><input id="p24-4-5" data-response-section="pg024_sec004" data-response-key="item-5" aria-label="Vazhdo mendimin në rreshtin e katërt"></div></div>
+<div class="folio">24</div></section></div></main>
+<div class="relative z-50" id="interface-container"></div><div class="relative z-50" id="nav-container"></div>
+<script src="./assets/offline-preloader.js?v=9f3d745a858de581"></script><script src="./assets/scorm.js"></script><script src="./assets/base.bundle.local.js"></script><script src="./book-design/responses.js?v=9f3d745a858de581" data-book-responses="true"></script></body></html>

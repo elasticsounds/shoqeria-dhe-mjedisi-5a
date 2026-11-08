@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="sq"><head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Shoqëria dhe mjedisi</title>
+    <meta name="title-id" content="pg031_sec002">
+    <!-- Despite the name, this is the page's 1-based position in the reading
+         order, not a section id and not the printed page number. It drives the
+         "N of M" dock counter and is re-emitted on every package, so it tracks
+         the current order. Identity lives in title-id above. -->
+    <meta name="page-section-id" content="45">
+    <link href="./content/tailwind_output.css" rel="stylesheet">
+    <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
+    <link href="./assets/fonts.css" rel="stylesheet">
+<link rel="stylesheet" href="./book-design/components.css?v=9f3d745a858de581" data-book-style="true"></head>
+
+<body class="min-h-screen flex items-center justify-center">
+    <main class="w-full">
+      <h1 class="sr-only" id="page-heading">Shoqëria dhe mjedisi</h1>
+      <div id="content" class="container opacity-0 book" data-family="response"><h2 class="sr-only" id="section-heading">Shkruaj për ndryshimet që ndodhën në:</h2><section data-section-type="other" data-section-id="pg031_sec002" class="p31-q1 b-page">
+  <style>
+    #content.book .p31-q1 { container-type: inline-size; font-family: BookPoppins, Arial, sans-serif; }
+    #content.book .p31-q1 .p31-prompt { margin: 0 0 10px; font: 400 clamp(16px, 2.11cqw, 19px)/1.4 BookPoppins, Arial, sans-serif; }
+    #content.book .p31-q1 table { width: 100%; table-layout: fixed; border-collapse: collapse; }
+    #content.book .p31-q1 th, #content.book .p31-q1 td { width: 50%; border: 2px solid #a47bb9; padding: 0; }
+    #content.book .p31-q1 th { height: clamp(44px, 7.5cqw, 70px); background: #fff; text-align: center; font: 400 clamp(16px, 2.11cqw, 19px)/1.3 BookPoppins, Arial, sans-serif; }
+    #content.book .p31-q1 td { vertical-align: top; }
+    #content.book .p31-q1 textarea { display: block; width: 100%; height: auto; min-height: 120px; aspect-ratio: 234 / 149; margin: 0; padding: 9px; border: 0; border-radius: 0; background: transparent; resize: none; font: 400 clamp(16px, 2cqw, 19px)/1.45 BookPoppins, Arial, sans-serif; }
+    #content.book .p31-q1 textarea:focus-visible { outline: 3px solid #075a70; outline-offset: -3px; }
+  </style>
+  <div class="p31-prompt"><span data-id="pg031_n0004">1.</span> <span data-id="pg031_n0005">Shkruaj për ndryshimet që ndodhën në:</span></div>
+  <table aria-label="Shkruaj për ndryshimet që ndodhën në:">
+    <thead><tr>
+      <th scope="col"><span data-id="pg031_n0009">blegtori</span></th>
+      <th scope="col"><span data-id="pg031_n0011">zejtari</span></th>
+    </tr></thead>
+    <tbody><tr>
+      <td><label for="item-1" class="sr-only">Shkruaj për ndryshimet që ndodhën në blegtori</label><textarea id="item-1" data-activity-item="item-1" aria-label="Shkruaj për ndryshimet që ndodhën në blegtori"></textarea></td>
+      <td><label for="item-2" class="sr-only">Shkruaj për ndryshimet që ndodhën në zejtari</label><textarea id="item-2" data-activity-item="item-2" aria-label="Shkruaj për ndryshimet që ndodhën në zejtari"></textarea></td>
+    </tr></tbody>
+  </table>
+</section></div>
+    </main>
+
+    <div class="relative z-50" id="interface-container"></div>
+    <div class="relative z-50" id="nav-container"></div>
+    <script src="./assets/offline-preloader.js?v=9f3d745a858de581"></script>
+    <script src="./assets/scorm.js"></script>
+    <script src="./assets/base.bundle.local.js"></script>
+
+
+
+<script src="./book-design/responses.js?v=9f3d745a858de581" data-book-responses="true"></script></body></html>

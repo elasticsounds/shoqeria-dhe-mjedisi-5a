@@ -1,32 +1,63 @@
-/* Book-scoped persistence only. The original runtime remains responsible for grading. */
+/* Activities start blank on every visit. Quiz grading remains in the reader runtime. */
 (function () {
-  if (window.__adt5aResponses) return;
-  window.__adt5aResponses = true;
-  var prefix = 'adt5a.responses.f7bf719411a7c7cf.';
-  var restored = new WeakMap();
-  var restoring = false;
-  var pending = false;
-  function current() {
-    var root = document.querySelector('#content.book');
-    var meta = document.querySelector('meta[name="title-id"]');
-    if (!root || !meta) return null;
-    var section = root.querySelector('[data-section-id],[data-correct-answers]');
-    var id = section && (section.getAttribute('data-section-id') || section.getAttribute('data-id'));
-    if (id !== meta.content) return null;
-    return {root: root, id: id};
+  if (window.__adt5aResetResponses) return;
+  window.__adt5aResetResponses = true;
+
+  var previousPage = null;
+
+  function clearOldAnswers() {
+    var prefixes = ['adt5a.responses.', 'adt5a.drawing.', 'qz002_new2:'];
+    try {
+      for (var i = localStorage.length - 1; i >= 0; i--) {
+        var key = localStorage.key(i);
+        if (key && prefixes.some(function (prefix) { return key.indexOf(prefix) === 0; })) {
+          localStorage.removeItem(key);
+        }
+      }
+    } catch (_) {}
   }
-  function controls(root) { return Array.from(root.querySelectorAll('input:not([type=hidden]),textarea,select')); }
-  function key(el, index) { return el.id || el.getAttribute('data-activity-item') || el.name + ':' + index; }
-  function clearQuiz(quiz) {
-    quiz.querySelectorAll('[role="radio"], label.activity-option').forEach(function (option) {
-      option.classList.remove('selected-option', 'ring-2', 'ring-blue-400', 'bg-blue-50', 'bg-green-50', 'bg-red-50', 'border-green-500', 'border-red-500');
+
+  function pageIdentity(root) {
+    var meta = document.querySelector('meta[name="title-id"]');
+    var section = root.querySelector('[data-section-id],[data-id],[data-correct-answers]');
+    var sectionId = section && (
+      section.getAttribute('data-section-id') ||
+      section.getAttribute('data-id') ||
+      section.getAttribute('data-correct-answers')
+    );
+    return (meta && meta.content ? meta.content : '') + '|' + (sectionId || '');
+  }
+
+  function clearActivity(root) {
+    root.querySelectorAll('input:not([type="hidden"]), textarea, select').forEach(function (control) {
+      control.setAttribute('autocomplete', 'off');
+      if (control.type === 'radio' || control.type === 'checkbox') {
+        control.checked = false;
+        control.removeAttribute('checked');
+      } else if (control.tagName === 'SELECT') {
+        control.selectedIndex = -1;
+      } else {
+        try { control.value = ''; } catch (_) {}
+      }
+    });
+
+    root.querySelectorAll('[role="radio"], [role="checkbox"], .activity-option').forEach(function (option) {
+      if (option.matches('[role="radio"], [role="checkbox"]') || option.hasAttribute('aria-checked')) {
+        option.setAttribute('aria-checked', 'false');
+      }
       option.removeAttribute('aria-invalid');
-      option.setAttribute('aria-checked', 'false');
-      option.style.borderColor = '';
-      option.style.outline = '';
-      option.style.outlineOffset = '';
-      option.style.backgroundColor = '';
-      option.querySelectorAll('input[type="radio"]').forEach(function (input) { input.checked = false; });
+      option.classList.remove(
+        'selected-option', 'correct-option', 'incorrect-option', 'ring-2', 'ring-blue-400',
+        'bg-blue-50', 'bg-green-50', 'bg-red-50', 'border-green-500', 'border-red-500'
+      );
+      if (option.hasAttribute('data-mc-style-state')) {
+        option.style.borderColor = '';
+        option.style.outline = '';
+        option.style.outlineOffset = '';
+        option.style.backgroundColor = '';
+        option.removeAttribute('data-mc-style-state');
+      }
+      option.querySelectorAll('[data-mc-status-badge]').forEach(function (badge) { badge.remove(); });
       var feedback = option.querySelector('.feedback-container');
       if (feedback) {
         feedback.classList.add('hidden');
@@ -36,76 +67,31 @@
           text.className = 'feedback-text';
         }
       }
-      option.querySelectorAll('[data-mc-status-badge]').forEach(function (badge) { badge.remove(); });
-      option.querySelectorAll('.validation-mark').forEach(function (mark) { mark.classList.add('hidden'); });
+    });
+    root.querySelectorAll('[aria-pressed="true"]').forEach(function (button) {
+      button.setAttribute('aria-pressed', 'false');
     });
   }
-  function clearSavedQuizResponse(id) {
-    try { localStorage.removeItem(prefix + id); } catch (_) {}
-  }
-  function save() {
-    if (restoring) return;
-    var page = current();
-    if (!page) return;
-    if (page.root.querySelector('[data-correct-answers]')) return;
-    var values = {};
-    controls(page.root).forEach(function (el, index) {
-      if (['password', 'file'].includes(el.type)) return;
-      var quizLabel = el.closest('label[role=radio]');
-      values[key(el, index)] = el.type === 'radio' || el.type === 'checkbox' ? {checked: quizLabel ? quizLabel.getAttribute('aria-checked') === 'true' : el.checked} : {value: el.value};
-    });
-    try { localStorage.setItem(prefix + page.id, JSON.stringify(values)); } catch (_) {}
-  }
-  function restore() {
-    pending = false;
-    var page = current();
-    if (!page || getComputedStyle(page.root).opacity !== '1') return;
-    var quiz = page.root.querySelector('[data-correct-answers]');
-    if (quiz) {
-      clearSavedQuizResponse(page.id);
-      clearQuiz(quiz);
-      restored.set(page.root, page.id);
-      page.root.dataset.responsesReady = page.id;
-      return;
+
+  function resetIfVisited(force) {
+    var root = document.querySelector('#content.book');
+    if (!root) return;
+    var id = pageIdentity(root);
+    if (force || id !== previousPage) {
+      clearActivity(root);
+      previousPage = id;
     }
-    if (restored.get(page.root) === page.id) return;
-    var values;
-    try { values = JSON.parse(localStorage.getItem(prefix + page.id) || '{}'); } catch (_) { values = {}; }
-    restored.set(page.root, page.id);
-    restoring = true;
-    controls(page.root).forEach(function (el, index) {
-      var entry = values[key(el, index)];
-      if (!entry) return;
-      if ('checked' in entry) {
-        el.checked = entry.checked;
-      } else if (typeof entry.value === 'string') el.value = entry.value;
-    });
-    restoring = false;
-    page.root.dataset.responsesReady = page.id;
   }
-  function schedule() {
-    if (pending) return;
-    pending = true;
-    setTimeout(restore, 80);
-  }
-  document.addEventListener('input', function (event) { if (event.target.closest('#content.book')) save(); }, true);
-  document.addEventListener('change', function (event) { if (event.target.closest('#content.book')) save(); }, true);
-  document.addEventListener('click', function (event) {
-    if (event.target.closest('#content.book label[role=radio]')) setTimeout(save, 0);
-  }, true);
-  document.addEventListener('keydown', function (event) { if (event.target.closest('#content.book label[role=radio]')) setTimeout(save, 0); }, true);
-  document.addEventListener('adt:page-changed', function () {
-    setTimeout(function () {
-      var page = current();
-      var quiz = page && page.root.querySelector('[data-correct-answers]');
-      if (!page || !quiz) return;
-      clearSavedQuizResponse(page.id);
-      clearQuiz(quiz);
-      restored.set(page.root, page.id);
-      page.root.dataset.responsesReady = page.id;
-    }, 0);
+
+  clearOldAnswers();
+  resetIfVisited(true);
+  document.addEventListener('adt:page-changed', function () { resetIfVisited(true); });
+  window.addEventListener('pageshow', function () { resetIfVisited(true); });
+
+  new MutationObserver(function () { resetIfVisited(false); }).observe(document.documentElement, {
+    subtree: true,
+    childList: true,
+    attributes: true,
+    attributeFilter: ['content', 'data-section-id', 'data-id']
   });
-  window.addEventListener('pagehide', save);
-  new MutationObserver(schedule).observe(document.documentElement, {subtree:true,childList:true,attributes:true,attributeFilter:['class','content','data-section-id']});
-  schedule();
 })();

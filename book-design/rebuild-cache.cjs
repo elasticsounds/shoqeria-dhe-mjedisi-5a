@@ -9,6 +9,6 @@ if(!check){const normalized=spine.map(p=>fs.readFileSync(path.join(root,p.href),
  for(const key of Object.keys(cache.value)){const rel=key.replace(/^\.\//,''),file=path.resolve(root,rel);if(!file.startsWith(root+path.sep)||!fs.existsSync(file)||!fs.statSync(file).isFile()||! /\.(html|json|css)$/.test(rel))continue;const s=fs.readFileSync(file,'utf8');cache.value[key]=typeof cache.value[key]==='string'?s:JSON.parse(s);}
  cache.value['./book-design/components.css']=fs.readFileSync(path.join(__dirname,'components.css'),'utf8');fs.writeFileSync(cacheFile,cache.prefix+JSON.stringify(cache.value)+cache.suffix);console.log('Updated offline HTML, dictionaries and CSS; dependency version '+version);
 }
-for(const p of spine)if(cache.value['./'+p.href]!==fs.readFileSync(path.join(root,p.href),'utf8'))throw Error('Stale page cache: '+p.href);
+for(const p of spine){const embedded=cache.value['./'+p.href]??cache.value[p.href];if(embedded!==fs.readFileSync(path.join(root,p.href),'utf8'))throw Error('Stale page cache: '+p.href);}
 for(const [key,value]of Object.entries(cache.value)){const file=path.resolve(root,key.replace(/^\.\//,''));if(!file.startsWith(root+path.sep)||!fs.existsSync(file)||! /\.(json|css)$/.test(file))continue;const disk=fs.readFileSync(file,'utf8');if((typeof value==='string'?value:JSON.stringify(value))!==(typeof value==='string'?disk:JSON.stringify(JSON.parse(disk))))throw Error('Stale dictionary/style cache: '+key);}
 console.log('All '+spine.length+' embedded pages and cached dictionaries/styles agree with disk.');
