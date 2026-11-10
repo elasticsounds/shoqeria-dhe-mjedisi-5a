@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 300" width="760" height="300">
+  <!-- Two overlapping regions: left = Fshati dikur (lavender), right = Fshati sot (green), middle lens = Të përbashkëtat. -->
+  <ellipse cx="240" cy="150" rx="232" ry="140" fill="#e9dff1" fill-opacity=".85" stroke="#794282" stroke-width="3"/>
+  <ellipse cx="520" cy="150" rx="232" ry="140" fill="#d9eec6" fill-opacity=".75" stroke="#3f6b2a" stroke-width="3"/>
+  <ellipse cx="240" cy="150" rx="232" ry="140" fill="none" stroke="#794282" stroke-width="3"/>
+</svg>

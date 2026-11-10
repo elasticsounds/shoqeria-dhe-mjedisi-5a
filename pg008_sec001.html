@@ -12,76 +12,49 @@
     <link href="./content/tailwind_output.css" rel="stylesheet">
     <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
     <link href="./assets/fonts.css" rel="stylesheet">
-<link rel="stylesheet" href="./book-design/components.css?v=6979d7e1c4878fe2" data-book-style="true">
+<link rel="stylesheet" href="./book-design/components.css?v=b0c65772c7c6cb7f" data-book-style="true">
 <style>
-/* Page 8: measurements are relative to the 639.449 pt source page. */
-#content.book[data-page8]{container-type:inline-size;padding:0;max-width:1000px;}
-#content.book[data-page8]>section{position:relative;aspect-ratio:639.449 / 866.22;width:100%;padding:0;}
-#content.book[data-page8] .b-banner{position:absolute;left:2.35%;top:1.73%;width:92.9%;height:12.7%;margin:0;padding:0;background:#9b73b7;}
-#content.book[data-page8] .b-banner>div{position:absolute;left:9.55%;top:51%;width:85%;padding:0;}
-#content.book[data-page8] .b-banner h1{font:700 2.815cqw/1.3 BookPoppins,Arial,sans-serif;color:white;}
-#content.book[data-page8] .b-keywords{position:absolute;left:10.8%;top:13.55%;width:74%;height:5.2%;margin:0;border:0.31cqw solid #7950aa;border-top:0;border-radius:0 0 2cqw 2cqw;overflow:visible;}
-#content.book[data-page8] .b-keywords>div{height:100%;display:flex;flex-direction:row;flex-wrap:nowrap;align-items:center;}
-#content.book[data-page8] .b-keywords>div>div:first-child{height:108%;flex:none;border:0.31cqw solid #7950aa;border-radius:2cqw;background:#9b73b7;margin:-0.31cqw 0 0 -0.31cqw;padding:0 0.85cqw;}
-#content.book[data-page8] .b-keywords>div>div:last-child{padding:0 1cqw;}
-#content.book[data-page8] .b-keywords .b-keyword-label{font:700 2.19cqw/1.3 BookAmiri,Georgia,serif;color:white;background:transparent;white-space:nowrap;}
-#content.book[data-page8] .b-keywords .adt-body:not(.b-keyword-label){font:400 1.876cqw/1.3 BookAmiri,Georgia,serif;}
-#content.book[data-page8] .b-panel-thought{position:absolute;left:11.2%;top:21.05%;width:73.3%;height:6.8%;margin:0;padding:0;border-radius:2cqw;background:#91cfdb;display:flex;flex-direction:column;justify-content:center;gap:0.55cqw;}
-#content.book[data-page8] .b-panel-thought h3{font:400 1.876cqw/1.35 BookPoppins,Arial,sans-serif;margin:0;}
-#content.book[data-page8] .page8-intro{position:absolute;left:11.2%;top:30%;width:74.8%;margin:0;font:400 1.876cqw/1.34 BookAmiri,Georgia,serif;}
-#content.book[data-page8] .page8-diary{position:absolute;left:35%;top:34.1%;width:62.5%;}
-#content.book[data-page8] .page8-diary img{display:block;width:100%;max-width:none;margin:0;border-radius:0;}
-#content.book[data-page8] .page8-folio{position:absolute;left:11.2%;top:91.6%;font:400 1.876cqw/1.3 BookPoppins,Arial,sans-serif;}
+/* Page 8 · one family (Poppins), three sizes: 32 title · 22 reading · 20 labels. Phones: 26 · 20 · 20. */
+#content.book.p8{--p8-purple-ink:#794282;--p8-cyan:#91cfdb;
+ padding:0 56px 128px;max-width:1000px;font-family:var(--book-heading);color:var(--book-ink)}
+#content.book.p8>section{padding:0}
+#content.book.p8 :is(h1,h2,p,span,li){font-family:var(--book-heading);letter-spacing:0}
+#content.book.p8 .p8-keywords{display:flex;flex-wrap:wrap;align-items:stretch;margin:0 0 32px;border:2px solid var(--p8-purple-ink);border-radius:16px;overflow:hidden;background:#fff}
+#content.book.p8 .p8-keywords-label{display:flex;align-items:center;padding:10px 16px;background:var(--p8-purple-ink);color:#fff;font:600 20px/1.4 var(--book-heading)}
+/* Block, not flex: the glossary wraps each keyword in its own span, and flex would swallow the spaces between them. */
+#content.book.p8 .p8-keywords-words{flex:1 1 16em;display:block;align-self:center;padding:10px 16px;font:400 20px/1.4 var(--book-heading)}
+#content.book.p8 .p8-thought{margin:0 0 32px;padding:22px 28px;border-radius:16px;background:var(--p8-cyan);text-align:center}
+#content.book.p8 .p8-thought p{margin:0;font:600 22px/1.5 var(--book-heading);color:var(--book-ink)}
+#content.book.p8 .p8-intro{max-width:46em;margin:0 0 32px;font:400 22px/1.6 var(--book-heading)}
+#content.book.p8 .p8-folio{margin-top:32px;font:400 20px/1.4 var(--book-heading)}
 @media(max-width:700px){
- #content.book[data-page8]{padding:0 20px 120px;}
- #content.book[data-page8]>section{aspect-ratio:auto;}
- #content.book[data-page8] .b-banner{position:relative;left:auto;top:auto;width:calc(100% + 40px);height:auto;margin:0 -20px;padding:45px 20px 32px;}
- #content.book[data-page8] .b-banner>div{position:static;width:auto;}
- #content.book[data-page8] .b-banner h1{font-size:24px;}
- #content.book[data-page8] .b-keywords{position:relative;left:auto;top:auto;width:100%;height:auto;min-height:52px;margin:0 0 24px;border:2px solid #7950aa;border-top:0;border-radius:0 0 14px 14px;}
- #content.book[data-page8] .b-keywords>div{height:auto;align-items:stretch;}
- #content.book[data-page8] .b-keywords>div>div:first-child{height:auto;margin:-2px 0 0 -2px;padding:10px 8px;border:2px solid #7950aa;border-radius:14px;}
- #content.book[data-page8] .b-keywords>div>div:last-child{padding:8px;}
- #content.book[data-page8] .b-keywords .b-keyword-label{font-size:17px;}
- #content.book[data-page8] .b-keywords .adt-body:not(.b-keyword-label){font-size:16px;line-height:1.3;}
- #content.book[data-page8] .b-panel-thought{position:static;width:auto;height:auto;margin:0 0 22px;padding:18px 12px;gap:6px;border-radius:14px;}
- #content.book[data-page8] .b-panel-thought h3{font-size:17px;}
- #content.book[data-page8] .page8-intro{position:static;width:auto;margin:0 0 18px;font-size:19px;line-height:1.5;}
- #content.book[data-page8] .page8-diary{position:static;width:100%;}
- #content.book[data-page8] .page8-transcript{position:static;width:auto;height:auto;padding:16px;margin:18px 0 0;overflow:visible;clip:auto;white-space:normal;border:0;border-left:4px solid #f03c28;font:400 19px/1.55 BookAmiri,Georgia,serif;}
- #content.book[data-page8] .page8-transcript span:first-child{display:block;margin-bottom:8px;}
- #content.book[data-page8] .page8-folio{position:static;margin-top:22px;font-size:16px;}
+ #content.book.p8{padding:0 20px 120px}
+ #content.book.p8 .p8-keywords-label{padding:8px 12px}
+ #content.book.p8 .p8-keywords-words{padding:8px 12px}
+ #content.book.p8 .p8-thought{padding:18px 16px}
+ #content.book.p8 :is(.p8-thought p,.p8-intro){font-size:20px}
 }
-@media print{#content.book[data-page8]{padding:0} #content.book[data-page8]>section{aspect-ratio:639.449/866.22}}
 </style></head>
 
 <body class="min-h-screen flex items-center justify-center">
     <main class="w-full">
-      <div id="content" class="container mx-auto w-full max-w-5xl px-8 max-sm:px-5 opacity-0 book" data-family="illustrated-lesson" data-page8>
-  <section data-section-type="text_and_single_image" data-section-id="pg008_sec001" class="bg-white text-slate-800 pb-10 b-page">
-    <div class="-mx-8 max-sm:-mx-5 bg-purple-500 b-banner">
-      <div class="mx-auto w-full max-w-5xl px-8 max-sm:px-5 py-16 max-sm:py-10">
-        <h1 class="adt-h2 font-bold text-white" data-id="pg008_n0002">“Jam në klasën e pestë “</h1>
-      </div>
-    </div>
+      <div id="content" class="container opacity-0 book p8" data-family="illustrated-lesson">
+  <section data-section-type="text_and_single_image" data-section-id="pg008_sec001">
+    <header class="b-page-title">
+      <h1 data-id="pg008_n0002">“Jam në klasën e pestë “</h1>
+    </header>
 
-    <aside class="mt-0 mb-10 rounded-[2rem] border-4 border-purple-500 bg-white overflow-hidden b-keywords">
-      <div class="flex flex-row max-lg:flex-col items-stretch">
-        <div class="bg-purple-300 px-5 py-4 flex items-center border-r-4 border-purple-500 max-lg:border-r-0 max-lg:border-b-4">
-          <span class="adt-body font-bold text-white b-keyword-label" data-id="pg008_n0004">Fjalët kyçe:</span>
-        </div>
-        <div class="px-5 py-4 flex items-center">
-          <span class="adt-body" data-id="pg008_n0005">premtim, besim, përgjegjësi, ndryshim, personalitet, përvojë.</span>
-        </div>
-      </div>
+    <aside class="p8-keywords" aria-label="Fjalët kyçe">
+      <span class="p8-keywords-label" data-id="pg008_n0004">Fjalët kyçe:</span>
+      <span class="p8-keywords-words" data-id="pg008_n0005">premtim, besim, përgjegjësi, ndryshim, personalitet, përvojë.</span>
     </aside>
 
-    <div class="mb-8 rounded-[1.75rem] bg-sky-300 px-8 py-6 text-center shadow-sm b-panel-thought">
-      <h3 class="adt-h3 font-medium text-slate-800" data-id="pg008_n0007">Jam në klasën e pestë.</h3>
-      <h3 class="adt-h3 font-medium text-slate-800 mt-2" data-id="pg008_n0008">Çfarë ndryshimesh kam pësuar?</h3>
+    <div class="p8-thought">
+      <p data-id="pg008_n0007">Jam në klasën e pestë.</p>
+      <p data-id="pg008_n0008">Çfarë ndryshimesh kam pësuar?</p>
     </div>
 
-    <p class="adt-body leading-8 mb-8 page8-intro">
+    <p class="p8-intro">
       <span data-id="pg008_n0010">- Unë jam Ari.</span>
       <span data-id="pg008_n0011">Jetoj me nënën, babanë dhe motrën.</span>
       <span data-id="pg008_n0012">Kam një shok të pandashëm.</span>
@@ -89,30 +62,31 @@
       <span data-id="pg008_n0014">Sapo i tregova që po filloj klasën e pestë.</span>
     </p>
 
-    <div class="clear-both page8-diary">
-      <img data-id="pg008_im015" src="images/pg008_im015.png" alt="Faqe ditari me tekst të shkruar me dorë në një bllok me spirale të kuqe." class="w-full h-auto rounded-2xl shadow-md b-diary-photo">
-      <div class="sr-only page8-transcript">
-        <span data-id="pg008_n0016">I dashur shoku im, Ditar!</span>
-        <span data-id="pg008_n0017">Sot është një ditë shumë e mirë për mua dhe ndihem shumë i gëzuar.</span>
-        <span data-id="pg008_n0018">Unë tani po filloj klasën e pestë!</span>
-        <span data-id="pg008_n0019">I kam blerë tashmë gjërat që më duhen për shkollë dhe u ndjeva mirë kur i shfrytëzova kursimet e mia.</span>
-        <span data-id="pg008_n0020">Ne, po ashtu, tash kemi marrë edhe një mace në familjen tonë, pas shumë lutjesh e kërkesash që unë dhe motra u bëmë prindërve.</span>
-        <span data-id="pg008_n0021">Ata pranuan, sepse më thanë që tani jam më i rritur, , si dhe jam më i përgjegjshëm.</span>
-        <span data-id="pg008_n0022">Dëshira që ta kem një mace më erdhi pasi lexova një lektyrë gjatë pushimeve, në të cilën flitej për një mace shumë të veçantë.</span>
-        <span data-id="pg008_n0023">Mezi pres që këtë t’ua tregoj edhe shokëve e shoqeve në klasë!</span>
+    <figure class="b-notebook" aria-label="Ditari i Arit">
+      <div class="b-notebook-page">
+        <div class="b-notebook-lines">
+          <p><span data-id="pg008_n0016">I dashur shoku im, Ditar!</span></p>
+          <p><span data-id="pg008_n0017">Sot është një ditë shumë e mirë për mua dhe ndihem shumë i gëzuar.</span>
+            <span data-id="pg008_n0018">Unë tani po filloj klasën e pestë!</span>
+            <span data-id="pg008_n0019">I kam blerë tashmë gjërat që më duhen për shkollë dhe u ndjeva mirë kur i shfrytëzova kursimet e mia.</span></p>
+          <p><span data-id="pg008_n0020">Ne, po ashtu, tash kemi marrë edhe një mace në familjen tonë, pas shumë lutjesh e kërkesash që unë dhe motra u bëmë prindërve.</span>
+            <span data-id="pg008_n0021">Ata pranuan, sepse më thanë që tani jam më i rritur, , si dhe jam më i përgjegjshëm.</span>
+            <span data-id="pg008_n0022">Dëshira që ta kem një mace më erdhi pasi lexova një lektyrë gjatë pushimeve, në të cilën flitej për një mace shumë të veçantë.</span>
+            <span data-id="pg008_n0023">Mezi pres që këtë t’ua tregoj edhe shokëve e shoqeve në klasë!</span></p>
+        </div>
       </div>
-    </div>
-    <div class="page8-folio" aria-label="Faqja 8">8</div>
+    </figure>
+    <p class="p8-folio" aria-label="Faqja 8">8</p>
   </section>
 </div>
     </main>
 
     <div class="relative z-50" id="interface-container"></div>
     <div class="relative z-50" id="nav-container"></div>
-    <script src="./assets/offline-preloader.js?v=6979d7e1c4878fe2"></script>
+    <script src="./assets/offline-preloader.js?v=b0c65772c7c6cb7f"></script>
     <script src="./assets/scorm.js"></script>
     <script src="./assets/base.bundle.local.js"></script>
 
 
 
-<script src="./book-design/responses.js?v=6979d7e1c4878fe2" data-book-responses="true"></script></body></html>
+<script src="./book-design/responses.js?v=b0c65772c7c6cb7f" data-book-responses="true"></script></body></html>

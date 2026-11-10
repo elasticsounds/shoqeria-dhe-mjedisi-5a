@@ -8,24 +8,83 @@
          order, not a section id and not the printed page number. It drives the
          "N of M" dock counter and is re-emitted on every package, so it tracks
          the current order. Identity lives in title-id above. -->
-    <meta name="page-section-id" content="39">
+    <meta name="page-section-id" content="29">
     <link href="./content/tailwind_output.css" rel="stylesheet">
     <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
     <link href="./assets/fonts.css" rel="stylesheet">
-<link rel="stylesheet" href="./book-design/components.css?v=9f3d745a858de581" data-book-style="true"></head>
+<link rel="stylesheet" href="./book-design/components.css?v=04eec3b36a9d7e2f" data-book-style="true">
+<style>
+/* Page 23 · continues "Fshati dikur dhe sot" (no title band). Shared lesson components + a Venn diagram:
+   desktop places the three fields inside the diagram's regions; phones stack them with matching coloured edges. */
+#content.book.p23 .p23-compare{padding-bottom:28px}
+#content.book.p23 .p23-compare>p{margin:0 0 16px;font:400 22px/1.5 var(--book-heading)}
+#content.book.p23 .p23-venn{position:relative;max-width:760px;margin:0 auto}
+#content.book.p23 .p23-venn-labels{display:grid;grid-template-columns:38% 24% 38%;margin:0 0 6px;text-align:center}
+#content.book.p23 .p23-venn-labels span{font:600 20px/1.3 var(--book-heading);color:var(--book-ink)}
+#content.book.p23 .p23-venn-art{position:relative}
+#content.book.p23 .p23-venn-art>img{display:block;width:100%;height:auto;max-width:none}
+#content.book.p23 .p23-field{position:absolute;top:24%;height:52%}
+#content.book.p23 .p23-field.is-then{left:7%;width:28%}
+#content.book.p23 .p23-field.is-both{left:40.5%;width:19%}
+#content.book.p23 .p23-field.is-now{left:65%;width:28%}
+#content.book.p23 .p23-field textarea,#content.book.p23 .p23-research textarea{display:block;width:100%;height:100%;min-height:52px;margin:0;padding:10px 12px;border:2px solid #6d6472;border-radius:12px;background:#fff;color:var(--book-ink);font:400 20px/1.4 var(--book-heading);resize:none;box-shadow:none}
+#content.book.p23 .p23-research textarea{height:auto;min-height:96px;margin-top:14px;resize:vertical}
+#content.book.p23 :is(.p23-field,.p23-research) textarea:focus-visible{outline:3px solid #075a70;outline-offset:2px;border-color:#075a70}
+#content.book.p23 .p23-research .b-lesson-thought-icon-only>div{flex:1;min-width:0}
+#content.book.p23 .p23-research p{margin:0}
+@media(max-width:700px){
+  #content.book.p23 .p23-compare>p{font-size:20px}
+ #content.book.p23 .p23-venn-labels,#content.book.p23 .p23-venn-art>img{display:none}
+ #content.book.p23 .p23-venn-art{display:grid;gap:16px}
+ #content.book.p23 .p23-field:is(.is-then,.is-both,.is-now){position:static;width:auto;height:auto;display:grid;gap:6px;padding-left:12px;border-left:6px solid var(--p23-edge)}
+ #content.book.p23 .p23-field.is-then{--p23-edge:#794282}#content.book.p23 .p23-field.is-both{--p23-edge:#c99a1e}#content.book.p23 .p23-field.is-now{--p23-edge:#3f6b2a}
+ #content.book.p23 .p23-field textarea{height:auto;min-height:96px}
+}
+/* phone field labels: visible only when the diagram is hidden */
+#content.book.p23 .p23-field-label{display:none}
+@media(max-width:700px){#content.book.p23 .p23-field-label{display:block;font:600 20px/1.3 var(--book-heading)}}
+</style></head>
 
 <body class="min-h-screen flex items-center justify-center">
     <main class="w-full">
-      <h1 class="sr-only" id="page-heading">Shoqëria dhe mjedisi</h1>
-      <div id="content" class="container book opacity-100" data-family="comparison-diagram"><h2 class="sr-only" id="section-heading">Të përbashkëtat</h2><section data-section-type="other" data-section-id="pg023_sec001" class="mx-auto w-full max-w-5xl px-8 max-sm:px-4 py-8 bg-white text-slate-800 b-page"><div class="rounded-[2.25rem] border-4 border-violet-500 bg-white px-6 py-7 max-sm:px-4 max-sm:py-5"><p class="adt-body mb-6"><span data-id="pg023_n0002">- Krahaso:</span></p><div class="mb-5 grid grid-cols-3 gap-5 items-start max-lg:gap-4 max-sm:grid-cols-1"><div class="flex flex-col items-center text-center max-sm:items-stretch max-sm:text-left"><p class="adt-body mb-3"><span data-id="pg023_n0004">Fshati dikur</span></p><label for="item-1" class="sr-only">Fshati dikur</label><textarea id="item-1" data-activity-item="item-1" aria-label="Fshati dikur" class="w-full min-h-11 h-24 max-sm:h-28 rounded-3xl border-2 border-violet-300 bg-violet-50/40 px-4 py-3 outline-none focus:ring-4 focus:ring-violet-200"></textarea></div><div class="flex flex-col items-center text-center max-sm:items-stretch max-sm:text-left"><p class="adt-body mb-3"><span data-id="pg023_n0005">Të përbashkëtat</span></p><label for="item-2" class="sr-only">Të përbashkëtat</label><textarea id="item-2" data-activity-item="item-2" aria-label="Të përbashkëtat" class="w-full min-h-11 h-24 max-sm:h-28 rounded-3xl border-2 border-amber-400 bg-amber-50/40 px-4 py-3 outline-none focus:ring-4 focus:ring-amber-200"></textarea></div><div class="flex flex-col items-center text-center max-sm:items-stretch max-sm:text-left"><p class="adt-body mb-3"><span data-id="pg023_n0006">Fshati sot</span></p><label for="item-3" class="sr-only">Fshati sot</label><textarea id="item-3" data-activity-item="item-3" aria-label="Fshati sot" class="w-full min-h-11 h-24 max-sm:h-28 rounded-3xl border-2 border-emerald-300 bg-emerald-50/40 px-4 py-3 outline-none focus:ring-4 focus:ring-emerald-200"></textarea></div></div><div class="rounded-[2rem] border border-slate-200 bg-white px-2 py-3 max-sm:px-1"><img data-id="pg023_im006" src="images/pg023_im006.png" alt="Diagram me dy rrathë të mbivendosur për krahasim" class="w-full h-auto mx-auto"></div></div><aside class="mt-3 ml-auto w-[48%] rounded-[1.75rem] border-2 border-violet-400 bg-amber-100/80 p-5 shadow-sm max-lg:w-[60%] max-sm:ml-0 max-sm:w-full max-sm:p-4"><p class="adt-body mb-3"><span data-id="pg023_n0008">Bashkë me ndihmën e prindërve apo të mësuesit, hulumto në internet dhe gjej informacione për ndryshimin e fshatrave përgjatë historisë.</span></p><label for="item-4" class="sr-only">Bashkë me ndihmën e prindërve apo të mësuesit, hulumto në internet dhe gjej informacione për ndryshimin e fshatrave përgjatë historisë.</label><textarea id="item-4" data-activity-item="item-4" aria-label="Bashkë me ndihmën e prindërve apo të mësuesit, hulumto në internet dhe gjej informacione për ndryshimin e fshatrave përgjatë historisë." class="w-full min-h-11 h-24 rounded-2xl border-2 border-violet-300 bg-white px-4 py-3 outline-none focus:ring-4 focus:ring-violet-200"></textarea></aside></section></div>
+      <h1 class="sr-only" id="page-heading">Fshati dikur dhe sot</h1>
+      <div id="content" class="container opacity-100 book b-lesson p23" data-family="comparison-diagram"><section data-section-type="other" data-section-id="pg023_sec001">
+<div class="b-page-rule" aria-hidden="true"></div>
+<div class="b-lesson-thought is-outlined p23-compare">
+ <p><span data-id="pg023_n0002">- Krahaso:</span></p>
+ <div class="p23-venn">
+  <div class="p23-venn-labels" aria-hidden="true"><span>Fshati dikur</span><span>Të përbashkëtat</span><span>Fshati sot</span></div>
+  <div class="p23-venn-art">
+   <img data-id="pg023_im006" src="book-design/images/pg023-venn.svg" alt="Diagram Venn me dy rrathë të mbivendosur për krahasimin e fshatit dikur dhe fshatit sot, me pjesën e përbashkët në mes.">
+   <div class="p23-field is-then"><label for="item-1" class="p23-field-label" data-id="pg023_n0004">Fshati dikur</label><textarea id="item-1" data-activity-item="item-1" aria-label="Fshati dikur"></textarea></div>
+   <div class="p23-field is-both"><label for="item-2" class="p23-field-label" data-id="pg023_n0005">Të përbashkëtat</label><textarea id="item-2" data-activity-item="item-2" aria-label="Të përbashkëtat"></textarea></div>
+   <div class="p23-field is-now"><label for="item-3" class="p23-field-label" data-id="pg023_n0006">Fshati sot</label><textarea id="item-3" data-activity-item="item-3" aria-label="Fshati sot"></textarea></div>
+  </div>
+ </div>
+</div>
+<aside class="b-lesson-thought is-research p23-research">
+ <div class="b-lesson-thought-icon-only"><img src="images/pg005_im004.png" alt=""><div><p><span data-id="pg023_n0008">Bashkë me ndihmën e prindërve apo të mësuesit, hulumto në internet dhe gjej informacione për ndryshimin e fshatrave përgjatë historisë.</span></p>
+ <label for="item-4" class="sr-only">Bashkë me ndihmën e prindërve apo të mësuesit, hulumto në internet dhe gjej informacione për ndryshimin e fshatrave përgjatë historisë.</label><textarea id="item-4" data-activity-item="item-4" aria-label="Bashkë me ndihmën e prindërve apo të mësuesit, hulumto në internet dhe gjej informacione për ndryshimin e fshatrave përgjatë historisë."></textarea></div></div>
+</aside>
+<aside class="b-lesson-thought is-discussion" aria-labelledby="p23-discuss">
+ <div class="b-lesson-thought-head"><img src="images/pg005_im008.png" alt=""><h2 id="p23-discuss" class="b-rubric" data-id="pg023_n0011">Diskuto</h2></div>
+ <ul>
+  <li data-id="pg023_n0014">Çfarë mendon për jetën në fshat dikur?</li>
+  <li data-id="pg023_n0016">A mund të gjesh diçka të përbashkët me jetën në fshat sot?</li>
+  <li><span data-id="pg023_n0018">Krahasoji fshatrat e Kosovës me fshatrat e vendeve të tjera në botë!</span> <span data-id="pg023_n0019">Analizoji ndryshimet!</span></li>
+  <li data-id="pg023_n0021">Hulumtim në grup: Grupi 1 - Fshati dikur; grupi 2 - Fshati sot; grupi 3 - Krahasimi i fshatit dikur dhe sot; grupi 4 - Intervistë me gjyshërit: Si ishte fshati dikur?</li>
+ </ul>
+</aside>
+<div class="b-lesson-thought-head"><img src="images/pg005_im003.png" alt=""><h2 class="b-rubric" data-id="pg023_n0024">Thello dijet</h2></div>
+<p class="b-lesson-text"><span data-id="pg023_n0026">Fshati është një vend ku jetojnë njerëz, të cilët kryesisht merren me bujqësi dhe blegtori.</span> <span data-id="pg023_n0027">Fshati dikur konsiderohej burimi kryesor i të ardhurave të qytetit.</span> <span data-id="pg023_n0028">Në fshat, numri i popullsisë është më i vogël se në qytet, si dhe shtëpitë janë më të thjeshta.</span> <span data-id="pg023_n0029">Fshati zakonisht karakterizohet nga ndërtesa të ulëta, ndërmarrje industriale (fabrika) më të pakta në krahasim me qytetin, hapësira të gjelbëruara etj.</span> <span data-id="pg023_n0030">Me procesin që njihet si “urbanizim”, shumë fshatra janë shndërruar në qyteza e qytete në botë.</span></p>
+<aside class="b-lesson-thought is-glossary" aria-labelledby="p23-glossary">
+ <div class="b-lesson-thought-head"><img src="images/pg005_im001.png" alt=""><h2 id="p23-glossary" class="b-rubric" data-id="pg023_n0033">Fjalorthi</h2></div>
+ <p data-id="pg023_n0036">Infrastrukturë - sistem ndërtimesh të ndryshme (infrastruktura rrugore, infrastruktura e shkollës etj.).</p>
+ <p data-id="pg023_n0038">Blegtori - degë e ekonomisë që merret me rritjen e bagëtive.</p>
+ <p data-id="pg023_n0040">Bujqësi - degë e ekonomisë që përfshin punimin e tokës dhe rritjen e bimëve.</p>
+</aside>
+<p class="b-folio" aria-label="Faqja 23">23</p>
+</section></div>
     </main>
 
-    
-    
-    
-    
-    
-
-
-
-</body></html>
+    </body></html>

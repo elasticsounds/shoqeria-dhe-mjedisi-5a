@@ -8,48 +8,50 @@
   <link href="./content/tailwind_output.css" rel="stylesheet">
   <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
   <link href="./assets/fonts.css" rel="stylesheet">
-  <link rel="stylesheet" href="./book-design/components.css?v=6979d7e1c4878fe2" data-book-style="true">
-</head>
+  <link rel="stylesheet" href="./book-design/components.css?v=b0c65772c7c6cb7f" data-book-style="true">
+<style>
+/* Page 11 · exercise 3. Same system as the table above: Poppins only; 22 instruction · 22 card heading · 20 numbers. Phones: 20.
+   Five radios (1 yll … 5 yje) drawn as stars; the chosen star and every star before it fill gold. */
+#content.book.p11s{--p11s-ink:#794282;--p11s-gold:#ffc23d;--p11s-gold-edge:#b07800;padding:48px 56px 128px;max-width:1000px;font-family:var(--book-heading);color:var(--book-ink)}
+#content.book.p11s>section{padding:0}
+#content.book.p11s :is(p,span,b,label){font-family:var(--book-heading);letter-spacing:0}
+#content.book.p11s .p11s-instruction{margin:0 0 24px;font:400 22px/1.5 var(--book-heading)}
+#content.book.p11s .p11s-card{max-width:760px;margin:0 auto;border:2px solid var(--p11s-ink);border-radius:20px;overflow:hidden;background:#fff}
+#content.book.p11s .p11s-caption{margin:0;padding:18px 24px;background:var(--p11s-ink);color:#fff;text-align:center;font:600 22px/1.4 var(--book-heading)}
+#content.book.p11s .p11s-stars{display:flex;justify-content:center;gap:14px;margin:0;padding:32px 20px 28px;border:0}
+#content.book.p11s .p11s-option{position:relative;display:flex;flex-direction:column;align-items:center;gap:6px;margin:0;padding:6px;border-radius:16px;cursor:pointer;font-size:20px}
+#content.book.p11s .p11s-option input{position:absolute;inset:0;width:100%;height:100%;min-height:0;margin:0;opacity:0;cursor:pointer}
+#content.book.p11s .p11s-star{width:72px;height:72px;display:block;fill:#fff;stroke:#8c7a99;stroke-width:1.4;stroke-linejoin:round;transition:fill .15s,stroke .15s,transform .15s}
+#content.book.p11s .p11s-num{font:600 20px/1 var(--book-heading);color:var(--book-ink)}
+/* hover preview: the hovered star and the ones before it */
+#content.book.p11s .p11s-stars:hover .p11s-option:is(:hover,:has(~ .p11s-option:hover)) .p11s-star{fill:#ffe7a8;stroke:var(--p11s-gold-edge)}
+/* chosen: the checked star and the ones before it */
+#content.book.p11s .p11s-option:is(:has(input:checked),:has(~ .p11s-option input:checked)) .p11s-star{fill:var(--p11s-gold);stroke:var(--p11s-gold-edge)}
+#content.book.p11s .p11s-option:has(input:checked) .p11s-star{transform:scale(1.08)}
+#content.book.p11s .p11s-option:has(input:focus-visible){outline:3px solid #075a70;outline-offset:2px}
+@media(prefers-reduced-motion:reduce){#content.book.p11s .p11s-star{transition:none}#content.book.p11s .p11s-option:has(input:checked) .p11s-star{transform:none}}
+@media(max-width:700px){
+ #content.book.p11s{padding:32px 20px 120px}
+ #content.book.p11s :is(.p11s-instruction,.p11s-caption){font-size:20px}
+ #content.book.p11s .p11s-stars{gap:4px;padding:24px 8px 20px}
+ #content.book.p11s .p11s-option{padding:4px}
+ #content.book.p11s .p11s-star{width:52px;height:52px}
+}
+</style></head>
 <body class="min-h-screen flex items-center justify-center">
   <main class="w-full">
     <h1 class="sr-only" id="page-heading">Shoqëria dhe mjedisi</h1>
-    <div id="content" class="container opacity-0 book" data-family="star-rating">
-      <h2 class="sr-only" id="section-heading">Pasi ta kesh plotësuar tabelën, ngjyrosi yjet për të treguar se sa i përgjegjshëm je ti.</h2>
-      <section data-section-type="other" data-section-id="pg011_sec002" class="b-page rating-section">
-        <style>
-          #content.book .rating-section { font-family:BookPoppins,Arial,sans-serif; max-width:730px; margin:0 auto; }
-          #content.book .rating-section .rating-instruction { font:400 18.8px/1.35 BookPoppins,Arial,sans-serif; margin:0 0 25px; }
-          #content.book .rating-box { border:1.5px solid #524aa0; }
-          #content.book .rating-section .rating-caption { font:400 17.2px/1.3 BookPoppins,Arial,sans-serif; text-align:center; margin:0; padding:22px 8px; border-bottom:1.5px solid #524aa0; }
-          #content.book .rating-area { padding:18px 0 20px; }
-          #content.book .rating-stars { position:relative; width:min(316px, 100%); margin:auto; }
-          #content.book .rating-stars img { display:block; width:100%; height:auto; }
-          #content.book .rating-targets { position:absolute; inset:0; display:flex; }
-          #content.book .rating-targets label { position:relative; display:block; flex:1 1 20%; cursor:pointer; min-width:0; }
-          #content.book .rating-targets input { position:absolute; inset:0; width:100%; height:100%; margin:0; opacity:0; cursor:pointer; }
-          #content.book .rating-targets label:after { content:""; position:absolute; inset:2% 2%; pointer-events:none; background:#ffb149; opacity:0; clip-path:polygon(50% 7%, 61% 32%, 95% 38%, 75% 59%, 80% 91%, 50% 76%, 20% 91%, 25% 59%, 5% 38%, 39% 32%); }
-          #content.book .rating-targets label:has(input:checked):after, #content.book .rating-targets label:has(~ label input:checked):after { opacity:.8; }
-          #content.book .rating-targets label:has(input:focus-visible) { outline:3px solid #075a70; outline-offset:2px; }
-          @media (max-width:700px) {
-            #content.book .rating-section .rating-instruction { font-size:16px; line-height:1.5; margin-bottom:20px; }
-            #content.book .rating-section .rating-caption { font-size:16px; padding:18px 8px; }
-            #content.book .rating-area { padding:18px 0; }
-          }
-        </style>
-        <p class="rating-instruction"><span data-id="pg011_n0093">3.</span> <span data-id="pg011_n0094">Pasi ta kesh plotësuar tabelën, ngjyrosi yjet për të treguar se sa i përgjegjshëm je ti.</span></p>
-        <div class="rating-box">
-          <p class="rating-caption" id="rating-caption"><span data-id="pg011_n0096">Jam i përgjegjshëm.</span></p>
-          <div class="rating-area">
-            <div class="rating-stars">
-              <img data-id="pg011_im001" src="studio/assets/pg011-stars.png" alt="">
-              <div class="rating-targets" role="radiogroup" aria-labelledby="rating-caption">
-                <label><input id="item-1" data-activity-item="item-1" type="radio" name="responsibility-rating" value="1" aria-label="1 yll"></label>
-                <label><input id="item-2" data-activity-item="item-2" type="radio" name="responsibility-rating" value="2" aria-label="2 yje"></label>
-                <label><input id="item-3" data-activity-item="item-3" type="radio" name="responsibility-rating" value="3" aria-label="3 yje"></label>
-                <label><input id="item-4" data-activity-item="item-4" type="radio" name="responsibility-rating" value="4" aria-label="4 yje"></label>
-                <label><input id="item-5" data-activity-item="item-5" type="radio" name="responsibility-rating" value="5" aria-label="5 yje"></label>
-              </div>
-            </div>
+    <div id="content" class="container opacity-0 book p11s" data-family="star-rating">
+      <section data-section-type="other" data-section-id="pg011_sec002">
+        <p class="p11s-instruction"><span data-id="pg011_n0093">3.</span> <span data-id="pg011_n0094">Pasi ta kesh plotësuar tabelën, ngjyrosi yjet për të treguar se sa i përgjegjshëm je ti.</span></p>
+        <div class="p11s-card">
+          <p class="p11s-caption" id="rating-caption"><span data-id="pg011_n0096">Jam i përgjegjshëm.</span></p>
+          <div class="p11s-stars" role="radiogroup" aria-labelledby="rating-caption">
+          <label class="p11s-option"><input id="item-1" data-activity-item="item-1" type="radio" name="responsibility-rating" value="1" aria-label="1 yll"><svg class="p11s-star" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M12 2.6l2.83 5.9 6.47.8-4.77 4.47 1.2 6.42L12 17.1l-5.73 3.09 1.2-6.42L2.7 9.3l6.47-.8z"/></svg><b class="p11s-num" aria-hidden="true">1</b></label>
+          <label class="p11s-option"><input id="item-2" data-activity-item="item-2" type="radio" name="responsibility-rating" value="2" aria-label="2 yje"><svg class="p11s-star" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M12 2.6l2.83 5.9 6.47.8-4.77 4.47 1.2 6.42L12 17.1l-5.73 3.09 1.2-6.42L2.7 9.3l6.47-.8z"/></svg><b class="p11s-num" aria-hidden="true">2</b></label>
+          <label class="p11s-option"><input id="item-3" data-activity-item="item-3" type="radio" name="responsibility-rating" value="3" aria-label="3 yje"><svg class="p11s-star" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M12 2.6l2.83 5.9 6.47.8-4.77 4.47 1.2 6.42L12 17.1l-5.73 3.09 1.2-6.42L2.7 9.3l6.47-.8z"/></svg><b class="p11s-num" aria-hidden="true">3</b></label>
+          <label class="p11s-option"><input id="item-4" data-activity-item="item-4" type="radio" name="responsibility-rating" value="4" aria-label="4 yje"><svg class="p11s-star" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M12 2.6l2.83 5.9 6.47.8-4.77 4.47 1.2 6.42L12 17.1l-5.73 3.09 1.2-6.42L2.7 9.3l6.47-.8z"/></svg><b class="p11s-num" aria-hidden="true">4</b></label>
+          <label class="p11s-option"><input id="item-5" data-activity-item="item-5" type="radio" name="responsibility-rating" value="5" aria-label="5 yje"><svg class="p11s-star" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M12 2.6l2.83 5.9 6.47.8-4.77 4.47 1.2 6.42L12 17.1l-5.73 3.09 1.2-6.42L2.7 9.3l6.47-.8z"/></svg><b class="p11s-num" aria-hidden="true">5</b></label>
           </div>
         </div>
       </section>
@@ -57,8 +59,8 @@
   </main>
   <div class="relative z-50" id="interface-container"></div>
   <div class="relative z-50" id="nav-container"></div>
-  <script src="./assets/offline-preloader.js?v=6979d7e1c4878fe2"></script>
+  <script src="./assets/offline-preloader.js?v=b0c65772c7c6cb7f"></script>
   <script src="./assets/scorm.js"></script>
   <script src="./assets/base.bundle.local.js"></script>
-  <script src="./book-design/responses.js?v=6979d7e1c4878fe2" data-book-responses="true"></script>
+  <script src="./book-design/responses.js?v=b0c65772c7c6cb7f" data-book-responses="true"></script>
 </body></html>

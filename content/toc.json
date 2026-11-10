@@ -35,8 +35,11 @@
     "level": 2
   },
   {
-    "href": "qz002_new2.html",
-    "title": "New page for PDF page 13"
+    "section_id": "pg013_sec001",
+    "href": "pg013_sec001.html",
+    "title": "Pyetje për ty",
+    "chapter_id": "pg013_n0019",
+    "level": 3
   },
   {
     "section_id": "pg014_sec001",
@@ -60,8 +63,11 @@
     "level": 3
   },
   {
-    "href": "qz003_new2.html",
-    "title": "New page for PDF page 17"
+    "section_id": "pg017_sec001",
+    "href": "pg017_sec001.html",
+    "title": "Pyetje për ty",
+    "chapter_id": "pg017_n0003",
+    "level": 3
   },
   {
     "section_id": "pg018_sec001",

@@ -12,57 +12,49 @@
     <link href="./content/tailwind_output.css" rel="stylesheet">
     <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
     <link href="./assets/fonts.css" rel="stylesheet">
-<link rel="stylesheet" href="./book-design/components.css?v=6979d7e1c4878fe2" data-book-style="true">
-<style>
-/* Focused view of exercise 3; its three writing areas follow the source grid. */
-#content.book .p18q3-wrap{max-width:722px;margin:0 auto;font-family:BookPoppins,Arial,sans-serif;color:#30313a}
-#content.book .p18q3-prompt{max-width:680px;margin:0 0 9px;font:400 18.77px/1.25 BookPoppins,Arial,sans-serif}
-#content.book .p18q3-grid{border:3px solid #5050a0}
-#content.book .p18q3-row{display:flex;align-items:stretch;min-height:62px}
-#content.book .p18q3-row+.p18q3-row{border-top:1.5px solid #6464a0}
-#content.book .p18q3-number{flex:none;padding:5px 0 0 5px;font:400 18.77px/1.25 BookPoppins,Arial,sans-serif}
-#content.book .p18q3-row input[type=text]{display:block;flex:1;width:100%;min-width:0;min-height:58px;padding:5px 8px;border:0;border-radius:0;background:transparent;font:400 18px/1.25 BookPoppins,Arial,sans-serif}
-#content.book .p18q3-row input[type=text]:focus-visible{outline:2px solid #075a70;outline-offset:-3px}
-#content.book .p18q3-note{margin:14px 0 0;font:400 14px/1.45 BookPoppins,Arial,sans-serif;color:#565663}
-@media(max-width:700px){#content.book .p18q3-prompt{font-size:17px;line-height:1.4}#content.book .p18q3-number{font-size:17px}#content.book .p18q3-row input[type=text]{font-size:16px}}
+<link rel="stylesheet" href="./book-design/components.css?v=b0c65772c7c6cb7f" data-book-style="true"><style>
+/* Practice pages (Provoje veten) · same system as pages 7–15: Poppins only; 32 title · 22 instructions · 20 labels, fields, folio. Phones: 26 · 20 · 20.
+   Uses the shared lesson components (book-design/components.tailwind.css); only the practice-field details live here. */
+#content.book.prx.is-continuation{padding-top:0}
+#content.book.prx .prx-step{margin:0 0 32px}
+#content.book.prx .prx-instruction{margin:0 0 14px;font:400 22px/1.5 var(--book-heading);color:var(--book-ink)}
+#content.book.prx .prx-fields{display:grid;gap:12px}
+#content.book.prx :is(input,textarea).prx-field{display:block;width:100%;max-width:100%;min-height:52px;margin:0;padding:10px 14px;border:2px solid #6d6472;border-radius:10px;background:#fff;color:var(--book-ink);font:400 20px/1.5 var(--book-heading);box-shadow:none}
+#content.book.prx textarea.prx-field{min-height:96px;resize:vertical}
+#content.book.prx :is(input,textarea).prx-field:focus-visible{outline:3px solid #075a70;outline-offset:2px;border-color:#075a70}
+@media(max-width:700px){
+ #content.book.prx.is-continuation{padding-top:0}
+ #content.book.prx .prx-instruction{font-size:20px}
+}
+/* Page 18 · exercise 3: numbered list of answer fields. */
+#content.book.prx .p18l-list{display:grid;gap:12px;max-width:760px}
+#content.book.prx .p18l-row{display:flex;align-items:center;gap:14px}
+#content.book.prx .p18l-number{flex:none;min-width:1.6em;font:600 22px/1.4 var(--book-heading);color:var(--book-ink)}
+@media(max-width:700px){#content.book.prx .p18l-number{font-size:20px}}
 </style></head>
 
 <body class="min-h-screen flex items-center justify-center">
     <main class="w-full">
       <h1 class="sr-only" id="page-heading">Shoqëria dhe mjedisi</h1>
-      <div id="content" class="container mx-auto w-full max-w-5xl px-8 max-sm:px-4 opacity-0 book" data-family="response"><h2 class="sr-only" id="section-heading">3. Hulumto dhe listo emrat e disa vendbanimeve arkeologjike të vendit tonë.</h2>
-  <section role="region" data-section-type="other" data-section-id="pg018_sec003" class="py-8 max-sm:py-6 b-page">
-    <div class="p18q3-wrap">
-      <p data-id="pg018_n0024" class="p18q3-prompt">3. Hulumto dhe listo emrat e disa vendbanimeve arkeologjike të vendit tonë.</p>
-      <div class="p18q3-grid">
-        <div class="p18q3-row">
-          <span data-id="pg018_n0025" class="p18q3-number" aria-hidden="true">1.</span>
-          <label for="item-1" class="sr-only">Vendbanimi arkeologjik 1</label>
-          <input id="item-1" data-activity-item="item-1" type="text">
+      <div id="content" class="container opacity-0 book b-lesson prx is-continuation" data-family="response">
+  <section role="region" data-section-type="other" data-section-id="pg018_sec003" aria-labelledby="section-heading">
+<div class="b-page-rule is-practice" aria-hidden="true"></div>
+        <h2 id="section-heading" class="prx-instruction" data-id="pg018_n0024">3. Hulumto dhe listo emrat e disa vendbanimeve arkeologjike të vendit tonë.</h2>
+        <div class="p18l-list">
+          <div class="p18l-row"><span data-id="pg018_n0025" class="p18l-number" aria-hidden="true">1.</span><label for="item-1" class="sr-only">Vendbanimi arkeologjik 1</label><input class="prx-field" id="item-1" data-activity-item="item-1" type="text"></div>
+          <div class="p18l-row"><span data-id="pg018_n0026" class="p18l-number" aria-hidden="true">2.</span><label for="item-2" class="sr-only">Vendbanimi arkeologjik 2</label><input class="prx-field" id="item-2" data-activity-item="item-2" type="text"></div>
+          <div class="p18l-row"><span data-id="pg018_n0027" class="p18l-number" aria-hidden="true">3.</span><label for="item-3" class="sr-only">Vendbanimi arkeologjik 3</label><input class="prx-field" id="item-3" data-activity-item="item-3" type="text"></div>
         </div>
-        <div class="p18q3-row">
-          <span data-id="pg018_n0026" class="p18q3-number" aria-hidden="true">2.</span>
-          <label for="item-2" class="sr-only">Vendbanimi arkeologjik 2</label>
-          <input id="item-2" data-activity-item="item-2" type="text">
-        </div>
-        <div class="p18q3-row">
-          <span data-id="pg018_n0027" class="p18q3-number" aria-hidden="true">3.</span>
-          <label for="item-3" class="sr-only">Vendbanimi arkeologjik 3</label>
-          <input id="item-3" data-activity-item="item-3" type="text">
-        </div>
-      </div>
-      <p class="p18q3-note">Përgjigjet ruhen në këtë pajisje nëse lejohet ruajtja e shfletuesit.</p>
-    </div>
   </section>
 </div>
     </main>
 
     <div class="relative z-50" id="interface-container"></div>
     <div class="relative z-50" id="nav-container"></div>
-    <script src="./assets/offline-preloader.js?v=6979d7e1c4878fe2"></script>
+    <script src="./assets/offline-preloader.js?v=b0c65772c7c6cb7f"></script>
     <script src="./assets/scorm.js"></script>
     <script src="./assets/base.bundle.local.js"></script>
 
 
 
-<script src="./book-design/responses.js?v=6979d7e1c4878fe2" data-book-responses="true"></script></body></html>
+<script src="./book-design/responses.js?v=b0c65772c7c6cb7f" data-book-responses="true"></script></body></html>

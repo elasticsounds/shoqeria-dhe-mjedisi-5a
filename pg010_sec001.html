@@ -2,59 +2,56 @@
 <html lang="sq"><head>
 <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Shoqëria dhe mjedisi</title><meta name="title-id" content="pg010_sec001"><meta name="page-section-id" content="11">
-<link href="./content/tailwind_output.css" rel="stylesheet"><link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet"><link href="./assets/fonts.css" rel="stylesheet"><link rel="stylesheet" href="./book-design/components.css?v=6979d7e1c4878fe2" data-book-style="true">
+<link href="./content/tailwind_output.css" rel="stylesheet"><link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet"><link href="./assets/fonts.css" rel="stylesheet"><link rel="stylesheet" href="./book-design/components.css?v=b0c65772c7c6cb7f" data-book-style="true">
 <style>
-/* Page 10 uses the PDF point coordinates as a proportional desktop canvas. */
-#content.book.profile-page{position:relative;container-type:inline-size;width:100%;max-width:1000px;aspect-ratio:639.449/866.22;height:auto;min-height:0;padding:0;margin:0 auto;background:#fff;font-family:BookPoppins,Arial,sans-serif}
-#content.book.profile-page>section.profile{position:absolute;inset:0;padding:0;margin:0;background:#fff}
-#content.book.profile-page .profile:before{content:"";position:absolute;left:2.35%;top:1.73%;width:7.82%;height:96.54%;background:#ffb149}
-#content.book.profile-page .profile-heading{position:absolute;left:10.16%;top:8.2%;width:35.2%;height:5.2%;border:2px solid #ffad48;background:#fff9ec;display:flex;align-items:center;padding-left:4.1%}
-#content.book.profile-page .profile-heading img{position:absolute;width:20.5%;height:auto;max-width:none;left:-9.6%;top:-26%}
-#content.book.profile-page .profile-heading h1{margin:0;font:700 2.5cqw/1.2 BookPoppins,Arial,sans-serif;color:#282831}
-#content.book.profile-page .instruction{position:absolute;left:12.87%;top:15.15%;margin:0;font:400 1.88cqw/1.3 BookPoppins,Arial,sans-serif;color:#282831}
-#content.book.profile-page .butterfly{position:absolute;left:12.55%;top:19.45%;width:75.2%;height:auto;max-width:none}
-#content.book.profile-page .profile-fields{display:contents}
-#content.book.profile-page .profile-field{position:absolute;left:calc(var(--x) / 639.449 * 100%);top:calc(var(--y) / 866.22 * 100%);width:calc(var(--w) / 639.449 * 100%);display:flex;flex-direction:column;align-items:center;gap:0}
-#content.book.profile-page .profile-field label{display:flex;align-items:center;justify-content:center;text-align:center;width:100%;min-height:calc(var(--label-h, 28) / 639.449 * 100cqw);padding:0.15cqw 0.5cqw;border:1.5px solid #181818;border-radius:1.25cqw;background:white;color:#282831;font:400 2.2cqw/1.12 'Comic Sans MS',cursive}
-#content.book.profile-page .profile-field :is(input,textarea){display:block;width:100%;min-width:0;max-width:none;height:4.4cqw;min-height:44px;margin:0.6cqw 0 0;padding:0.3cqw 0.5cqw;border:0;border-bottom:1px solid #333;border-radius:0;background:rgba(255,255,255,.48);font:400 1.65cqw/1.2 BookPoppins,Arial,sans-serif;color:#282831;resize:none}
-#content.book.profile-page .profile-field.central :is(input,textarea){height:3.2cqw;min-height:0;margin-top:0.3cqw;background:transparent}
-#content.book.profile-page .folio{position:absolute;left:11.15%;top:91.52%;font:400 1.88cqw/1 BookPoppins,Arial,sans-serif;color:#282831}
-@media(max-width:700px){
- #content.book.profile-page{aspect-ratio:auto;container-type:normal;padding:22px 18px 110px 26px;min-height:0}
- #content.book.profile-page>section.profile{position:relative;inset:auto;padding:0;background:#fff}
- #content.book.profile-page .profile:before{left:-26px;top:-22px;width:12px;height:calc(100% + 32px)}
- #content.book.profile-page .profile-heading{position:relative;left:auto;top:auto;width:calc(100% - 22px);height:auto;min-height:56px;margin:10px 0 18px 22px;padding:8px 8px 8px 48px}
- #content.book.profile-page .profile-heading img{width:52px;left:-22px;top:-6px}
- #content.book.profile-page .profile-heading h1{font-size:20px}
- #content.book.profile-page .instruction{position:static;font-size:16px;line-height:1.4;margin:0 0 12px}
- #content.book.profile-page .butterfly{position:static;display:block;width:100%;max-width:390px;margin:0 auto 18px}
- #content.book.profile-page .profile-fields{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:16px 12px;align-items:start}
- #content.book.profile-page .profile-field{position:static;width:auto;align-items:stretch;gap:5px}
- #content.book.profile-page .profile-field label{min-height:0;border:0;border-radius:0;background:none;padding:0;text-align:left;justify-content:flex-start;font:400 16px/1.3 BookPoppins,Arial,sans-serif}
- #content.book.profile-page .profile-field :is(input,textarea),#content.book.profile-page .profile-field.central :is(input,textarea){width:100%;height:44px;min-height:44px;margin:0;padding:8px;border:1px solid #6d6472;border-radius:4px;background:#fff;font:400 16px/1.3 BookPoppins,Arial,sans-serif}
- #content.book.profile-page .folio{position:static;display:block;margin-top:30px;font-size:16px}
+/* Page 10 · Provoje veten. Same system as pages 7–9: Poppins only; 32 title · 22 instruction · 20 labels, inputs and folio. Phones: 26 · 20 · 20.
+   Desktop: fields sit inside the butterfly's panels, positioned as % of the artwork (measured from the art). Below 900px: artwork, then a field list. */
+#content.book.p10{padding:0 56px 128px;max-width:1000px;font-family:var(--book-heading);color:var(--book-ink)}
+#content.book.p10>section{padding:0}
+#content.book.p10 :is(h1,p,span,label){font-family:var(--book-heading);letter-spacing:0}
+#content.book.p10 .p10-instruction{margin:0 0 24px;font:400 22px/1.5 var(--book-heading)}
+#content.book.p10 .p10-diagram{position:relative;width:760px;max-width:100%;margin:0 auto}
+#content.book.p10 .p10-art{display:block;width:100%;height:auto;max-width:none;margin:0}
+#content.book.p10 .p10-field{position:absolute;left:var(--x);top:var(--y);width:var(--w);display:flex;flex-direction:column;align-items:center;gap:8px}
+/* Inline pill, not flex: the glossary wraps words in spans and flex would remove the spaces between them. */
+#content.book.p10 .p10-label{display:block;max-width:100%;margin:0;padding:4px 14px;border:2px solid var(--book-ink);border-radius:12px;background:#fff;color:var(--book-ink);font:600 20px/1.25 var(--book-heading);text-align:center;text-wrap:balance}
+#content.book.p10 .p10-field .p10-input{display:block;width:100%;height:48px;min-height:48px;margin:0;padding:0 12px;border:2px solid #6d6472;border-radius:10px;background:#fff;color:var(--book-ink);font:400 20px/44px var(--book-heading);box-shadow:none;resize:none;overflow:hidden}
+#content.book.p10 .p10-field .p10-input:focus-visible{outline:3px solid #075a70;outline-offset:2px;border-color:#075a70}
+#content.book.p10 .p10-on-sign{gap:4px}
+#content.book.p10 .p10-folio{margin:32px 0 0;font:400 20px/1.4 var(--book-heading)}
+@media(max-width:900px){
+ #content.book.p10 .p10-diagram{width:auto}
+ #content.book.p10 .p10-art{width:100%;max-width:420px;margin:0 auto 24px}
+ #content.book.p10 .p10-fields{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:20px 16px}
+ #content.book.p10 .p10-field{position:static;width:auto;align-items:stretch}
+ #content.book.p10 .p10-label{padding:0;border:0;background:none;text-align:left;text-wrap:wrap}
 }
-@media(max-width:350px){#content.book.profile-page .profile-fields{grid-template-columns:1fr}}
-@media print{#content.book.profile-page{width:639.449pt;max-width:none;height:866.22pt;aspect-ratio:auto} }
+@media(max-width:700px){
+ #content.book.p10{padding:0 20px 120px}
+ #content.book.p10 .p10-instruction{font-size:20px}
+}
+@media(max-width:520px){#content.book.p10 .p10-fields{grid-template-columns:1fr}}
 </style></head>
 <body class="min-h-screen flex items-center justify-center"><main class="w-full">
-<div id="content" class="container mx-auto w-full opacity-0 book profile-page" data-family="identity-diagram">
-<section data-section-type="other" data-section-id="pg010_sec001" class="profile">
- <header class="profile-heading"><img src="studio/assets/pg010_heading_tab.png" alt=""><h1 data-id="pg010_n0002">Provoje veten</h1></header>
- <p class="instruction"><span data-id="pg010_n0004">1.</span> <span data-id="pg010_n0005">Plotëso sipas kërkesave.</span></p>
- <img data-id="pg010_im001" class="butterfly" src="images/pg010_im001.png" alt="Flutur për t'u plotësuar me të dhëna personale">
- <div class="profile-fields">
-  <div class="profile-field" style="--x:129;--y:191;--w:94"><label for="item-1" data-id="pg010_n0007">Vendlindja</label><input id="item-1" data-activity-item="item-1" type="text"></div>
-  <div class="profile-field" style="--x:412;--y:191;--w:94;--label-h:46"><label for="item-2" data-id="pg010_n0008">Lënda ime më<br>e pëlqyer</label><input id="item-2" data-activity-item="item-2" type="text"></div>
-  <div class="profile-field" style="--x:140;--y:412;--w:94"><label for="item-3" data-id="pg010_n0009">Familja ime</label><input id="item-3" data-activity-item="item-3" type="text"></div>
-  <div class="profile-field" style="--x:400;--y:412;--w:94;--label-h:46"><label for="item-4" data-id="pg010_n0010">Ushqimi im<br>më i pëlqyer</label><input id="item-4" data-activity-item="item-4" type="text"></div>
-  <div class="profile-field" style="--x:102;--y:573;--w:94"><label for="item-5" data-id="pg010_n0011">Dëshira ime</label><textarea id="item-5" data-activity-item="item-5" rows="1"></textarea></div>
-  <div class="profile-field" style="--x:405;--y:576;--w:126;--label-h:46"><label for="item-6" data-id="pg010_n0012">Kafsha që më pëlqen<br>më shumë</label><input id="item-6" data-activity-item="item-6" type="text"></div>
-  <div class="profile-field central" style="--x:272;--y:328;--w:94"><label for="item-7" data-id="pg010_n0013">Emri</label><input id="item-7" data-activity-item="item-7" type="text"></div>
-  <div class="profile-field central" style="--x:271;--y:386;--w:94"><label for="item-8" data-id="pg010_n0014">Datëlindja</label><input id="item-8" data-activity-item="item-8" type="text"></div>
+<div id="content" class="container opacity-0 book p10" data-family="identity-diagram">
+<section data-section-type="other" data-section-id="pg010_sec001">
+ <header class="b-page-title is-practice"><h1><img class="b-page-title-icon" src="studio/assets/pg010_heading_tab.png" alt=""><span data-id="pg010_n0002">Provoje veten</span></h1></header>
+ <p class="p10-instruction"><span data-id="pg010_n0004">1.</span> <span data-id="pg010_n0005">Plotëso sipas kërkesave.</span></p>
+ <div class="p10-diagram">
+  <img data-id="pg010_im001" class="p10-art" src="images/pg010_im001.png" alt="Flutur për t'u plotësuar me të dhëna personale">
+  <div class="p10-fields">
+  <div class="p10-field p10-on-sign" style="--x:38%;--y:30.9%;--w:24%"><label class="p10-label" for="item-7" data-id="pg010_n0013">Emri</label><input class="p10-input" id="item-7" data-activity-item="item-7" type="text" autocomplete="off"></div>
+  <div class="p10-field p10-on-sign" style="--x:38%;--y:40%;--w:24%"><label class="p10-label" for="item-8" data-id="pg010_n0014">Datëlindja</label><input class="p10-input" id="item-8" data-activity-item="item-8" type="text" autocomplete="off"></div>
+  <div class="p10-field" style="--x:11%;--y:15%;--w:26%"><label class="p10-label" for="item-1" data-id="pg010_n0007">Vendlindja</label><input class="p10-input" id="item-1" data-activity-item="item-1" type="text" autocomplete="off"></div>
+  <div class="p10-field" style="--x:63%;--y:15%;--w:26%"><label class="p10-label" for="item-2" data-id="pg010_n0008">Lënda ime më e pëlqyer</label><input class="p10-input" id="item-2" data-activity-item="item-2" type="text" autocomplete="off"></div>
+  <div class="p10-field" style="--x:15%;--y:54.5%;--w:21%"><label class="p10-label" for="item-3" data-id="pg010_n0009">Familja ime</label><input class="p10-input" id="item-3" data-activity-item="item-3" type="text" autocomplete="off"></div>
+  <div class="p10-field" style="--x:64%;--y:52.5%;--w:21%"><label class="p10-label" for="item-4" data-id="pg010_n0010">Ushqimi im më i pëlqyer</label><input class="p10-input" id="item-4" data-activity-item="item-4" type="text" autocomplete="off"></div>
+  <div class="p10-field" style="--x:9%;--y:72%;--w:28%"><label class="p10-label" for="item-5" data-id="pg010_n0011">Dëshira ime</label><textarea class="p10-input" id="item-5" data-activity-item="item-5" rows="1"></textarea></div>
+  <div class="p10-field" style="--x:63%;--y:71%;--w:28%"><label class="p10-label" for="item-6" data-id="pg010_n0012">Kafsha që më pëlqen më shumë</label><input class="p10-input" id="item-6" data-activity-item="item-6" type="text" autocomplete="off"></div>
+  </div>
  </div>
- <span class="folio">10</span>
+ <p class="p10-folio" aria-label="Faqja 10">10</p>
 </section></div></main>
 <div class="relative z-50" id="interface-container"></div><div class="relative z-50" id="nav-container"></div>
-<script src="./assets/offline-preloader.js?v=6979d7e1c4878fe2"></script><script src="./assets/scorm.js"></script><script src="./assets/base.bundle.local.js"></script><script src="./book-design/responses.js?v=6979d7e1c4878fe2" data-book-responses="true"></script>
+<script src="./assets/offline-preloader.js?v=b0c65772c7c6cb7f"></script><script src="./assets/scorm.js"></script><script src="./assets/base.bundle.local.js"></script><script src="./book-design/responses.js?v=b0c65772c7c6cb7f" data-book-responses="true"></script>
 </body></html>

@@ -6,12 +6,13 @@
 @font-face{font-family:BookAmiri;src:url('./fonts/Amiri-400.ttf');font-weight:400;font-display:swap}
 @font-face{font-family:BookAmiri;src:url('./fonts/Amiri-700.ttf');font-weight:700;font-display:swap}
 body:has(#content.book){align-items:flex-start;background:#fff}
-#content.book{--book-ink:#231f20;--book-purple:#a15bb0;--book-purple-ink:#794282;--book-cover:#794782;--book-cover-strip:#b18abd;--book-cyan:#99ced9;--book-green:#a1cf75;--book-yellow:#fff4ce;--book-orange:#ffac2c;--book-rule:#80509e;--book-body:BookAmiri,Georgia,serif;--book-heading:BookPoppins,Arial,sans-serif;
+#content.book{--book-ink:#231f20;--book-purple:#a15bb0;--book-purple-ink:#794282;--book-cover:#794782;--book-cover-strip:#b18abd;--book-cyan:#99ced9;--book-green:#a1cf75;--book-yellow:#fff4ce;--book-orange:#ffac2c;--book-rule:#80509e;--book-body:BookAmiri,Georgia,serif;--book-heading:BookPoppins,Arial,sans-serif;--book-rubric:var(--book-heading);--book-min-text:16px;
  @apply block w-full;box-sizing:border-box;max-width:1000px;margin:0 auto;min-height:0;padding:28px 56px 128px;background:white;color:var(--book-ink);font:400 22px/1.55 var(--book-body);letter-spacing:0;overflow:visible}
 #content.book *,#content.book *::before,#content.book *::after{box-sizing:border-box;letter-spacing:0}
 #content.book :is(div,span,p,li,label,td,th){font-family:inherit}
 #content.book :is(p,li,.adt-body){font-size:22px;line-height:1.55;color:inherit}
 #content.book p{overflow-wrap:break-word}
+#content.book button{font-family:var(--book-heading)}
 #content.book :is(h1,h2,h3,h4,.adt-h1,.adt-h2,.adt-h3){font-family:var(--book-heading);letter-spacing:0;line-height:1.35;color:inherit}
 #content.book h1,#content.book .adt-h2{font-size:28px;font-weight:700}
 #content.book h2,#content.book h3,#content.book .adt-h3{font-size:23px;font-weight:600}
@@ -35,7 +36,9 @@ body:has(#content.book){align-items:flex-start;background:#fff}
 #content.book .b-panel-reading>div{min-width:0}
 #content.book .b-practice-heading{background:#fff9e9;border:1px solid #a45a00;border-left:8px solid var(--book-orange);border-radius:0;padding:14px 20px;margin:0 0 24px}
 #content.book .b-practice-heading h1{font-size:24px}
-#content.book .b-panel-thought :is(h1,h2,h3),#content.book .b-panel-discussion :is(h1,h2,h3){font-size:23px;color:var(--book-ink)}
+#content.book .b-panel-thought :is(h1,h2,h3),#content.book .b-panel-discussion :is(h1,h2,h3){font-size:28px;color:var(--book-ink)}
+/* Rubric headings (Pyetje për ty, Diskuto, Thello dijet, Shpreh mendimin tënd, Fjalorthi): one face and weight on every page. */
+#content.book .b-rubric{font-family:var(--book-rubric)!important;font-weight:600!important;letter-spacing:0}
 #content.book [class*='shadow']{box-shadow:none}
 #content.book [class*='bg-gradient-']{background-image:none}
 #content.book [class*='text-slate'],#content.book [class*='text-gray'],#content.book [class*='text-neutral']{color:var(--book-ink)}
@@ -70,26 +73,51 @@ body:has(#content.book){align-items:flex-start;background:#fff}
 #content.book .b-crossword-source{display:block;width:100%;max-width:660px;margin:24px auto}
 #content.book .b-legacy-letters{border-top:1px solid #80509e;padding-top:16px}
 #content.book .b-legacy-letters summary{font:600 17px/1.5 var(--book-heading);padding:10px;cursor:pointer}
-#content.book label:has(input[name='responsibility-rating'])>span::after{content:'\2606';font:32px/44px Arial,sans-serif;display:block;text-align:center}
-#content.book label:has(input[name='responsibility-rating']:checked)>span{background:#f4cf65;border-color:#6c4c00}
-#content.book label:has(input[name='responsibility-rating']:checked)>span::after{content:'\2605'}
-#content.book #simple-main{width:100%;--quiz-accent:var(--book-purple-ink);--quiz-accent-soft:#f2e9f5;--quiz-body:#fff;--quiz-option:#fff;--quiz-option-text:var(--book-ink);--quiz-header-text:#fff;--quiz-submit:var(--book-purple-ink)}
-#content.book #simple-main>div{padding:0}
-#content.book #simple-main .quiz-card{box-shadow:none;border-radius:0;background:white}
-#content.book #simple-main .quiz-header{padding:28px;background:var(--book-purple-ink);border-radius:0}
-#content.book #simple-main .quiz-question{font:600 26px/1.4 var(--book-heading);color:white;margin:0}
-#content.book #simple-main .activity-option{padding:18px 22px;width:100%;max-width:100%;border:2px solid var(--book-rule);background:white;box-shadow:none;border-radius:8px;text-align:left;transform:none}
-#content.book #simple-main .activity-option .option-text{font:400 20px/1.5 var(--book-heading)}
-#content.book #simple-main .activity-option.selected-option{border-width:2px;background:#f2e9f5;transform:none}
-#content.book #simple-main .feedback-container{font:400 18px/1.5 var(--book-heading)}
-#content.book #simple-main .activity-option .feedback-text{color:#174628}
+/* Quiz pages (qz001–qz011): light purple page, full-width purple rule and an obvious "Kuiz" header, white card like the star rating.
+   The runtime grades on selection and marks the chosen option with .bg-green-50 / .bg-red-50 (+ inline border/outline, overridden here)
+   and its explanation with .text-green-800 / .text-red-800. Answer data and grading are untouched. */
+body:has(#content.book[data-family=quiz]){background:#f3ecf8}
+#content.book[data-family=quiz]{display:block;min-height:0;max-width:1000px;margin:0 auto;padding:0 56px 128px;background:transparent;font-family:var(--book-heading);color:var(--book-ink)}
+#content.book .b-page-title.b-quiz-title{--title-rule:var(--book-purple-ink);max-width:760px;margin:0 auto 28px}
+#content.book .b-quiz-title .b-quiz-badge{display:flex;align-items:center;gap:14px;margin:0;font:700 32px/1.2 var(--book-heading);color:var(--book-purple-ink)}
+#content.book .b-quiz-title .b-quiz-badge::before{content:"?";display:flex;align-items:center;justify-content:center;width:52px;height:52px;flex:none;border-radius:50%;background:var(--book-purple-ink);color:#fff;font:700 32px/1 var(--book-heading)}
+#content.book #simple-main{width:100%;max-width:none;margin:0;padding:0;background:transparent}
+#content.book #simple-main>div{display:block;padding:0;gap:0}
+#content.book #simple-main .quiz-card{max-width:760px;margin:0 auto;overflow:hidden;border:2px solid var(--book-purple-ink);border-radius:24px;background:#fff;box-shadow:0 10px 28px rgba(121,66,130,.14)}
+#content.book #simple-main .quiz-header{padding:28px 32px;border-radius:0;background:var(--book-purple-ink);text-align:center}
+#content.book #simple-main .quiz-question{margin:0;font:600 26px/1.35 var(--book-heading);color:#fff;letter-spacing:0}
+#content.book #simple-main .quiz-body{padding:28px 32px 32px}
+#content.book #simple-main .quiz-instruction{margin:0 0 18px;text-align:center;font:400 20px/1.5 var(--book-heading);color:var(--book-ink)}
+#content.book #simple-main [role=group]{display:flex;flex-direction:column;align-items:stretch;gap:14px;margin:0}
+#content.book #simple-main .activity-option{position:relative;display:block;width:100%;max-width:100%;margin:0;padding:16px 20px 16px 64px;border:2px solid #cdb8dc!important;border-radius:16px;outline:none!important;background:#fff;box-shadow:none;transform:none;text-align:left;color:var(--book-ink);font:400 20px/1.45 var(--book-heading);cursor:pointer;transition:border-color .15s,background-color .15s}
+#content.book #simple-main .activity-option::before{content:"";position:absolute;left:20px;top:17px;width:28px;height:28px;box-sizing:border-box;border:2px solid #8c7a99;border-radius:50%;background:#fff;color:#fff;font:700 18px/24px var(--book-heading);text-align:center}
+#content.book #simple-main .activity-option .option-text{display:block;font:400 20px/1.45 var(--book-heading);color:inherit}
+#content.book #simple-main .activity-option .option-text::before{content:none}
+#content.book #simple-main .activity-option:hover{border-color:var(--book-purple-ink)!important;background:#faf6fc}
+#content.book #simple-main .activity-option:focus-visible,#content.book #simple-main .activity-option:focus-within:has(:focus-visible){outline:3px solid #075a70!important;outline-offset:3px!important}
+#content.book #simple-main .activity-option[aria-checked=true]{border-color:var(--book-purple-ink)!important}
+#content.book #simple-main .activity-option[aria-checked=true] .option-text{font-weight:600}
+#content.book #simple-main .activity-option.bg-green-50{border-color:#2e7d4f!important;background:#e8f5ec}
+#content.book #simple-main .activity-option.bg-green-50::before{content:"✓";border-color:#2e7d4f;background:#2e7d4f}
+#content.book #simple-main .activity-option.bg-red-50{border-color:#b42318!important;background:#fdeeee}
+#content.book #simple-main .activity-option.bg-red-50::before{content:"✕";border-color:#b42318;background:#b42318}
+#content.book #simple-main .feedback-container{margin:10px 0 0;padding:0;border:0;background:transparent;font:400 20px/1.5 var(--book-heading)}
+#content.book #simple-main .feedback-container .feedback-text{font:400 20px/1.5 var(--book-heading);color:var(--book-ink)}
+#content.book #simple-main .feedback-container .feedback-text.text-green-800{color:#1e6b3a}
+#content.book #simple-main .feedback-container .feedback-text.text-red-800{color:#9b1c1c}
+#content.book #simple-main [data-submit-target]{margin:0}
+#content.book #simple-main .quiz-body>div:has(>[data-submit-target]:empty){display:none}
+#content.book #simple-main .quiz-body>div:has(>[data-submit-target]){margin-top:0}
+#content.book #simple-main [data-submit-target]:not(:empty){margin-top:24px}
+#content.book #simple-main [data-submit-target] button{min-height:48px;padding:10px 24px;border:2px solid var(--book-purple-ink);border-radius:999px;background:var(--book-purple-ink);color:#fff;font:600 20px/1.3 var(--book-heading)}
 #content.book #simple-main label[role=radio]>input[type=radio]{display:none}
+@media(prefers-reduced-motion:reduce){#content.book #simple-main .activity-option{transition:none}}
 #content.book .b-cover{display:grid;grid-template-columns:35% 65%;padding:0;background:var(--book-cover);color:white;overflow:hidden}
 #content.book .b-cover-grade{display:flex;align-items:center;justify-content:center;background:var(--book-cover-strip);gap:8px;padding:32px 16px}
 #content.book .b-cover-grade h1{font:700 150px/1 var(--book-heading);color:#fff;transform:none;margin:0}
 #content.book .b-cover-grade h1:last-child{font-size:76px;align-self:flex-end;margin-bottom:15px}
 #content.book .b-cover-copy{padding:30px 28px 24px;min-width:0}
-#content.book .b-cover-authors{font:400 13px/1.5 var(--book-heading);margin-bottom:18px;color:white}
+#content.book .b-cover-authors{font:400 16px/1.5 var(--book-heading);margin-bottom:18px;color:white}
 #content.book .b-cover-copy h1{font:700 42px/1.15 var(--book-heading);color:white;margin:0 0 14px}
 #content.book .b-cover-copy h1 span{display:block}
 #content.book .b-cover-copy h2{font:400 16px/1.5 var(--book-heading);color:white}
@@ -102,13 +130,30 @@ body:has(#content.book){align-items:flex-start;background:#fff}
 #content.book .b-opener-scene{position:relative;aspect-ratio:609/835;height:auto;min-height:0;background:url('./images/opener-landscape.svg') center/100% 100% no-repeat;overflow:hidden}
 #content.book .b-opener-icon{position:absolute;height:auto;object-fit:contain;max-height:none}
 #content.book[data-family=cover]{padding:24px 32px 120px;max-width:1040px}
-#content.book[data-family=contents] section>div{padding:0}
-#content.book[data-family=contents] [data-toc-leader]{min-width:12px;border-bottom-width:1px}
-#content.book[data-family=contents] [class*='bg-amber']{background:#ffb137;color:#231f20}
-#content.book[data-family=contents] .absolute[aria-hidden=true]{display:none}
-#content.book[data-family=contents] .relative.z-10{padding-right:0}
-#content.book[data-family=contents] .adt-body{font:400 17px/1.5 var(--book-heading)}
-#content.book[data-family=contents] h1{font-size:26px}
+/* Contents pages (pg002, pg003): one shared list. Entries whose page is in this bundle are links. */
+#content.book[data-family=contents]{padding:0 0 128px;max-width:1000px}
+#content.book .b-toc{display:flex;align-items:stretch;min-height:0;background:#fff;color:var(--book-ink)}
+#content.book .b-toc-rail{flex:0 0 10%;background:#ffb149}
+#content.book .b-toc-rail-right .b-toc-rail{order:2}
+#content.book .b-toc-body{flex:1 1 auto;min-width:0;padding:48px 40px 40px}
+#content.book .b-toc-title-band{margin:0 0 8px;padding:10px 16px;background:#ffb149;font:700 26px/1.3 var(--book-heading);color:var(--book-ink)}
+#content.book .b-toc-list{list-style:none;margin:0;padding:0}
+#content.book .b-toc-list>li{margin:0;padding:0}
+#content.book .b-toc-entry{display:flex;align-items:baseline;gap:10px;margin:0;padding:6px 16px;font:400 20px/1.45 var(--book-heading);color:var(--book-ink);text-decoration:none;border-radius:0}
+#content.book .b-toc-title{min-width:0}
+#content.book .b-toc-leader{flex:1 1 24px;min-width:24px;border-bottom:2px dotted currentColor;opacity:.55}
+#content.book .b-toc-page{flex:none;min-width:2.2em;text-align:right;font-variant-numeric:tabular-nums}
+#content.book .b-toc-chapter{margin:20px 0 6px;padding-block:10px;background:#ffb149;font-weight:700}
+#content.book .b-toc-list>li:first-child>.b-toc-chapter{margin-top:0}
+#content.book .b-toc-practice .b-toc-title{color:#b3261e}
+#content.book .b-toc-runtime-label,#content.book .b-toc .runtime-label{display:none}
+#content.book a.b-toc-entry{cursor:pointer}
+#content.book a.b-toc-entry .b-toc-title{text-decoration:underline;text-decoration-color:#d97f00;text-decoration-thickness:2px;text-underline-offset:5px}
+#content.book a.b-toc-entry:hover{background:#fff1da}
+#content.book a.b-toc-chapter:hover{background:#ffa21f}
+#content.book a.b-toc-chapter .b-toc-title{text-decoration-color:var(--book-ink);text-decoration-thickness:1.5px}
+#content.book a.b-toc-entry:hover .b-toc-title{text-decoration-color:currentColor}
+#content.book a.b-toc-entry:focus-visible{outline:3px solid #075a70;outline-offset:2px}
 #content.book[data-family=icon-guide] img{max-height:130px;object-fit:contain}
 #content.book[data-family=opener] section>div{max-width:100%}
 #content.book[data-family=practice-opener] section{border-left:10px solid var(--book-orange);padding:28px 24px;min-height:180px}
@@ -121,6 +166,7 @@ body:has(#content.book){align-items:flex-start;background:#fff}
  #content.book :is(p,li,.adt-body){font-size:21px;line-height:1.6}
  #content.book .b-banner{margin:-20px -20px 0;padding:28px 20px 24px}
  #content.book .b-banner :is(h1,h2){font-size:24px}
+ #content.book :is(.b-panel-thought,.b-panel-discussion) :is(h1,h2,h3){font-size:24px}
  #content.book .b-keywords>div{flex-direction:column}
  #content.book .b-keywords .adt-body{font-size:17px}
  #content.book :is(.b-panel-thought,.b-panel-discussion,.b-panel-research,.b-panel-reading){padding:18px 16px}
@@ -128,26 +174,148 @@ body:has(#content.book){align-items:flex-start;background:#fff}
  #content.book .b-diagram-form,#content.book .b-diagram-fields{grid-template-columns:minmax(0,1fr)}
  #content.book .b-diagram-form>img{position:static;max-height:340px}
  #content.book .b-diary-photo{width:100%}
+ #content.book[data-family=quiz]{padding:0 20px 120px}
+ #content.book .b-quiz-title .b-quiz-badge{font-size:26px}
+ #content.book .b-quiz-title .b-quiz-badge::before{width:44px;height:44px;font-size:26px}
  #content.book #simple-main .quiz-header{padding:22px 18px}
  #content.book #simple-main .quiz-question{font-size:22px}
- #content.book #simple-main .quiz-card>div:not(.quiz-header){padding:20px 0}
- #content.book #simple-main .activity-option{padding:16px}
- #content.book #simple-main .activity-option .option-text{font-size:18px}
+ #content.book #simple-main .quiz-body{padding:20px 16px 22px}
+ #content.book #simple-main .activity-option{padding:14px 16px 14px 56px}
+ #content.book #simple-main .activity-option::before{left:16px;top:15px}
  #content.book[data-family=cover]{padding:12px 12px 112px}
  #content.book .b-cover{grid-template-columns:28% 72%}
  #content.book .b-cover-grade{padding:20px 6px;flex-wrap:wrap;align-content:center}
  #content.book .b-cover-grade h1{font-size:76px}
  #content.book .b-cover-grade h1:last-child{font-size:40px;margin:0;align-self:center}
  #content.book .b-cover-copy{padding:20px 14px}
- #content.book .b-cover-authors{font-size:11px;line-height:1.5}
+ #content.book .b-cover-authors{font-size:16px;line-height:1.4}
  #content.book .b-cover-copy h1{font-size:27px;line-height:1.2}
- #content.book .b-cover-copy h2{font-size:13px}
+ #content.book .b-cover-copy h2{font-size:16px}
  #content.book .b-cover-publisher{padding:10px}
- #content.book .b-cover-footer{padding:12px;font-size:12px;gap:8px}
+ #content.book .b-cover-footer{padding:12px;font-size:16px;gap:8px}
  #content.book .b-cover-footer img{width:46px}
- #content.book[data-family=contents] .adt-body{font-size:15px}
- #content.book[data-family=contents] .pl-10{padding-left:12px}
- #content.book[data-family=contents] [class*='px-7']{padding-left:10px;padding-right:10px}
+ #content.book[data-family=contents]{padding-bottom:110px}
+ #content.book .b-toc-rail{flex-basis:14px}
+ #content.book .b-toc-body{padding:24px 16px 32px}
+ #content.book .b-toc-title-band{font-size:22px;padding:8px 12px}
+ #content.book .b-toc-entry{font-size:17px;padding:6px 10px;gap:8px}
+ #content.book .b-toc-chapter{padding-block:8px}
+ #content.book .b-toc-leader{min-width:12px}
  #content.book[data-family=practice-opener] section{padding:22px 16px}
 }
+/* Page title (pages 7, 8, 10, 12, 15): a full-width purple rule across the top of the screen, then the heading in high-contrast purple (#794282: 7.2:1 on white). */
+#content.book .b-page-title{position:relative;margin:0 0 24px;padding:44px 0 0}
+#content.book .b-page-title::before{content:"";position:absolute;top:0;left:0;right:0;height:10px;background:var(--title-rule,var(--book-purple-ink));box-shadow:0 0 0 100vmax var(--title-rule,var(--book-purple-ink));clip-path:inset(0 -100vmax)}
+#content.book .b-page-title h1{display:flex;align-items:center;gap:14px;margin:0;font:700 32px/1.25 var(--book-heading);color:var(--title-ink,var(--book-purple-ink));letter-spacing:0}
+#content.book .b-page-title-icon{width:56px;height:56px;flex:none;object-fit:contain}
+/* Continuation pages (no title of their own): the same full-width top line, so every page shows whether it is a lesson (purple) or an activity (yellow). */
+#content.book .b-page-rule{position:relative;height:10px;margin:0 0 38px}
+#content.book .b-page-rule::before{content:"";position:absolute;inset:0;background:var(--title-rule,var(--book-purple-ink));box-shadow:0 0 0 100vmax var(--title-rule,var(--book-purple-ink));clip-path:inset(0 -100vmax)}
+#content.book .b-page-rule.is-practice{--title-rule:#ffb149}
+@media(max-width:700px){#content.book .b-page-rule{margin-bottom:28px}}
+/* Practice pages (Provoje veten): yellow rule from the source; heading stays dark because yellow text would fail contrast. */
+#content.book .b-page-title.is-practice{--title-rule:#ffb149;--title-ink:var(--book-ink)}
+@media(max-width:700px){#content.book .b-page-title{padding-top:32px;margin-bottom:20px}#content.book .b-page-title h1{font-size:26px}#content.book .b-page-title-icon{width:44px;height:44px}}
+/* Lesson pages (12, 15 …): the page-8 system as shared components. Poppins only; 32 title · 22 reading · 20 labels, captions, folio. Phones: 26 · 20 · 20.
+   Root: <div id="content" class="… book b-lesson">. Parts: .b-page-title (+ .b-page-title-kicker for the chapter line), .b-lesson-keywords,
+   .b-lesson-thought, .b-lesson-text, .b-lesson-media (.is-reversed puts the photo on the right), .b-lesson-figure, .b-lesson-answers, .b-folio. */
+#content.book.b-lesson{padding:0 56px 128px;max-width:1000px;font-family:var(--book-heading);color:var(--book-ink)}
+#content.book.b-lesson>section{padding:0}
+#content.book.b-lesson :is(h1,h2,h3,p,span,li,figcaption,label,summary,strong,small){font-family:var(--book-heading);letter-spacing:0}
+#content.book .b-page-title .b-page-title-kicker{display:block;margin:0 0 6px;font:600 22px/1.35 var(--book-heading);color:var(--title-ink,var(--book-purple-ink))}
+#content.book .b-page-title h2{margin:0;font:700 32px/1.25 var(--book-heading);color:var(--title-ink,var(--book-purple-ink))}
+#content.book .b-lesson-keywords{display:flex;flex-wrap:wrap;align-items:stretch;margin:0 0 32px;border:2px solid var(--book-purple-ink);border-radius:16px;overflow:hidden;background:#fff}
+#content.book .b-lesson-keywords-label{display:flex;align-items:center;padding:10px 16px;background:var(--book-purple-ink);color:#fff;font:600 20px/1.4 var(--book-heading)}
+/* Block, not flex: the glossary wraps each keyword in its own span and flex would remove the spaces between them. */
+#content.book .b-lesson-keywords-words{flex:1 1 16em;display:block;align-self:center;padding:10px 16px;font:400 20px/1.4 var(--book-heading)}
+#content.book .b-lesson-thought{margin:0 0 32px;padding:22px 28px 24px;border-radius:16px;background:#91cfdb;color:var(--book-ink)}
+#content.book .b-lesson-thought-head{display:flex;align-items:center;gap:14px;margin:0 0 12px}
+#content.book .b-lesson-thought-head img{width:56px;height:56px;flex:none;object-fit:contain}
+#content.book .b-lesson-thought-head :is(h2,h3){margin:0;font-size:28px;line-height:1.3;color:var(--book-ink)}
+#content.book .b-lesson-thought p{margin:0;font:400 22px/1.6 var(--book-heading)}
+#content.book .b-lesson-thought ul{margin:0;padding:0;list-style:none}
+#content.book .b-lesson-thought li{position:relative;margin:0 0 6px;padding-left:1.1em;font:400 22px/1.5 var(--book-heading)}
+#content.book .b-lesson-thought li::before{content:"–";position:absolute;left:0}
+/* Panel variants: outlined questions (Pyetje për ty), research note (Hulumto, source yellow), discussion (Diskuto, source green), glossary (Fjalorthi, lavender). */
+#content.book .b-lesson-thought.is-outlined{background:#fff;border:2px solid var(--book-purple-ink)}
+#content.book .b-lesson-thought.is-research{background:#fff4ce;border:2px solid #c99a1e}
+#content.book .b-lesson-thought.is-discussion{background:#a1cf75}
+/* Fjalorthi (glossary) panel: source lavender; terms in 600. */
+#content.book .b-lesson-thought.is-glossary{background:#ece2f3;border:2px solid #c8b4d9}
+#content.book .b-lesson-thought.is-glossary p{margin:0 0 8px}
+#content.book .b-lesson-thought.is-glossary p:last-child{margin:0}
+#content.book .b-lesson-thought.is-glossary strong{font-weight:600}
+#content.book .b-lesson-thought-icon-only{display:flex;align-items:flex-start;gap:18px}
+#content.book .b-lesson-thought-icon-only>img{width:56px;height:auto;flex:none}
+/* A prompt with its own answer field (Diskuto). */
+#content.book .b-lesson-prompt{display:grid;gap:8px;margin:0 0 16px}
+#content.book .b-lesson-prompt:last-child{margin-bottom:0}
+#content.book .b-lesson-prompt label{position:relative;padding-left:1.1em;font:400 22px/1.5 var(--book-heading);color:var(--book-ink)}
+#content.book .b-lesson-prompt label::before{content:"–";position:absolute;left:0}
+#content.book .b-lesson-thought .b-lesson-prompt :is(input,textarea){width:100%;min-height:52px;padding:10px 14px;border:2px solid #4f6b3a;border-radius:10px;background:#fff;color:var(--book-ink);font:400 20px/1.5 var(--book-heading)}
+#content.book .b-lesson-thought .b-lesson-prompt :is(input,textarea):focus-visible{outline:3px solid #075a70;outline-offset:2px;border-color:#075a70}
+#content.book .b-lesson-list{margin:0 0 16px;padding:0;list-style:none}
+#content.book .b-lesson-list li{position:relative;margin:0 0 6px;padding-left:1.1em;font:inherit}
+#content.book .b-lesson-list li::before{content:"–";position:absolute;left:0}
+#content.book .b-lesson-text{max-width:46em;margin:0 0 24px;font:400 22px/1.6 var(--book-heading);color:var(--book-ink)}
+#content.book .b-lesson-text p{margin:0 0 16px;font:inherit}
+#content.book .b-lesson-text p:last-child{margin-bottom:0}
+#content.book .b-lesson-media{display:grid;grid-template-columns:minmax(0,5fr) minmax(0,6fr);gap:28px;align-items:start;margin:0 0 36px}
+#content.book .b-lesson-media.is-reversed{grid-template-columns:minmax(0,6fr) minmax(0,5fr)}
+#content.book .b-lesson-media.is-reversed>.b-lesson-figure{order:2}
+#content.book .b-lesson-media>.b-lesson-text{margin:0}
+#content.book .b-lesson-figure{margin:0 0 32px}
+#content.book .b-lesson-media>.b-lesson-figure{margin:0}
+#content.book .b-lesson-figure img{display:block;width:100%;height:auto;max-width:100%;border-radius:12px}
+#content.book .b-lesson-figure.is-wide{max-width:760px;margin-inline:auto}
+#content.book .b-lesson-figure figcaption{margin:8px 0 0;font:400 20px/1.4 var(--book-heading);color:#4a4550}
+#content.book .b-lesson-answers{margin:16px 0 0}
+#content.book .b-lesson-answers>summary{display:inline-flex;align-items:center;gap:8px;min-height:48px;padding:8px 18px;border:2px solid var(--book-purple-ink);border-radius:999px;background:#fff;color:var(--book-purple-ink);font:600 20px/1.3 var(--book-heading);cursor:pointer;list-style:none}
+#content.book .b-lesson-answers>summary::-webkit-details-marker{display:none}
+#content.book .b-lesson-answers>summary::before{content:"✎";font-size:20px}
+#content.book .b-lesson-answers[open]>summary{background:var(--book-purple-ink);color:#fff}
+#content.book .b-lesson-answers-fields{display:grid;gap:8px;margin:16px 0 0;padding:20px;border-radius:12px;background:#fff}
+#content.book .b-lesson-answers-fields label{margin:8px 0 0;font:600 20px/1.4 var(--book-heading);color:var(--book-ink)}
+#content.book .b-lesson-answers-fields label:first-child{margin-top:0}
+#content.book .b-lesson-answers .b-lesson-answers-fields :is(input,textarea){width:100%;min-height:52px;padding:10px 14px;border:2px solid #6d6472;border-radius:10px;background:#fff;color:var(--book-ink);font:400 20px/1.5 var(--book-heading)}
+#content.book .b-lesson-answers .b-lesson-answers-fields textarea{min-height:96px;resize:vertical}
+#content.book .b-lesson-answers .b-lesson-answers-fields :is(input,textarea):focus-visible{outline:3px solid #075a70;outline-offset:2px;border-color:#075a70}
+#content.book .b-folio{margin:32px 0 0;font:400 20px/1.4 var(--book-heading)}
+@media(max-width:700px){
+ #content.book.b-lesson{padding:0 20px 120px}
+ #content.book .b-page-title .b-page-title-kicker{font-size:20px}
+ #content.book .b-page-title h2{font-size:26px}
+ #content.book .b-lesson-keywords-label,#content.book .b-lesson-keywords-words{padding:8px 12px}
+ #content.book .b-lesson-thought{padding:18px 16px 20px}
+ #content.book .b-lesson-thought-head img{width:44px;height:44px}
+ #content.book :is(.b-lesson-thought p,.b-lesson-thought li,.b-lesson-text){font-size:20px}
+ #content.book :is(.b-lesson-media,.b-lesson-media.is-reversed){grid-template-columns:minmax(0,1fr);gap:16px}
+ #content.book .b-lesson-media.is-reversed>.b-lesson-figure{order:0}
+ #content.book .b-lesson-answers-fields{padding:14px}
+ #content.book .b-lesson-prompt label{font-size:20px}
+ #content.book .b-lesson-thought-icon-only>img{width:44px}
+}
+/* Notebook (pages 8 and 9): red cover, stacked page edge, ruled lines locked to the text line height, spiral rings from the source art.
+   Use .b-notebook > .b-notebook-page > .b-notebook-lines (a div of <p>s, or a <textarea>). */
+#content.book .b-notebook{--nb-line:44px;--nb-rule:#e2e3e4;position:relative;max-width:760px;margin:0 auto;padding:14px 0 14px 14px;border-radius:14px;background:linear-gradient(#e86a5f,#e0473a 30%,#d7372b);box-shadow:0 2px 0 #b72e24}
+#content.book .b-notebook::after{content:"";position:absolute;top:0;bottom:0;right:0;width:108px;pointer-events:none;background:url("./images/notebook-rings.png") 0 0/108px auto no-repeat space,linear-gradient(90deg,transparent 50px,#d9372a 50px,#d9372a 78px,transparent 78px) 0 0/100% 100% no-repeat}
+#content.book .b-notebook-page{position:relative;padding:28px 132px 36px 52px;border-radius:4px 0 0 4px;background:#fff;box-shadow:inset 16px 0 0 #e9eaeb}
+#content.book .b-notebook-page::before{content:"";position:absolute;top:20px;bottom:20px;right:120px;border-right:2px dashed var(--nb-rule);pointer-events:none}
+#content.book .b-notebook-lines{display:block;margin:0;font:400 22px/var(--nb-line) var(--book-heading);color:#1f2340;letter-spacing:0;
+ background-image:linear-gradient(transparent calc(var(--nb-line) - 2px),var(--nb-rule) calc(var(--nb-line) - 2px),var(--nb-rule) var(--nb-line));background-size:100% var(--nb-line);background-position:0 0}
+#content.book .b-notebook-lines p{margin:0;font:inherit;color:inherit}
+#content.book .b-notebook-lines p+p{text-indent:1.5em}
+/* Writing on the lines: the textarea itself carries the rules and scrolls them with the text. */
+#content.book .b-notebook-page textarea.b-notebook-lines{width:100%;min-height:calc(var(--nb-line) * var(--nb-rows,10));height:calc(var(--nb-line) * var(--nb-rows,10));padding:0;border:0;border-radius:0;box-shadow:none;background:linear-gradient(transparent calc(var(--nb-line) - 2px),var(--nb-rule) calc(var(--nb-line) - 2px),var(--nb-rule) var(--nb-line)) 0 0/100% var(--nb-line) repeat local transparent;font:400 22px/var(--nb-line) var(--book-heading);color:#1f2340;resize:vertical;overflow-y:auto}
+#content.book .b-notebook-page textarea.b-notebook-lines:focus-visible{outline:3px solid #075a70;outline-offset:8px}
+@media(max-width:700px){
+ #content.book .b-notebook{--nb-line:40px;padding:8px 0 8px 8px}
+ #content.book .b-notebook::after{width:52px;background-size:52px auto,100% 100%;background-image:url("./images/notebook-rings.png"),linear-gradient(90deg,transparent 24px,#d9372a 24px,#d9372a 37px,transparent 37px)}
+ #content.book .b-notebook-page{padding:16px 60px 24px 22px;box-shadow:inset 6px 0 0 #e9eaeb}
+ #content.book .b-notebook-page::before{right:54px}
+ #content.book .b-notebook-lines,#content.book .b-notebook-page textarea.b-notebook-lines{font-size:20px}
+ #content.book .b-notebook-lines p+p{text-indent:1em}
+}
+/* Below the canvas breakpoint every page is in flow layout: one rubric size on tablets and phones. */
+@media(max-width:900px){#content.book .b-rubric{font-size:24px!important;line-height:1.3!important}}
 @media print{body:has(#content.book){background:white}#content.book{padding-bottom:16px}body:has(#content.book) :is(#nav-container,#interface-container){display:none!important}}

@@ -12,19 +12,40 @@
     <link href="./content/tailwind_output.css" rel="stylesheet">
     <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
     <link href="./assets/fonts.css" rel="stylesheet">
-<link rel="stylesheet" href="./book-design/components.css?v=6979d7e1c4878fe2" data-book-style="true"></head>
+<link rel="stylesheet" href="./book-design/components.css?v=b0c65772c7c6cb7f" data-book-style="true"><style>
+/* Practice pages (Provoje veten) · same system as pages 7–15: Poppins only; 32 title · 22 instructions · 20 labels, fields, folio. Phones: 26 · 20 · 20.
+   Uses the shared lesson components (book-design/components.tailwind.css); only the practice-field details live here. */
+#content.book.prx.is-continuation{padding-top:48px}
+#content.book.prx .prx-step{margin:0 0 32px}
+#content.book.prx .prx-instruction{margin:0 0 14px;font:400 22px/1.5 var(--book-heading);color:var(--book-ink)}
+#content.book.prx .prx-fields{display:grid;gap:12px}
+#content.book.prx :is(input,textarea).prx-field{display:block;width:100%;max-width:100%;min-height:52px;margin:0;padding:10px 14px;border:2px solid #6d6472;border-radius:10px;background:#fff;color:var(--book-ink);font:400 20px/1.5 var(--book-heading);box-shadow:none}
+#content.book.prx textarea.prx-field{min-height:96px;resize:vertical}
+#content.book.prx :is(input,textarea).prx-field:focus-visible{outline:3px solid #075a70;outline-offset:2px;border-color:#075a70}
+@media(max-width:700px){
+ #content.book.prx.is-continuation{padding-top:32px}
+ #content.book.prx .prx-instruction{font-size:20px}
+}
+</style></head>
 
 <body class="min-h-screen flex items-center justify-center">
     <main class="w-full">
-      <div id="content" class="container opacity-0 book" data-family="response"><section data-section-type="other" data-section-id="pg018_sec001" class="mx-auto w-full max-w-5xl bg-white relative overflow-hidden px-10 py-8 max-lg:px-8 max-sm:px-4 max-sm:py-6 b-page"><div aria-hidden="true" class="absolute left-0 top-0 bottom-0 w-24 bg-gradient-to-b from-amber-400 to-orange-300 max-lg:w-20 max-sm:w-16"></div><div class="relative z-10 ml-20 max-lg:ml-16 max-sm:ml-0"><div class="mb-10 max-sm:mb-8"><div class="relative inline-block bg-amber-50 border-4 border-amber-400 px-8 py-4 max-sm:px-6 max-sm:py-3 b-practice-heading"><div aria-hidden="true" class="absolute left-0 top-full h-0 w-0 border-t-[18px] border-t-amber-400 border-r-[18px] border-r-transparent max-sm:border-t-[14px] max-sm:border-r-[14px] b-rubric-wrapper"><img src="images/pg005_im007.png" alt="" aria-hidden="true" class="b-rubric-icon"></div><h1 class="adt-h3 font-bold text-zinc-800" data-id="pg018_n0002">Provoje veten</h1></div></div><div class="space-y-6"><div class="adt-body text-zinc-800 leading-relaxed max-w-4xl"><span data-id="pg018_n0004">1. Çka janë vendbanimet arkeologjike?</span><span class="ml-2 max-sm:ml-0" data-id="pg018_n0005">A e di ndonjë të tillë në vendin ku jeton?</span></div><div class="space-y-4 max-w-4xl"><div><span data-id="pg018_n0006" class="sr-only"></span><label for="item-1" class="sr-only">1. Çka janë vendbanimet arkeologjike? A e di ndonjë të tillë në vendin ku jeton?</label><input id="item-1" data-activity-item="item-1" type="text" aria-label="1. Çka janë vendbanimet arkeologjike? A e di ndonjë të tillë në vendin ku jeton?" class="w-full min-h-11 rounded-none border-0 border-b-2 border-zinc-500 bg-transparent px-0 py-3 text-zinc-800 focus:outline-none focus:ring-2 focus:ring-amber-400"></div><div><span data-id="pg018_n0007" class="sr-only"></span><label for="item-2" class="sr-only">1. Çka janë vendbanimet arkeologjike? A e di ndonjë të tillë në vendin ku jeton?</label><input id="item-2" data-activity-item="item-2" type="text" aria-label="1. Çka janë vendbanimet arkeologjike? A e di ndonjë të tillë në vendin ku jeton?" class="w-full min-h-11 rounded-none border-0 border-b-2 border-zinc-500 bg-transparent px-0 py-3 text-zinc-800 focus:outline-none focus:ring-2 focus:ring-amber-400"></div></div></div></div></section></div>
+      <div id="content" class="container opacity-0 book b-lesson prx p18" data-family="response"><section data-section-type="other" data-section-id="pg018_sec001">
+        <header class="b-page-title is-practice"><h1><img class="b-page-title-icon" src="studio/assets/pg010_heading_tab.png" alt=""><span data-id="pg018_n0002">Provoje veten</span></h1></header>
+        <div class="prx-step"><p class="prx-instruction"><span data-id="pg018_n0004">1. Çka janë vendbanimet arkeologjike?</span> <span data-id="pg018_n0005">A e di ndonjë të tillë në vendin ku jeton?</span></p>
+          <div class="prx-fields">
+            <div><span data-id="pg018_n0006" class="sr-only"></span><label for="item-1" class="sr-only">1. Çka janë vendbanimet arkeologjike? A e di ndonjë të tillë në vendin ku jeton?</label><input id="item-1" data-activity-item="item-1" type="text" aria-label="1. Çka janë vendbanimet arkeologjike? A e di ndonjë të tillë në vendin ku jeton?" class="prx-field"></div>
+            <div><span data-id="pg018_n0007" class="sr-only"></span><label for="item-2" class="sr-only">1. Çka janë vendbanimet arkeologjike? A e di ndonjë të tillë në vendin ku jeton?</label><input id="item-2" data-activity-item="item-2" type="text" aria-label="1. Çka janë vendbanimet arkeologjike? A e di ndonjë të tillë në vendin ku jeton?" class="prx-field"></div>
+          </div></div>
+      </section></div>
     </main>
 
     <div class="relative z-50" id="interface-container"></div>
     <div class="relative z-50" id="nav-container"></div>
-    <script src="./assets/offline-preloader.js?v=6979d7e1c4878fe2"></script>
+    <script src="./assets/offline-preloader.js?v=b0c65772c7c6cb7f"></script>
     <script src="./assets/scorm.js"></script>
     <script src="./assets/base.bundle.local.js"></script>
 
 
 
-<script src="./book-design/responses.js?v=6979d7e1c4878fe2" data-book-responses="true"></script></body></html>
+<script src="./book-design/responses.js?v=b0c65772c7c6cb7f" data-book-responses="true"></script></body></html>
