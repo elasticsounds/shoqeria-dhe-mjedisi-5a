@@ -116,6 +116,26 @@
     });
   }).observe(document.documentElement, { childList: true, subtree: true });
 
+  // In-book links turn the page in place, like the dock. A plain link would reload the document, which inside an LMS
+  // ends the SCORM session (LMSFinish) and starts a new one; SCORM 1.2 does not allow that. The reader soft-navigates
+  // on popstate to the current URL, so: update the URL, then fire popstate. Only where the reader soft-navigates
+  // (http/https, not ?embed=1); modifier clicks, new-tab links and other sites keep their normal behaviour.
+  document.addEventListener('click', function (e) {
+    if (e.defaultPrevented || e.button !== 0 || e.metaKey || e.ctrlKey || e.shiftKey || e.altKey) return;
+    var a = e.target.closest && e.target.closest('main a[href]');
+    if (!a || (a.target && a.target !== '_self') || a.hasAttribute('download')) return;
+    if (!/^https?:$/.test(location.protocol) || new URLSearchParams(location.search).get('embed') === '1') return;
+    var url = new URL(a.getAttribute('href'), location.href), here = new URL(location.href);
+    var dir = function (u) { return u.pathname.slice(0, u.pathname.lastIndexOf('/') + 1); };
+    if (url.origin !== here.origin || dir(url) !== dir(here) || !/\.html?$/i.test(url.pathname)) return;
+    if (url.pathname === here.pathname && url.hash) return;           // same-page anchors behave normally
+    e.preventDefault();
+    try {
+      history.pushState({ adtSoftNav: true }, '', url.href);
+      window.dispatchEvent(new PopStateEvent('popstate', { state: { adtSoftNav: true } }));
+    } catch (_) { location.href = url.href; }
+  });
+
   // Small API for pages with custom activities (e.g. the page 14 drawing).
   window.adtResponses = {
     load: function (name) { try { return JSON.parse(localStorage.getItem(PREFIX + 'custom.' + name) || 'null'); } catch (_) { return null; } },
