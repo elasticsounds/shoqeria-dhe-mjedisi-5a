@@ -208,6 +208,9 @@ body:has(#content.book[data-family=quiz]){background:#f3ecf8}
 #content.book .b-page-title::before{content:"";position:absolute;top:0;left:0;right:0;height:10px;background:var(--title-rule,var(--book-purple-ink));box-shadow:0 0 0 100vmax var(--title-rule,var(--book-purple-ink));clip-path:inset(0 -100vmax)}
 #content.book .b-page-title h1{display:flex;align-items:center;gap:14px;margin:0;font:700 32px/1.25 var(--book-heading);color:var(--title-ink,var(--book-purple-ink));letter-spacing:0}
 #content.book .b-page-title-icon{width:56px;height:56px;flex:none;object-fit:contain}
+/* Read-aloud splits a data-id element's text into one span per word. Text elements must flow as text (not flex/grid),
+   or the word spans become flex items: spread apart by gap, or squashed together without their spaces. */
+#content.book .b-page-title h1[data-id]{display:block}
 /* Continuation pages (no title of their own): the same full-width top line, so every page shows whether it is a lesson (purple) or an activity (yellow). */
 #content.book .b-page-rule{position:relative;height:10px;margin:0 0 38px}
 #content.book .b-page-rule::before{content:"";position:absolute;inset:0;background:var(--title-rule,var(--book-purple-ink));box-shadow:0 0 0 100vmax var(--title-rule,var(--book-purple-ink));clip-path:inset(0 -100vmax)}
@@ -225,7 +228,7 @@ body:has(#content.book[data-family=quiz]){background:#f3ecf8}
 #content.book .b-page-title .b-page-title-kicker{display:block;margin:0 0 6px;font:600 22px/1.35 var(--book-heading);color:var(--title-ink,var(--book-purple-ink))}
 #content.book .b-page-title h2{margin:0;font:700 32px/1.25 var(--book-heading);color:var(--title-ink,var(--book-purple-ink))}
 #content.book .b-lesson-keywords{display:flex;flex-wrap:wrap;align-items:stretch;margin:0 0 32px;border:2px solid var(--book-purple-ink);border-radius:16px;overflow:hidden;background:#fff}
-#content.book .b-lesson-keywords-label{display:flex;align-items:center;padding:10px 16px;background:var(--book-purple-ink);color:#fff;font:600 20px/1.4 var(--book-heading)}
+#content.book .b-lesson-keywords-label{display:block;align-content:center;padding:10px 16px;background:var(--book-purple-ink);color:#fff;font:600 20px/1.4 var(--book-heading)}
 /* Block, not flex: the glossary wraps each keyword in its own span and flex would remove the spaces between them. */
 #content.book .b-lesson-keywords-words{flex:1 1 16em;display:block;align-self:center;padding:10px 16px;font:400 20px/1.4 var(--book-heading)}
 #content.book .b-lesson-thought{margin:0 0 32px;padding:22px 28px 24px;border-radius:16px;background:#91cfdb;color:var(--book-ink)}
