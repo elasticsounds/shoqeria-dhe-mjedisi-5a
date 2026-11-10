@@ -8,20 +8,13 @@
     <link href="./content/tailwind_output.css" rel="stylesheet">
     <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
     <link href="./assets/fonts.css" rel="stylesheet">
-    <link rel="stylesheet" href="./book-design/components.css?v=b0c65772c7c6cb7f" data-book-style="true">
+    <link rel="stylesheet" href="./book-design/components.css?v=2bf3d91c0eef6b2b" data-book-style="true">
 <style>
 /* Practice pages (Provoje veten) · same system as pages 7–15: Poppins only; 32 title · 22 instructions · 20 labels, fields, folio. Phones: 26 · 20 · 20.
    Uses the shared lesson components (book-design/components.tailwind.css); only the practice-field details live here. */
 #content.book.prx.is-continuation{padding-top:48px}
-#content.book.prx .prx-step{margin:0 0 32px}
-#content.book.prx .prx-instruction{margin:0 0 14px;font:400 22px/1.5 var(--book-heading);color:var(--book-ink)}
-#content.book.prx .prx-fields{display:grid;gap:12px}
-#content.book.prx :is(input,textarea).prx-field{display:block;width:100%;max-width:100%;min-height:52px;margin:0;padding:10px 14px;border:2px solid #6d6472;border-radius:10px;background:#fff;color:var(--book-ink);font:400 20px/1.5 var(--book-heading);box-shadow:none}
-#content.book.prx textarea.prx-field{min-height:96px;resize:vertical}
-#content.book.prx :is(input,textarea).prx-field:focus-visible{outline:3px solid #075a70;outline-offset:2px;border-color:#075a70}
 @media(max-width:700px){
  #content.book.prx.is-continuation{padding-top:32px}
- #content.book.prx .prx-instruction{font-size:20px}
 }
 /* Page 14 · drawing area: same tools, canvas and writing field as before, restyled. */
 #content.book.p14 .p14-drawing{display:flex;flex-direction:column;overflow:hidden;border:2px solid #ffb149;border-radius:16px;background:#fff}
@@ -50,13 +43,11 @@
         <header class="b-page-title is-practice"><h1><img class="b-page-title-icon" src="studio/assets/pg010_heading_tab.png" alt=""><span>Provoje veten</span></h1></header>
         <div class="prx-step"><p class="prx-instruction"><span data-id="pg014_n0004">1.</span> <span data-id="pg014_n0005">Identifikoji monumentet arkeologjike në rrethinën ku ti jeton dhe krahasoji ato me lokalitetet arkeologjike që tashmë ke mësuar.</span></p>
           <div class="prx-fields">
-            <div><label class="sr-only" for="item-1">Përgjigjja e parë: Identifikoji monumentet arkeologjike në rrethinën ku ti jeton dhe krahasoji ato me lokalitetet arkeologjike që tashmë ke mësuar.</label><textarea id="item-1" data-activity-item="item-1" aria-label="Përgjigjja e parë për ushtrimin 1" class="answer-line prx-field" rows="2"></textarea><div data-id="pg014_n0006" class="sr-only"></div></div>
-            <div><label class="sr-only" for="item-2">Përgjigjja e dytë: Identifikoji monumentet arkeologjike në rrethinën ku ti jeton dhe krahasoji ato me lokalitetet arkeologjike që tashmë ke mësuar.</label><textarea id="item-2" data-activity-item="item-2" aria-label="Përgjigjja e dytë për ushtrimin 1" class="answer-line prx-field" rows="2"></textarea><div data-id="pg014_n0007" class="sr-only"></div></div>
+            <div><label class="sr-only" for="item-1">Përgjigjja për ushtrimin 1: Identifikoji monumentet arkeologjike në rrethinën ku ti jeton dhe krahasoji ato me lokalitetet arkeologjike që tashmë ke mësuar.</label><textarea id="item-1" data-activity-item="item-1" class="prx-field prx-lined" rows="4" spellcheck="true"></textarea><div data-id="pg014_n0006" class="sr-only"></div><div data-id="pg014_n0007" class="sr-only"></div></div>
           </div></div>
         <div class="prx-step"><p class="prx-instruction"><span data-id="pg014_n0008">2.</span> <span data-id="pg014_n0009">Analizo rëndësinë e monumenteve historike.</span></p>
           <div class="prx-fields">
-            <div><label class="sr-only" for="item-3">Përgjigjja e parë për ushtrimin 2: Analizo rëndësinë e monumenteve historike.</label><textarea id="item-3" data-activity-item="item-3" aria-label="Përgjigjja e parë për ushtrimin 2" class="answer-line prx-field" rows="2"></textarea><div data-id="pg014_n0010" class="sr-only"></div></div>
-            <div><label class="sr-only" for="item-4">Përgjigjja e dytë për ushtrimin 2: Analizo rëndësinë e monumenteve historike.</label><textarea id="item-4" data-activity-item="item-4" aria-label="Përgjigjja e dytë për ushtrimin 2" class="answer-line prx-field" rows="2"></textarea><div data-id="pg014_n0011" class="sr-only"></div></div>
+            <div><label class="sr-only" for="item-3">Përgjigjja për ushtrimin 2: Analizo rëndësinë e monumenteve historike.</label><textarea id="item-3" data-activity-item="item-3" class="prx-field prx-lined" rows="4" spellcheck="true"></textarea><div data-id="pg014_n0010" class="sr-only"></div><div data-id="pg014_n0011" class="sr-only"></div></div>
           </div></div>
         <div class="prx-step"><p class="prx-instruction"><span data-id="pg014_n0012">3.</span> <span data-id="pg014_n0013">Analizo: cili objekt i rëndësishëm i kësaj kohe mendon që do të jetë monu&shy;ment historik pas shumë vjetësh?</span> <span data-id="pg014_n0014">Vizato dhe shkruaj për të.</span></p>
           <div class="drawing-frame p14-drawing" aria-label="Hapësirë për vizatim dhe shkrim">
@@ -66,30 +57,34 @@
             <textarea id="item-5" data-activity-item="item-5" aria-label="Shkruaj për vizatimin e objektit historik" class="writing-area p14-writing" placeholder="Shkruaj për vizatimin…"></textarea>
             <div data-id="pg014_n0015" class="sr-only">Hapësirë për vizatim dhe shkrim.</div>
           </div></div>
-        <p class="b-folio" aria-label="Faqja 14" data-id="pg014_folio">14</p>
       </section>
     </div>
   <nav id="page14-next-fallback" aria-label="Faqja tjetër"><a href="pg015_sec001.html">Faqja 15 →</a></nav>
   </main>
   <div class="relative z-50" id="interface-container"></div>
   <div class="relative z-50" id="nav-container"></div>
-  <script src="./assets/offline-preloader.js?v=b0c65772c7c6cb7f"></script>
+  <script src="./assets/offline-preloader.js?v=2bf3d91c0eef6b2b"></script>
   <script src="./assets/scorm.js"></script>
   <script src="./assets/base.bundle.local.js"></script>
-  <script src="./book-design/responses.js?v=b0c65772c7c6cb7f" data-book-responses="true"></script>
+  <script src="./book-design/responses.js?v=2bf3d91c0eef6b2b" data-book-responses="true"></script>
   <script>
     (function(){
       var canvas=document.getElementById('drawing-canvas');if(!canvas)return;
-      var ctx=canvas.getContext('2d'),strokes=[],active=null,scale=1;
+      var ctx=canvas.getContext('2d'),strokes=[],active=null,scale=1,bg=null,bgData=null;
+      /* Drawing is kept in this browser (strokes + uploaded picture) and restored on return. */
+      var KEY='adt5a.responses.v1.custom.pg014-drawing';
+      function store(){try{if(!strokes.length&&!bgData)localStorage.removeItem(KEY);else localStorage.setItem(KEY,JSON.stringify({strokes:strokes,bg:bgData}));}catch(_){try{localStorage.setItem(KEY,JSON.stringify({strokes:strokes,bg:null}));}catch(__){}}}
+      function setBg(data){bgData=data;if(!data){bg=null;paint();return;}var im=new Image();im.onload=function(){bg=im;paint();};im.src=data;}
       function size(){var r=canvas.getBoundingClientRect();if(!r.width||!r.height)return;scale=window.devicePixelRatio||1;canvas.width=Math.round(r.width*scale);canvas.height=Math.round(r.height*scale);ctx.setTransform(scale,0,0,scale,0,0);paint();}
-      function paint(){var r=canvas.getBoundingClientRect();ctx.clearRect(0,0,r.width,r.height);ctx.lineCap='round';ctx.lineJoin='round';strokes.forEach(function(s){if(!s.points||!s.points.length)return;ctx.strokeStyle=s.color||'#30313a';ctx.lineWidth=s.width||2.5;ctx.beginPath();ctx.moveTo(s.points[0][0]*r.width,s.points[0][1]*r.height);for(var i=1;i<s.points.length;i++)ctx.lineTo(s.points[i][0]*r.width,s.points[i][1]*r.height);if(s.points.length===1){ctx.lineTo(s.points[0][0]*r.width+.1,s.points[0][1]*r.height+.1);}ctx.stroke();});}
+      function paint(){var r=canvas.getBoundingClientRect();ctx.clearRect(0,0,r.width,r.height);if(bg){var k=Math.min(r.width/bg.width,r.height/bg.height),bw=bg.width*k,bh=bg.height*k;ctx.drawImage(bg,(r.width-bw)/2,(r.height-bh)/2,bw,bh);}ctx.lineCap='round';ctx.lineJoin='round';strokes.forEach(function(s){if(!s.points||!s.points.length)return;ctx.strokeStyle=s.color||'#30313a';ctx.lineWidth=s.width||2.5;ctx.beginPath();ctx.moveTo(s.points[0][0]*r.width,s.points[0][1]*r.height);for(var i=1;i<s.points.length;i++)ctx.lineTo(s.points[i][0]*r.width,s.points[i][1]*r.height);if(s.points.length===1){ctx.lineTo(s.points[0][0]*r.width+.1,s.points[0][1]*r.height+.1);}ctx.stroke();});}
       function point(ev){var r=canvas.getBoundingClientRect();return [Math.max(0,Math.min(1,(ev.clientX-r.left)/r.width)),Math.max(0,Math.min(1,(ev.clientY-r.top)/r.height))];}
       canvas.addEventListener('pointerdown',function(e){if(e.button!==undefined&&e.button!==0)return;e.preventDefault();canvas.setPointerCapture(e.pointerId);active={color:'#30313a',width:2.5,points:[point(e)]};strokes.push(active);paint();});
       canvas.addEventListener('pointermove',function(e){if(!active)return;e.preventDefault();active.points.push(point(e));paint();});
-      function end(){if(active)active=null;}canvas.addEventListener('pointerup',end);canvas.addEventListener('pointercancel',end);
-      document.getElementById('drawing-undo').addEventListener('click',function(){strokes.pop();paint();});
-      document.getElementById('drawing-clear').addEventListener('click',function(){strokes=[];paint();});
-      document.getElementById('drawing-upload').addEventListener('change',function(e){var f=e.target.files&&e.target.files[0];if(!f)return;if(!f.type.match(/^image\//)){e.target.value='';return;}var reader=new FileReader();reader.onload=function(){var im=new Image();im.onload=function(){var r=canvas.getBoundingClientRect(),ratio=Math.min(r.width/im.width,r.height/im.height),w=im.width*ratio,h=im.height*ratio;ctx.drawImage(im,(r.width-w)/2,(r.height-h)/2,w,h);};im.src=reader.result;};reader.readAsDataURL(f);});
+      function end(){if(active){active=null;store();}}canvas.addEventListener('pointerup',end);canvas.addEventListener('pointercancel',end);
+      document.getElementById('drawing-undo').addEventListener('click',function(){strokes.pop();paint();store();});
+      document.getElementById('drawing-clear').addEventListener('click',function(){strokes=[];setBg(null);store();});
+      document.getElementById('drawing-upload').addEventListener('change',function(e){var f=e.target.files&&e.target.files[0];if(!f)return;if(!f.type.match(/^image\//)){e.target.value='';return;}var reader=new FileReader();reader.onload=function(){var im=new Image();im.onload=function(){/* shrink to fit storage: max 1200px, JPEG */var k=Math.min(1,1200/Math.max(im.width,im.height)),c=document.createElement('canvas');c.width=Math.round(im.width*k);c.height=Math.round(im.height*k);var cx=c.getContext('2d');cx.fillStyle='#fff';cx.fillRect(0,0,c.width,c.height);cx.drawImage(im,0,0,c.width,c.height);setBg(c.toDataURL('image/jpeg',0.85));store();};im.src=reader.result;};reader.readAsDataURL(f);});
+      try{var saved=JSON.parse(localStorage.getItem(KEY)||'null');if(saved){strokes=Array.isArray(saved.strokes)?saved.strokes:[];if(saved.bg)setBg(saved.bg);}}catch(_){}
       if(window.ResizeObserver)new ResizeObserver(size).observe(canvas);else window.addEventListener('resize',size);size();
     })();
   </script>

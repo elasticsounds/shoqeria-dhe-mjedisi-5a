@@ -8,88 +8,63 @@
          order, not a section id and not the printed page number. It drives the
          "N of M" dock counter and is re-emitted on every package, so it tracks
          the current order. Identity lives in title-id above. -->
-    <meta name="page-section-id" content="58">
+    <meta name="page-section-id" content="63">
     <link href="./content/tailwind_output.css" rel="stylesheet">
     <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
     <link href="./assets/fonts.css" rel="stylesheet">
-<link rel="stylesheet" href="./book-design/components.css?v=b0c65772c7c6cb7f" data-book-style="true"></head>
+<link rel="stylesheet" href="./book-design/components.css?v=2bf3d91c0eef6b2b" data-book-style="true"><style>
+/* Page 39 · shared lesson components. Continues "Profesionet tona": purple top rule, no title.
+   "Pyetje për ty" restored from the dictionary (PDF page 39); its writing lines are one ruled answer box. */
+#content.book.p39 .p39-remember{margin:0 0 32px;padding:16px 22px;border-left:6px solid var(--book-purple-ink);border-radius:0 12px 12px 0;background:#faf6fc}
+#content.book.p39 .p39-remember h2{margin:0 0 6px;font:600 22px/1.4 var(--book-heading);color:var(--book-purple-ink)}
+#content.book.p39 .p39-remember p{margin:0;font:400 22px/1.6 var(--book-heading)}
+#content.book.p39 .p39-write{margin:12px 0 10px;font:600 22px/1.5 var(--book-heading)}
+#content.book.p39 textarea.b-lined{display:block;width:100%;max-width:100%;border:2px solid #6d6472;border-radius:10px}
+#content.book.p39 .b-lesson-thought.is-discussion .b-lesson-prompt label span{font:inherit}
+@media(max-width:700px){#content.book.p39 :is(.p39-remember p,.p39-remember h2,.p39-write){font-size:20px}}
+@media(max-width:480px){#content.book.p39 .b-lesson-gallery{grid-template-columns:repeat(2,minmax(0,1fr))}}
+</style></head>
 
 <body class="min-h-screen flex items-center justify-center">
     <main class="w-full">
-      <div id="content" class="container mx-auto w-full max-w-5xl px-8 py-8 max-sm:px-5 bg-white opacity-0 book" data-family="illustrated-lesson">
-  <section data-section-type="text_and_images" data-section-id="pg039_sec001" class="w-full b-page">
-    <div class="mb-8 grid grid-cols-4 gap-4 max-lg:grid-cols-2 max-sm:grid-cols-1">
-      <img data-id="pg039_im003" src="images/pg039_im003.png" alt="Stetoskop i kuq për kontrollimin e pacientëve." class="h-56 w-full rounded-2xl bg-slate-100 object-cover shadow-sm max-lg:h-44 max-sm:h-auto">
-      <img data-id="pg039_im004" src="images/pg039_im004.png" alt="Shiringë, shishe ilaçesh dhe tableta për mjekim." class="h-56 w-full rounded-2xl bg-slate-100 object-cover shadow-sm max-lg:h-44 max-sm:h-auto">
-      <img data-id="pg039_im005" src="images/pg039_im005.png" alt="Monitor me imazhe skanimi mjekësor të trupit." class="h-56 w-full rounded-2xl bg-slate-100 object-cover shadow-sm max-lg:h-44 max-sm:h-auto">
-      <img data-id="pg039_im006" src="images/pg039_im006.png" alt="Pajisje moderne mjekësore për ekzaminime në spital." class="h-56 w-full rounded-2xl bg-slate-100 object-cover shadow-sm max-lg:h-44 max-sm:h-auto">
-    </div>
-
-    <p class="adt-body mb-8 text-left leading-8 text-slate-800">
-      <span data-id="pg039_n0002">Profesioni i mjekut është shumë i rëndësishëm.</span>
-      <span data-id="pg039_n0003">Ai kujdeset për shëndetin e njerëzve.</span>
-      <span data-id="pg039_n0004">Mjeku ndihmon në zbulimin dhe mjekimin e sëmundjeve.</span>
-      <span data-id="pg039_n0005">Pas shkollimit, mjeku premton se do t’i ndihmojë pacientët gjatë gjithë jetës së tij.</span>
-      <span data-id="pg039_n0006">Dikur, mjekët punonin edhe pa pajisje moderne – ata përdornin stetoskopin për t’i kontrolluar pacientët dhe për të zbuluar sëmundje.</span>
-      <span data-id="pg039_n0007">Sot, ky profesion është përmirësuar shumë, sepse ka pajisje të reja dhe teknologji moderne.</span>
-    </p>
-
-    <div class="mb-10 rounded-[2rem] border-2 border-purple-300 bg-purple-50 px-6 py-5 max-sm:px-4">
-      <h1 data-id="pg039_n0009" class="adt-h3 mb-2 text-left italic text-purple-900">Mos harro!</h1>
-      <p class="adt-body text-left italic leading-8 text-slate-800">
-        <span data-id="pg039_n0010">Të gjitha profesionet janë të domosdoshme dhe të rëndësishme që të funksionojë jeta në shoqëri.</span>
-      </p>
-    </div>
-
-    <aside class="mb-10 rounded-[2rem] border-2 border-green-400 bg-green-300 px-6 py-6 shadow-sm max-sm:px-4 b-panel-discussion" aria-labelledby="pg039_n0013">
-      <h2 data-id="pg039_n0013" class="b-rubric adt-h2 mb-5 text-left text-slate-900">Diskuto</h2>
-      <div class="space-y-6">
-        <div>
-          <p class="adt-body text-left leading-8 text-slate-900">
-            <span data-id="pg039_n0016">Cilat nga zanatet janë në zhdukje në Kosovë?</span>
-          </p>
-          <label for="item-1" class="sr-only">Cilat nga zanatet janë në zhdukje në Kosovë?</label>
-          <textarea id="item-1" data-activity-item="item-1" aria-label="Cilat nga zanatet janë në zhdukje në Kosovë?" class="mt-2 min-h-11 w-full rounded-2xl border-2 border-green-700 bg-white px-4 py-3 text-slate-900 outline-none focus:border-purple-500 focus:ring-2 focus:ring-purple-200"></textarea>
-        </div>
-        <div>
-          <p class="adt-body text-left leading-8 text-slate-900">
-            <span data-id="pg039_n0018">Cilat janë masat që po merren për vazhdimin e punës së tyre?</span>
-          </p>
-          <label for="item-2" class="sr-only">Cilat janë masat që po merren për vazhdimin e punës së tyre?</label>
-          <textarea id="item-2" data-activity-item="item-2" aria-label="Cilat janë masat që po merren për vazhdimin e punës së tyre?" class="mt-2 min-h-11 w-full rounded-2xl border-2 border-green-700 bg-white px-4 py-3 text-slate-900 outline-none focus:border-purple-500 focus:ring-2 focus:ring-purple-200"></textarea>
-        </div>
-        <div>
-          <p class="adt-body text-left leading-8 text-slate-900">
-            <span data-id="pg039_n0020">Analizo: cili nga zanatet mendon se duhet të vazhdojë?</span>
-            <span data-id="pg039_n0021">Pse?</span>
-          </p>
-          <label for="item-3" class="sr-only">Analizo: cili nga zanatet mendon se duhet të vazhdojë? Pse?</label>
-          <textarea id="item-3" data-activity-item="item-3" aria-label="Analizo: cili nga zanatet mendon se duhet të vazhdojë? Pse?" class="mt-2 min-h-11 w-full rounded-2xl border-2 border-green-700 bg-white px-4 py-3 text-slate-900 outline-none focus:border-purple-500 focus:ring-2 focus:ring-purple-200"></textarea>
-        </div>
-      </div>
-    </aside>
-
-    <div class="rounded-[2rem] border-4 border-purple-400 bg-white px-6 py-6 shadow-sm max-sm:px-4 b-panel-reading">
-      <h2 data-id="pg039_n0024" class="b-rubric adt-h2 mb-4 text-left text-slate-900">Thello dijet</h2>
-      <p class="adt-body text-left leading-8 text-slate-800">
-        <span data-id="pg039_n0026">Profesioni është një punë që kryhet nga një person i përgatitur në mënyrë të veçantë, qoftë përmes arsimit, qoftë përmes kurseve trajnuese.</span>
-        <span data-id="pg039_n0027">Njeriu zgjedh profesionin që ka dëshirë dhe mëson e specializohet për ta kryer atë punë.</span>
-        <span data-id="pg039_n0028">Secili profesion ka rëndësinë e tij.</span>
-        <span data-id="pg039_n0029">Puna në vendin tonë dikur është kryer me vështirësi për shkak të mungesës së mjeteve të punës.</span>
-        <span data-id="pg039_n0030">Me zhvillimin e teknologjisë, sot, edhe te ne, si në të gjitha vendet e botës, puna kryhet me mjete bashkëkohore.</span>
-        <span data-id="pg039_n0031">Çdo profesion që ka njeriu, duhet të bëhet me përkushtim dhe përgjegjësi.</span>
-      </p>
-    </div>
-  </section>
+<h1 class="sr-only">Profesionet tona</h1>
+<div id="content" class="container opacity-0 book b-lesson p39" data-family="illustrated-lesson">
+<section data-section-type="text_and_images" data-section-id="pg039_sec001">
+<div class="b-page-rule" aria-hidden="true"></div>
+<div class="b-lesson-gallery" style="--cols:4">
+  <figure class="b-lesson-figure"><img data-id="pg039_im003" src="images/pg039_im003.png" alt="Stetoskop i kuq për kontrollimin e pacientëve."></figure>
+  <figure class="b-lesson-figure"><img data-id="pg039_im004" src="images/pg039_im004.png" alt="Shiringë, shishe ilaçesh dhe tableta për mjekim."></figure>
+  <figure class="b-lesson-figure"><img data-id="pg039_im005" src="images/pg039_im005.png" alt="Monitor me imazhe skanimi mjekësor të trupit."></figure>
+  <figure class="b-lesson-figure"><img data-id="pg039_im006" src="images/pg039_im006.png" alt="Pajisje moderne mjekësore për ekzaminime në spital."></figure>
 </div>
-    </main>
+<p class="b-lesson-text"><span data-id="pg039_n0002">Profesioni i mjekut është shumë i rëndësishëm.</span> <span data-id="pg039_n0003">Ai kujdeset për shëndetin e njerëzve.</span> <span data-id="pg039_n0004">Mjeku ndihmon në zbulimin dhe mjekimin e sëmundjeve.</span> <span data-id="pg039_n0005">Pas shkollimit, mjeku premton se do t’i ndihmojë pacientët gjatë gjithë jetës së tij.</span> <span data-id="pg039_n0006">Dikur, mjekët punonin edhe pa pajisje moderne – ata përdornin stetoskopin për t’i kontrolluar pacientët dhe për të zbuluar sëmundje.</span> <span data-id="pg039_n0007">Sot, ky profesion është përmirësuar shumë, sepse ka pajisje të reja dhe teknologji moderne.</span></p>
+<aside class="p39-remember"><h2 data-id="pg039_n0009">Mos harro!</h2><p><span data-id="pg039_n0010">Të gjitha profesionet janë të domosdoshme dhe të rëndësishme që të funksionojë jeta në shoqëri.</span></p></aside>
+<aside class="b-lesson-thought is-outlined" aria-labelledby="p39-questions">
+ <div class="b-lesson-thought-head"><img src="images/pg005_im006.png" alt=""><h2 id="p39-questions" class="b-rubric" data-id="pg039_n0034">Pyetje për ty</h2></div>
+ <ul>
+  <li data-id="pg039_n0035">Cilat profesione u panë në panair?</li>
+  <li data-id="pg039_n0036">Pse ushtrimi i profesionit ishte më i vështirë dikur?</li>
+  <li data-id="pg039_n0037">Çfarë e lehtësoi punën në secilin profesion?</li>
+ </ul>
+ <p class="p39-write" id="p39-write"><span data-id="pg039_n0038">Shkruaj për profesionin që dëshiron ta ushtrosh në të ardhmen!</span> <span data-id="pg039_n0039">Përmend përgjegjësitë dhe rëndësinë që ka ai prefesion!</span></p>
+ <textarea id="item-4" data-activity-item="item-4" class="b-lined" rows="4" aria-labelledby="p39-write" spellcheck="true"></textarea>
+</aside>
+<aside class="b-lesson-thought is-discussion" aria-labelledby="pg039-discuss">
+ <div class="b-lesson-thought-head"><img src="images/pg005_im008.png" alt=""><h2 id="pg039-discuss" class="b-rubric" data-id="pg039_n0013">Diskuto</h2></div>
+ <div class="b-lesson-prompt"><label for="item-1"><span data-id="pg039_n0016">Cilat nga zanatet janë në zhdukje në Kosovë?</span></label><textarea id="item-1" data-activity-item="item-1" rows="3"></textarea></div>
+ <div class="b-lesson-prompt"><label for="item-2"><span data-id="pg039_n0018">Cilat janë masat që po merren për vazhdimin e punës së tyre?</span></label><textarea id="item-2" data-activity-item="item-2" rows="3"></textarea></div>
+ <div class="b-lesson-prompt"><label for="item-3"><span data-id="pg039_n0020">Analizo: cili nga zanatet mendon se duhet të vazhdojë?</span> <span data-id="pg039_n0021">Pse?</span></label><textarea id="item-3" data-activity-item="item-3" rows="3"></textarea></div>
+</aside>
+<div class="b-lesson-thought-head"><img src="images/pg005_im003.png" alt=""><h2 class="b-rubric" data-id="pg039_n0024">Thello dijet</h2></div>
+<div class="b-lesson-text"><p><span data-id="pg039_n0026">Profesioni është një punë që kryhet nga një person i përgatitur në mënyrë të veçantë, qoftë përmes arsimit, qoftë përmes kurseve trajnuese.</span> <span data-id="pg039_n0027">Njeriu zgjedh profesionin që ka dëshirë dhe mëson e specializohet për ta kryer atë punë.</span> <span data-id="pg039_n0028">Secili profesion ka rëndësinë e tij.</span> <span data-id="pg039_n0029">Puna në vendin tonë dikur është kryer me vështirësi për shkak të mungesës së mjeteve të punës.</span> <span data-id="pg039_n0030">Me zhvillimin e teknologjisë, sot, edhe te ne, si në të gjitha vendet e botës, puna kryhet me mjete bashkëkohore.</span> <span data-id="pg039_n0031">Çdo profesion që ka njeriu, duhet të bëhet me përkushtim dhe përgjegjësi.</span></p></div>
+</section></div></main>
 
     <div class="relative z-50" id="interface-container"></div>
     <div class="relative z-50" id="nav-container"></div>
-    <script src="./assets/offline-preloader.js?v=b0c65772c7c6cb7f"></script>
+    <script src="./assets/offline-preloader.js?v=2bf3d91c0eef6b2b"></script>
     <script src="./assets/scorm.js"></script>
     <script src="./assets/base.bundle.local.js"></script>
 
 
 
-<script src="./book-design/responses.js?v=b0c65772c7c6cb7f" data-book-responses="true"></script></body></html>
+<script src="./book-design/responses.js?v=2bf3d91c0eef6b2b" data-book-responses="true"></script></body></html>

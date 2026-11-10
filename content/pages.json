@@ -90,6 +90,11 @@
     "page_number": 16
   },
   {
+    "section_id": "pg016_sec002",
+    "href": "pg016_sec002.html",
+    "page_number": 16
+  },
+  {
     "section_id": "pg017_sec001",
     "href": "pg017_sec001.html",
     "page_number": 17
@@ -135,6 +140,16 @@
   {
     "section_id": "pg023_sec001",
     "href": "pg023_sec001.html",
+    "page_number": 23
+  },
+  {
+    "section_id": "pg023_sec002",
+    "href": "pg023_sec002.html",
+    "page_number": 23
+  },
+  {
+    "section_id": "pg023_sec003",
+    "href": "pg023_sec003.html",
     "page_number": 23
   },
   {
@@ -267,6 +282,16 @@
   {
     "section_id": "pg037_sec001",
     "href": "pg037_sec001.html",
+    "page_number": 37
+  },
+  {
+    "section_id": "pg037_sec002",
+    "href": "pg037_sec002.html",
+    "page_number": 37
+  },
+  {
+    "section_id": "pg037_sec003",
+    "href": "pg037_sec003.html",
     "page_number": 37
   },
   {

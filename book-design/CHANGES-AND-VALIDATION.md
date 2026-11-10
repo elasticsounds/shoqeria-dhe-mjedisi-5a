@@ -7,7 +7,21 @@ Complete repaired Part 1: 50 physical PDF pages inventoried, 107 ADT sections ma
 - Source Poppins/Amiri typography, purple lesson bands, cyan/green/yellow panels, orange practice rules, responsive figures and tables.
 - Real cover layout and logos; page 6 vector scene; source rubric icons; exact crossword diagram; corrected image descriptions and section headings.
 - Fixed Tailwind source, compiled CSS, licensed fonts, brand guide and 20 actual-content examples under book-design/. No added global preflight.
-- Activity reset adapter clears answers and selections on every page visit; no response persistence remains. Quiz grading logic and runtime scripts are preserved. Page 14 has a direct link to page 15 if the reader navigation control is unavailable.
+- (Superseded 2026-11-09, see "Saved answers") Activity reset adapter cleared answers and selections on every page visit. Quiz grading logic and runtime scripts are preserved. Page 14 has a direct link to page 15 if the reader navigation control is unavailable.
+
+## Remaining pages restyled (27–50) · 2026-11-09
+
+- Pages 27–50 (42 sections) moved onto the shared system; quizzes were already done. Shared additions: practice parts (`.prx-*`), ruled single answer box (`textarea.prx-lined` / `.b-lined`), photo gallery (`.b-lesson-gallery`, `.is-contain`, `.is-natural`), glossary panel (`.is-glossary`), continuation rule (`.b-page-rule`).
+- Multi-line answers: one box per question where the PDF printed several ruled lines (pages 14, 18, 24, 27, 28, 30, 34, 43, 49); the first box's key is kept so saved answers carry over.
+- Restored PDF content that the reader did not show (from texts.json): page 23 Diskuto/Thello dijet/Fjalorthi, page 39 "Pyetje për ty" (+ one answer field, item-4), page 44 form labels, page 49 "Provoje veten" heading, page 31 heading and Venn description; Fjalorthi panels on pages 27, 30, 33 now use dictionary text.
+- In-place page turns: `responses.js` re-applies saved answers after every turn and loads scripts a page declares with `data-page-script` (the reader only re-runs inline scripts). Word search (28), crossword (37, digraphs SH/ZH etc., auto-advance), drawing (14) verified after dock arrival.
+- Verification: all 81 pages at 1280/820/390 — Poppins only, nothing below 16px (cover credits are the only text below 20px), no horizontal scroll; dock walk 81/81 in order with no errors; 205/205 fields on 51 pages restored after a dock round trip; no glossary spacing loss.
+
+## Saved answers · 2026-11-09
+
+- `responses.js` now saves activity answers to localStorage as they are typed or chosen and restores them when a page is opened again (replacing the previous reset-on-every-visit behaviour). One JSON entry per page under `adt5a.responses.v1.<page id>`; `data-response-page` shares answers between pages (page 9 diary), `data-response-section` separates sub-activities that reuse keys (page 24).
+- Not saved: quiz choices (graded on selection by the runtime), file inputs. Page 14's drawing and uploaded picture are saved under `adt5a.responses.v1.custom.pg014-drawing` (picture downscaled to 1200px JPEG); the uploaded picture no longer disappears when the canvas redraws.
+- Answers stay on the device until the browser's site data is cleared — on shared classroom devices the next student will see them.
 
 ## Typography consistency pass · 2026-11-09
 

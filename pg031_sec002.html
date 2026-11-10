@@ -8,46 +8,54 @@
          order, not a section id and not the printed page number. It drives the
          "N of M" dock counter and is re-emitted on every package, so it tracks
          the current order. Identity lives in title-id above. -->
-    <meta name="page-section-id" content="45">
+    <meta name="page-section-id" content="48">
     <link href="./content/tailwind_output.css" rel="stylesheet">
     <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
     <link href="./assets/fonts.css" rel="stylesheet">
-<link rel="stylesheet" href="./book-design/components.css?v=b0c65772c7c6cb7f" data-book-style="true"></head>
+<link rel="stylesheet" href="./book-design/components.css?v=2bf3d91c0eef6b2b" data-book-style="true"><style>
+/* Page 31 · Provoje veten. Shared practice components (book-design/components.tailwind.css) + a two-column task and a Venn diagram. */
+#content.book.p31 .p31-pair{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:16px}
+#content.book.p31 .p31-pair label{display:block;margin:0 0 8px;font:600 20px/1.4 var(--book-heading);color:var(--book-ink)}
+#content.book.p31 .p31-venn{max-width:760px;margin:0 auto}
+#content.book.p31 .p31-venn-labels{display:grid;grid-template-columns:38% 24% 38%;margin:0 0 6px;text-align:center}
+#content.book.p31 .p31-venn-labels span{font:600 20px/1.3 var(--book-heading);color:var(--book-ink)}
+#content.book.p31 .p31-venn-art{position:relative}
+#content.book.p31 .p31-venn-art svg{display:block;width:100%;height:auto}
+#content.book.p31 .p31-venn-field{position:absolute;top:22%;height:56%}
+#content.book.p31 .p31-venn-field.is-left{left:7%;width:27%}
+#content.book.p31 .p31-venn-field.is-mid{left:39.5%;width:21%}
+#content.book.p31 .p31-venn-field.is-right{left:66%;width:27%}
+#content.book.p31 .p31-venn-field label{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0);white-space:nowrap;font:600 20px/1.4 var(--book-heading)}
+#content.book.p31 .p31-venn-field textarea.prx-field{height:100%;min-height:0;resize:none}
+@media(max-width:700px){
+ #content.book.p31 .p31-pair{grid-template-columns:minmax(0,1fr)}
+ #content.book.p31 .p31-venn-labels,#content.book.p31 .p31-venn-art svg{display:none}
+ #content.book.p31 .p31-venn-art{display:grid;gap:16px}
+ #content.book.p31 .p31-venn-art .p31-venn-field{position:static;width:auto;height:auto;padding-left:12px;border-left:8px solid var(--edge)}
+ #content.book.p31 .p31-venn-field label{position:static;width:auto;height:auto;overflow:visible;clip:auto;white-space:normal;display:block;margin:0 0 8px;font:600 20px/1.4 var(--book-heading)}
+ #content.book.p31 .p31-venn-field textarea.prx-field{height:auto;min-height:120px;resize:vertical}
+}
+</style></head>
 
 <body class="min-h-screen flex items-center justify-center">
     <main class="w-full">
-      <h1 class="sr-only" id="page-heading">Shoqëria dhe mjedisi</h1>
-      <div id="content" class="container opacity-0 book" data-family="response"><h2 class="sr-only" id="section-heading">Shkruaj për ndryshimet që ndodhën në:</h2><section data-section-type="other" data-section-id="pg031_sec002" class="p31-q1 b-page">
-  <style>
-    #content.book .p31-q1 { container-type: inline-size; font-family: BookPoppins, Arial, sans-serif; }
-    #content.book .p31-q1 .p31-prompt { margin: 0 0 10px; font: 400 clamp(16px, 2.11cqw, 19px)/1.4 BookPoppins,Arial,sans-serif; }
-    #content.book .p31-q1 table { width: 100%; table-layout: fixed; border-collapse: collapse; }
-    #content.book .p31-q1 th, #content.book .p31-q1 td { width: 50%; border: 2px solid #a47bb9; padding: 0; }
-    #content.book .p31-q1 th { height: clamp(44px, 7.5cqw, 70px); background: #fff; text-align: center; font: 400 clamp(16px, 2.11cqw, 19px)/1.3 BookPoppins,Arial,sans-serif; }
-    #content.book .p31-q1 td { vertical-align: top; }
-    #content.book .p31-q1 textarea { display: block; width: 100%; height: auto; min-height: 120px; aspect-ratio: 234 / 149; margin: 0; padding: 9px; border: 0; border-radius: 0; background: transparent; resize: none; font: 400 clamp(16px, 2cqw, 19px)/1.45 BookPoppins,Arial,sans-serif; }
-    #content.book .p31-q1 textarea:focus-visible { outline: 3px solid #075a70; outline-offset: -3px; }
-  </style>
-  <div class="p31-prompt"><span data-id="pg031_n0004">1.</span> <span data-id="pg031_n0005">Shkruaj për ndryshimet që ndodhën në:</span></div>
-  <table aria-label="Shkruaj për ndryshimet që ndodhën në:">
-    <thead><tr>
-      <th scope="col"><span data-id="pg031_n0009">blegtori</span></th>
-      <th scope="col"><span data-id="pg031_n0011">zejtari</span></th>
-    </tr></thead>
-    <tbody><tr>
-      <td><label for="item-1" class="sr-only">Shkruaj për ndryshimet që ndodhën në blegtori</label><textarea id="item-1" data-activity-item="item-1" aria-label="Shkruaj për ndryshimet që ndodhën në blegtori"></textarea></td>
-      <td><label for="item-2" class="sr-only">Shkruaj për ndryshimet që ndodhën në zejtari</label><textarea id="item-2" data-activity-item="item-2" aria-label="Shkruaj për ndryshimet që ndodhën në zejtari"></textarea></td>
-    </tr></tbody>
-  </table>
+      <div id="content" class="container opacity-0 book b-lesson prx p31" data-family="response"><section data-section-type="other" data-section-id="pg031_sec002">
+<header class="b-page-title is-practice"><h1><img class="b-page-title-icon" src="studio/assets/pg010_heading_tab.png" alt=""><span data-id="pg031_n0002">Provoje veten</span></h1></header>
+<div class="prx-step"><p class="prx-instruction" id="p31-q1"><span data-id="pg031_n0004">1.</span> <span data-id="pg031_n0005">Shkruaj për ndryshimet që ndodhën në:</span></p>
+ <div class="p31-pair" role="group" aria-labelledby="p31-q1">
+  <div><label for="item-1"><span data-id="pg031_n0009">blegtori</span></label><textarea id="item-1" data-activity-item="item-1" class="prx-field prx-lined" rows="4" spellcheck="true" aria-label="Shkruaj për ndryshimet që ndodhën në blegtori"></textarea></div>
+  <div><label for="item-2"><span data-id="pg031_n0011">zejtari</span></label><textarea id="item-2" data-activity-item="item-2" class="prx-field prx-lined" rows="4" spellcheck="true" aria-label="Shkruaj për ndryshimet që ndodhën në zejtari"></textarea></div>
+ </div>
+</div>
 </section></div>
     </main>
 
     <div class="relative z-50" id="interface-container"></div>
     <div class="relative z-50" id="nav-container"></div>
-    <script src="./assets/offline-preloader.js?v=b0c65772c7c6cb7f"></script>
+    <script src="./assets/offline-preloader.js?v=2bf3d91c0eef6b2b"></script>
     <script src="./assets/scorm.js"></script>
     <script src="./assets/base.bundle.local.js"></script>
 
 
 
-<script src="./book-design/responses.js?v=b0c65772c7c6cb7f" data-book-responses="true"></script></body></html>
+<script src="./book-design/responses.js?v=2bf3d91c0eef6b2b" data-book-responses="true"></script></body></html>

@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html lang="sq"><head>
 <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Shoqëria dhe mjedisi</title><meta name="title-id" content="pg024_sec001"><meta name="page-section-id" content="30">
-<link href="./content/tailwind_output.css" rel="stylesheet"><link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet"><link href="./assets/fonts.css" rel="stylesheet"><link rel="stylesheet" href="./book-design/components.css?v=b0c65772c7c6cb7f" data-book-style="true">
+<title>Shoqëria dhe mjedisi</title><meta name="title-id" content="pg024_sec001"><meta name="page-section-id" content="33">
+<link href="./content/tailwind_output.css" rel="stylesheet"><link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet"><link href="./assets/fonts.css" rel="stylesheet"><link rel="stylesheet" href="./book-design/components.css?v=2bf3d91c0eef6b2b" data-book-style="true">
 <style>
 /* Page 24 · Provoje veten. Same system as page 10: Poppins only; 32 title · 22 instructions · 20 labels, fields, folio. Phones: 26 · 20 · 20. */
 #content.book.p24{padding:0 56px 128px;max-width:1000px;font-family:var(--book-heading);color:var(--book-ink)}
@@ -11,8 +11,10 @@
 #content.book.p24 .p24-task{margin:0 0 40px}
 #content.book.p24 .p24-prompt{margin:0 0 16px;font:400 22px/1.5 var(--book-heading)}
 #content.book.p24 .p24-lines{display:grid;gap:12px}
-#content.book.p24 .p24-task :is(input,textarea){display:block;width:100%;min-height:52px;margin:0;padding:10px 14px;border:2px solid #6d6472;border-radius:10px;background:#fff;color:var(--book-ink);font:400 20px/1.5 var(--book-heading);box-shadow:none}
-#content.book.p24 .p24-task textarea{min-height:120px;resize:vertical}
+#content.book.p24 .p24-task :is(input,textarea):not(.prx-lined){display:block;width:100%;min-height:52px;margin:0;padding:10px 14px;border:2px solid #6d6472;border-radius:10px;background:#fff;color:var(--book-ink);font:400 20px/1.5 var(--book-heading);box-shadow:none}
+#content.book.p24 .p24-task textarea:not(.prx-lined){min-height:120px;resize:vertical}
+#content.book.p24 .p24-task textarea.prx-lined{width:100%;border:2px solid #6d6472;border-radius:10px;color:var(--book-ink);font-family:var(--book-heading);resize:vertical}
+#content.book.p24 .p24-task textarea.prx-lined:focus-visible{outline:3px solid #075a70;outline-offset:2px;border-color:#075a70}
 #content.book.p24 .p24-task :is(input,textarea):focus-visible{outline:3px solid #075a70;outline-offset:2px;border-color:#075a70}
 /* Comparison: two overlapping circles drawn behind three labelled boxes (left only / both / right only). */
 #content.book.p24 .p24-venn{position:relative;display:grid;grid-template-columns:1fr 1fr 1fr;gap:16px;padding:28px 24px;border-radius:20px;background:
@@ -22,7 +24,6 @@
 #content.book.p24 .p24-venn-field textarea{min-height:180px;background:rgba(255,255,255,.92)}
 #content.book.p24 .p24-prefix{margin:0 0 8px;font:600 20px/1.5 var(--book-heading)}
 #content.book.p24 .p24-start{margin:0 0 12px}
-#content.book.p24 .p24-folio{margin:32px 0 0;font:400 20px/1.4 var(--book-heading)}
 @media(max-width:700px){
  #content.book.p24{padding:0 20px 120px}
  #content.book.p24 .p24-prompt{font-size:20px}
@@ -32,17 +33,15 @@
 }
 </style></head>
 <body class="min-h-screen flex items-center justify-center"><main class="w-full">
-<div id="content" class="container opacity-0 book p24" data-family="worksheet">
+<div id="content" class="container opacity-0 book p24 prx" data-family="worksheet">
 <section data-section-type="other" data-section-id="pg024_sec001">
 <header class="b-page-title is-practice"><h1><img class="b-page-title-icon" src="studio/assets/pg010_heading_tab.png" alt=""><span data-id="pg024_n0002">Provoje veten</span></h1></header>
 <div class="p24-task" id="ushtrimi-1"><p class="p24-prompt"><span data-id="pg024_n0004">1.</span> <span data-id="pg024_n0005">Shkruaj për përparësitë dhe mangësitë e jetës në fshat!</span></p>
-<div class="p24-lines"><input id="p24-2-1" data-response-section="pg024_sec002" data-response-key="item-1" aria-label="Shkruaj për jetën në fshat, rreshti 1"><input id="p24-2-2" data-response-section="pg024_sec002" data-response-key="item-2" aria-label="Shkruaj për jetën në fshat, rreshti 2"><input id="p24-2-3" data-response-section="pg024_sec002" data-response-key="item-3" aria-label="Shkruaj për jetën në fshat, rreshti 3"><input id="p24-2-4" data-response-section="pg024_sec002" data-response-key="item-4" aria-label="Shkruaj për jetën në fshat, rreshti 4"></div></div>
+<label for="p24-2-1" class="sr-only">Shkruaj për përparësitë dhe mangësitë e jetës në fshat!</label><textarea id="p24-2-1" data-response-section="pg024_sec002" data-response-key="item-1" class="prx-lined" rows="4" spellcheck="true"></textarea></div>
 <div class="p24-task" id="ushtrimi-2"><p class="p24-prompt"><span data-id="pg024_n0011">2.</span> <span data-id="pg024_n0012">Bashkë me mësuesin, hulumto në internet për fshatra të ndryshme në botë, përzgjidhe një dhe krahasoje atë me një fshat të Kosovës!</span></p>
 <div class="p24-venn"><div class="p24-venn-field"><label for="p24-3-1" data-id="pg024_n0013">Fshati i një vendi tjetër</label><textarea id="p24-3-1" data-response-section="pg024_sec003" data-response-key="item-1"></textarea></div><div class="p24-venn-field"><label for="p24-3-2" data-id="pg024_n0014">Të përbashkëtat</label><textarea id="p24-3-2" data-response-section="pg024_sec003" data-response-key="item-2"></textarea></div><div class="p24-venn-field"><label for="p24-3-3" data-id="pg024_n0015">Fshati i Kosovës</label><textarea id="p24-3-3" data-response-section="pg024_sec003" data-response-key="item-3"></textarea></div></div></div>
 <div class="p24-task" id="ushtrimi-3"><p class="p24-prompt"><span data-id="pg024_n0017">3.</span> <span data-id="pg024_n0018">Vazhdoje mendimin e dhënë më poshtë.</span></p>
-<div class="p24-start"><p class="p24-prefix" data-id="pg024_n0019">Shumë njerëz sot parapëlqejnë jetën në fshat, sepse</p><textarea id="p24-4-1" data-response-section="pg024_sec004" data-response-key="item-1" aria-label="Shumë njerëz sot parapëlqejnë jetën në fshat, sepse"></textarea></div>
-<div class="p24-lines"><input id="p24-4-2" data-response-section="pg024_sec004" data-response-key="item-2" aria-label="Vazhdo mendimin në rreshtin e parë"><input id="p24-4-3" data-response-section="pg024_sec004" data-response-key="item-3" aria-label="Vazhdo mendimin në rreshtin e dytë"><input id="p24-4-4" data-response-section="pg024_sec004" data-response-key="item-4" aria-label="Vazhdo mendimin në rreshtin e tretë"><input id="p24-4-5" data-response-section="pg024_sec004" data-response-key="item-5" aria-label="Vazhdo mendimin në rreshtin e katërt"></div></div>
-<p class="p24-folio" aria-label="Faqja 24">24</p>
+<div class="p24-start"><p class="p24-prefix" data-id="pg024_n0019">Shumë njerëz sot parapëlqejnë jetën në fshat, sepse</p><textarea id="p24-4-1" data-response-section="pg024_sec004" data-response-key="item-1" aria-label="Shumë njerëz sot parapëlqejnë jetën në fshat, sepse" class="prx-lined" rows="4" spellcheck="true"></textarea></div></div>
 </section></div></main>
 <div class="relative z-50" id="interface-container"></div><div class="relative z-50" id="nav-container"></div>
-<script src="./assets/offline-preloader.js?v=b0c65772c7c6cb7f"></script><script src="./assets/scorm.js"></script><script src="./assets/base.bundle.local.js"></script><script src="./book-design/responses.js?v=b0c65772c7c6cb7f" data-book-responses="true"></script></body></html>
+<script src="./assets/offline-preloader.js?v=2bf3d91c0eef6b2b"></script><script src="./assets/scorm.js"></script><script src="./assets/base.bundle.local.js"></script><script src="./book-design/responses.js?v=2bf3d91c0eef6b2b" data-book-responses="true"></script></body></html>

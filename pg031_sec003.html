@@ -8,35 +8,51 @@
          order, not a section id and not the printed page number. It drives the
          "N of M" dock counter and is re-emitted on every package, so it tracks
          the current order. Identity lives in title-id above. -->
-    <meta name="page-section-id" content="46">
+    <meta name="page-section-id" content="49">
     <link href="./content/tailwind_output.css" rel="stylesheet">
     <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
     <link href="./assets/fonts.css" rel="stylesheet">
-<link rel="stylesheet" href="./book-design/components.css?v=b0c65772c7c6cb7f" data-book-style="true">
-<style>
-/* Focused view of exercise 2: dimensions follow its writing region on page 31. */
-#content.book .source-task { max-width: 734px; margin: 0 auto; }
-#content.book .source-task .source-prompt { margin: 0 0 14px; font: 400 18.77px/1.25 BookPoppins,Arial,sans-serif; color: var(--book-ink,#231f20); }
-#content.book .source-task textarea { display: block; width: 100%; height: 205px; min-height: 88px; border: 3px solid #a478bc; border-radius: 0; background: #fff; padding: 9px 12px; }
-@media (max-width: 700px) {
-  #content.book .source-task .source-prompt { font-size: 16px; line-height: 1.5; }
-  #content.book .source-task .source-break { display: none; }
-  #content.book .source-task textarea { height: 180px; }
+<link rel="stylesheet" href="./book-design/components.css?v=2bf3d91c0eef6b2b" data-book-style="true"><style>
+/* Page 31 · Provoje veten. Shared practice components (book-design/components.tailwind.css) + a two-column task and a Venn diagram. */
+#content.book.p31 .p31-pair{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:16px}
+#content.book.p31 .p31-pair label{display:block;margin:0 0 8px;font:600 20px/1.4 var(--book-heading);color:var(--book-ink)}
+#content.book.p31 .p31-venn{max-width:760px;margin:0 auto}
+#content.book.p31 .p31-venn-labels{display:grid;grid-template-columns:38% 24% 38%;margin:0 0 6px;text-align:center}
+#content.book.p31 .p31-venn-labels span{font:600 20px/1.3 var(--book-heading);color:var(--book-ink)}
+#content.book.p31 .p31-venn-art{position:relative}
+#content.book.p31 .p31-venn-art svg{display:block;width:100%;height:auto}
+#content.book.p31 .p31-venn-field{position:absolute;top:22%;height:56%}
+#content.book.p31 .p31-venn-field.is-left{left:7%;width:27%}
+#content.book.p31 .p31-venn-field.is-mid{left:39.5%;width:21%}
+#content.book.p31 .p31-venn-field.is-right{left:66%;width:27%}
+#content.book.p31 .p31-venn-field label{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0);white-space:nowrap;font:600 20px/1.4 var(--book-heading)}
+#content.book.p31 .p31-venn-field textarea.prx-field{height:100%;min-height:0;resize:none}
+@media(max-width:700px){
+ #content.book.p31 .p31-pair{grid-template-columns:minmax(0,1fr)}
+ #content.book.p31 .p31-venn-labels,#content.book.p31 .p31-venn-art svg{display:none}
+ #content.book.p31 .p31-venn-art{display:grid;gap:16px}
+ #content.book.p31 .p31-venn-art .p31-venn-field{position:static;width:auto;height:auto;padding-left:12px;border-left:8px solid var(--edge)}
+ #content.book.p31 .p31-venn-field label{position:static;width:auto;height:auto;overflow:visible;clip:auto;white-space:normal;display:block;margin:0 0 8px;font:600 20px/1.4 var(--book-heading)}
+ #content.book.p31 .p31-venn-field textarea.prx-field{height:auto;min-height:120px;resize:vertical}
 }
 </style></head>
 
 <body class="min-h-screen flex items-center justify-center">
     <main class="w-full">
-      <h1 class="sr-only" id="page-heading">Shoqëria dhe mjedisi</h1>
-      <div id="content" class="container opacity-0 book" data-family="response"><h2 class="sr-only" id="section-heading">Imagjino sikur je një blegtor a blegtore e suksesshme!</h2><section data-section-type="other" data-section-id="pg031_sec003" class="b-page"><div class="source-task"><div class="source-prompt"><span data-id="pg031_n0016">2.</span> <span data-id="pg031_n0017">Imagjino sikur je një blegtor a blegtore e suksesshme!</span> <span data-id="pg031_n0018">Përshkruaje punën<br class="source-break"> që do të bëje.</span></div><label for="item-1" class="sr-only">Imagjino sikur je një blegtor a blegtore e suksesshme! Përshkruaje punën që do të bëje.</label><textarea id="item-1" data-activity-item="item-1" aria-label="Imagjino sikur je një blegtor a blegtore e suksesshme! Përshkruaje punën që do të bëje."></textarea><div class="sr-only" data-id="pg031_n0019"></div></div></section></div>
+      <div id="content" class="container opacity-0 book b-lesson prx p31" data-family="response"><section data-section-type="other" data-section-id="pg031_sec003">
+<div class="b-page-rule is-practice" aria-hidden="true"></div>
+<div class="prx-step"><h1 class="prx-instruction" id="p31-q2"><span data-id="pg031_n0016">2.</span> <span data-id="pg031_n0017">Imagjino sikur je një blegtor a blegtore e suksesshme!</span> <span data-id="pg031_n0018">Përshkruaje punën që do të bëje.</span></h1>
+ <div class="prx-fields"><label for="item-1" class="sr-only">Imagjino sikur je një blegtor a blegtore e suksesshme! Përshkruaje punën që do të bëje.</label><textarea id="item-1" data-activity-item="item-1" class="prx-field prx-lined" rows="5" spellcheck="true"></textarea></div>
+</div>
+</section></div>
     </main>
 
     <div class="relative z-50" id="interface-container"></div>
     <div class="relative z-50" id="nav-container"></div>
-    <script src="./assets/offline-preloader.js?v=b0c65772c7c6cb7f"></script>
+    <script src="./assets/offline-preloader.js?v=2bf3d91c0eef6b2b"></script>
     <script src="./assets/scorm.js"></script>
     <script src="./assets/base.bundle.local.js"></script>
 
 
 
-<script src="./book-design/responses.js?v=b0c65772c7c6cb7f" data-book-responses="true"></script></body></html>
+<script src="./book-design/responses.js?v=2bf3d91c0eef6b2b" data-book-responses="true"></script></body></html>

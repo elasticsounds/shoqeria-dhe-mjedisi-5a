@@ -1,97 +1,130 @@
-/* Activities start blank on every visit. Quiz grading remains in the reader runtime. */
+/* Saves activity answers in this browser (localStorage) and restores them when a page is opened again.
+ *
+ * Storage: one JSON object per page under "adt5a.responses.v1.<bucket>", where <bucket> is
+ *   - the nearest [data-response-page] value (answers shared between pages, e.g. the page 9 diary), else
+ *   - the control's data-response-section (sub-activities that reuse keys, e.g. page 24), else
+ *   - the page's <meta name="title-id">.
+ * Field key: data-response-key || data-activity-item || id || name. Radios are stored per group name.
+ * Not saved: quiz options (the runtime grades on selection, so a restored choice would show without feedback),
+ * file inputs (browsers do not allow restoring them), hidden/disabled controls.
+ * If storage is unavailable (private mode, quota), pages keep working; answers just are not kept.
+ */
 (function () {
-  if (window.__adt5aResetResponses) return;
-  window.__adt5aResetResponses = true;
+  if (window.__adt5aResponses) return;
+  window.__adt5aResponses = true;
 
-  var previousPage = null;
+  var PREFIX = 'adt5a.responses.v1.';
+  var SKIP = '[data-section-type="activity_quiz"], #simple-main';
+  var restored = new WeakSet();
 
-  function clearOldAnswers() {
-    var prefixes = ['adt5a.responses.', 'adt5a.drawing.', 'qz002_new2:'];
-    try {
-      for (var i = localStorage.length - 1; i >= 0; i--) {
-        var key = localStorage.key(i);
-        if (key && prefixes.some(function (prefix) { return key.indexOf(prefix) === 0; })) {
-          localStorage.removeItem(key);
-        }
-      }
-    } catch (_) {}
-  }
-
-  function pageIdentity(root) {
+  function pageId() {
     var meta = document.querySelector('meta[name="title-id"]');
-    var section = root.querySelector('[data-section-id],[data-id],[data-correct-answers]');
-    var sectionId = section && (
-      section.getAttribute('data-section-id') ||
-      section.getAttribute('data-id') ||
-      section.getAttribute('data-correct-answers')
-    );
-    return (meta && meta.content ? meta.content : '') + '|' + (sectionId || '');
+    return (meta && meta.content) || location.pathname.split('/').pop().replace(/\.html?$/, '');
   }
 
-  function clearActivity(root) {
-    root.querySelectorAll('input:not([type="hidden"]), textarea, select').forEach(function (control) {
-      control.setAttribute('autocomplete', 'off');
-      if (control.type === 'radio' || control.type === 'checkbox') {
-        control.checked = false;
-        control.removeAttribute('checked');
-      } else if (control.tagName === 'SELECT') {
-        control.selectedIndex = -1;
-      } else {
-        try { control.value = ''; } catch (_) {}
-      }
-    });
+  function bucketOf(el) {
+    var shared = el.closest('[data-response-page]');
+    if (shared) return shared.getAttribute('data-response-page');
+    if (el.getAttribute('data-response-section')) return el.getAttribute('data-response-section');
+    return pageId();
+  }
 
-    root.querySelectorAll('[role="radio"], [role="checkbox"], .activity-option').forEach(function (option) {
-      if (option.matches('[role="radio"], [role="checkbox"]') || option.hasAttribute('aria-checked')) {
-        option.setAttribute('aria-checked', 'false');
-      }
-      option.removeAttribute('aria-invalid');
-      option.classList.remove(
-        'selected-option', 'correct-option', 'incorrect-option', 'ring-2', 'ring-blue-400',
-        'bg-blue-50', 'bg-green-50', 'bg-red-50', 'border-green-500', 'border-red-500'
-      );
-      if (option.hasAttribute('data-mc-style-state')) {
-        option.style.borderColor = '';
-        option.style.outline = '';
-        option.style.outlineOffset = '';
-        option.style.backgroundColor = '';
-        option.removeAttribute('data-mc-style-state');
-      }
-      option.querySelectorAll('[data-mc-status-badge]').forEach(function (badge) { badge.remove(); });
-      var feedback = option.querySelector('.feedback-container');
-      if (feedback) {
-        feedback.classList.add('hidden');
-        var text = feedback.querySelector('.feedback-text');
-        if (text) {
-          text.textContent = '';
-          text.className = 'feedback-text';
-        }
-      }
-    });
-    root.querySelectorAll('[aria-pressed="true"]').forEach(function (button) {
-      button.setAttribute('aria-pressed', 'false');
+  function keyOf(el) {
+    if (el.type === 'radio') return el.name ? 'radio:' + el.name : null;
+    return el.getAttribute('data-response-key') || el.getAttribute('data-activity-item') || el.id || el.name || null;
+  }
+
+  function eligible(el) {
+    if (!el || !el.matches || !el.matches('input, textarea, select')) return false;
+    if (el.type === 'file' || el.type === 'hidden' || el.type === 'submit' || el.type === 'button' || el.disabled) return false;
+    if (el.closest(SKIP)) return false;
+    return !!el.closest('#content') && !!keyOf(el);
+  }
+
+  function read(bucket) {
+    try { return JSON.parse(localStorage.getItem(PREFIX + bucket) || '{}') || {}; } catch (_) { return {}; }
+  }
+
+  function write(bucket, data) {
+    try {
+      var empty = Object.keys(data).every(function (k) { return data[k] === '' || data[k] === false || data[k] == null; });
+      if (empty) localStorage.removeItem(PREFIX + bucket);
+      else localStorage.setItem(PREFIX + bucket, JSON.stringify(data));
+    } catch (_) { /* storage unavailable: keep working without saving */ }
+  }
+
+  function save(el) {
+    if (!eligible(el)) return;
+    var bucket = bucketOf(el), data = read(bucket), key = keyOf(el);
+    if (el.type === 'radio') { if (el.checked) data[key] = el.value; }
+    else if (el.type === 'checkbox') data[key] = el.checked;
+    else data[key] = el.value;
+    write(bucket, data);
+  }
+
+  function restore(el, force) {
+    if ((!force && restored.has(el)) || !eligible(el)) return;
+    restored.add(el);
+    var data = read(bucketOf(el)), key = keyOf(el);
+    if (!(key in data)) return;
+    var v = data[key];
+    if (el.type === 'radio') el.checked = (el.value === v);
+    else if (el.type === 'checkbox') el.checked = !!v;
+    else if (el.value !== v) el.value = v;
+    // let page scripts react to a restored answer (e.g. the page 37 crossword grid)
+    try { el.dispatchEvent(new CustomEvent('adt:response-restored', { bubbles: true })); } catch (_) {}
+  }
+
+  function restoreAll(force) {
+    document.querySelectorAll('#content input, #content textarea, #content select').forEach(function (el) { restore(el, force); });
+  }
+
+  // Page scripts: the reader's in-place page turn re-runs inline scripts but does not load external ones.
+  // A page can declare one with data-page-script="./path.js"; it is loaded once and then handles later page turns itself.
+  function loadPageScripts() {
+    document.querySelectorAll('main [data-page-script]').forEach(function (el) {
+      var src = el.getAttribute('data-page-script'); if (!src) return;
+      var abs = new URL(src, location.href).href.split('?')[0];
+      var loaded = Array.prototype.some.call(document.scripts, function (s) { return s.src && s.src.split('?')[0] === abs; });
+      if (loaded) return;
+      var tag = document.createElement('script'); tag.src = src; tag.setAttribute('data-book-page-script', ''); document.body.appendChild(tag);
     });
   }
 
-  function resetIfVisited(force) {
-    var root = document.querySelector('#content.book');
-    if (!root) return;
-    var id = pageIdentity(root);
-    if (force || id !== previousPage) {
-      clearActivity(root);
-      previousPage = id;
-    }
-  }
+  document.addEventListener('input', function (e) { save(e.target); }, true);
+  document.addEventListener('change', function (e) { save(e.target); }, true);
 
-  clearOldAnswers();
-  resetIfVisited(true);
-  document.addEventListener('adt:page-changed', function () { resetIfVisited(true); });
-  window.addEventListener('pageshow', function () { resetIfVisited(true); });
-
-  new MutationObserver(function () { resetIfVisited(false); }).observe(document.documentElement, {
-    subtree: true,
-    childList: true,
-    attributes: true,
-    attributeFilter: ['content', 'data-section-id', 'data-id']
+  restoreAll();
+  document.addEventListener('DOMContentLoaded', function () { restoreAll(); });
+  window.addEventListener('load', function () { restoreAll(); });
+  // After an in-place page turn, re-apply stored answers to every field (the reader may re-insert or rewrite fields), then load page scripts.
+  document.addEventListener('adt:page-changed', function () {
+    restoreAll(true); loadPageScripts();
+    setTimeout(function () { restoreAll(true); }, 60);
+    setTimeout(function () { restoreAll(true); }, 400);
   });
+  loadPageScripts();
+
+  // The reader runtime builds or re-renders parts of the page after load; restore any controls it adds.
+  new MutationObserver(function (mutations) {
+    mutations.forEach(function (m) {
+      m.addedNodes.forEach(function (n) {
+        if (n.nodeType !== 1) return;
+        if (n.matches('input, textarea, select')) restore(n);
+        else if (n.querySelectorAll) n.querySelectorAll('input, textarea, select').forEach(restore);
+      });
+    });
+  }).observe(document.documentElement, { childList: true, subtree: true });
+
+  // Small API for pages with custom activities (e.g. the page 14 drawing).
+  window.adtResponses = {
+    load: function (name) { try { return JSON.parse(localStorage.getItem(PREFIX + 'custom.' + name) || 'null'); } catch (_) { return null; } },
+    save: function (name, value) {
+      try {
+        if (value == null) localStorage.removeItem(PREFIX + 'custom.' + name);
+        else localStorage.setItem(PREFIX + 'custom.' + name, JSON.stringify(value));
+        return true;
+      } catch (_) { return false; }
+    }
+  };
 })();

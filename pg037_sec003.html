@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="sq"><head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Shoqëria dhe mjedisi</title><meta name="title-id" content="pg037_sec003"><meta name="page-section-id" content="61">
+<link href="./content/tailwind_output.css" rel="stylesheet"><link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet"><link href="./assets/fonts.css" rel="stylesheet"><link rel="stylesheet" href="./book-design/components.css?v=2bf3d91c0eef6b2b" data-book-style="true"><style>
+/* Page 37 · Provoje veten (split into one section per question). Shared practice components + page details. */
+#content.book.p37 .p37-found{display:flex;flex-wrap:wrap;align-items:center;gap:6px;margin:0 0 16px}
+#content.book.p37 .p37-found:empty{display:none}
+#content.book.p37 .p37-tile{display:flex;align-items:center;justify-content:center;min-width:44px;height:44px;padding:0 6px;border:2px solid var(--book-purple-ink);background:#e3d6ec;font:600 22px/1 var(--book-heading);color:var(--book-ink)}
+#content.book.p37 .p37-tile.is-empty{background:#fff;color:#8c7a99}
+#content.book.p37 .p37-found-note{flex-basis:100%;margin:4px 0 0;font:400 20px/1.5 var(--book-heading);color:#4a4550}
+</style></head>
+<body class="min-h-screen flex items-center justify-center"><main class="w-full">
+<div id="content" class="container opacity-0 book b-lesson prx p37" data-family="page37"><section data-section-type="other" data-section-id="pg037_sec003">
+<div class="b-page-rule is-practice" aria-hidden="true"></div>
+<div class="prx-step">
+ <p class="prx-instruction" id="p37-prompt-three"><span data-id="pg037_n0090">3.</span> <span data-id="pg037_n0091">Në kolonën me ngjyrë zbulove një fjalë.</span> <span data-id="pg037_n0092">Shkruaj për rëndësinë e asaj gjëje.</span></p>
+ <div class="p37-found" id="p37-found" aria-live="polite"></div>
+ <textarea id="rendesia" class="prx-field prx-lined" rows="4" aria-labelledby="p37-prompt-three" spellcheck="true"></textarea>
+</div>
+</section></div></main>
+<script>
+/* Shows the coloured-column word from the crossword (previous section), letter by letter as the student solved it. */
+(function(){
+  var box=document.getElementById('p37-found'); if(!box) return;
+  var KEY=[['BUKA','BUKË'],['TURSHI'],['QUMËSHTI'],['FLIJA'],['MISHI'],['KUZHINA','KUZHINË']], LET=['U','SH','Q','I','M','I'];
+  var DIG=['DH','GJ','LL','NJ','RR','SH','TH','XH','ZH'];
+  function units(s){s=(s||'').toUpperCase().replace(/[^A-ZÇË]/g,'');var o=[];for(var i=0;i<s.length;){var t=s.substr(i,2);if(DIG.indexOf(t)>=0){o.push(t);i+=2}else{o.push(s[i]);i++}}return o}
+  var saved={};try{saved=JSON.parse(localStorage.getItem('adt5a.responses.v1.pg037_sec002')||'{}')||{}}catch(_){}
+  var solved=0, html='';
+  for(var n=0;n<6;n++){var ok=KEY[n].indexOf(units(saved['fjala-'+(n+1)]).join(''))>=0;if(ok)solved++;
+    html+='<span class="p37-tile'+(ok?'':' is-empty')+'" aria-hidden="true">'+(ok?LET[n]:'?')+'</span>'}
+  html+='<p class="p37-found-note">'+(solved===6?'Fjala jote: USHQIMI':'Plotëso fjalëkryqin në faqen e mëparshme për ta zbuluar fjalën.')+'</p>';
+  box.innerHTML=html;
+})();
+</script>
+<div class="relative z-50" id="interface-container"></div><div class="relative z-50" id="nav-container"></div>
+<script src="./assets/offline-preloader.js?v=2bf3d91c0eef6b2b"></script><script src="./assets/scorm.js"></script><script src="./assets/base.bundle.local.js"></script><script src="./book-design/responses.js?v=2bf3d91c0eef6b2b" data-book-responses="true"></script></body></html>

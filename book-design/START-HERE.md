@@ -10,6 +10,6 @@ With Node.js installed, open a terminal in `book-design`, run `npm install`, the
 
 Run `node rebuild-cache.cjs --check` to check the embedded page/dictionary/style copies without writing anything. For HTML or dictionary changes without recompiling CSS, run `node rebuild-cache.cjs` to synchronize them.
 
-Activities start blank every time you visit a page. Answers, quiz selections, and page 14 drawings are not saved. The supplied narration mapping is empty and read-aloud is disabled.
+Answers are saved in the browser on the device (localStorage) and come back when a page is opened again: text boxes, notebooks, tables, star ratings, the page 10 butterfly and the page 14 drawing (including an uploaded picture). Page 9's notebook and its full-page diary share one answer. Quiz choices are not saved, so each quiz starts fresh with its feedback. The supplied narration mapping is empty and read-aloud is disabled.
 
 The report records two exercise ambiguities for teacher review and the limits of automated accessibility and LMS checks. Original inputs remain preserved outside this repaired copy.
