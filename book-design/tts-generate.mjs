@@ -18,6 +18,7 @@
  *   --force                regenerate even if a matching clip exists
  *   --bitrate 64k          MP3 bitrate (mono)
  *   --cache <dir>          WAV cache (default ~/.cache/adt-tts/<bundle folder name>)
+ *   --key-file <path>      key file outside the bundle (default ~/.config/adt-tts/gemini-key)
  *   --out <dir>            sample mode: write MP3s to this folder only (book audio and audios.json untouched)
  * Output: content/i18n/<lang>/audio/<id>.mp3 and audios.json (<id> → <id>.mp3).
  * Cache: ~/.cache/adt-tts/<bundle>/<signature>.wav (signature = text + model + voice + instructions + temperature),
@@ -101,8 +102,12 @@ console.log(`Book: ${entries.length} voiced entries (${O.lang}). To write now: $
 console.log(`Model ${O.model}, voice ${O.voice}${O.instructions ? ', with instructions' : ''}${O.temperature !== undefined ? `, temperature ${O.temperature}` : ''}. Estimated cost $${est.usdLow.toFixed(2)}–$${est.usdHigh.toFixed(2)} (studio formula; cached clips cost nothing).`)
 if (O.dry || !todo.length) { if (!todo.length) console.log('Nothing to do: every clip matches its text and settings.'); process.exit(0) }
 
-const KEY = process.env.GEMINI_API_KEY || process.env.GOOGLE_API_KEY
-if (!KEY) { console.error('Set GEMINI_API_KEY in this terminal first (it is never printed or saved).'); process.exit(2) }
+// Key: GEMINI_API_KEY (or GOOGLE_API_KEY), else a key file outside the bundle (--key-file, default ~/.config/adt-tts/gemini-key).
+// The key is only sent as the x-goog-api-key header; it is never printed or written anywhere.
+const keyFile = opt('key-file', path.join(os.homedir(), '.config', 'adt-tts', 'gemini-key'))
+if (path.resolve(keyFile).startsWith(ROOT + path.sep)) { console.error('Keep the key file outside the book folder so it is never committed or published.'); process.exit(2) }
+const KEY = (process.env.GEMINI_API_KEY || process.env.GOOGLE_API_KEY || (existsSync(keyFile) ? (await fs.readFile(keyFile, 'utf8')).trim() : '')).trim()
+if (!KEY) { console.error(`No key: set GEMINI_API_KEY in this terminal or create ${keyFile} (chmod 600). It is never printed or saved.`); process.exit(2) }
 const redact = (m) => String(m).replaceAll(KEY, '[redacted]').replace(/AIza[A-Za-z0-9_-]{10,}/g, '[redacted]').slice(0, 300)
 
 // ---------- audio helpers (from the studio provider) ----------
