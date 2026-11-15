@@ -1,0 +1,52 @@
+# PDF pages 101–102 — Burimet e fotografive (photo sources). Page 102 only continues this list, so it is included here.
+# The list is not read aloud (speech text empty) and has no easy-read version. URL line breaks from the PDF are joined.
+L = 'Burimet e fotografive'
+CSS = '''#content.book.p2 .p2-sources p{margin:0 0 18px;font:400 20px/1.6 var(--book-heading);color:var(--book-ink);overflow-wrap:anywhere;white-space:pre-line}
+'''
+S = ['https://sicred-distribution.com.al/product/19/',
+ 'https://zeri.info/kuriozitetet/239567/keta-jane-10-emrat-dhe-mbiemrat-me-te-shpeshte-ne-kosove/',
+ 'https://masht.rks-gov.net/uploads/2021/02/upper-final-albanian-web.pdf - MAShTI & KEC',
+ 'https://www.bing.com/images/search?view=detailV2&ccid=QX3PxdD%2f&id=07ABD80ADCEF8C64BD008A500C9759F75B30D2BC&thid',
+ 'https://www.bing.com/images/search?view=detailV2&ccid=cqN6BejL&id=13237803584B687B58C3FAFC79AEF63FEEA60D49&thid',
+ 'https://www.bing.com/images/search?view=detailV2&ccid=eAyjL6%2bw&id=908FAD172DE771D78215156CF130107D12560201&thid',
+ 'https://www.bing.com/images/search?view=detailV2&ccid=ZHVSeI0U&id=EBFEE967D681617FB44BD1C6EBB32DE0762A3E0B&thid',
+ 'https://www.bing.com/images/search?view=detailV2&ccid=1%2fZrmmR2&id=BE95FBA56F629E076AB60F4D478BAE22A70460DE&thid',
+ 'https://www.bing.com/images/search?view=detailV2&ccid=9YY4GoLL&id=EE25C8D662854505C48A7A92872B7D0A8B0B5437&thid',
+ 'https://www.bing.com/images/search?view=detailV2&ccid=AFiUiZgm&id=052A9840DCB3090AAAFBE0077CDC3219CF59A65E&thid',
+ 'https://www.bing.com/images/search?view=detailV2&ccid=bKU5lYK2&id=C066A0DB70602E82A2C5ACF4D6D85A0B5396BDAE&thid',
+ 'https://www.bing.com/images/search?view=detailV2&ccid=Goddg93F&id=02787679B284E41FCF081526BB38E9B956181B3F&thid',
+ 'https://www.bing.com/images/search?view=detailV2&ccid=7%2FeCOhex&id=66104317B862332357634DDE80A3FD908F6E37AD&thid',
+ 'https://www.bing.com/images/search?view=detailV2&ccid=h6rBtDmU&id=39C2E59227BD4B02D5083219AC811CEAB140AA91&thid',
+ 'https://www.bing.com/images/search?view=detailV2&ccid=uiaEieD6&id=AA88DDF37038C8D2989CEC0DC9C8B77CA4761267&thid',
+ 'https://www.bing.com/images/search?view=detailV2&ccid=xiFgosY0&id=9DEC27EB6F56DE8374CC6EAB8AAD85C64E19C80B&thid',
+ 'https://www.bing.com/images/search?view=detailV2&ccid=C201qZaz&id=5DBEEA752285BF6377D3720F3AF6CFFD1FBE5FE1&thid',
+ 'https://www.bing.com/images/search?view=detailV2&ccid=aErw3HZK&id=3EEDCFDA090F5EBFFFCF54E44E33031D60C9EDAC&thid',
+ 'https://www.bing.com/images/search?view=detailV2&ccid=y%2b1V%2fPAk&id=72F9FC690E456177EE299B0487B582978406A15E&thid',
+ 'https://www.bing.com/images/search?view=detailV2&ccid=KKn3x0sz&id=20758CBBF1174AFFC0F843387DE7D397381C0005&thid',
+ 'https://www.bing.com/images/search?view=detailV2&ccid=L2Sfa6Uu&id=07ABD80ADCEF8C64BD00FD1C7AE74F4F8DFDD7FF&thid',
+ 'https://www.bing.com/images/search?view=detailV2&ccid=9O4ZA6dA&id=4059895EB8A7022020CBB586B96DF8AA89F2D828&thid',
+ 'https://www.bing.com/images/search?view=detailV2&ccid=P2NrdMRe&id=5833085D5DF5F146ABD8C8C19E8B64456B8AA175&thid',
+ '“https://www.forumishqiptar.com/attachment.php?attachmentid=39602&stc=1&d=1077561565” attachment.php (373×291) (forumishqiptar.com)',
+ 'Bunguri Adem. Të dhëna të reja mbi neolitin dhe eneolitin në Kosovë / The New Data on the Neolithic and Eneolithic Civilisation of Kosovo. In: Iliria, vol. 33, 2007. pp. 51-106;',
+ 'Historia e Popullit Shqiptar - Shtëpia Botuese “TOENA” Tiranë, 2002.',
+ 'Noel Malcolm, Kosova, një histori e shkurtër, Botimet KOHA, 1998.',
+ 'https://www.pinterest.com/pin/340303315578311015/',
+ 'Deklarata Universale e të Drejtave të Njeriut, 10 dhjetor 1948, miratuar nga Asambleja e Përgjithshme e Kombeve të Bashkuara.',
+ 'Konventa mbi të Drejtat e Fëmijës (CRC) Raporti Fillestar dhe i Parë Periodik i Shteteve palë. Miratuar nga Asambleja e Përgjithëshme e OKB, 20 Nëntor 1989.',
+ 'Atdhe Mulla, https://www.tdh.ch/en/our-interventions/kosovo',
+ 'https://images.app.goo.gl/Mgh7HJgubS5iXfDT7',
+ 'https://images.app.goo.gl/if58VX8kPSEobpxZ9',
+ 'https://images.app.goo.gl/ZztQwQp4CpLGERCv8',
+ 'https://images.app.goo.gl/iPqNsnn1BfnsfFnZA',
+ 'https://askdata.rks-gov.net/sq/1fea1ec7-dc52-43dc-8d61-00dec3081665',
+ 'https://en.wikipedia.org/wiki/File:Migration_of_Early_Slavs.png',
+ 'https://www.reddit.com/r/history/comments/p6r51p/slavs_and_their_expansion_during_and_after_the/',
+ 'https://en.wikipedia.org/wiki/File:Le_si%C3%A8ge_de_Constantinople_(1453)_by_Jean_Le_Tavernier_after_1455.jpg',
+ 'https://wargameds.com/blogs/news/introduction-to-the-wds-napoleonic-battles-series-second-installment?srsltid=AfmBOoqtPBBQ1ZuXcV8K5lRWXVKab3pHD8hpSIBYOmirALwYgjBlMjOt',
+ 'https://demokracia.com/fakte-per-17-shkurtin-2008-qe-duhet-ti-dije-cdo-kosovar/',
+ 'https://www.radiokosovaelire.com/12-vjet-me-pare-me-17-shkurt-te-vitit-2008-kuvendi-i-republikes-shpalli-deklaraten-e-pavaresise-se-kosoves/',
+ 'https://gp-magazine.info/si-ndryshoi-popullsia-e-kosoves/',
+ 'https://gp-magazine.info/si-ndryshoi-popullsia-e-kosoves/']
+def block(lines): return T('\n'.join(lines), tag='p', speech='')[0]
+section(title(L), '<div class="p2-sources">' + block(S[:12]) + block(S[12:24]) + '</div>', lesson=L, css=CSS)
+section(rule(), '<div class="p2-sources">' + block(S[24:34]) + block(S[34:]) + '</div>', css=CSS)

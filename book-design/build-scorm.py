@@ -19,7 +19,7 @@ OUT = ROOT / 'dist' / 'Shoqeria-dhe-mjedisi-5A-SCORM.zip'
 
 RUNTIME_DIRS = ['assets', 'content', 'images', 'studio/assets', 'book-design/fonts', 'book-design/images']
 RUNTIME_FILES = ['index.html', 'cover.png', 'book-design/components.css', 'book-design/responses.js',
-                 'book-design/pg028.css', 'book-design/pg028.js']
+                 'book-design/pg028.css', 'book-design/pg028.js', 'book-design/wordsearch.js']
 SKIP_NAMES = {'.DS_Store', 'Thumbs.db'}
 
 def collect():

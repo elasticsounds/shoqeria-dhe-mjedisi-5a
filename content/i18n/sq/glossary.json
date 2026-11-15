@@ -1,4 +1,25 @@
 {
+  "Dardani": {
+    "word": "Dardani",
+    "definition": "Emri i Kosovës në kohën e Ilirisë.",
+    "variations": [
+      "Dardani",
+      "Dardane",
+      "Mbretëria Dardane"
+    ],
+    "emoji": "🗺️📜",
+    "id": "gl018"
+  },
+  "UNESCO": {
+    "word": "UNESCO",
+    "definition": "Organizatë ndërkombëtare që ndihmon në mbrojtjen e kulturës, arsimit dhe trashëgimisë.",
+    "variations": [
+      "UNESCO",
+      "UNESCO-ja"
+    ],
+    "emoji": "🌍🏛️",
+    "id": "gl114"
+  },
   "ajvar": {
     "word": "ajvar",
     "definition": "Përgatitje ushqimore që bëhet zakonisht nga specat e pjekur.",
@@ -170,27 +191,18 @@
     "emoji": "🥛🧀",
     "id": "gl016"
   },
-  "çerdhe": {
-    "word": "çerdhe",
-    "definition": "Vend ku qëndrojnë dhe kujdesen për fëmijët e vegjël gjatë ditës.",
-    "variations": [
-      "çerdhe",
-      "çerdheve",
-      "çerdhet"
-    ],
-    "emoji": "🧸👶",
-    "id": "gl017"
-  },
-  "Dardani": {
+  "dardani": {
     "word": "Dardani",
-    "definition": "Emri i Kosovës në kohën e Ilirisë.",
+    "definition": "Kosova në kohën e Ilirisë.",
     "variations": [
       "Dardani",
-      "Dardane",
-      "Mbretëria Dardane"
+      "Dardania",
+      "Dardaninë",
+      "Dardanisë",
+      "Dardane"
     ],
-    "emoji": "🗺️📜",
-    "id": "gl018"
+    "emoji": "🏛️🗺️",
+    "id": "gl132"
   },
   "dashuri": {
     "word": "dashuri",
@@ -201,17 +213,6 @@
     ],
     "emoji": "❤️🥰",
     "id": "gl019"
-  },
-  "dëshmi": {
-    "word": "dëshmi",
-    "definition": "Diçka që tregon ose vërteton se një ngjarje apo gjë ka ndodhur vërtet.",
-    "variations": [
-      "dëshmi",
-      "dëshmia",
-      "dëshmitë"
-    ],
-    "emoji": "🔎📖",
-    "id": "gl020"
   },
   "diskutim": {
     "word": "diskutim",
@@ -235,6 +236,17 @@
     ],
     "emoji": "🌍🌈",
     "id": "gl022"
+  },
+  "dëshmi": {
+    "word": "dëshmi",
+    "definition": "Diçka që tregon ose vërteton se një ngjarje apo gjë ka ndodhur vërtet.",
+    "variations": [
+      "dëshmi",
+      "dëshmia",
+      "dëshmitë"
+    ],
+    "emoji": "🔎📖",
+    "id": "gl020"
   },
   "etnik": {
     "word": "etnik",
@@ -280,17 +292,6 @@
     "emoji": "🚜🐓",
     "id": "gl026"
   },
-  "figurë": {
-    "word": "figurë",
-    "definition": "Pamja ose paraqitja e një personi; mund të jetë edhe person i njohur në histori.",
-    "variations": [
-      "figurë",
-      "figura",
-      "figurën"
-    ],
-    "emoji": "👤🖼️",
-    "id": "gl027"
-  },
   "figurinë": {
     "word": "figurinë",
     "definition": "Statujë ose model i vogël që paraqet një njeri, kafshë ose formë tjetër.",
@@ -301,6 +302,17 @@
     ],
     "emoji": "🗿🧍",
     "id": "gl028"
+  },
+  "figurë": {
+    "word": "figurë",
+    "definition": "Pamja ose paraqitja e një personi; mund të jetë edhe person i njohur në histori.",
+    "variations": [
+      "figurë",
+      "figura",
+      "figurën"
+    ],
+    "emoji": "👤🖼️",
+    "id": "gl027"
   },
   "fortesë": {
     "word": "fortesë",
@@ -335,18 +347,6 @@
     ],
     "emoji": "📰🎤",
     "id": "gl031"
-  },
-  "gërmim": {
-    "word": "gërmim",
-    "definition": "Punë kërkimi në tokë për të gjetur gjëra të vjetra ose të fshehura.",
-    "variations": [
-      "gërmim",
-      "gërmime",
-      "gërmimi",
-      "gërmimet"
-    ],
-    "emoji": "⛏️🪨",
-    "id": "gl032"
   },
   "gjeneratë": {
     "word": "gjeneratë",
@@ -391,6 +391,18 @@
     ],
     "emoji": "👶🗣️",
     "id": "gl036"
+  },
+  "gërmim": {
+    "word": "gërmim",
+    "definition": "Punë kërkimi në tokë për të gjetur gjëra të vjetra ose të fshehura.",
+    "variations": [
+      "gërmim",
+      "gërmime",
+      "gërmimi",
+      "gërmimet"
+    ],
+    "emoji": "⛏️🪨",
+    "id": "gl032"
   },
   "hajat": {
     "word": "hajat",
@@ -575,6 +587,17 @@
     "emoji": "🗼🪨",
     "id": "gl053"
   },
+  "kulturor": {
+    "word": "kulturor",
+    "definition": "Që lidhet me kulturën, traditat, artin dhe mënyrën e jetesës së një populli.",
+    "variations": [
+      "kulturor",
+      "kulturore",
+      "kulturore-historike"
+    ],
+    "emoji": "🎭📚",
+    "id": "gl055"
+  },
   "kulturë": {
     "word": "kulturë",
     "definition": "Mënyra e jetesës së një populli, me gjuhën, zakonet, veshjet, ushqimin dhe vlerat e tij.",
@@ -586,17 +609,6 @@
     ],
     "emoji": "🎭🌐",
     "id": "gl054"
-  },
-  "kulturor": {
-    "word": "kulturor",
-    "definition": "Që lidhet me kulturën, traditat, artin dhe mënyrën e jetesës së një populli.",
-    "variations": [
-      "kulturor",
-      "kulturore",
-      "kulturore-historike"
-    ],
-    "emoji": "🎭📚",
-    "id": "gl055"
   },
   "kuzhinë": {
     "word": "kuzhinë",
@@ -738,6 +750,18 @@
     "emoji": "🏛️🖼️",
     "id": "gl068"
   },
+  "nato": {
+    "word": "NATO",
+    "definition": "Organizata e Traktatit Atlantik të Veriut.",
+    "variations": [
+      "NATO",
+      "NATO-s",
+      "NATO-ja",
+      "NATO-n"
+    ],
+    "emoji": "🌍🛡️",
+    "id": "gl133"
+  },
   "ndryshim": {
     "word": "ndryshim",
     "definition": "Gjendje kur diçka nuk mbetet më si më parë, por bëhet ndryshe.",
@@ -813,39 +837,6 @@
     "emoji": "👨🏛️",
     "id": "gl075"
   },
-  "përgjegjësi": {
-    "word": "përgjegjësi",
-    "definition": "Detyrë për t’u kujdesur për veprimet e tua dhe për t’i kryer gjërat si duhet.",
-    "variations": [
-      "përgjegjësi",
-      "përgjegjësia",
-      "përgjegjësinë"
-    ],
-    "emoji": "✅🧠",
-    "id": "gl076"
-  },
-  "përkushtim": {
-    "word": "përkushtim",
-    "definition": "Punë e bërë me shumë kujdes, seriozitet dhe dëshirë.",
-    "variations": [
-      "përkushtim",
-      "përkushtimi"
-    ],
-    "emoji": "🎯💪",
-    "id": "gl077"
-  },
-  "përmendore": {
-    "word": "përmendore",
-    "definition": "Vepër e ngritur për të kujtuar një person ose një ngjarje të rëndësishme.",
-    "variations": [
-      "përmendore",
-      "përmendorja",
-      "përmendoreve",
-      "përmendoret"
-    ],
-    "emoji": "🗽🕯️",
-    "id": "gl078"
-  },
   "personalitet": {
     "word": "personalitet",
     "definition": "Mënyra si mendon, sillet dhe paraqitet një njeri.",
@@ -856,18 +847,6 @@
     ],
     "emoji": "🙂🌟",
     "id": "gl079"
-  },
-  "përvojë": {
-    "word": "përvojë",
-    "definition": "Njohuri që fitohen duke jetuar, mësuar ose provuar gjëra të ndryshme.",
-    "variations": [
-      "përvojë",
-      "përvoja",
-      "përvojën",
-      "përvoja"
-    ],
-    "emoji": "📘🧭",
-    "id": "gl080"
   },
   "plis": {
     "word": "plis",
@@ -913,6 +892,51 @@
     ],
     "emoji": "🔨🏭",
     "id": "gl084"
+  },
+  "përgjegjësi": {
+    "word": "përgjegjësi",
+    "definition": "Detyrë për t’u kujdesur për veprimet e tua dhe për t’i kryer gjërat si duhet.",
+    "variations": [
+      "përgjegjësi",
+      "përgjegjësia",
+      "përgjegjësinë"
+    ],
+    "emoji": "✅🧠",
+    "id": "gl076"
+  },
+  "përkushtim": {
+    "word": "përkushtim",
+    "definition": "Punë e bërë me shumë kujdes, seriozitet dhe dëshirë.",
+    "variations": [
+      "përkushtim",
+      "përkushtimi"
+    ],
+    "emoji": "🎯💪",
+    "id": "gl077"
+  },
+  "përmendore": {
+    "word": "përmendore",
+    "definition": "Vepër e ngritur për të kujtuar një person ose një ngjarje të rëndësishme.",
+    "variations": [
+      "përmendore",
+      "përmendorja",
+      "përmendoreve",
+      "përmendoret"
+    ],
+    "emoji": "🗽🕯️",
+    "id": "gl078"
+  },
+  "përvojë": {
+    "word": "përvojë",
+    "definition": "Njohuri që fitohen duke jetuar, mësuar ose provuar gjëra të ndryshme.",
+    "variations": [
+      "përvojë",
+      "përvoja",
+      "përvojën",
+      "përvoja"
+    ],
+    "emoji": "📘🧭",
+    "id": "gl080"
   },
   "qerpiç": {
     "word": "qerpiç",
@@ -1021,6 +1045,18 @@
     ],
     "emoji": "👥🌍",
     "id": "gl094"
+  },
+  "shoqëri demokratike": {
+    "word": "shoqëri demokratike",
+    "definition": "Shoqëri ku të gjithë njerëzit janë të lirë dhe kanë të drejta të barabarta.",
+    "variations": [
+      "shoqëri demokratike",
+      "shoqëria demokratike",
+      "shoqërinë demokratike",
+      "shoqërisë demokratike"
+    ],
+    "emoji": "🗳️🕊️",
+    "id": "gl134"
   },
   "simbol": {
     "word": "simbol",
@@ -1223,15 +1259,16 @@
     "emoji": "💧🚰",
     "id": "gl113"
   },
-  "UNESCO": {
-    "word": "UNESCO",
-    "definition": "Organizatë ndërkombëtare që ndihmon në mbrojtjen e kulturës, arsimit dhe trashëgimisë.",
+  "universale": {
+    "word": "universale",
+    "definition": "Që i përket gjithë botës.",
     "variations": [
-      "UNESCO",
-      "UNESCO-ja"
+      "universale",
+      "universal",
+      "universalë"
     ],
-    "emoji": "🌍🏛️",
-    "id": "gl114"
+    "emoji": "🌐✨",
+    "id": "gl136"
   },
   "urbanizim": {
     "word": "urbanizim",
@@ -1253,6 +1290,18 @@
     ],
     "emoji": "🥘🏡",
     "id": "gl116"
+  },
+  "uçk": {
+    "word": "UÇK",
+    "definition": "Ushtria Çlirimtare e Kosovës.",
+    "variations": [
+      "UÇK",
+      "UÇK-ja",
+      "UÇK-së",
+      "UÇK-në"
+    ],
+    "emoji": "🎖️🇽🇰",
+    "id": "gl135"
   },
   "vendbanim": {
     "word": "vendbanim",
@@ -1417,5 +1466,16 @@
     ],
     "emoji": "💻⚙️📡",
     "id": "gl131"
+  },
+  "çerdhe": {
+    "word": "çerdhe",
+    "definition": "Vend ku qëndrojnë dhe kujdesen për fëmijët e vegjël gjatë ditës.",
+    "variations": [
+      "çerdhe",
+      "çerdheve",
+      "çerdhet"
+    ],
+    "emoji": "🧸👶",
+    "id": "gl017"
   }
 }

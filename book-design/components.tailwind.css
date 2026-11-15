@@ -303,9 +303,9 @@ body:has(#content.book[data-family=quiz]){background:#f3ecf8}
 #content.book.prx .prx-step{margin:0 0 32px}
 #content.book.prx .prx-instruction{margin:0 0 14px;font:400 22px/1.5 var(--book-heading);color:var(--book-ink)}
 #content.book.prx .prx-fields{display:grid;gap:12px}
-#content.book.prx :is(input,textarea).prx-field{display:block;width:100%;max-width:100%;min-height:52px;margin:0;padding:10px 14px;border:2px solid #6d6472;border-radius:10px;background:#fff;color:var(--book-ink);font:400 20px/1.5 var(--book-heading);box-shadow:none}
-#content.book.prx textarea.prx-field{min-height:96px;resize:vertical}
-#content.book.prx :is(input,textarea).prx-field:focus-visible{outline:3px solid #075a70;outline-offset:2px;border-color:#075a70}
+#content.book:is(.prx,.b-lesson) :is(input,textarea).prx-field{display:block;width:100%;max-width:100%;min-height:52px;margin:0;padding:10px 14px;border:2px solid #6d6472;border-radius:10px;background:#fff;color:var(--book-ink);font:400 20px/1.5 var(--book-heading);box-shadow:none}
+#content.book:is(.prx,.b-lesson) textarea.prx-field{min-height:96px;resize:vertical}
+#content.book:is(.prx,.b-lesson) :is(input,textarea).prx-field:focus-visible{outline:3px solid #075a70;outline-offset:2px;border-color:#075a70}
 /* One answer box per question where the PDF printed several ruled lines: ruled inside, lines scroll with the text, grows as you type.
    Use on any textarea: class="prx-lined" (or "b-lined"), rows="4". */
 #content.book:is(.prx,.b-lesson) textarea:is(.prx-lined,.b-lined){display:block;width:100%;max-width:100%;margin:0;border:2px solid #6d6472;border-radius:10px;box-shadow:none;color:var(--book-ink);font-family:var(--book-heading);resize:vertical;--ln:40px;min-height:calc(var(--ln)*4 + 20px);padding:10px 14px;line-height:var(--ln);background:linear-gradient(transparent calc(var(--ln) - 2px),#d9d4de calc(var(--ln) - 2px),#d9d4de var(--ln)) 0 10px/100% var(--ln) repeat local #fff;field-sizing:content;font-size:20px}

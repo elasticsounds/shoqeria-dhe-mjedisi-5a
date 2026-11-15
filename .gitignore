@@ -1,3 +1,7 @@
 
 # built packages (SCORM zip)
 dist/
+
+# source PDF (144 MB, over GitHub's 100 MB file limit)
+*.pdf
+.DS_Store

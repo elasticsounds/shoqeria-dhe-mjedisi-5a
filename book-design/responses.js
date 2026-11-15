@@ -79,6 +79,43 @@
     document.querySelectorAll('#content input, #content textarea, #content select').forEach(function (el) { restore(el, force); });
   }
 
+  // Reader activities (multiple choice, multi-select, fill-in-the-blank, open-ended; pages 87–99). The reader only enables its Submit button for answers it has seen being given, and it
+  // unticks checkboxes when it sets a multi-select up. So once the reader has set the activity up (it puts a role on the
+  // options or the section), put the stored answers back and tell it about them.
+  var CHOICE = '#content section[data-section-type="activity_multiple_choice"], #content section[data-section-type="activity_multi_select"]';
+  var BLANKS = '#content section[data-section-type="activity_fill_in_the_blank"][role], #content section[data-section-type="activity_open_ended_answer"][role]';
+  function syncChoices() {
+    document.querySelectorAll(CHOICE).forEach(function (sec) {
+      sec.querySelectorAll('input[type="radio"], input[type="checkbox"]').forEach(function (el) {
+        var label = el.closest('label'); if (!label || !/^(radio|checkbox)$/.test(label.getAttribute('role') || '')) return;
+        if (!sec.__adtSynced) restore(el, true);
+        if (el.checked && label.getAttribute('aria-checked') !== 'true') el.dispatchEvent(new Event('change', { bubbles: true }));
+        el.__adtReady = true;
+      });
+      if (sec.querySelector('label[role]')) sec.__adtSynced = true;
+    });
+    // true/false tables: the reader listens for the radios' change event
+    document.querySelectorAll('#content section[data-section-type="activity_true_false"][role]').forEach(function (sec) {
+      if (sec.__adtSynced) return; sec.__adtSynced = true;
+      sec.querySelectorAll('input[type="radio"]').forEach(function (el) {
+        restore(el, true); if (el.checked) el.dispatchEvent(new Event('change', { bubbles: true }));
+      });
+    });
+    // typed answers: an input event makes the reader notice the restored text. Its "became right/wrong" sound is avoided by
+    // telling it the answer already had that state.
+    document.querySelectorAll(BLANKS).forEach(function (sec) {
+      if (sec.__adtSynced) return; sec.__adtSynced = true;
+      sec.querySelectorAll('input[type="text"], textarea').forEach(function (el) {
+        if (!el.value.trim()) return;
+        var key = (window.correctAnswers || {})[el.getAttribute('data-activity-item')], v = el.value.trim().toLowerCase();
+        var ok = key == null || key === '' || String(key).split('|').some(function (k) { return k.trim().toLowerCase() === v; });
+        el.dataset.wasValid = ok ? 'true' : 'false';
+        el.dispatchEvent(new Event('input', { bubbles: true }));
+      });
+    });
+  }
+  function syncChoicesSoon() { [200, 700, 1500, 3000].forEach(function (ms) { setTimeout(syncChoices, ms); }); }
+
   // Page scripts: the reader's in-place page turn re-runs inline scripts but does not load external ones.
   // A page can declare one with data-page-script="./path.js"; it is loaded once and then handles later page turns itself.
   function loadPageScripts() {
@@ -93,15 +130,24 @@
 
   document.addEventListener('input', function (e) { save(e.target); }, true);
   document.addEventListener('change', function (e) { save(e.target); }, true);
+  // In the reader's choice activities the reader ticks the option itself, so the browser often fires no change event
+  // (always for a multi-select, and for a radio when its label is clicked). Save the choices after each click or key press.
+  ['click', 'keyup'].forEach(function (type) {
+    document.addEventListener(type, function (e) {
+      var sec = e.target.closest && e.target.closest('section[data-section-type="activity_multi_select"], section[data-section-type="activity_multiple_choice"]'); if (!sec) return;
+      setTimeout(function () { sec.querySelectorAll('input[type="checkbox"], input[type="radio"]').forEach(save); }, 0);
+    }, true);
+  });
 
   restoreAll();
   document.addEventListener('DOMContentLoaded', function () { restoreAll(); });
-  window.addEventListener('load', function () { restoreAll(); });
+  window.addEventListener('load', function () { restoreAll(); syncChoicesSoon(); });
   // After an in-place page turn, re-apply stored answers to every field (the reader may re-insert or rewrite fields), then load page scripts.
   document.addEventListener('adt:page-changed', function () {
     restoreAll(true); loadPageScripts();
     setTimeout(function () { restoreAll(true); }, 60);
     setTimeout(function () { restoreAll(true); }, 400);
+    syncChoicesSoon();
   });
   loadPageScripts();
 

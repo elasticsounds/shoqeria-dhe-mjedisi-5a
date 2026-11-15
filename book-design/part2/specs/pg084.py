@@ -1,0 +1,33 @@
+# PDF page 84 — lesson start: “Beteja e Kosovës”.
+L = '“Beteja e Kosovës”'
+section(title(L), keywords('princ, fisnik, varësi, osman.'),
+  panel('thought', 'Shpreh mendimin tënd',
+    para(('Fotografitë e mëposhtme tregojnë pamje nga luftëra të ndryshme të zhvilluara përgjatë shekujve.',
+          'Fotografitë më poshtë tregojnë luftëra të ndryshme.\nKëto luftëra janë bërë në shekuj të ndryshëm.'),
+         ('Në to mund të vëreni dallime në llojet e armëve dhe në veshjet që kanë përdorur ushtarët gjatë luftimeve.',
+          'Shikoni armët dhe veshjet e ushtarëve.\nAto janë të ndryshme.')),
+    items('Tregoni se çfarë ndryshimesh vëreni.',
+          ('Cila nga dy fotot e mëposhtme mendoni se pasqyron Betejën e Kosovës?',
+           'Cila nga dy fotot më poshtë tregon Betejën e Kosovës?'))),
+  gallery(('pg084_im001.png', 'Pikturë e një beteje të vjetër: luftëtarë me shpata, shtiza dhe mburoja luftojnë mbi kuaj dhe në këmbë.', None),
+          ('pg084_im002.png', 'Pikturë e një beteje më të re: ushtarë me uniforma blu dhe kapele të larta qëllojnë me topa.', None), cols=2),
+  lesson=L, stype='text_and_images')
+section(rule(), text(
+  para(('Zgjerimi i pushtimeve osmane në Ballkan nga gjysma e dytë e shekullit XIV, dobësoi shumë Perandorinë e Serbisë.',
+        'Në gjysmën e dytë të shekullit XIV, osmanët pushtuan shumë toka në Ballkan.\nKjo e dobësoi shumë Perandorinë e Serbisë.'),
+       ('Pas vdekjes së Dushanit në vitin 1355 dhe shpërbërjes së Perandorisë Serbe në vitin 1371, pjesa më e madhe e Kosovës mbeti nën sundimin serb.',
+        'Dushani vdiq në vitin 1355.\nPerandoria Serbe u shpërbë në vitin 1371.\nPas kësaj, pjesa më e madhe e Kosovës mbeti nën sundimin serb.'),
+       ('Beteja e Kosovës e vitit 1389 ishte një përpjekje kolektive për ta penguar vendosjen e sundimit osman në Ballkan.',
+        'Beteja e Kosovës u bë në vitin 1389.\nNë këtë betejë, popujt u bashkuan për ta ndalur sundimin osman në Ballkan.')),
+  para(('Beteja e Kosovës u zhvillua më 15 qershor të vitit 1389 në afërsi të Prishtinës.',
+        'Beteja e Kosovës u bë më 15 qershor 1389, afër Prishtinës.'),
+       ('Kjo ishte një betejë ndërmjet ushtrisë osmane, udhëhequr nga Sulltan Murati I nga njëra anë, si dhe forcave ushtarake të popujve të krishterë të Ballkanit, të drejtuara nga princ Llazari, Cari i Serbisë nga ana tjetër.',
+        'Në njërën anë ishte ushtria osmane.\nAtë e udhëhiqte Sulltan Murati I.\nNë anën tjetër ishin ushtritë e popujve të krishterë të Ballkanit.\nAto i drejtonte princ Llazari, Cari i Serbisë.'),
+       ('Kjo betejë është shumë e rëndësishme për historinë e serbëve, shqiptarëve, boshnjakëve dhe disa popujve të tjerë të Ballkanit.',
+        'Kjo betejë është shumë e rëndësishme për historinë e serbëve, shqiptarëve, boshnjakëve dhe popujve të tjerë të Ballkanit.'),
+       ('Osmanët vazhduan të luftonin për rreth 100 vjet të tjera për t’i mposhtur popujt që nuk donin të dorëzoheshin.',
+        'Osmanët luftuan edhe rreth 100 vjet të tjera.\nAta donin t’i mposhtnin popujt që nuk dorëzoheshin.')),
+  para(('Forcat e popujve ballkanikë pësuan humbje të rëndë dhe u dobësuan shumë nga kjo luftë.',
+        'Ushtritë e popujve të Ballkanit humbën rëndë.\nAto u dobësuan shumë nga kjo luftë.'),
+       ('Kjo ia hapi rrugën Perandorisë Osmane për të pushtuar më pas të gjitha vendet e Ballkanit.',
+        'Pas kësaj, Perandoria Osmane e pati më të lehtë t’i pushtonte të gjitha vendet e Ballkanit.'))))
