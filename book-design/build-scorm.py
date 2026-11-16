@@ -3,6 +3,7 @@
 
   python3 book-design/build-scorm.py            -> dist/Shoqeria-dhe-mjedisi-5A-SCORM.zip
   python3 book-design/build-scorm.py --list     -> print what would be packaged
+  python3 book-design/build-scorm.py --activities -> only refresh the activity list inside assets/scorm.js
 
 Included: every page in content/pages.json + index.html, cover.png, assets/, content/ (texts, audio,
 navigation), images/, studio/assets/ (images used by pages) and the runtime part of book-design/
@@ -19,7 +20,7 @@ OUT = ROOT / 'dist' / 'Shoqeria-dhe-mjedisi-5A-SCORM.zip'
 
 RUNTIME_DIRS = ['assets', 'content', 'images', 'studio/assets', 'book-design/fonts', 'book-design/images']
 RUNTIME_FILES = ['index.html', 'cover.png', 'book-design/components.css', 'book-design/responses.js',
-                 'book-design/pg028.css', 'book-design/pg028.js', 'book-design/wordsearch.js']
+                 'book-design/pg028.css', 'book-design/pg028.js', 'book-design/wordsearch.js', 'book-design/tracking.js']
 SKIP_NAMES = {'.DS_Store', 'Thumbs.db'}
 
 def collect():
@@ -34,6 +35,38 @@ def collect():
     if missing: sys.exit(f'Missing files: {missing[:10]}')
     return sorted(files)
 
+def activities():
+    """The activity list embedded in assets/scorm.js: one entry per activity page, in reading order.
+    n = number of checked items (0 for open-ended)."""
+    out = []
+    for p in json.loads((ROOT / 'content/pages.json').read_text()):
+        html = (ROOT / p['href']).read_text()
+        m = re.search(r'<section[^>]*data-section-type="activity_([a-z_]+)"[^>]*>', html)
+        if not m: continue
+        t, tag, n = m.group(1), m.group(0), 0
+        if t == 'quiz': n = 1
+        elif t == 'fill_in_the_blank':
+            k = re.search(r'window\.correctAnswers = (\{.*?\});', html)
+            n = sum(1 for v in json.loads(k.group(1)).values() if str(v).replace('|', '')) if k else 0
+        elif t == 'true_false':
+            k = re.search(r'window\.correctAnswers = (\{.*?\});', html); n = len(json.loads(k.group(1))) if k else 0
+        elif t == 'multiple_choice': n = len(set(re.findall(r'<input type="radio"[^>]*name="([^"]+)"', html)))
+        elif t == 'multi_select':
+            k = re.search(r'data-correct-answers="([^"]+)"', tag); n = sum(json.loads(k.group(1).replace('&quot;', '"')).values()) if k else 0
+        elif t == 'custom':
+            k = re.search(r'data-words="([^"]+)"', html); n = len(k.group(1).split(',')) if k else 1
+        out.append({'id': p['section_id'], 't': t, 'g': 0 if t == 'open_ended_answer' else 1, 'n': n})
+    return out
+
+def embed_activities():
+    acts = activities(); last = json.loads((ROOT / 'content/pages.json').read_text())[-1]['section_id']
+    f = ROOT / 'assets/scorm.js'; s = f.read_text()
+    s, a = re.subn(r'/\*ADT-ACTIVITIES\*/.*?/\*END-ADT-ACTIVITIES\*/', lambda _: '/*ADT-ACTIVITIES*/' + json.dumps(acts, separators=(',', ':')) + '/*END-ADT-ACTIVITIES*/', s, flags=re.S)
+    s, b = re.subn(r'/\*ADT-LAST-PAGE\*/.*?/\*END-ADT-LAST-PAGE\*/', lambda _: '/*ADT-LAST-PAGE*/' + json.dumps(last) + '/*END-ADT-LAST-PAGE*/', s, flags=re.S)
+    if a != 1 or b != 1: sys.exit('assets/scorm.js: activity markers not found')
+    f.write_text(s)
+    return acts
+
 def write_manifest(files):
     m = (ROOT / 'imsmanifest.xml').read_text()
     start = m.index('<resource ')
@@ -47,6 +80,9 @@ def write_manifest(files):
     return m
 
 def main():
+    acts = embed_activities()
+    print(f'assets/scorm.js: {len(acts)} activities ({sum(1 for a in acts if a["g"])} checked, {sum(a["n"] for a in acts)} checked items)')
+    if '--activities' in sys.argv: return
     files = collect()
     if '--list' in sys.argv:
         print('\n'.join(files)); print(len(files), 'files'); return

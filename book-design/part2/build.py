@@ -102,6 +102,9 @@ def section(*blocks, lesson=None, practice=False, stype='other', css='', answers
     """Start a new reader section made of the given blocks (strings)."""
     if lesson: P.lesson = lesson
     body = '\n'.join(b for b in blocks if b); keys, mc, ms, opn = P.keys, P.mc, P.ms, P.open; P.keys, P.mc, P.ms, P.open = {}, {}, {}, False
+    # every section with a written-answer field is at least an open-ended activity, so it has the reader's Submit button
+    # and is tracked (SCORM-TRACKING-SPEC.md); custom and keyed activities keep their own type
+    if not (keys or mc or ms or answers) and not stype.startswith('activity_') and re.search(r'<textarea|<input [^>]*type="text"', body): opn = True
     assert sum(map(bool, (keys, mc, ms))) <= 1, 'one reader activity per section: split typed answers, multiple choice and multi-select into separate sections'
     if opn and not (keys or mc or ms): stype = 'activity_open_ended_answer'; css += ACTIVITY_CSS   # written answers: Submit accepts any real text
     if keys or (opn and not (mc or ms)):

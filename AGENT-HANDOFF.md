@@ -236,3 +236,29 @@ holds one kind only. Helpers in `book-design/part2/build.py`:
   (pp. 87, 89) became "write the words" boxes.
 - Not done: narration (TTS) for pages 51–101 and for the new activity wording; quizzes for part 2; boxes for
   "Shpreh mendimin tënd" prompts; p. 67 logo-naming task has no checking.
+
+## 6. Activity tracking and SCORM reporting (added 2026-11-16)
+
+Implements SCORM-TRACKING-SPEC.md for this book as the stop-gap its section 4 describes (the reader itself is unchanged).
+
+- **Submit everywhere:** every page with a written-answer box is at least `activity_open_ended_answer` (109 pages), so it
+  has "Dërgo" and neutral "Përgjigjet e tua u ruajtën" feedback. Part 2: automatic in `build.py` `section()`. Pages 9–50:
+  the section type was changed in the HTML. Not activities (no Submit, not tracked): the page 37 crossword, the page 28
+  word search, and pages with only radios/checkboxes (pp. 11, 45 sec 2, 66 sec 3).
+- **`book-design/tracking.js`** (loaded by `responses.js`): watches the reader's Submit button and quiz selections, reads the
+  verdict the reader drew, dispatches `adt:activity-submitted`, keeps `adt5a.progress.v1` (attempts, completion, score per
+  activity) and dispatches `adt:progress-updated`. `window.adtProgress.get()`.
+- **`assets/scorm.js`** (hand-maintained now): objectives per activity, one interaction per checked item per attempt, a
+  neutral interaction per open-ended submit (no answer text), overall score = checked items right / all checked items,
+  status `completed` when every activity was submitted and the last page reached, compact `cmi.suspend_data`, session time.
+  Its activity list is rewritten by `python3 book-design/build-scorm.py` (or `--activities`) — run it after adding or
+  changing activity pages.
+- Defaults taken where the spec had open questions (owner has not confirmed): score definition as above; open-ended text is
+  not sent; a quiz selection counts as an attempt; local progress is only trusted for the same `cmi.core.student_id`.
+- Tested against a mock SCORM API in a browser, **not in a real LMS**.
+
+## 7. Password on the web version (added 2026-11-17)
+
+`book-design/responses.js` starts with a password gate shown on hosted copies of the book (not on localhost/file://, and
+not inside an LMS where a SCORM API is present). Only a salted SHA-256 hash is stored; the comment there says how to
+change it. It is a courtesy lock: the site is static, so files can still be fetched directly by address.

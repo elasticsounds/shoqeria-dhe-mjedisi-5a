@@ -111,6 +111,7 @@
       }
       function validate() {
         var n = Object.keys(found).length, all = n === words.length;
+        if (section) section.__adtItems = words.map(function (w) { return { itemId: w, response: found[w] ? w : '', result: found[w] ? 'correct' : 'empty' }; });   // read by tracking.js
         toast(all, all ? 'Urime! I gjete të gjitha fjalët.' : n + ' nga ' + words.length + ' fjalë të gjetura. Gjej edhe të tjerat.');
         return all;
       }

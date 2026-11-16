@@ -9,6 +9,60 @@
  * file inputs (browsers do not allow restoring them), hidden/disabled controls.
  * If storage is unavailable (private mode, quota), pages keep working; answers just are not kept.
  */
+/* Password gate for the web version (first block below).
+ * This is a courtesy lock, not security: the site is static, so anyone who knows a file's address or reads the page
+ * source can still fetch the content. It keeps casual visitors out. The password is not stored here, only a salted
+ * SHA-256 hash; to change it, replace HASH with:  printf 'shoqeria-dhe-mjedisi-5a:<new password>' | shasum -a 256
+ * Not shown inside an LMS (SCORM), where the LMS signs pupils in, nor on a local preview (localhost, file://).
+ */
+(function () {
+  var HASH = '1420a08137de43e86e3f6e44cf84fe3c88be021ed95804b05d47ca83b44ab994', SALT = 'shoqeria-dhe-mjedisi-5a:', KEY = 'adt5a.gate.v1';
+  if (window.__adt5aGate) return; window.__adt5aGate = true;
+  if (!/^https?:$/.test(location.protocol) || /^(localhost|127\.0\.0\.1|\[::1\])$/.test(location.hostname) || /\.(localhost|test)$/.test(location.hostname)) return;
+  try { for (var w = window, i = 0; i < 7; i++) { if (w.API) return; if (!w.parent || w.parent === w) break; w = w.parent; } } catch (_) {}
+  try { if (localStorage.getItem(KEY) === HASH) return; } catch (_) {}
+
+  var style = document.createElement('style');
+  style.textContent = 'html.adt-locked body{overflow:hidden!important}html.adt-locked body>*:not(.adt-gate){display:none!important}' +
+    '.adt-gate{position:fixed;inset:0;z-index:2147483000;display:flex;align-items:center;justify-content:center;padding:16px;background:#f3ecf8;font-family:BookPoppins,Poppins,Arial,sans-serif;color:#231f20}' +
+    '.adt-gate form{width:min(100%,460px);padding:28px;border:2px solid #794282;border-radius:20px;background:#fff;box-shadow:0 10px 30px rgba(0,0,0,.12)}' +
+    '.adt-gate h1{margin:0 0 8px;font:700 26px/1.3 BookPoppins,Poppins,Arial,sans-serif;color:#794282}' +
+    '.adt-gate p{margin:0 0 16px;font:400 20px/1.5 BookPoppins,Poppins,Arial,sans-serif}' +
+    '.adt-gate label{display:block;margin:0 0 6px;font:600 20px/1.4 BookPoppins,Poppins,Arial,sans-serif}' +
+    '.adt-gate input{display:block;width:100%;box-sizing:border-box;min-height:52px;padding:8px 14px;border:2px solid #5b5b5b;border-radius:12px;background:#fff;color:#231f20;font:400 20px/1.4 BookPoppins,Poppins,Arial,sans-serif}' +
+    '.adt-gate input:focus-visible,.adt-gate button:focus-visible{outline:3px solid #075a70;outline-offset:2px}' +
+    '.adt-gate button{margin:16px 0 0;min-height:52px;padding:10px 28px;border:0;border-radius:999px;background:#794282;color:#fff;font:600 20px/1.3 BookPoppins,Poppins,Arial,sans-serif;cursor:pointer}' +
+    '.adt-gate .adt-gate-error{min-height:30px;margin:10px 0 0;font-weight:600;color:#a3231c}';
+  document.head.appendChild(style);
+  document.documentElement.classList.add('adt-locked');
+
+  var gate = document.createElement('div'); gate.className = 'adt-gate';
+  gate.innerHTML = '<form role="dialog" aria-modal="true" aria-labelledby="adt-gate-title" novalidate>' +
+    '<h1 id="adt-gate-title">Shoqëria dhe mjedisi</h1><p>Ky libër është i mbrojtur me fjalëkalim.</p>' +
+    '<label for="adt-gate-pw">Fjalëkalimi</label><input id="adt-gate-pw" type="password" autocomplete="current-password" aria-describedby="adt-gate-error" required>' +
+    '<button type="submit">Hyr</button><p class="adt-gate-error" id="adt-gate-error" role="alert"></p></form>';
+  document.body.appendChild(gate);
+  var input = gate.querySelector('input'), error = gate.querySelector('.adt-gate-error');
+  setTimeout(function () { input.focus(); }, 50);
+
+  function digest(text) {
+    return crypto.subtle.digest('SHA-256', new TextEncoder().encode(text)).then(function (buf) {
+      return Array.prototype.map.call(new Uint8Array(buf), function (b) { return (b < 16 ? '0' : '') + b.toString(16); }).join('');
+    });
+  }
+  gate.querySelector('form').addEventListener('submit', function (e) {
+    e.preventDefault(); error.textContent = '';
+    if (!window.crypto || !crypto.subtle) { error.textContent = 'Ky shfletues nuk e hap dot librin. Provo një shfletues tjetër.'; return; }
+    digest(SALT + input.value).then(function (h) {
+      if (h !== HASH) { error.textContent = 'Fjalëkalimi nuk është i saktë. Provo përsëri.'; input.select(); return; }
+      try { localStorage.setItem(KEY, HASH); } catch (_) {}
+      document.documentElement.classList.remove('adt-locked'); gate.remove();
+    });
+  });
+  // keep keyboard focus inside the gate while it is shown
+  document.addEventListener('focusin', function (e) { if (gate.isConnected && !gate.contains(e.target)) input.focus(); });
+})();
+
 (function () {
   if (window.__adt5aResponses) return;
   window.__adt5aResponses = true;
@@ -150,6 +204,13 @@
     syncChoicesSoon();
   });
   loadPageScripts();
+
+  // Activity tracking (attempts, completion, score per activity; reported to the LMS by assets/scorm.js).
+  (function () {
+    var me = document.querySelector('script[data-book-responses]'), tag = document.createElement('script');
+    tag.src = (me && me.src ? me.src.split('?')[0].replace(/responses\.js$/, '') : './book-design/') + 'tracking.js';
+    document.body.appendChild(tag);
+  })();
 
   // The reader runtime builds or re-renders parts of the page after load; restore any controls it adds.
   new MutationObserver(function (mutations) {
